@@ -451,7 +451,8 @@ ok("三档主题开关（自动/浅/深）",
 ok("主题选择会记在本机", "localStorage" in html and "resource-lab.theme" in html)
 ok("深色变量由属性切换（不是靠 media 硬编码）",
    '[data-theme="dark"]' in html and "prefers-color-scheme" in html)
-ok("主题按钮是 5px 圆角矩形", "border-radius:5px" in html.replace(" ", ""))
+ok("主题按钮是圆角矩形（走统一圆角变量）",
+   "border-radius:var(--r-sm)" in html.replace(" ", "") or "border-radius: var(--r-sm)" in html)
 ok("封面不做灰度处理（保留原色）", "grayscale" not in html)
 ok("有 UP 主 / 来源筛选", "data-src" in html and "srcChips" in html and "sources()" in html)
 ok("界面读取数据里的学科清单（不是写死的）",
@@ -500,8 +501,8 @@ ok("分区标题是实心块（用主题前景色填充，明显重于条目）"
    "nav .sec{" in nav_css and "background:var(--fg)" in nav_css)
 ok("分区标题带计数（几类 / 几个学科）", 'class="sec"' in html and 'class="cnt"' in html
    and html.count('class="sec"') >= 3)
-ok("可点击行都有圆角矩形样式（border-radius:6px）",
-   nav_css.count("border-radius:6px") >= 3)
+ok("可点击行都有圆角矩形样式（走统一圆角变量）",
+   nav_css.count("border-radius:var(--r-md)") >= 2)
 ok("可点击行有内边距与 hover 底色",
    "nav li:hover" in nav_css and "background:var(--fill)" in nav_css)
 # 选中态不能用"黑白互换"：那与整体黑白灰的色调不搭，也和作为标题的反色块混淆。
@@ -523,6 +524,36 @@ ok("小按钮（⇄ / ×）有边框和圆角，不再是无边框裸字符",
    "nav .src-row button.mini{border:1px solid" in nav_css)
 ok("移动端侧栏整体隐藏（改用 chips），不受本次改动影响",
    "nav{display:none}" in html and ".chips{display:flex}" in html)
+
+print("\n[12c] 字号下限与全局圆角")
+# 反馈：灰色小字、小按钮太小看不清；边框要统一圆角。
+# 原来散落着 10 / 10.5 / 11 / 11.5 / 12px 五种小字号，以及 4 处 border-radius:0。
+_css = html[html.index("<style>"):html.index("</style>")]
+_hard = [s for s in re.findall(r"font-size:([\d.]+)px", _css) if float(s) < 12.5]
+ok("CSS 里没有小于 12.5px 的硬编码字号（小字看不清）", not _hard, "仍有: %s" % sorted(set(_hard)))
+ok("小字号统一走 --fs-xs / --fs-sm 变量",
+   "--fs-xs:12.5px" in _css and "--fs-sm:13.5px" in _css
+   and _css.count("font-size:var(--fs-xs)") >= 15,
+   "--fs-xs 用了 %d 次" % _css.count("font-size:var(--fs-xs)"))
+ok("正文最小字号常量可集中调整（--fs-min）", "--fs-min:12.5px" in _css)
+ok("没有 border-radius:0 的直角（反馈要求全部圆角）",
+   "border-radius:0" not in _css,
+   "仍有: %s" % re.findall(r"[^\n]*border-radius:0[^\n]*", _css)[:2])
+ok("圆角统一为三档变量（sm/md/lg）",
+   "--r-sm:6px" in _css and "--r-md:9px" in _css and "--r-lg:13px" in _css)
+ok("卡片缩略图、空态、面板都有圆角",
+   ".thumb{" in _css and "border-radius:var(--r-lg)" in _css
+   and ".empty{" in _css and ".addpanel{" in _css)
+ok("徽标（课程包 / 作者 / 时长）都是圆角标签",
+   ".bundle{" in _css and "border-radius:var(--r-sm)" in _css
+   and ".author{" in _css and ".dur{" in _css)
+# 只统计"整圈边框"的规则：border-right/bottom 这类是分界线，不该有圆角
+_flat = []
+for m in re.finditer(r"([\w\s.#>:\[\]=-]+)\{([^}]*)\}", _css):
+    sel, body = m.group(1).strip(), m.group(2)
+    if re.search(r"(^|;)\s*border\s*:\s*\d+px", body) and "border-radius" not in body:
+        _flat.append(sel)
+ok("所有整圈边框都带圆角（分界线除外）", not _flat, "缺圆角: %s" % _flat[:4])
 ok("卡片上标了作者", '"author"' in html and "@" in html and "class=\"author\"" in html)
 ok("分类按学科隔离显示（含学科分组标题）", "visibleCategories" in html and "subj" in html)
 ok("用了课程包角标（is_bundle）", "is_bundle" in html and "课程包" in html)

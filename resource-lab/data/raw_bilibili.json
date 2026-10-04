@@ -1,0 +1,3294 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791043936891,
+  "source": {
+    "platform": "bilibili",
+    "author": "一数",
+    "mid": 14229967,
+    "space": "https://space.bilibili.com/14229967"
+  },
+  "collections": [
+    {
+      "season_id": 1533671,
+      "title": "高中数学大合集",
+      "intro": "一个合集，所有高中数学内容！零基础与进阶学习全在这！每周两到三更，订阅后记得观看！",
+      "cover": "https://archive.biliimg.com/bfs/archive/3039bb79afad5ac816194b21f4f9942a23b4c46d.jpg",
+      "total": 188,
+      "fetched": 188,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV147411K7xu",
+          "title": "高中数学基础与解法全集（涵盖所有）|长期更新|从零开始拯救所有学渣！2025年新视频持续更新中！|涵盖新教材必修一必修二选必一选必二选必三|看完视频记得刷题练习",
+          "duration": 409643,
+          "pubdate": 1582713644,
+          "cover": "https://i0.hdslb.com/bfs/archive/8c963f3eef8a75aef37807da987b2b6805863821.jpg",
+          "views": 244916570,
+          "danmaku": 3208816,
+          "url": "https://www.bilibili.com/video/BV147411K7xu"
+        },
+        {
+          "bvid": "BV1AM4y1j77u",
+          "title": "高中数学「最全」大合集预告！",
+          "duration": 202,
+          "pubdate": 1688732959,
+          "cover": "https://i0.hdslb.com/bfs/archive/3ac18b67e54fbc5ea494c549c017b0f6071e5cba.jpg",
+          "views": 11182536,
+          "danmaku": 16143,
+          "url": "https://www.bilibili.com/video/BV1AM4y1j77u"
+        },
+        {
+          "bvid": "BV1p14y1d7PV",
+          "title": "【初高衔接】上高中前，你需要知道的“等式变形”技巧都在这！",
+          "duration": 2082,
+          "pubdate": 1689418576,
+          "cover": "https://i2.hdslb.com/bfs/archive/edf793f81457f4021d4956467227ddd39f42f6d4.jpg",
+          "views": 5338779,
+          "danmaku": 36136,
+          "url": "https://www.bilibili.com/video/BV1p14y1d7PV"
+        },
+        {
+          "bvid": "BV1bc411c73k",
+          "title": "【初高衔接】奇形怪状的“不等式”怎么解？一个视频搞定！",
+          "duration": 1753,
+          "pubdate": 1689856200,
+          "cover": "https://i2.hdslb.com/bfs/archive/5261875e7c1e706ca62d99a3269b7de53882406d.jpg",
+          "views": 3401153,
+          "danmaku": 39450,
+          "url": "https://www.bilibili.com/video/BV1bc411c73k"
+        },
+        {
+          "bvid": "BV1fX4y1L7ih",
+          "title": "【初高衔接】根的分布问题——高中没细讲，初中没学过",
+          "duration": 1448,
+          "pubdate": 1691670000,
+          "cover": "https://i0.hdslb.com/bfs/archive/d0c1d966363aff8ae4d276882c6c1dd8a0185ad5.jpg",
+          "views": 2734946,
+          "danmaku": 19049,
+          "url": "https://www.bilibili.com/video/BV1fX4y1L7ih"
+        },
+        {
+          "bvid": "BV11P411s7dd",
+          "title": "高中数学第一课《集合》",
+          "duration": 1509,
+          "pubdate": 1692360330,
+          "cover": "https://i0.hdslb.com/bfs/archive/f30a2e4fd30bbd1925021b47aeb7ab4b6874d79c.jpg",
+          "views": 8760193,
+          "danmaku": 117333,
+          "url": "https://www.bilibili.com/video/BV11P411s7dd"
+        },
+        {
+          "bvid": "BV1Lp4y1E7ir",
+          "title": "【集合重点】“子集”的概念与考法总结 【高中数学大合集】",
+          "duration": 2390,
+          "pubdate": 1692970659,
+          "cover": "https://i2.hdslb.com/bfs/archive/691eaf0807e6611a9f160770773a87f8c82fd237.jpg",
+          "views": 5534198,
+          "danmaku": 81635,
+          "url": "https://www.bilibili.com/video/BV1Lp4y1E7ir"
+        },
+        {
+          "bvid": "BV15a411A73y",
+          "title": "【集合 | 基础知识】集合的运算（易）",
+          "duration": 1409,
+          "pubdate": 1603536415,
+          "cover": "https://i0.hdslb.com/bfs/archive/5baf9b20ef2eef3c364a1014747695d6c6a1ab46.jpg",
+          "views": 3618585,
+          "danmaku": 42566,
+          "url": "https://www.bilibili.com/video/BV15a411A73y"
+        },
+        {
+          "bvid": "BV1ky4y1k76e",
+          "title": "【集合 | 常考模型】集合“月考必考”大题 （中档）",
+          "duration": 788,
+          "pubdate": 1601949639,
+          "cover": "https://i0.hdslb.com/bfs/archive/bc295cff6f953f025d8d457402f2bdedf20929af.jpg",
+          "views": 2848284,
+          "danmaku": 19263,
+          "url": "https://www.bilibili.com/video/BV1ky4y1k76e"
+        },
+        {
+          "bvid": "BV1ch4y1v7VE",
+          "title": "《集合易错大盘点》",
+          "duration": 1676,
+          "pubdate": 1694175745,
+          "cover": "https://i2.hdslb.com/bfs/archive/6707090fb703ea0592faacac0c42c97e09c195cc.jpg",
+          "views": 3118337,
+          "danmaku": 47861,
+          "url": "https://www.bilibili.com/video/BV1ch4y1v7VE"
+        },
+        {
+          "bvid": "BV1Gk4y1z7em",
+          "title": "【集合 | 云刷题课】集合新定义问题（中档）",
+          "duration": 1002,
+          "pubdate": 1591435350,
+          "cover": "https://i0.hdslb.com/bfs/archive/837841bd3f0c05e254e12198ecedcfc85f986e85.jpg",
+          "views": 1796461,
+          "danmaku": 15018,
+          "url": "https://www.bilibili.com/video/BV1Gk4y1z7em"
+        },
+        {
+          "bvid": "BV1NN411H79R",
+          "title": "“充分必要”傻傻分不清？保姆式梳理所有关键点！",
+          "duration": 2728,
+          "pubdate": 1694867400,
+          "cover": "https://i0.hdslb.com/bfs/archive/082b096563ce71f5c1e760073f86b96d344b97dd.jpg",
+          "views": 3376513,
+          "danmaku": 41788,
+          "url": "https://www.bilibili.com/video/BV1NN411H79R"
+        },
+        {
+          "bvid": "BV1VQ4y1o7Dw",
+          "title": "不等式的简单性质",
+          "duration": 1450,
+          "pubdate": 1620990949,
+          "cover": "https://i0.hdslb.com/bfs/archive/4a0185fcdbfe6500524fb44f51b3944172ef205c.jpg",
+          "views": 2508224,
+          "danmaku": 27992,
+          "url": "https://www.bilibili.com/video/BV1VQ4y1o7Dw"
+        },
+        {
+          "bvid": "BV1Qp4y1w7Fw",
+          "title": "“基本不等式”学懵了？保姆级教程在此！",
+          "duration": 2260,
+          "pubdate": 1695471697,
+          "cover": "https://i1.hdslb.com/bfs/archive/6ddd567869101aa4e26b4b7b5ecebd7106c7f873.jpg",
+          "views": 10118095,
+          "danmaku": 184741,
+          "url": "https://www.bilibili.com/video/BV1Qp4y1w7Fw"
+        },
+        {
+          "bvid": "BV13C4y1o76F",
+          "title": "不会做题？基本不等式「进阶方法」全梳理！",
+          "duration": 3139,
+          "pubdate": 1695981364,
+          "cover": "https://i1.hdslb.com/bfs/archive/3b40a119b54b5595e1ccbb987372c8d2082a3417.jpg",
+          "views": 6509713,
+          "danmaku": 128002,
+          "url": "https://www.bilibili.com/video/BV13C4y1o76F"
+        },
+        {
+          "bvid": "BV13t411E7Nn",
+          "title": "二次函数与不等式",
+          "duration": 1604,
+          "pubdate": 1563950078,
+          "cover": "https://i2.hdslb.com/bfs/archive/7a72a5d276498ba52981e6a45cc64ee11132830d.jpg",
+          "views": 2205233,
+          "danmaku": 22032,
+          "url": "https://www.bilibili.com/video/BV13t411E7Nn"
+        },
+        {
+          "bvid": "BV1o841117AL",
+          "title": "高中为何用f(x)表示函数？一个视频讲懂！",
+          "duration": 1473,
+          "pubdate": 1690545624,
+          "cover": "https://i2.hdslb.com/bfs/archive/57dcadd587cb2d8fc07859bbfb531fcf44fbdbef.jpg",
+          "views": 7571645,
+          "danmaku": 69529,
+          "url": "https://www.bilibili.com/video/BV1o841117AL"
+        },
+        {
+          "bvid": "BV16Q4y1W7ZK",
+          "title": "函数学着太抽象？先看这个理解f（x）逻辑核心！",
+          "duration": 2344,
+          "pubdate": 1697248265,
+          "cover": "https://i2.hdslb.com/bfs/archive/49d63c1cde96b0ad34a3106a267bf35e947a7fd7.jpg",
+          "views": 6850598,
+          "danmaku": 76567,
+          "url": "https://www.bilibili.com/video/BV16Q4y1W7ZK"
+        },
+        {
+          "bvid": "BV1D4411m7iD",
+          "title": "【函数|基础知识】分段函数与复合函数（中档）",
+          "duration": 1426,
+          "pubdate": 1565793607,
+          "cover": "https://i2.hdslb.com/bfs/archive/b24ee45199094a5845efd9bd23920b174e9c884d.jpg",
+          "views": 179666,
+          "danmaku": 322,
+          "url": "https://www.bilibili.com/video/BV1D4411m7iD"
+        },
+        {
+          "bvid": "BV1dv411y7cd",
+          "title": "【函数|常考模型】分式函数求值域（中档）",
+          "duration": 2299,
+          "pubdate": 1598267190,
+          "cover": "https://i1.hdslb.com/bfs/archive/79f74dd1383d718f1abe909677cf50035664894c.jpg",
+          "views": 4766140,
+          "danmaku": 54209,
+          "url": "https://www.bilibili.com/video/BV1dv411y7cd"
+        },
+        {
+          "bvid": "BV1bXC9YJE9c",
+          "title": "【高一】恒成立不会做？分类讨论+必要探路+分离参数！",
+          "duration": 2430,
+          "pubdate": 1729338600,
+          "cover": "https://i2.hdslb.com/bfs/archive/2385fe6ac85761ec36aa45f02a6d477ddfa6501f.jpg",
+          "views": 3466803,
+          "danmaku": 38295,
+          "url": "https://www.bilibili.com/video/BV1bXC9YJE9c"
+        },
+        {
+          "bvid": "BV1Ca4y1s7yB",
+          "title": "【函数|基础知识】函数的单调性（易）",
+          "duration": 2632,
+          "pubdate": 1604228570,
+          "cover": "https://i1.hdslb.com/bfs/archive/413e1e799b7fab44d547cdfe4125f86bca5d6345.jpg",
+          "views": 4191676,
+          "danmaku": 47250,
+          "url": "https://www.bilibili.com/video/BV1Ca4y1s7yB"
+        },
+        {
+          "bvid": "BV1bNyRBCEFd",
+          "title": "“同增异减”是什么？复合函数单调性梳理！",
+          "duration": 819,
+          "pubdate": 1762045636,
+          "cover": "https://i2.hdslb.com/bfs/archive/562ef6bea8e817d93e809105bfc1a2d808dcc7f1.jpg",
+          "views": 2021035,
+          "danmaku": 9939,
+          "url": "https://www.bilibili.com/video/BV1bNyRBCEFd"
+        },
+        {
+          "bvid": "BV1ev411775j",
+          "title": "【函数|基础知识】函数的奇偶性（易）",
+          "duration": 2301,
+          "pubdate": 1618051348,
+          "cover": "https://i0.hdslb.com/bfs/archive/a6cba042d124e76204976b0c5b8e628671b69698.jpg",
+          "views": 3581000,
+          "danmaku": 49535,
+          "url": "https://www.bilibili.com/video/BV1ev411775j"
+        },
+        {
+          "bvid": "BV1xk1WYaEkw",
+          "title": "【函数】单调性！奇偶性！一网打尽！函数性质大串讲",
+          "duration": 3022,
+          "pubdate": 1729936221,
+          "cover": "https://i1.hdslb.com/bfs/archive/8d2cf78d283b8d872ad08c8546a1f5a7d0c0a494.jpg",
+          "views": 3212663,
+          "danmaku": 39700,
+          "url": "https://www.bilibili.com/video/BV1xk1WYaEkw"
+        },
+        {
+          "bvid": "BV1hnSdY6Ev4",
+          "title": "函数的“对称性”与“周期性” 【保姆级讲解】",
+          "duration": 2489,
+          "pubdate": 1730464200,
+          "cover": "https://i2.hdslb.com/bfs/archive/a85481ab139118a35b126fb5e9ba882d678da6c3.jpg",
+          "views": 4727201,
+          "danmaku": 80113,
+          "url": "https://www.bilibili.com/video/BV1hnSdY6Ev4"
+        },
+        {
+          "bvid": "BV1BWDBYBEnT",
+          "title": "「抽象函数」性质大综合问题！",
+          "duration": 2243,
+          "pubdate": 1731120585,
+          "cover": "https://i1.hdslb.com/bfs/archive/3e2e6c92fbfe87a7eaf442757fa53f12d4df1bb2.jpg",
+          "views": 3405284,
+          "danmaku": 22172,
+          "url": "https://www.bilibili.com/video/BV1BWDBYBEnT"
+        },
+        {
+          "bvid": "BV12h4y1i7Bv",
+          "title": "【高一期中复习】拉分题型串讲！恒成立+抽象函数+构造函数！",
+          "duration": 2979,
+          "pubdate": 1698495265,
+          "cover": "https://i0.hdslb.com/bfs/archive/8cddc784ad43638c53f752d2e8e58f4c2e2d64b5.jpg",
+          "views": 3947512,
+          "danmaku": 34919,
+          "url": "https://www.bilibili.com/video/BV12h4y1i7Bv"
+        },
+        {
+          "bvid": "BV1xv411L77D",
+          "title": "【函数|基础知识】幂函数的图象与性质（易）",
+          "duration": 1175,
+          "pubdate": 1619181309,
+          "cover": "https://i1.hdslb.com/bfs/archive/3fbb503cedfdc062be9fade22879db4c6d1ea461.jpg",
+          "views": 3006758,
+          "danmaku": 33452,
+          "url": "https://www.bilibili.com/video/BV1xv411L77D"
+        },
+        {
+          "bvid": "BV1Bp4y1t7S3",
+          "title": "【函数|基础知识】指数与运算性质（易）",
+          "duration": 972,
+          "pubdate": 1619256615,
+          "cover": "https://i2.hdslb.com/bfs/archive/a39ded3fe0f295824085678982a93c1d90727e98.jpg",
+          "views": 2669955,
+          "danmaku": 16265,
+          "url": "https://www.bilibili.com/video/BV1Bp4y1t7S3"
+        },
+        {
+          "bvid": "BV1LU4y1h7z5",
+          "title": "【函数|基础知识】指数函数（易）",
+          "duration": 1285,
+          "pubdate": 1618020911,
+          "cover": "https://i2.hdslb.com/bfs/archive/02d076972d8638cfd0aa145cd585a63e70be3dac.jpg",
+          "views": 3809043,
+          "danmaku": 30330,
+          "url": "https://www.bilibili.com/video/BV1LU4y1h7z5"
+        },
+        {
+          "bvid": "BV16f1mB7EHa",
+          "title": "指数函数+幂函数，重点难点全梳理！",
+          "duration": 2869,
+          "pubdate": 1762572796,
+          "cover": "https://i0.hdslb.com/bfs/archive/7064eec863e4dcb89b983b6352196d57193c7967.jpg",
+          "views": 2061836,
+          "danmaku": 17344,
+          "url": "https://www.bilibili.com/video/BV16f1mB7EHa"
+        },
+        {
+          "bvid": "BV1HG41197X4",
+          "title": "学习“对数”前，请看这！",
+          "duration": 2506,
+          "pubdate": 1699105514,
+          "cover": "https://i2.hdslb.com/bfs/archive/e023f7008254b053c911bd35497364a153b687a3.jpg",
+          "views": 4448893,
+          "danmaku": 68035,
+          "url": "https://www.bilibili.com/video/BV1HG41197X4"
+        },
+        {
+          "bvid": "BV1Gh411D7vY",
+          "title": "【函数|基础知识】对数函数（中档）",
+          "duration": 1330,
+          "pubdate": 1616811308,
+          "cover": "https://i2.hdslb.com/bfs/archive/93c34aa1f98a8d4b05fdef64ec5d533b36faa129.jpg",
+          "views": 3367488,
+          "danmaku": 33537,
+          "url": "https://www.bilibili.com/video/BV1Gh411D7vY"
+        },
+        {
+          "bvid": "BV1xmSKBEEwz",
+          "title": "【高一必看】比大小！技巧全梳理！",
+          "duration": 2737,
+          "pubdate": 1764485719,
+          "cover": "https://i2.hdslb.com/bfs/archive/114f42e3ec75c660be28ce26eb5b7b0ca4e26522.jpg",
+          "views": 2000947,
+          "danmaku": 13091,
+          "url": "https://www.bilibili.com/video/BV1xmSKBEEwz"
+        },
+        {
+          "bvid": "BV15UBiYhE5a",
+          "title": "指数、对数没学懂？来听总结！",
+          "duration": 2455,
+          "pubdate": 1732274677,
+          "cover": "https://i1.hdslb.com/bfs/archive/cd63fff44accf49e667c95602d4a60a2869388a3.jpg",
+          "views": 3093933,
+          "danmaku": 22829,
+          "url": "https://www.bilibili.com/video/BV15UBiYhE5a"
+        },
+        {
+          "bvid": "BV1Lc411X7YT",
+          "title": "指数对数有些太复杂？40min梳理核心考法！",
+          "duration": 2440,
+          "pubdate": 1699620843,
+          "cover": "https://i2.hdslb.com/bfs/archive/3f720fb0ecf0ddc671bb6dc9c70332d8e368bcf1.jpg",
+          "views": 2628689,
+          "danmaku": 21119,
+          "url": "https://www.bilibili.com/video/BV1Lc411X7YT"
+        },
+        {
+          "bvid": "BV1tY411J77h",
+          "title": "【函数 | 基础知识】函数的零点（易）",
+          "duration": 1915,
+          "pubdate": 1648976400,
+          "cover": "https://i1.hdslb.com/bfs/archive/285ae4a600d3d0ff3bde35a605ed8a4693b8acff.jpg",
+          "views": 2110907,
+          "danmaku": 20114,
+          "url": "https://www.bilibili.com/video/BV1tY411J77h"
+        },
+        {
+          "bvid": "BV1nu4y1P7TL",
+          "title": "函数题目没思路？一个视频，三步搞定！【函数复习】",
+          "duration": 2939,
+          "pubdate": 1700228798,
+          "cover": "https://i0.hdslb.com/bfs/archive/2aff1c876845bbe82b695b3f62ddf2576758b136.jpg",
+          "views": 3198790,
+          "danmaku": 24106,
+          "url": "https://www.bilibili.com/video/BV1nu4y1P7TL"
+        },
+        {
+          "bvid": "BV1Jw411n78C",
+          "title": "函数，你学会了吗？",
+          "duration": 2773,
+          "pubdate": 1700824860,
+          "cover": "https://i1.hdslb.com/bfs/archive/6f4d204f5a5e967fde4f602608dc4dfa7118b6e3.jpg",
+          "views": 2334336,
+          "danmaku": 17709,
+          "url": "https://www.bilibili.com/video/BV1Jw411n78C"
+        },
+        {
+          "bvid": "BV12B4y1K7Fa",
+          "title": "【三角函数|基础知识】任意角（易）",
+          "duration": 1197,
+          "pubdate": 1624709418,
+          "cover": "https://i1.hdslb.com/bfs/archive/ce3811bf33c6b06bc48321d39123249319b1f873.jpg",
+          "views": 3832749,
+          "danmaku": 90958,
+          "url": "https://www.bilibili.com/video/BV12B4y1K7Fa"
+        },
+        {
+          "bvid": "BV1FA41137gu",
+          "title": "【三角函数|基础知识】弧度制（易）",
+          "duration": 1059,
+          "pubdate": 1622255412,
+          "cover": "https://i2.hdslb.com/bfs/archive/64d5fbe4a0a6ca0d7a25de5bc72efd191d41824e.jpg",
+          "views": 3193550,
+          "danmaku": 33071,
+          "url": "https://www.bilibili.com/video/BV1FA41137gu"
+        },
+        {
+          "bvid": "BV1R64y167qG",
+          "title": "【三角函数|基础知识】弧长与面积（易）",
+          "duration": 1025,
+          "pubdate": 1623466217,
+          "cover": "https://i0.hdslb.com/bfs/archive/c36532e1a6ad1bd12cc481f10cecf4e48a158779.jpg",
+          "views": 2553067,
+          "danmaku": 17532,
+          "url": "https://www.bilibili.com/video/BV1R64y167qG"
+        },
+        {
+          "bvid": "BV1KC4y1A7vC",
+          "title": "三角函数，高中如何定义？「零基础保姆教程」",
+          "duration": 2658,
+          "pubdate": 1701351251,
+          "cover": "https://i2.hdslb.com/bfs/archive/9b9a45b75d6ef875c5dab664a74d5cf92279e57a.jpg",
+          "views": 8231396,
+          "danmaku": 83791,
+          "url": "https://www.bilibili.com/video/BV1KC4y1A7vC"
+        },
+        {
+          "bvid": "BV1GN41177c8",
+          "title": "三角所有的诱导公式，一个视频讲透彻！",
+          "duration": 2074,
+          "pubdate": 1701433754,
+          "cover": "https://i1.hdslb.com/bfs/archive/3ed573fe27638927f08d94e5e5f267b8a7f15ee2.jpg",
+          "views": 5669870,
+          "danmaku": 54680,
+          "url": "https://www.bilibili.com/video/BV1GN41177c8"
+        },
+        {
+          "bvid": "BV1F64y1L7tL",
+          "title": "sinx/cosx/tanx函数图象，一站式讲懂！",
+          "duration": 3218,
+          "pubdate": 1702128754,
+          "cover": "https://i2.hdslb.com/bfs/archive/45c902238e01b2817b0d1c09b2d8de7da4afcc31.jpg",
+          "views": 5170178,
+          "danmaku": 58310,
+          "url": "https://www.bilibili.com/video/BV1F64y1L7tL"
+        },
+        {
+          "bvid": "BV1oj411p7ws",
+          "title": "三角函数已学一半，这些技巧你听过吗？",
+          "duration": 1653,
+          "pubdate": 1702646100,
+          "cover": "https://i1.hdslb.com/bfs/archive/1b2df743288b84a0b09b7a4ffc1665c9b8eef967.jpg",
+          "views": 5840844,
+          "danmaku": 36015,
+          "url": "https://www.bilibili.com/video/BV1oj411p7ws"
+        },
+        {
+          "bvid": "BV18A411u7eZ",
+          "title": "【三角函数 | 常考模型】“Asin(⍵x+φ)+B”的第一课：平移伸缩变换",
+          "duration": 902,
+          "pubdate": 1611926397,
+          "cover": "https://i2.hdslb.com/bfs/archive/d47ecdf6fdc552a24cab05edd2bb740a9d508b26.jpg",
+          "views": 2988378,
+          "danmaku": 26586,
+          "url": "https://www.bilibili.com/video/BV18A411u7eZ"
+        },
+        {
+          "bvid": "BV1rV411o75s",
+          "title": "【三角函数 | 常考模型】“Asin(⍵x+φ)+B”的第二课：参数含义",
+          "duration": 649,
+          "pubdate": 1586186958,
+          "cover": "https://i2.hdslb.com/bfs/archive/2de99f3143496571a81dec0919f7709d4dd86e17.jpg",
+          "views": 2145345,
+          "danmaku": 12617,
+          "url": "https://www.bilibili.com/video/BV1rV411o75s"
+        },
+        {
+          "bvid": "BV1fE411A7iz",
+          "title": "【三角函数 | 常考模型】“Asin(⍵x+φ)+B”的第三课：整体代换",
+          "duration": 1761,
+          "pubdate": 1584773079,
+          "cover": "https://i0.hdslb.com/bfs/archive/2a86f6d20f40149a3e59f7f63b1a177a85a1e202.jpg",
+          "views": 2240183,
+          "danmaku": 17260,
+          "url": "https://www.bilibili.com/video/BV1fE411A7iz"
+        },
+        {
+          "bvid": "BV1RN4y1x7D2",
+          "title": "三角函数最热门题型y=Asin(⍵x+φ)一站式掌握！",
+          "duration": 2976,
+          "pubdate": 1703248200,
+          "cover": "https://i0.hdslb.com/bfs/archive/c498d3c7a3fb15bac7eaa20059bb1d219927f66f.jpg",
+          "views": 5437793,
+          "danmaku": 49668,
+          "url": "https://www.bilibili.com/video/BV1RN4y1x7D2"
+        },
+        {
+          "bvid": "BV1eb4y1k7RX",
+          "title": "【三角函数|基础】sin与cos的两角和差公式（易）",
+          "duration": 1966,
+          "pubdate": 1626516903,
+          "cover": "https://i2.hdslb.com/bfs/archive/e168085286b9d1c16316bd6aa0ebba3ab7888b3e.jpg",
+          "views": 2599153,
+          "danmaku": 20960,
+          "url": "https://www.bilibili.com/video/BV1eb4y1k7RX"
+        },
+        {
+          "bvid": "BV1Zh411h7qJ",
+          "title": "【三角函数|基础】tan的两角和差公式（易）",
+          "duration": 788,
+          "pubdate": 1625972400,
+          "cover": "https://i2.hdslb.com/bfs/archive/fb6c9b2d73b718d9a0394d68383d2b69f83dbfb2.jpg",
+          "views": 1392011,
+          "danmaku": 10468,
+          "url": "https://www.bilibili.com/video/BV1Zh411h7qJ"
+        },
+        {
+          "bvid": "BV1FB4y1T7Lc",
+          "title": "【三角函数|常考模型】两角和差公式解题方法大串讲（进阶）",
+          "duration": 1284,
+          "pubdate": 1625365804,
+          "cover": "https://i0.hdslb.com/bfs/archive/310d14f2cc10ed861101a2b2492ff6d0f5d6e7cf.jpg",
+          "views": 1609829,
+          "danmaku": 15293,
+          "url": "https://www.bilibili.com/video/BV1FB4y1T7Lc"
+        },
+        {
+          "bvid": "BV1mq4y1s7pz",
+          "title": "【三角函数|基础】二倍角公式的基础应用（易）",
+          "duration": 1421,
+          "pubdate": 1625310289,
+          "cover": "https://i0.hdslb.com/bfs/archive/e2ddfdffa450a14e1a73b35bdfd166c2c9d6d422.jpg",
+          "views": 1979353,
+          "danmaku": 20783,
+          "url": "https://www.bilibili.com/video/BV1mq4y1s7pz"
+        },
+        {
+          "bvid": "BV1qJwKe3Ey5",
+          "title": "三角函数𝜔取值范围大串讲！",
+          "duration": 2168,
+          "pubdate": 1737199219,
+          "cover": "https://i0.hdslb.com/bfs/archive/487e6c51dbf3b6fffdf57a3498e479ade9269156.jpg",
+          "views": 3383843,
+          "danmaku": 11627,
+          "url": "https://www.bilibili.com/video/BV1qJwKe3Ey5"
+        },
+        {
+          "bvid": "BV1iq4y1s75g",
+          "title": "【三角函数|常考题型】二倍角公式的常见变形（中档）",
+          "duration": 916,
+          "pubdate": 1625280616,
+          "cover": "https://i2.hdslb.com/bfs/archive/697b076aa49cbf4fde45e0235e436cd97a2b70bc.jpg",
+          "views": 1436255,
+          "danmaku": 9164,
+          "url": "https://www.bilibili.com/video/BV1iq4y1s75g"
+        },
+        {
+          "bvid": "BV1hh411B7Vx",
+          "title": "【三角函数|常考模型】二倍角公式的进阶方法（中档）",
+          "duration": 1264,
+          "pubdate": 1628679886,
+          "cover": "https://i1.hdslb.com/bfs/archive/0bacd77781eb52713e09311ea9cb609cdc4202b0.jpg",
+          "views": 1389293,
+          "danmaku": 9126,
+          "url": "https://www.bilibili.com/video/BV1hh411B7Vx"
+        },
+        {
+          "bvid": "BV1T64y1s7YX",
+          "title": "【三角函数|基础知识】辅助角公式（中档）",
+          "duration": 1663,
+          "pubdate": 1628304307,
+          "cover": "https://i2.hdslb.com/bfs/archive/1bd54def9cdb4653ce765db1e4eebff43674d29f.jpg",
+          "views": 1882336,
+          "danmaku": 12465,
+          "url": "https://www.bilibili.com/video/BV1T64y1s7YX"
+        },
+        {
+          "bvid": "BV1144y117S2",
+          "title": "【三角函数|基础知识】和差化积与积化和差（选学）",
+          "duration": 1050,
+          "pubdate": 1627729364,
+          "cover": "https://i2.hdslb.com/bfs/archive/b2531ecde8256d1746d8a20c659232fa3e8d8eb2.jpg",
+          "views": 1515617,
+          "danmaku": 5400,
+          "url": "https://www.bilibili.com/video/BV1144y117S2"
+        },
+        {
+          "bvid": "BV1pe411q79E",
+          "title": "「三角恒等变换」公式多吧？半小时全学会！",
+          "duration": 2334,
+          "pubdate": 1703853000,
+          "cover": "https://i2.hdslb.com/bfs/archive/3809f3d27b97fb6bee9ddb3093290fa272b99ca4.jpg",
+          "views": 3904295,
+          "danmaku": 26609,
+          "url": "https://www.bilibili.com/video/BV1pe411q79E"
+        },
+        {
+          "bvid": "BV1hyCbYmEsp",
+          "title": "三角恒等变换不会做题？30分钟学会思路！",
+          "duration": 1632,
+          "pubdate": 1735372943,
+          "cover": "https://i0.hdslb.com/bfs/archive/711ef8c8723d3195d0ba4485a851cc20fe4df06c.jpg",
+          "views": 1966548,
+          "danmaku": 9019,
+          "url": "https://www.bilibili.com/video/BV1hyCbYmEsp"
+        },
+        {
+          "bvid": "BV1F64y1T7FQ",
+          "title": "高一期末想考高分，这些考点需要掌握！",
+          "duration": 3108,
+          "pubdate": 1705150287,
+          "cover": "https://i2.hdslb.com/bfs/archive/66b9e5924649c85996b182cad052accc44698264.jpg",
+          "views": 3936874,
+          "danmaku": 23917,
+          "url": "https://www.bilibili.com/video/BV1F64y1T7FQ"
+        },
+        {
+          "bvid": "BV1eC411W7L3",
+          "title": "开学要学平面向量？一个视频基础通关！",
+          "duration": 2257,
+          "pubdate": 1708694400,
+          "cover": "https://i0.hdslb.com/bfs/archive/6d050723fc8ea42d8db36faafbb03575052ec4dc.jpg",
+          "views": 7633099,
+          "danmaku": 173378,
+          "url": "https://www.bilibili.com/video/BV1eC411W7L3"
+        },
+        {
+          "bvid": "BV1mJ4m1e7FQ",
+          "title": "平面向量不会做题？画图法+三点共线定理+等和线！重要技巧大梳理！",
+          "duration": 3280,
+          "pubdate": 1709296830,
+          "cover": "https://i2.hdslb.com/bfs/archive/8ac72c31414b28581534faa03031b2b10d95a1e9.jpg",
+          "views": 6251178,
+          "danmaku": 79079,
+          "url": "https://www.bilibili.com/video/BV1mJ4m1e7FQ"
+        },
+        {
+          "bvid": "BV1JU4y1H7rg",
+          "title": "平面向量的数量积（基础）",
+          "duration": 1566,
+          "pubdate": 1627132499,
+          "cover": "https://i1.hdslb.com/bfs/archive/e856be8f0602eb04c44b6f8c54a1c8ddaee62920.jpg",
+          "views": 2489939,
+          "danmaku": 24434,
+          "url": "https://www.bilibili.com/video/BV1JU4y1H7rg"
+        },
+        {
+          "bvid": "BV1RH4y157t9",
+          "title": "数量积没思路？投影+拆解+极化恒等式 ！一步到位！",
+          "duration": 3427,
+          "pubdate": 1709982494,
+          "cover": "https://i1.hdslb.com/bfs/archive/1e06622cf583aa62f0280d70629ebd9487973e3a.jpg",
+          "views": 4393259,
+          "danmaku": 67368,
+          "url": "https://www.bilibili.com/video/BV1RH4y157t9"
+        },
+        {
+          "bvid": "BV13K4y1Q7jP",
+          "title": "平面向量基本定理（基础）",
+          "duration": 804,
+          "pubdate": 1612689312,
+          "cover": "https://i1.hdslb.com/bfs/archive/ac8c595cfd01bd76b7378adff96d26b801fd50e1.jpg",
+          "views": 1791446,
+          "danmaku": 7818,
+          "url": "https://www.bilibili.com/video/BV13K4y1Q7jP"
+        },
+        {
+          "bvid": "BV1A4411X7rV",
+          "title": "平面向量的坐标运算",
+          "duration": 1405,
+          "pubdate": 1565361060,
+          "cover": "https://i0.hdslb.com/bfs/archive/2ffa5ec5baa284a379f9dca47043fb129a734b63.jpg",
+          "views": 1730537,
+          "danmaku": 12898,
+          "url": "https://www.bilibili.com/video/BV1A4411X7rV"
+        },
+        {
+          "bvid": "BV13J4m187TJ",
+          "title": "【平面向量】无计可施？马上建系！",
+          "duration": 2449,
+          "pubdate": 1710506826,
+          "cover": "https://i2.hdslb.com/bfs/archive/150d6d09ff381d47513ed030f540ab9d982fa8fe.jpg",
+          "views": 3099779,
+          "danmaku": 21416,
+          "url": "https://www.bilibili.com/video/BV13J4m187TJ"
+        },
+        {
+          "bvid": "BV1brQyY5Eo7",
+          "title": "2025 平面向量必会十题【技巧篇】",
+          "duration": 2782,
+          "pubdate": 1742012251,
+          "cover": "https://i2.hdslb.com/bfs/archive/4bce45af94fcbbb92f77ddb029ab4117aa92313f.jpg",
+          "views": 4297737,
+          "danmaku": 16158,
+          "url": "https://www.bilibili.com/video/BV1brQyY5Eo7"
+        },
+        {
+          "bvid": "BV1BTXkYXEjK",
+          "title": "【必做十题】平面向量不会翻译？来学技巧！",
+          "duration": 1524,
+          "pubdate": 1742566385,
+          "cover": "https://i2.hdslb.com/bfs/archive/7e99f383810848abe1cd01d9e9cb1169a2cb9c1c.jpg",
+          "views": 2969569,
+          "danmaku": 10147,
+          "url": "https://www.bilibili.com/video/BV1BTXkYXEjK"
+        },
+        {
+          "bvid": "BV1gt411j7Zh",
+          "title": "【解三角形】正余弦定理（基础）",
+          "duration": 1918,
+          "pubdate": 1564029097,
+          "cover": "https://i0.hdslb.com/bfs/archive/05276e8839194864e9f63141feba0f9398479952.jpg",
+          "views": 1728644,
+          "danmaku": 13086,
+          "url": "https://www.bilibili.com/video/BV1gt411j7Zh"
+        },
+        {
+          "bvid": "BV1Et411j7qJ",
+          "title": "【解三角形|常考题型】三角形解的个数&测量问题（基础）",
+          "duration": 1500,
+          "pubdate": 1564027627,
+          "cover": "https://i1.hdslb.com/bfs/archive/4c3e10e9c43f9400721c4cfb14887177d2a40bb1.jpg",
+          "views": 1445831,
+          "danmaku": 5577,
+          "url": "https://www.bilibili.com/video/BV1Et411j7qJ"
+        },
+        {
+          "bvid": "BV1Pt411N7gL",
+          "title": "【解三角形|常考题型】边角化简（中档）",
+          "duration": 2102,
+          "pubdate": 1565185106,
+          "cover": "https://i1.hdslb.com/bfs/archive/c7ef7dea85d106455820efa134ad8618fea95964.jpg",
+          "views": 1194566,
+          "danmaku": 8074,
+          "url": "https://www.bilibili.com/video/BV1Pt411N7gL"
+        },
+        {
+          "bvid": "BV1kt411M7YF",
+          "title": "【解三角形|常考题型】最值与范围（进阶）",
+          "duration": 1451,
+          "pubdate": 1564993823,
+          "cover": "https://i0.hdslb.com/bfs/archive/487d26d396ff1c69486aee26c56bf0fde78b2d54.jpg",
+          "views": 835525,
+          "danmaku": 5838,
+          "url": "https://www.bilibili.com/video/BV1kt411M7YF"
+        },
+        {
+          "bvid": "BV1xA4m1N7oB",
+          "title": "遇见多三角形，如何解？【正余弦定理进阶】",
+          "duration": 3018,
+          "pubdate": 1711788565,
+          "cover": "https://i0.hdslb.com/bfs/archive/c824ca76be2bb47906163137bb9a5918b3d12af8.jpg",
+          "views": 2624145,
+          "danmaku": 17851,
+          "url": "https://www.bilibili.com/video/BV1xA4m1N7oB"
+        },
+        {
+          "bvid": "BV1dAem6LE14",
+          "title": "奔驰定理与四心问题大串讲！",
+          "duration": 2068,
+          "pubdate": 1789731418,
+          "cover": "https://i2.hdslb.com/bfs/archive/44e4b08807f2f63a81fd64d13e25ff1a272a7c8b.jpg",
+          "views": 629215,
+          "danmaku": 1937,
+          "url": "https://www.bilibili.com/video/BV1dAem6LE14"
+        },
+        {
+          "bvid": "BV1r4411z76d",
+          "title": "【复数】复数的概念（易）",
+          "duration": 574,
+          "pubdate": 1567000280,
+          "cover": "https://i1.hdslb.com/bfs/archive/adb99ae1773e01f9c6b91d73b7b099bd7a2c1b9c.jpg",
+          "views": 451817,
+          "danmaku": 101,
+          "url": "https://www.bilibili.com/video/BV1r4411z76d"
+        },
+        {
+          "bvid": "BV1QJ411w7zB",
+          "title": "【复数】复数的运算（中档）",
+          "duration": 1441,
+          "pubdate": 1568394344,
+          "cover": "https://i2.hdslb.com/bfs/archive/df646d7d84ffc21003d965e86041fb1adaa7cfdc.jpg",
+          "views": 133262,
+          "danmaku": 104,
+          "url": "https://www.bilibili.com/video/BV1QJ411w7zB"
+        },
+        {
+          "bvid": "BV1YgzTBTEGf",
+          "title": "立体几何第一课！空间几何体",
+          "duration": 2247,
+          "pubdate": 1769176534,
+          "cover": "https://i1.hdslb.com/bfs/archive/43018f2366a3513e45c40233ffa93692f9f23597.jpg",
+          "views": 2457942,
+          "danmaku": 23291,
+          "url": "https://www.bilibili.com/video/BV1YgzTBTEGf"
+        },
+        {
+          "bvid": "BV1qt411P7Kx",
+          "title": "【立体几何】斜二测画法",
+          "duration": 770,
+          "pubdate": 1564235280,
+          "cover": "https://i0.hdslb.com/bfs/archive/d400d5e19b992b7e1048418c87e1078671e7ab1f.jpg",
+          "views": 1366952,
+          "danmaku": 7215,
+          "url": "https://www.bilibili.com/video/BV1qt411P7Kx"
+        },
+        {
+          "bvid": "BV1fY61BZEm8",
+          "title": "【立体几何】柱体、锥体、台体的体积问题",
+          "duration": 1583,
+          "pubdate": 1769859653,
+          "cover": "https://i2.hdslb.com/bfs/archive/78dd18339ac91b14302adb4c8c2ba353aea7bd1c.jpg",
+          "views": 1824197,
+          "danmaku": 9771,
+          "url": "https://www.bilibili.com/video/BV1fY61BZEm8"
+        },
+        {
+          "bvid": "BV1xEFWztE16",
+          "title": "祖暅原理与球的体积表面积！立体几何零基础讲解！",
+          "duration": 1153,
+          "pubdate": 1770467618,
+          "cover": "https://i1.hdslb.com/bfs/archive/12e17b5c0cf2c9c4c624a7fa081f4ed71be8a420.jpg",
+          "views": 1666981,
+          "danmaku": 6908,
+          "url": "https://www.bilibili.com/video/BV1xEFWztE16"
+        },
+        {
+          "bvid": "BV1m4411X7Yf",
+          "title": "【立体几何】空间中的点线面",
+          "duration": 1775,
+          "pubdate": 1565432646,
+          "cover": "https://i2.hdslb.com/bfs/archive/941e2e3bf780f808ab1bce117cc4f16551445f55.jpg",
+          "views": 1479818,
+          "danmaku": 8451,
+          "url": "https://www.bilibili.com/video/BV1m4411X7Yf"
+        },
+        {
+          "bvid": "BV1Qt411N7J3",
+          "title": "【立体几何】空间中的平行",
+          "duration": 3697,
+          "pubdate": 1565273074,
+          "cover": "https://i0.hdslb.com/bfs/archive/2e881813a69b8ca5e4f64b4c58f0773236d3f9c3.jpg",
+          "views": 1652186,
+          "danmaku": 19800,
+          "url": "https://www.bilibili.com/video/BV1Qt411N7J3"
+        },
+        {
+          "bvid": "BV1uF4m1P7DK",
+          "title": "“平行证明”不会连辅助线？一个视频讲懂！",
+          "duration": 2061,
+          "pubdate": 1713619569,
+          "cover": "https://i2.hdslb.com/bfs/archive/78eae8f1412de13049be43999a1c5ca21dc3cf66.jpg",
+          "views": 5417489,
+          "danmaku": 46306,
+          "url": "https://www.bilibili.com/video/BV1uF4m1P7DK"
+        },
+        {
+          "bvid": "BV1Wt411u7je",
+          "title": "【立体几何】空间中的垂直",
+          "duration": 2830,
+          "pubdate": 1564760310,
+          "cover": "https://i1.hdslb.com/bfs/archive/87ae576fe3c8293a66e0169970e2c4a93f7b24ca.jpg",
+          "views": 1421949,
+          "danmaku": 10578,
+          "url": "https://www.bilibili.com/video/BV1Wt411u7je"
+        },
+        {
+          "bvid": "BV18J3RzEERW",
+          "title": "立体几何垂直证明！保姆级梳理！",
+          "duration": 1677,
+          "pubdate": 1751723921,
+          "cover": "https://i0.hdslb.com/bfs/archive/2bc2903c787e5a134f0172352a22aee59b806ce2.jpg",
+          "views": 3279798,
+          "danmaku": 40375,
+          "url": "https://www.bilibili.com/video/BV18J3RzEERW"
+        },
+        {
+          "bvid": "BV1wqMfzrEvT",
+          "title": "【立体几何】垂直不会做？技巧全在这！",
+          "duration": 2348,
+          "pubdate": 1752373883,
+          "cover": "https://i2.hdslb.com/bfs/archive/e17924fae8d92a1be5e0598c0537e202e00ba92e.jpg",
+          "views": 2673328,
+          "danmaku": 28233,
+          "url": "https://www.bilibili.com/video/BV1wqMfzrEvT"
+        },
+        {
+          "bvid": "BV1rM4m117rL",
+          "title": "不想建系？立体几何“几何法”系统讲解！「空间角」篇",
+          "duration": 3296,
+          "pubdate": 1720835894,
+          "cover": "https://i2.hdslb.com/bfs/archive/d6929fa50690cb63b4c953cb5951eb74d4dfafa8.jpg",
+          "views": 3283700,
+          "danmaku": 31138,
+          "url": "https://www.bilibili.com/video/BV1rM4m117rL"
+        },
+        {
+          "bvid": "BV1nw4m1k7ox",
+          "title": "立体几何「空间角」有“动点”就懵了？几何法来啦！",
+          "duration": 1549,
+          "pubdate": 1721436892,
+          "cover": "https://i2.hdslb.com/bfs/archive/9fd54a3161123c4777f245cddc69c70cd9daff31.jpg",
+          "views": 1474364,
+          "danmaku": 7481,
+          "url": "https://www.bilibili.com/video/BV1nw4m1k7ox"
+        },
+        {
+          "bvid": "BV1BEMk6zEof",
+          "title": "外接球一做就错？来学模型！一点不难！（上篇）",
+          "duration": 2019,
+          "pubdate": 1785918606,
+          "cover": "https://i0.hdslb.com/bfs/archive/b9977e6c4a5a699fee5553bf475da1abed17c009.jpg",
+          "views": 1046758,
+          "danmaku": 6911,
+          "url": "https://www.bilibili.com/video/BV1BEMk6zEof"
+        },
+        {
+          "bvid": "BV1xdby6yEob",
+          "title": "外接球不会？二面角模型+补全长方体！",
+          "duration": 1346,
+          "pubdate": 1786791338,
+          "cover": "https://i2.hdslb.com/bfs/archive/0e04d5fdf2671bf61574f6e83dc4c50cfa2f9675.jpg",
+          "views": 584445,
+          "danmaku": 2629,
+          "url": "https://www.bilibili.com/video/BV1xdby6yEob"
+        },
+        {
+          "bvid": "BV1VRty6HEcU",
+          "title": "立体几何热点！内切球与棱切球",
+          "duration": 2897,
+          "pubdate": 1788591600,
+          "cover": "https://i1.hdslb.com/bfs/archive/05b1d2c15eb4680cf2907d8b5984d0d2e47e8341.jpg",
+          "views": 625045,
+          "danmaku": 2178,
+          "url": "https://www.bilibili.com/video/BV1VRty6HEcU"
+        },
+        {
+          "bvid": "BV1Bj411i7ML",
+          "title": "用「平面向量」的方法学习「空间向量」| 高考数学大合集",
+          "duration": 1153,
+          "pubdate": 1692495000,
+          "cover": "https://i0.hdslb.com/bfs/archive/93b79c1f191b2389159399144b2079162242356d.jpg",
+          "views": 4024190,
+          "danmaku": 22903,
+          "url": "https://www.bilibili.com/video/BV1Bj411i7ML"
+        },
+        {
+          "bvid": "BV19f4y117hk",
+          "title": "立体几何如何建系？空间向量的坐标运算要点总结！",
+          "duration": 1193,
+          "pubdate": 1590853097,
+          "cover": "https://i0.hdslb.com/bfs/archive/a86ca1bd52c8eb69ea674215ad2d0f8dc83b5f78.jpg",
+          "views": 3481050,
+          "danmaku": 20242,
+          "url": "https://www.bilibili.com/video/BV19f4y117hk"
+        },
+        {
+          "bvid": "BV1bN411p7va",
+          "title": "利用「空间向量」证明平行垂直技巧全梳理！【空间向量的应用一】",
+          "duration": 1583,
+          "pubdate": 1694262498,
+          "cover": "https://i0.hdslb.com/bfs/archive/83ae18ab34f85544151b1c6b30e6cbdc1e233e4d.jpg",
+          "views": 3183826,
+          "danmaku": 26269,
+          "url": "https://www.bilibili.com/video/BV1bN411p7va"
+        },
+        {
+          "bvid": "BV1WT4y1M7p9",
+          "title": "空间向量应用：求线线角，线面角，二面角！",
+          "duration": 2247,
+          "pubdate": 1607784137,
+          "cover": "https://i0.hdslb.com/bfs/archive/45d3bc43b570682ca64c4d9e08eb31ffd906dcb7.jpg",
+          "views": 2810176,
+          "danmaku": 22692,
+          "url": "https://www.bilibili.com/video/BV1WT4y1M7p9"
+        },
+        {
+          "bvid": "BV1s64y1F7jE",
+          "title": "【空间向量】空间中的距离问题（中档）",
+          "duration": 3102,
+          "pubdate": 1599876041,
+          "cover": "https://i2.hdslb.com/bfs/archive/05037cbcce9503ec799e2a3fc0f4273a46b8a8e2.jpg",
+          "views": 2282969,
+          "danmaku": 24901,
+          "url": "https://www.bilibili.com/video/BV1s64y1F7jE"
+        },
+        {
+          "bvid": "BV1AE411k7mK",
+          "title": "【空间向量的应用】四点共面问题",
+          "duration": 1167,
+          "pubdate": 1571446843,
+          "cover": "https://i0.hdslb.com/bfs/archive/0be58c11a8cd1acc9268e35cd7cfed83cad71a2b.jpg",
+          "views": 107576,
+          "danmaku": 88,
+          "url": "https://www.bilibili.com/video/BV1AE411k7mK"
+        },
+        {
+          "bvid": "BV1Aaa26DE77",
+          "title": "空间向量大题！一个视频搞定所有重点！",
+          "duration": 2683,
+          "pubdate": 1790932346,
+          "cover": "https://i0.hdslb.com/bfs/archive/b8fcb3a1e3c4a654e6aacdb96b46c35c4f354c03.jpg",
+          "views": 159639,
+          "danmaku": 640,
+          "url": "https://www.bilibili.com/video/BV1Aaa26DE77"
+        },
+        {
+          "bvid": "BV1vX4Ce6Ecy",
+          "title": "立体几何「不好建系」「不好求坐标」怎么办？",
+          "duration": 2925,
+          "pubdate": 1726365380,
+          "cover": "https://i1.hdslb.com/bfs/archive/060d2a7d475e470ddab4dd63754010100ed0f18d.jpg",
+          "views": 2124104,
+          "danmaku": 14645,
+          "url": "https://www.bilibili.com/video/BV1vX4Ce6Ecy"
+        },
+        {
+          "bvid": "BV1XWWNzyEeW",
+          "title": "【立体几何必会十题】赛博刷题！专治不会！上篇",
+          "duration": 2370,
+          "pubdate": 1758286800,
+          "cover": "https://i1.hdslb.com/bfs/archive/8e98eec1033a5cfe0efb6ac92850f1ac0b4c71e6.jpg",
+          "views": 2189266,
+          "danmaku": 9655,
+          "url": "https://www.bilibili.com/video/BV1XWWNzyEeW"
+        },
+        {
+          "bvid": "BV1rptrejEfK",
+          "title": "挑战高考历年最难「立体几何」大题！",
+          "duration": 3184,
+          "pubdate": 1726920473,
+          "cover": "https://i0.hdslb.com/bfs/archive/b96c5fd6d66647dc1b881367e6109d03533f850a.jpg",
+          "views": 1771667,
+          "danmaku": 7684,
+          "url": "https://www.bilibili.com/video/BV1rptrejEfK"
+        },
+        {
+          "bvid": "BV1eF41197v2",
+          "title": "【直线第一课】看似“简单”却“坑点满满”的直线大总结！| 高中数学大合集",
+          "duration": 1710,
+          "pubdate": 1689507300,
+          "cover": "https://i1.hdslb.com/bfs/archive/5feaffee76df349febb7bacefc684da8dd1e0903.jpg",
+          "views": 5185713,
+          "danmaku": 91253,
+          "url": "https://www.bilibili.com/video/BV1eF41197v2"
+        },
+        {
+          "bvid": "BV1814y1Q7CP",
+          "title": "【新高二预习】一个视频搞懂“求直线”的所有方法！| 高中数学大合集",
+          "duration": 909,
+          "pubdate": 1690028400,
+          "cover": "https://i2.hdslb.com/bfs/archive/9542ed16e865ddb0cf9c46207161630e4d4e5abe.jpg",
+          "views": 4115180,
+          "danmaku": 26861,
+          "url": "https://www.bilibili.com/video/BV1814y1Q7CP"
+        },
+        {
+          "bvid": "BV1G44y16761",
+          "title": "【直线】交点坐标与距离公式（中档）",
+          "duration": 1959,
+          "pubdate": 1623551404,
+          "cover": "https://i1.hdslb.com/bfs/archive/3f9dc3c291a8c9b8a1fdfe01bf77ec89db3f19ff.jpg",
+          "views": 2828587,
+          "danmaku": 33568,
+          "url": "https://www.bilibili.com/video/BV1G44y16761"
+        },
+        {
+          "bvid": "BV1Ef421B7PJ",
+          "title": "新高二预习！“圆”的第一课：圆的标准方程！",
+          "duration": 1445,
+          "pubdate": 1723294597,
+          "cover": "https://i1.hdslb.com/bfs/archive/fa67a0086c3eaf2900f9a13503820f1811b9c3e7.jpg",
+          "views": 2788856,
+          "danmaku": 30078,
+          "url": "https://www.bilibili.com/video/BV1Ef421B7PJ"
+        },
+        {
+          "bvid": "BV1Cf4y197Sn",
+          "title": "【直线和圆 | 基础知识】圆的一般方程（易）",
+          "duration": 1676,
+          "pubdate": 1597484293,
+          "cover": "https://i1.hdslb.com/bfs/archive/735ef98915a37419eddc9cd7230209cc607283e4.jpg",
+          "views": 1933834,
+          "danmaku": 21381,
+          "url": "https://www.bilibili.com/video/BV1Cf4y197Sn"
+        },
+        {
+          "bvid": "BV1Z4411z7P6",
+          "title": "【直线和圆】直线和圆的位置关系（中档）",
+          "duration": 2042,
+          "pubdate": 1566734417,
+          "cover": "https://i0.hdslb.com/bfs/archive/862f7b22e46091d2b38631189d53730a3bc80492.jpg",
+          "views": 2327814,
+          "danmaku": 23860,
+          "url": "https://www.bilibili.com/video/BV1Z4411z7P6"
+        },
+        {
+          "bvid": "BV1xt411F7Np",
+          "title": "【直线和圆】圆与圆的位置关系（中档）",
+          "duration": 1540,
+          "pubdate": 1564687850,
+          "cover": "https://i0.hdslb.com/bfs/archive/d90705e2c45fbddb981ee7f2887dee2eace884ee.jpg",
+          "views": 1599540,
+          "danmaku": 18747,
+          "url": "https://www.bilibili.com/video/BV1xt411F7Np"
+        },
+        {
+          "bvid": "BV1Wk4weTEpK",
+          "title": "「直线和圆」最值模型大梳理！保姆级讲解！",
+          "duration": 1637,
+          "pubdate": 1728041672,
+          "cover": "https://i1.hdslb.com/bfs/archive/205a041caa85debaa8396bf88e5726c6b2332783.jpg",
+          "views": 2313682,
+          "danmaku": 15474,
+          "url": "https://www.bilibili.com/video/BV1Wk4weTEpK"
+        },
+        {
+          "bvid": "BV1NZn7zFEQk",
+          "title": "【直线和圆进阶】数形结合+参数方程！",
+          "duration": 1171,
+          "pubdate": 1758940551,
+          "cover": "https://i0.hdslb.com/bfs/archive/e91c246ff873f720d8cc67e099d259de677f92b4.jpg",
+          "views": 2271432,
+          "danmaku": 13478,
+          "url": "https://www.bilibili.com/video/BV1NZn7zFEQk"
+        },
+        {
+          "bvid": "BV1NGxxzhEka",
+          "title": "直线和圆大热点！切线+隐圆阿氏圆！",
+          "duration": 4065,
+          "pubdate": 1759564782,
+          "cover": "https://i0.hdslb.com/bfs/archive/bc66f3ba8b99b7d50b6c625f3157d1ecddf15e40.jpg",
+          "views": 2381907,
+          "danmaku": 20892,
+          "url": "https://www.bilibili.com/video/BV1NGxxzhEka"
+        },
+        {
+          "bvid": "BV184411C7QQ",
+          "title": "【直线和圆|常考题型】对称问题梳理（中档）",
+          "duration": 1239,
+          "pubdate": 1567941542,
+          "cover": "https://i1.hdslb.com/bfs/archive/c01ded8dcf7440d753e6d5fb500ba89d93d452cc.jpg",
+          "views": 114933,
+          "danmaku": 278,
+          "url": "https://www.bilibili.com/video/BV184411C7QQ"
+        },
+        {
+          "bvid": "BV1qu4y1s7At",
+          "title": "【椭圆第一课】25分钟直接帮你入门！",
+          "duration": 1507,
+          "pubdate": 1697283576,
+          "cover": "https://i2.hdslb.com/bfs/archive/076339254cd591419efa312df47824188b7f2f0c.jpg",
+          "views": 3984065,
+          "danmaku": 29306,
+          "url": "https://www.bilibili.com/video/BV1qu4y1s7At"
+        },
+        {
+          "bvid": "BV1be411R7uE",
+          "title": "椭圆驾到！三大核心题型全梳理！",
+          "duration": 2354,
+          "pubdate": 1697878902,
+          "cover": "https://i0.hdslb.com/bfs/archive/e16002903d417c914fcef3528957beeaf74a2f4e.jpg",
+          "views": 5140794,
+          "danmaku": 57930,
+          "url": "https://www.bilibili.com/video/BV1be411R7uE"
+        },
+        {
+          "bvid": "BV1chytYaE4C",
+          "title": "「椭圆离心率」无从下手？来学出题思路！",
+          "duration": 1592,
+          "pubdate": 1729393508,
+          "cover": "https://i0.hdslb.com/bfs/archive/064d56f6d889beaccee6e4cc833e390e49b99ac1.jpg",
+          "views": 2431048,
+          "danmaku": 20373,
+          "url": "https://www.bilibili.com/video/BV1chytYaE4C"
+        },
+        {
+          "bvid": "BV1BZhEz5Esd",
+          "title": "“离心率”一问范围就发懵？技巧在此！",
+          "duration": 1876,
+          "pubdate": 1754036118,
+          "cover": "https://i2.hdslb.com/bfs/archive/c03d78459f7c66d90659fa4173a2fe8803c6ecd5.jpg",
+          "views": 2311857,
+          "danmaku": 22488,
+          "url": "https://www.bilibili.com/video/BV1BZhEz5Esd"
+        },
+        {
+          "bvid": "BV1gSavzUEUK",
+          "title": "「椭圆大题」一小时零基础上手！初学者必看！",
+          "duration": 3793,
+          "pubdate": 1757133344,
+          "cover": "https://i1.hdslb.com/bfs/archive/7be59b0c0c18536ab6747402bdd743c3dda8821d.jpg",
+          "views": 2477454,
+          "danmaku": 22988,
+          "url": "https://www.bilibili.com/video/BV1gSavzUEUK"
+        },
+        {
+          "bvid": "BV1Et411j72N",
+          "title": "双曲线的标准方程【基础】",
+          "duration": 1247,
+          "pubdate": 1564028478,
+          "cover": "https://i1.hdslb.com/bfs/archive/48856711fa99416f598cd09c2515484967f1f6e8.jpg",
+          "views": 1531694,
+          "danmaku": 8988,
+          "url": "https://www.bilibili.com/video/BV1Et411j72N"
+        },
+        {
+          "bvid": "BV13t411j7Fd",
+          "title": "双曲线的几何性质【基础】",
+          "duration": 1436,
+          "pubdate": 1564029097,
+          "cover": "https://i1.hdslb.com/bfs/archive/538b8830a707853d53d2f0363480b7d64b29a87e.jpg",
+          "views": 1141968,
+          "danmaku": 9337,
+          "url": "https://www.bilibili.com/video/BV13t411j7Fd"
+        },
+        {
+          "bvid": "BV15y1pY3EAD",
+          "title": "「双曲线」不会数形结合？一个视频搞定！",
+          "duration": 2981,
+          "pubdate": 1729912261,
+          "cover": "https://i0.hdslb.com/bfs/archive/4fef0824bd61ce2043f75969b6dd9318718d0d97.jpg",
+          "views": 2651308,
+          "danmaku": 27430,
+          "url": "https://www.bilibili.com/video/BV15y1pY3EAD"
+        },
+        {
+          "bvid": "BV1F615BpErW",
+          "title": "直线与双曲线！保姆级讲解",
+          "duration": 1455,
+          "pubdate": 1761978977,
+          "cover": "https://i1.hdslb.com/bfs/archive/287b51039cb21e7b9bf341f984cfb9c0bdaead36.jpg",
+          "views": 1762525,
+          "danmaku": 7567,
+          "url": "https://www.bilibili.com/video/BV1F615BpErW"
+        },
+        {
+          "bvid": "BV1Ct411w7x1",
+          "title": "抛物线的标准方程【基础】",
+          "duration": 1606,
+          "pubdate": 1564313484,
+          "cover": "https://i2.hdslb.com/bfs/archive/f9d23eaa14f8b2ce54ae699e06151ac6e966d3da.jpg",
+          "views": 1051931,
+          "danmaku": 10437,
+          "url": "https://www.bilibili.com/video/BV1Ct411w7x1"
+        },
+        {
+          "bvid": "BV14WDAYQEyy",
+          "title": "高考中出现的“抛物线”二级结论！",
+          "duration": 1609,
+          "pubdate": 1730547600,
+          "cover": "https://i2.hdslb.com/bfs/archive/59b02ec17012320f4b7d86a2125747775810ea53.jpg",
+          "views": 1743697,
+          "danmaku": 11748,
+          "url": "https://www.bilibili.com/video/BV14WDAYQEyy"
+        },
+        {
+          "bvid": "BV1w94y157Ti",
+          "title": "我如何做好「圆锥曲线压轴大题」？构图+翻译+计算!【方法论综述】",
+          "duration": 1935,
+          "pubdate": 1698544929,
+          "cover": "https://i1.hdslb.com/bfs/archive/29f0962fc12be7f5fa842d9fa6550af6655ae96f.jpg",
+          "views": 4594235,
+          "danmaku": 26450,
+          "url": "https://www.bilibili.com/video/BV1w94y157Ti"
+        },
+        {
+          "bvid": "BV1MH4y167ui",
+          "title": "【圆锥曲线】每年高考都要考的「弦长面积」，请查收！",
+          "duration": 3254,
+          "pubdate": 1699101416,
+          "cover": "https://i2.hdslb.com/bfs/archive/b116a65b61c78f736b2dec528188006c5920d5ff.jpg",
+          "views": 2764766,
+          "danmaku": 18163,
+          "url": "https://www.bilibili.com/video/BV1MH4y167ui"
+        },
+        {
+          "bvid": "BV1NeDrYtEQ3",
+          "title": "圆锥曲线！定点问题！",
+          "duration": 3622,
+          "pubdate": 1731150953,
+          "cover": "https://i0.hdslb.com/bfs/archive/1d83677e08a7d1340a1c3b1f7fb4e0b57f016908.jpg",
+          "views": 2401625,
+          "danmaku": 20534,
+          "url": "https://www.bilibili.com/video/BV1NeDrYtEQ3"
+        },
+        {
+          "bvid": "BV1NtUeYYET5",
+          "title": "圆锥曲线！切线问题！",
+          "duration": 3118,
+          "pubdate": 1731760666,
+          "cover": "https://i1.hdslb.com/bfs/archive/f97cf35c2035963f5e70355c5d4acee5743c86fb.jpg",
+          "views": 1778586,
+          "danmaku": 10155,
+          "url": "https://www.bilibili.com/video/BV1NtUeYYET5"
+        },
+        {
+          "bvid": "BV1Uu411F7Xs",
+          "title": "【圆锥曲线】条件翻译大总结！专治没有思路！",
+          "duration": 2216,
+          "pubdate": 1700309225,
+          "cover": "https://i0.hdslb.com/bfs/archive/0508f7de5df6527dd63a9bc357c976f6998cab28.jpg",
+          "views": 2411803,
+          "danmaku": 15660,
+          "url": "https://www.bilibili.com/video/BV1Uu411F7Xs"
+        },
+        {
+          "bvid": "BV1qH4y1B7dm",
+          "title": "圆锥曲线“二级结论”太多啦！先学这些最常考的！",
+          "duration": 2715,
+          "pubdate": 1699707600,
+          "cover": "https://i0.hdslb.com/bfs/archive/63053b33d46e63d3c95a61ef59e1994b6a66be44.jpg",
+          "views": 3319071,
+          "danmaku": 13964,
+          "url": "https://www.bilibili.com/video/BV1qH4y1B7dm"
+        },
+        {
+          "bvid": "BV1oN4y1m7ww",
+          "title": "还没动笔，居然能看出答案！【圆锥曲线模型盘点】",
+          "duration": 2022,
+          "pubdate": 1700919300,
+          "cover": "https://i1.hdslb.com/bfs/archive/87d961e5dbebb3e5bee7adbd0c1300c857a42d5d.jpg",
+          "views": 4162479,
+          "danmaku": 14685,
+          "url": "https://www.bilibili.com/video/BV1oN4y1m7ww"
+        },
+        {
+          "bvid": "BV1Tw4m1Z72q",
+          "title": "「阿基米德三角形」保姆级讲解！",
+          "duration": 2809,
+          "pubdate": 1709456532,
+          "cover": "https://i2.hdslb.com/bfs/archive/56bfb0a20d3eb6068d02237637dd9e075e47bae5.jpg",
+          "views": 1783504,
+          "danmaku": 8127,
+          "url": "https://www.bilibili.com/video/BV1Tw4m1Z72q"
+        },
+        {
+          "bvid": "BV1Qt411u7eL",
+          "title": "【数列| | 基础知识】什么是数列？",
+          "duration": 845,
+          "pubdate": 1564834943,
+          "cover": "https://i1.hdslb.com/bfs/archive/e00c8a09412642cc4ae781fa7ee4c833f677e0ad.jpg",
+          "views": 1877474,
+          "danmaku": 10303,
+          "url": "https://www.bilibili.com/video/BV1Qt411u7eL"
+        },
+        {
+          "bvid": "BV16t411T766",
+          "title": "【数列 | 基础知识】等差数列和基本公式",
+          "duration": 1494,
+          "pubdate": 1564901116,
+          "cover": "https://i1.hdslb.com/bfs/archive/e4540f46689d326ea62e699ed7c76182820a48c2.jpg",
+          "views": 2151700,
+          "danmaku": 18666,
+          "url": "https://www.bilibili.com/video/BV16t411T766"
+        },
+        {
+          "bvid": "BV1KN4y1e7S5",
+          "title": "「等差数列」重点全在这！公式+二级结论+变形！",
+          "duration": 2575,
+          "pubdate": 1701521553,
+          "cover": "https://i0.hdslb.com/bfs/archive/796adf39b3fef477a5209b38cfd84d4bddeb451a.jpg",
+          "views": 6933921,
+          "danmaku": 54236,
+          "url": "https://www.bilibili.com/video/BV1KN4y1e7S5"
+        },
+        {
+          "bvid": "BV1iN411j7qT",
+          "title": "等比数列，从基础到进阶！",
+          "duration": 3098,
+          "pubdate": 1702115100,
+          "cover": "https://i2.hdslb.com/bfs/archive/4e1a6d5fbeee2f0a80ec42958568284de5cb1be1.jpg",
+          "views": 5299867,
+          "danmaku": 60420,
+          "url": "https://www.bilibili.com/video/BV1iN411j7qT"
+        },
+        {
+          "bvid": "BV1F5BGYiE8t",
+          "title": "【数列】等差等比一课通！公式+结论+高考大题！",
+          "duration": 2270,
+          "pubdate": 1734173400,
+          "cover": "https://i2.hdslb.com/bfs/archive/9973ef76bda5882503310a77a9e909dbeaf0a0f6.jpg",
+          "views": 4418939,
+          "danmaku": 22401,
+          "url": "https://www.bilibili.com/video/BV1F5BGYiE8t"
+        },
+        {
+          "bvid": "BV1f6kbY4EaG",
+          "title": "【数列求和串讲】错位相减+裂项相消！",
+          "duration": 2383,
+          "pubdate": 1734782100,
+          "cover": "https://i2.hdslb.com/bfs/archive/6f54ee9b06eb8a0c7b2064e003a963b5d67d90f8.jpg",
+          "views": 4579701,
+          "danmaku": 25403,
+          "url": "https://www.bilibili.com/video/BV1f6kbY4EaG"
+        },
+        {
+          "bvid": "BV1o4411y7FT",
+          "title": "【数列求和】分组求和法与倒序相加法",
+          "duration": 915,
+          "pubdate": 1567773898,
+          "cover": "https://i1.hdslb.com/bfs/archive/aba1917a6a16523d05b01b93b3984c0273c6058a.jpg",
+          "views": 396604,
+          "danmaku": 54,
+          "url": "https://www.bilibili.com/video/BV1o4411y7FT"
+        },
+        {
+          "bvid": "BV1E4c4ePEJT",
+          "title": "高考必考「数列求通项」方法大总结！",
+          "duration": 2771,
+          "pubdate": 1736563849,
+          "cover": "https://i0.hdslb.com/bfs/archive/5e7e00e9be2f3078c29c0142db993d956c5d77a3.jpg",
+          "views": 5528399,
+          "danmaku": 31323,
+          "url": "https://www.bilibili.com/video/BV1E4c4ePEJT"
+        },
+        {
+          "bvid": "BV1D5iFBzE67",
+          "title": "【数列常考】遇见“奇偶讨论”就害怕？看我搞定！",
+          "duration": 2187,
+          "pubdate": 1767348226,
+          "cover": "https://i0.hdslb.com/bfs/archive/07df3ed7508af1c18038038fe3a8a3a9051f79ba.jpg",
+          "views": 1732308,
+          "danmaku": 6597,
+          "url": "https://www.bilibili.com/video/BV1D5iFBzE67"
+        },
+        {
+          "bvid": "BV1ycwPe1Esb",
+          "title": "数列必做十题「上篇」",
+          "duration": 3060,
+          "pubdate": 1737190676,
+          "cover": "https://i2.hdslb.com/bfs/archive/ea7e319c970611a32ad9157e3f7523c8445f5b4b.jpg",
+          "views": 3543243,
+          "danmaku": 33019,
+          "url": "https://www.bilibili.com/video/BV1ycwPe1Esb"
+        },
+        {
+          "bvid": "BV1fqfnY5EQy",
+          "title": "数列必做十题「最值+奇偶+花式讨论」",
+          "duration": 2897,
+          "pubdate": 1737713263,
+          "cover": "https://i2.hdslb.com/bfs/archive/eeaf690cc99ea676f935e428dc392461de711e5a.jpg",
+          "views": 3107031,
+          "danmaku": 16962,
+          "url": "https://www.bilibili.com/video/BV1fqfnY5EQy"
+        },
+        {
+          "bvid": "BV15DP9eVEkL",
+          "title": "数列必做十题「压轴终篇」",
+          "duration": 3985,
+          "pubdate": 1738587466,
+          "cover": "https://i0.hdslb.com/bfs/archive/6c4741d2dc8607cfe5868860df349bf381729afa.jpg",
+          "views": 2917060,
+          "danmaku": 17602,
+          "url": "https://www.bilibili.com/video/BV15DP9eVEkL"
+        },
+        {
+          "bvid": "BV1iZ421y71z",
+          "title": "“导数”一课通！1h零基础上手!",
+          "duration": 3515,
+          "pubdate": 1708760335,
+          "cover": "https://i0.hdslb.com/bfs/archive/8c57759a5082f3017046a6370d2dc64c6e871a8b.jpg",
+          "views": 7509527,
+          "danmaku": 102906,
+          "url": "https://www.bilibili.com/video/BV1iZ421y71z"
+        },
+        {
+          "bvid": "BV1sx42127hu",
+          "title": "【导数】“切线问题”一网打尽！",
+          "duration": 1942,
+          "pubdate": 1709365117,
+          "cover": "https://i1.hdslb.com/bfs/archive/9a5d81e7f064e5831cdc0a9604bd3ab4b0ff1fef.jpg",
+          "views": 4991764,
+          "danmaku": 45530,
+          "url": "https://www.bilibili.com/video/BV1sx42127hu"
+        },
+        {
+          "bvid": "BV1im411d7Eu",
+          "title": "【导数】单调性+极值+最值+图象！半小时解决，保姆级基础讲解！",
+          "duration": 2006,
+          "pubdate": 1710042012,
+          "cover": "https://i1.hdslb.com/bfs/archive/0a014a4579b2e3f44670aaf0a26da74bb068e949.jpg",
+          "views": 7976121,
+          "danmaku": 47580,
+          "url": "https://www.bilibili.com/video/BV1im411d7Eu"
+        },
+        {
+          "bvid": "BV1b1XXYqEk2",
+          "title": "【导数必学】求导后无从下手？三个思路轻松搞定！",
+          "duration": 3266,
+          "pubdate": 1740821153,
+          "cover": "https://i0.hdslb.com/bfs/archive/0f12ff518976c3e6fc284a696353383e553e8542.jpg",
+          "views": 4843435,
+          "danmaku": 23931,
+          "url": "https://www.bilibili.com/video/BV1b1XXYqEk2"
+        },
+        {
+          "bvid": "BV1Ev9QYJEpB",
+          "title": "「导数含参单调性讨论」一小时大串讲！",
+          "duration": 3396,
+          "pubdate": 1741400412,
+          "cover": "https://i2.hdslb.com/bfs/archive/798d20fb82db94af099d2377c5ae928920d55534.jpg",
+          "views": 5763049,
+          "danmaku": 26894,
+          "url": "https://www.bilibili.com/video/BV1Ev9QYJEpB"
+        },
+        {
+          "bvid": "BV1uAZjBBEsj",
+          "title": "导数与不等式证明！直接求导+变换主元！",
+          "duration": 2744,
+          "pubdate": 1771051918,
+          "cover": "https://i1.hdslb.com/bfs/archive/bd9e0d0b2e55300ac86a07ba36233aada02d1a1f.jpg",
+          "views": 2160864,
+          "danmaku": 9870,
+          "url": "https://www.bilibili.com/video/BV1uAZjBBEsj"
+        },
+        {
+          "bvid": "BV1VafCB4EL1",
+          "title": "导数恒成立问题！分离参数与分类讨论！保姆级讲解",
+          "duration": 3367,
+          "pubdate": 1771908720,
+          "cover": "https://i1.hdslb.com/bfs/archive/a8a911faaeafcbed19342bb23b2fc0fa7977e938.jpg",
+          "views": 2109582,
+          "danmaku": 9154,
+          "url": "https://www.bilibili.com/video/BV1VafCB4EL1"
+        },
+        {
+          "bvid": "BV1mcPMzbEvK",
+          "title": "【导数恒成立】数形结合+双变量必会题型！奶妈级讲解！",
+          "duration": 5317,
+          "pubdate": 1772361556,
+          "cover": "https://i1.hdslb.com/bfs/archive/d8730dced3315d1bbc5814e8655458669fe6ecd3.jpg",
+          "views": 1715837,
+          "danmaku": 6704,
+          "url": "https://www.bilibili.com/video/BV1mcPMzbEvK"
+        },
+        {
+          "bvid": "BV19K421v7zB",
+          "title": "什么是\"隐零点\"？一个视频从基础到进阶！",
+          "duration": 3323,
+          "pubdate": 1710584367,
+          "cover": "https://i0.hdslb.com/bfs/archive/1bfb59e77cb1805b85baf85e70822a27282ac288.jpg",
+          "views": 4315656,
+          "danmaku": 30534,
+          "url": "https://www.bilibili.com/video/BV19K421v7zB"
+        },
+        {
+          "bvid": "BV1h4421U7fj",
+          "title": "不会“放缩”？保姆级教程在此！",
+          "duration": 1937,
+          "pubdate": 1720177153,
+          "cover": "https://i2.hdslb.com/bfs/archive/6d2c44dc24d553410d29c5285d08f5d0111ef85e.jpg",
+          "views": 3120647,
+          "danmaku": 24465,
+          "url": "https://www.bilibili.com/video/BV1h4421U7fj"
+        },
+        {
+          "bvid": "BV1mi42167aL",
+          "title": "导数！放缩！进阶！",
+          "duration": 1883,
+          "pubdate": 1721478399,
+          "cover": "https://i2.hdslb.com/bfs/archive/a66d1b18172c6dbe464002a8c95b7e1cf538f15a.jpg",
+          "views": 1940499,
+          "danmaku": 8814,
+          "url": "https://www.bilibili.com/video/BV1mi42167aL"
+        },
+        {
+          "bvid": "BV1rw4m1e7tC",
+          "title": "高考常客！端点效应「保姆级讲解」",
+          "duration": 1379,
+          "pubdate": 1719653225,
+          "cover": "https://i2.hdslb.com/bfs/archive/36f19b5147bb5016a0e682bd0ee29db4673e55cb.jpg",
+          "views": 2979014,
+          "danmaku": 9577,
+          "url": "https://www.bilibili.com/video/BV1rw4m1e7tC"
+        },
+        {
+          "bvid": "BV1Br4y1Q7ay",
+          "title": "端点效应失效了！咋办？",
+          "duration": 2076,
+          "pubdate": 1638536222,
+          "cover": "https://i0.hdslb.com/bfs/archive/ace368ef1ddc1343fcde56fc3c70e54263ee6d71.jpg",
+          "views": 1911960,
+          "danmaku": 10043,
+          "url": "https://www.bilibili.com/video/BV1Br4y1Q7ay"
+        },
+        {
+          "bvid": "BV1CswszFEYm",
+          "title": "【必要探路法】导数不能不学的方法！",
+          "duration": 7605,
+          "pubdate": 1773461796,
+          "cover": "https://i1.hdslb.com/bfs/archive/afd544f81f3938af25442cebb151ca2ae3b02caa.jpg",
+          "views": 1676414,
+          "danmaku": 5898,
+          "url": "https://www.bilibili.com/video/BV1CswszFEYm"
+        },
+        {
+          "bvid": "BV17yAPegEYd",
+          "title": "高考大热点！同构第一课！",
+          "duration": 1340,
+          "pubdate": 1739620200,
+          "cover": "https://i0.hdslb.com/bfs/archive/a7055bd209cab0c9928c830f4e401c4078447630.jpg",
+          "views": 3285586,
+          "danmaku": 10828,
+          "url": "https://www.bilibili.com/video/BV17yAPegEYd"
+        },
+        {
+          "bvid": "BV1x4AmerECq",
+          "title": "导数与「指对同构」保姆级讲解",
+          "duration": 1953,
+          "pubdate": 1740276677,
+          "cover": "https://i1.hdslb.com/bfs/archive/b3c003266c85d744385eb61bd79123991c34d03c.jpg",
+          "views": 3156280,
+          "danmaku": 8238,
+          "url": "https://www.bilibili.com/video/BV1x4AmerECq"
+        },
+        {
+          "bvid": "BV14VXCYBEFR",
+          "title": "【导数热门】零点与找点！姥姥级串讲！",
+          "duration": 5621,
+          "pubdate": 1742560074,
+          "cover": "https://i1.hdslb.com/bfs/archive/e8cc1fabd1ce6b20d313580aab754fe50879af37.jpg",
+          "views": 4007484,
+          "danmaku": 22804,
+          "url": "https://www.bilibili.com/video/BV14VXCYBEFR"
+        },
+        {
+          "bvid": "BV1K4421f7zT",
+          "title": "导数热门：极值点偏移问题，一个视频讲懂！",
+          "duration": 3680,
+          "pubdate": 1722556800,
+          "cover": "https://i0.hdslb.com/bfs/archive/c28c2448e9313d6b0a90b873d76bfeb8723bc019.jpg",
+          "views": 2742746,
+          "danmaku": 20053,
+          "url": "https://www.bilibili.com/video/BV1K4421f7zT"
+        },
+        {
+          "bvid": "BV1bZ421N7nk",
+          "title": "【导数进阶】极值点偏移？齐次消元+比值代换！",
+          "duration": 2165,
+          "pubdate": 1723253400,
+          "cover": "https://i0.hdslb.com/bfs/archive/83a50608eae75960a7c21dc05c8a3a39a559dd5a.jpg",
+          "views": 1458301,
+          "danmaku": 6668,
+          "url": "https://www.bilibili.com/video/BV1bZ421N7nk"
+        },
+        {
+          "bvid": "BV1D3MT64Euw",
+          "title": "【统计必修】随机抽样与简单的数据分析！",
+          "duration": 1872,
+          "pubdate": 1783216340,
+          "cover": "https://i0.hdslb.com/bfs/archive/d977b0d5556d13b060c996df0b0b807f5ef56975.jpg",
+          "views": 902341,
+          "danmaku": 8496,
+          "url": "https://www.bilibili.com/video/BV1D3MT64Euw"
+        },
+        {
+          "bvid": "BV1KRNN6zEPJ",
+          "title": "【统计必修】求和符号与方差进阶！",
+          "duration": 1883,
+          "pubdate": 1783820801,
+          "cover": "https://i2.hdslb.com/bfs/archive/450e0c81a6eddb8a31685239fbcc2c59005c361a.jpg",
+          "views": 1224615,
+          "danmaku": 8288,
+          "url": "https://www.bilibili.com/video/BV1KRNN6zEPJ"
+        },
+        {
+          "bvid": "BV1TENu6SEcb",
+          "title": "一口气学完「频率分布直方图」零基础到进阶！",
+          "duration": 1782,
+          "pubdate": 1783856564,
+          "cover": "https://i1.hdslb.com/bfs/archive/173fd986dd0916f9e456255bdbbbfb89fecca5f7.jpg",
+          "views": 694056,
+          "danmaku": 3959,
+          "url": "https://www.bilibili.com/video/BV1TENu6SEcb"
+        },
+        {
+          "bvid": "BV1k4411S7VR",
+          "title": "【概率必修】随机事件与古典概型",
+          "duration": 2091,
+          "pubdate": 1565704192,
+          "cover": "https://i0.hdslb.com/bfs/archive/48383c5d8702a337cc27d0d9a8dcac4c4d5d594c.jpg",
+          "views": 490473,
+          "danmaku": 3903,
+          "url": "https://www.bilibili.com/video/BV1k4411S7VR"
+        },
+        {
+          "bvid": "BV1LeKF6rEPY",
+          "title": "【概率必修】随机事件的独立性！零基础讲解",
+          "duration": 2651,
+          "pubdate": 1784342139,
+          "cover": "https://i2.hdslb.com/bfs/archive/bc8013a1944722d5a379ba7ccb00e675b59706a7.jpg",
+          "views": 932169,
+          "danmaku": 5862,
+          "url": "https://www.bilibili.com/video/BV1LeKF6rEPY"
+        },
+        {
+          "bvid": "BV17C3T6jExi",
+          "title": "【概率必修】常考大题串讲！",
+          "duration": 1675,
+          "pubdate": 1784941821,
+          "cover": "https://i2.hdslb.com/bfs/archive/5864ce3c75f8d2cb454d76e2f07c5650510c5cfe.jpg",
+          "views": 619920,
+          "danmaku": 2874,
+          "url": "https://www.bilibili.com/video/BV17C3T6jExi"
+        },
+        {
+          "bvid": "BV1U4411k7Xj",
+          "title": "频率与概率！统计概率大题！",
+          "duration": 877,
+          "pubdate": 1567854691,
+          "cover": "https://i2.hdslb.com/bfs/archive/c9336a8becc4a0ec5970c2be59ad8911ccabbf53.jpg",
+          "views": 201815,
+          "danmaku": 641,
+          "url": "https://www.bilibili.com/video/BV1U4411k7Xj"
+        },
+        {
+          "bvid": "BV1iA4m1P7Fu",
+          "title": "「排列组合」学习指南！",
+          "duration": 4734,
+          "pubdate": 1711172378,
+          "cover": "https://i1.hdslb.com/bfs/archive/cf173bfcc37df1fd73a75214d92b549031364a87.jpg",
+          "views": 8823599,
+          "danmaku": 148260,
+          "url": "https://www.bilibili.com/video/BV1iA4m1P7Fu"
+        },
+        {
+          "bvid": "BV1Gr421t7tr",
+          "title": "排列组合不会做题？各类方法大梳理！",
+          "duration": 5352,
+          "pubdate": 1712326470,
+          "cover": "https://i2.hdslb.com/bfs/archive/b1ace57255b8647bd8119a2ae23fd57583f5ddc3.jpg",
+          "views": 7390250,
+          "danmaku": 102453,
+          "url": "https://www.bilibili.com/video/BV1Gr421t7tr"
+        },
+        {
+          "bvid": "BV12E411y769",
+          "title": "「排列组合」常考题型大梳理！",
+          "duration": 3059,
+          "pubdate": 1571915945,
+          "cover": "https://i2.hdslb.com/bfs/archive/4cb11c093635f7225059d243ae8a6fdfbd330d08.jpg",
+          "views": 356767,
+          "danmaku": 67,
+          "url": "https://www.bilibili.com/video/BV12E411y769"
+        },
+        {
+          "bvid": "BV1hEwMzFEuS",
+          "title": "「二项式定理」学不懂？一个视频完全搞定！",
+          "duration": 5355,
+          "pubdate": 1773552383,
+          "cover": "https://i1.hdslb.com/bfs/archive/f713d433453acba5e104af3a25683dd9547b3967.jpg",
+          "views": 3232209,
+          "danmaku": 25433,
+          "url": "https://www.bilibili.com/video/BV1hEwMzFEuS"
+        },
+        {
+          "bvid": "BV1TQwCzsEKP",
+          "title": "【概率统计】条件概率！保姆级讲解！",
+          "duration": 3419,
+          "pubdate": 1773921600,
+          "cover": "https://i2.hdslb.com/bfs/archive/c3a8a87d7bd435c5c95cb754b6e25036a531784e.jpg",
+          "views": 3155372,
+          "danmaku": 17549,
+          "url": "https://www.bilibili.com/video/BV1TQwCzsEKP"
+        },
+        {
+          "bvid": "BV18Q9TBuEXo",
+          "title": "全概率公式与贝叶斯公式！零基础到进阶！",
+          "duration": 2772,
+          "pubdate": 1775214000,
+          "cover": "https://i1.hdslb.com/bfs/archive/4597b70cda50b3ef8f5cccc2e683dbd4832929a2.jpg",
+          "views": 2209719,
+          "danmaku": 13909,
+          "url": "https://www.bilibili.com/video/BV18Q9TBuEXo"
+        },
+        {
+          "bvid": "BV1mFo7BvEEj",
+          "title": "【概率】随机变量与分布列！期望与方差！一课搞定！",
+          "duration": 4623,
+          "pubdate": 1777025758,
+          "cover": "https://i2.hdslb.com/bfs/archive/c85b2678ecf648b74879ef912ed644363cd44f2b.jpg",
+          "views": 1810896,
+          "danmaku": 12626,
+          "url": "https://www.bilibili.com/video/BV1mFo7BvEEj"
+        },
+        {
+          "bvid": "BV1GAoZBdEx3",
+          "title": "【概率】二项分布！零基础到进阶！",
+          "duration": 3595,
+          "pubdate": 1777163025,
+          "cover": "https://i2.hdslb.com/bfs/archive/d1bfd01a20497cffbccf415fb6e9ca897797fc66.jpg",
+          "views": 1731386,
+          "danmaku": 8365,
+          "url": "https://www.bilibili.com/video/BV1GAoZBdEx3"
+        },
+        {
+          "bvid": "BV18jRPB8EF2",
+          "title": "超几何分布！零基础到进阶！",
+          "duration": 2871,
+          "pubdate": 1777860465,
+          "cover": "https://i2.hdslb.com/bfs/archive/94bd587ebdc62df484fe59a1f8ee0e275b62aafd.jpg",
+          "views": 1475589,
+          "danmaku": 4879,
+          "url": "https://www.bilibili.com/video/BV18jRPB8EF2"
+        },
+        {
+          "bvid": "BV1VXdcBwEFj",
+          "title": "【概率】正态分布！一个视频搞懂！",
+          "duration": 1815,
+          "pubdate": 1778155620,
+          "cover": "https://i2.hdslb.com/bfs/archive/1617a6709f263ce81917c940bf00cffd513d82ff.jpg",
+          "views": 1543995,
+          "danmaku": 6325,
+          "url": "https://www.bilibili.com/video/BV1VXdcBwEFj"
+        },
+        {
+          "bvid": "BV1FW5b6nEAM",
+          "title": "概率与最值！保姆级讲解！",
+          "duration": 2737,
+          "pubdate": 1778502847,
+          "cover": "https://i0.hdslb.com/bfs/archive/dac700501b68cbc8d2c7665a2d2d43de325ecb17.jpg",
+          "views": 1283166,
+          "danmaku": 2734,
+          "url": "https://www.bilibili.com/video/BV1FW5b6nEAM"
+        },
+        {
+          "bvid": "BV1gAeX6DEpo",
+          "title": "【马尔科夫链】概率+数列综合！高考热点!",
+          "duration": 1642,
+          "pubdate": 1789783716,
+          "cover": "https://i1.hdslb.com/bfs/archive/8dd8521db60ded49b22b94382e67c3d08a9aa7af.jpg",
+          "views": 428928,
+          "danmaku": 1324,
+          "url": "https://www.bilibili.com/video/BV1gAeX6DEpo"
+        },
+        {
+          "bvid": "BV1Bc5q6MEhP",
+          "title": "【统计】成对数据的线性相关系数！老奶奶级讲解",
+          "duration": 2938,
+          "pubdate": 1778849459,
+          "cover": "https://i0.hdslb.com/bfs/archive/2a00334e730fe2c9d4515fb58d4241b31eb3d7f9.jpg",
+          "views": 1340508,
+          "danmaku": 4796,
+          "url": "https://www.bilibili.com/video/BV1Bc5q6MEhP"
+        },
+        {
+          "bvid": "BV1PrLS6pEJS",
+          "title": "【统计】线性回归与非线性回归！最小二乘法！保姆级讲解！",
+          "duration": 2632,
+          "pubdate": 1779453000,
+          "cover": "https://i0.hdslb.com/bfs/archive/328b17b323f826a2dd97a3c1356ffcc4a74f654e.jpg",
+          "views": 1388177,
+          "danmaku": 4379,
+          "url": "https://www.bilibili.com/video/BV1PrLS6pEJS"
+        },
+        {
+          "bvid": "BV1zrGi6PE9B",
+          "title": "【最后一课】2X2联表与独立性检验！",
+          "duration": 1289,
+          "pubdate": 1779535800,
+          "cover": "https://i1.hdslb.com/bfs/archive/3ca8c9c5255f668454b7522c5d10080c20673a29.jpg",
+          "views": 1390071,
+          "danmaku": 9507,
+          "url": "https://www.bilibili.com/video/BV1zrGi6PE9B"
+        }
+      ]
+    },
+    {
+      "season_id": 8397438,
+      "title": "新高考一轮复习",
+      "intro": "新高考一轮复习合集，长期更新。\n适合人群：当前分数90-135分。\n基础不好的宝贝们先看大合集，再来一轮复习！",
+      "cover": "https://archive.biliimg.com/bfs/archive/68685534dc9b54f3f02dc1c9d89960fa25c57b78.jpg",
+      "total": 11,
+      "fetched": 11,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1C9J56wEpK",
+          "title": "新高考太创新？一数一轮复习！开始！",
+          "duration": 79,
+          "pubdate": 1781272542,
+          "cover": "https://i0.hdslb.com/bfs/archive/b67f80568b4240ab64c6c6f58204ccbbd4976674.jpg",
+          "views": 1538264,
+          "danmaku": 10010,
+          "url": "https://www.bilibili.com/video/BV1C9J56wEpK"
+        },
+        {
+          "bvid": "BV1M4jJ65Ee9",
+          "title": "【新高考一轮复习】二次函数！考点全梳理！",
+          "duration": 4502,
+          "pubdate": 1781948565,
+          "cover": "https://i0.hdslb.com/bfs/archive/2c4553d80b95f35e878ee25c13d567393061a241.jpg",
+          "views": 2203387,
+          "danmaku": 17326,
+          "url": "https://www.bilibili.com/video/BV1M4jJ65Ee9"
+        },
+        {
+          "bvid": "BV1wv7W6EEWh",
+          "title": "【新高考一轮复习】分式函数！一站式讲解！",
+          "duration": 3767,
+          "pubdate": 1782571517,
+          "cover": "https://i0.hdslb.com/bfs/archive/825eb399c25d8b40fff80b237c865933ca5d0a53.jpg",
+          "views": 1248799,
+          "danmaku": 9856,
+          "url": "https://www.bilibili.com/video/BV1wv7W6EEWh"
+        },
+        {
+          "bvid": "BV1ZAM36EEqZ",
+          "title": "【一轮复习】指对幂函数+比大小! 一节课搞定！",
+          "duration": 7500,
+          "pubdate": 1783501505,
+          "cover": "https://i2.hdslb.com/bfs/archive/67a4b6c36eed3a82dead774b4d768ca1f4808868.jpg",
+          "views": 1295509,
+          "danmaku": 11225,
+          "url": "https://www.bilibili.com/video/BV1ZAM36EEqZ"
+        },
+        {
+          "bvid": "BV1Xy356ZEXM",
+          "title": "【一轮复习】高考热点！绝对值问题！基础篇！",
+          "duration": 2434,
+          "pubdate": 1785035402,
+          "cover": "https://i2.hdslb.com/bfs/archive/cfaec525a1665f9cbed730364d084ec8b2e08c86.jpg",
+          "views": 954583,
+          "danmaku": 5650,
+          "url": "https://www.bilibili.com/video/BV1Xy356ZEXM"
+        },
+        {
+          "bvid": "BV1KPGG6GEEN",
+          "title": "【一轮复习】绝对值的数形结合与零点综合！",
+          "duration": 2778,
+          "pubdate": 1785591524,
+          "cover": "https://i2.hdslb.com/bfs/archive/240eb25a9ee55c9d3d3f276deb97559bd1819bbe.jpg",
+          "views": 1009912,
+          "danmaku": 4523,
+          "url": "https://www.bilibili.com/video/BV1KPGG6GEEN"
+        },
+        {
+          "bvid": "BV1kKuv6tEp9",
+          "title": "【一轮复习】绝对值拔高篇：曼哈顿距离+切比雪夫最佳逼近直线+三角不等式",
+          "duration": 3853,
+          "pubdate": 1786435200,
+          "cover": "https://i2.hdslb.com/bfs/archive/70a0ce119b567caa38b865002c5dd87d974c2c95.jpg",
+          "views": 1104159,
+          "danmaku": 5434,
+          "url": "https://www.bilibili.com/video/BV1kKuv6tEp9"
+        },
+        {
+          "bvid": "BV1Na8m6QEpU",
+          "title": "【一轮复习】函数单调性常考题型大串讲！",
+          "duration": 3092,
+          "pubdate": 1787397918,
+          "cover": "https://i1.hdslb.com/bfs/archive/034238cbf2ccd7267ed0f787d4afb3d901b40c5e.jpg",
+          "views": 1192118,
+          "danmaku": 6637,
+          "url": "https://www.bilibili.com/video/BV1Na8m6QEpU"
+        },
+        {
+          "bvid": "BV1dNhQ6UEes",
+          "title": "【一轮复习】函数奇偶性！题型串讲！",
+          "duration": 1651,
+          "pubdate": 1790390130,
+          "cover": "https://i2.hdslb.com/bfs/archive/149c1112aa8cbd324d361db0174e2790d7cd4092.jpg",
+          "views": 240573,
+          "danmaku": 617,
+          "url": "https://www.bilibili.com/video/BV1dNhQ6UEes"
+        },
+        {
+          "bvid": "BV1CFar6KE5K",
+          "title": "【一轮复习】函数的对称性！热门题型梳理！",
+          "duration": 2486,
+          "pubdate": 1790859647,
+          "cover": "https://i1.hdslb.com/bfs/archive/b276d8e88fa2c94c09848514ff02bc6af25f8a9c.jpg",
+          "views": 179979,
+          "danmaku": 598,
+          "url": "https://www.bilibili.com/video/BV1CFar6KE5K"
+        },
+        {
+          "bvid": "BV1cE4m1R7YK",
+          "title": "「新定义」不敢做？来听思路！【新定义第一课】",
+          "duration": 3017,
+          "pubdate": 1724471921,
+          "cover": "https://i0.hdslb.com/bfs/archive/c64a5fc7a5e6b540cd17c7e72755756479941536.jpg",
+          "views": 971492,
+          "danmaku": 2953,
+          "url": "https://www.bilibili.com/video/BV1cE4m1R7YK"
+        }
+      ]
+    },
+    {
+      "season_id": 5896377,
+      "title": "一数120+拔高系统合集",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/c693f12cff4b550b52d7af5f8e9d21171fe8ff3d.jpg",
+      "total": 12,
+      "fetched": 12,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV14gu3zmEko",
+          "title": "【一数】120+拔高系统合集！启动！",
+          "duration": 35,
+          "pubdate": 1752229800,
+          "cover": "https://i1.hdslb.com/bfs/archive/0d64f704e3b1e7ddc9298b236e89528561603a81.jpg",
+          "views": 1724291,
+          "danmaku": 4372,
+          "url": "https://www.bilibili.com/video/BV14gu3zmEko"
+        },
+        {
+          "bvid": "BV1zNudzfEXX",
+          "title": "【一数拔高】高考不等式大荟萃！基本不等式+柯西+权方和！",
+          "duration": 5380,
+          "pubdate": 1752910926,
+          "cover": "https://i0.hdslb.com/bfs/archive/f4d3005875120e91e7bd7731099c1a154159b73d.jpg",
+          "views": 3895084,
+          "danmaku": 44808,
+          "url": "https://www.bilibili.com/video/BV1zNudzfEXX"
+        },
+        {
+          "bvid": "BV1UY8gzvE4u",
+          "title": "【一数拔高】高考必会函数！二次+分式！",
+          "duration": 2872,
+          "pubdate": 1753622923,
+          "cover": "https://i1.hdslb.com/bfs/archive/52cc5e4bc054ba724acf9c9a3bcaadc8fa58cf04.jpg",
+          "views": 1991548,
+          "danmaku": 19579,
+          "url": "https://www.bilibili.com/video/BV1UY8gzvE4u"
+        },
+        {
+          "bvid": "BV1eQhgzjEAB",
+          "title": "【一数拔高】指对幂函数大综合！",
+          "duration": 2892,
+          "pubdate": 1754215452,
+          "cover": "https://i0.hdslb.com/bfs/archive/b2230f8bfe119b15713d340e648f411cabd6c2bc.jpg",
+          "views": 1811408,
+          "danmaku": 15083,
+          "url": "https://www.bilibili.com/video/BV1eQhgzjEAB"
+        },
+        {
+          "bvid": "BV1amYrzME21",
+          "title": "【一数拔高】数形结合！函数必会技巧！",
+          "duration": 4224,
+          "pubdate": 1755408469,
+          "cover": "https://i2.hdslb.com/bfs/archive/c3852a8ee0b99a0fb3a69fdaa971cb7a58cffdf2.jpg",
+          "views": 1849474,
+          "danmaku": 12522,
+          "url": "https://www.bilibili.com/video/BV1amYrzME21"
+        },
+        {
+          "bvid": "BV1FCHCzbEyM",
+          "title": "【一数拔高】函数性质大综合",
+          "duration": 4863,
+          "pubdate": 1757424633,
+          "cover": "https://i1.hdslb.com/bfs/archive/c6c01384947c032d7a0f64e8c6253ef1221f7426.jpg",
+          "views": 1831451,
+          "danmaku": 10361,
+          "url": "https://www.bilibili.com/video/BV1FCHCzbEyM"
+        },
+        {
+          "bvid": "BV1i2pfzvEYM",
+          "title": "【一数拔高】抽象函数！题型全总结！",
+          "duration": 3547,
+          "pubdate": 1758428528,
+          "cover": "https://i0.hdslb.com/bfs/archive/410d39f8573ac9bad2189c05b07de00192b60780.jpg",
+          "views": 2029193,
+          "danmaku": 10473,
+          "url": "https://www.bilibili.com/video/BV1i2pfzvEYM"
+        },
+        {
+          "bvid": "BV1UXW4zNEBS",
+          "title": "【一数拔高】圆锥曲线技巧大全！平移齐次+点乘双根+垂径定理+非对称韦达+三角代换！",
+          "duration": 5845,
+          "pubdate": 1760778697,
+          "cover": "https://i0.hdslb.com/bfs/archive/462f300f34a6ba74fa3fe3c623dacd8140361cf8.jpg",
+          "views": 3047427,
+          "danmaku": 21910,
+          "url": "https://www.bilibili.com/video/BV1UXW4zNEBS"
+        },
+        {
+          "bvid": "BV1jfsoziE2E",
+          "title": "【一数拔高】圆锥曲线进阶技巧！和积关系+定比点差+直线参数方程！",
+          "duration": 5074,
+          "pubdate": 1761380822,
+          "cover": "https://i1.hdslb.com/bfs/archive/f666176d095de46fe208198eb42c5b9ef1914736.jpg",
+          "views": 2099747,
+          "danmaku": 9362,
+          "url": "https://www.bilibili.com/video/BV1jfsoziE2E"
+        },
+        {
+          "bvid": "BV19YUwBEEX7",
+          "title": "【一数拔高】圆锥曲线命题背景！射影几何：调和点列+极点极线！高考五年考五次！",
+          "duration": 3652,
+          "pubdate": 1763864020,
+          "cover": "https://i1.hdslb.com/bfs/archive/6d427ec0bcc522096b9709303b35ff26e92b8ed5.jpg",
+          "views": 1959413,
+          "danmaku": 6609,
+          "url": "https://www.bilibili.com/video/BV19YUwBEEX7"
+        },
+        {
+          "bvid": "BV1Kg2WBoENe",
+          "title": "【圆锥曲线邪修】调和线束斜率关系+二次调和点列+对合！圆锥曲线命题背景保姆级讲解！",
+          "duration": 6521,
+          "pubdate": 1765012564,
+          "cover": "https://i1.hdslb.com/bfs/archive/c39bc3c3f8f46d53e1b37ec2413e9e0379a14236.jpg",
+          "views": 1601360,
+          "danmaku": 5026,
+          "url": "https://www.bilibili.com/video/BV1Kg2WBoENe"
+        },
+        {
+          "bvid": "BV1YWP4zxEdV",
+          "title": "【一数拔高】圆锥曲线弦长压轴！封神训练篇！",
+          "duration": 7467,
+          "pubdate": 1772800323,
+          "cover": "https://i2.hdslb.com/bfs/archive/25f65bc724602ab113c5704917212258b16046c0.jpg",
+          "views": 1320023,
+          "danmaku": 2782,
+          "url": "https://www.bilibili.com/video/BV1YWP4zxEdV"
+        }
+      ]
+    },
+    {
+      "season_id": 8126719,
+      "title": "一数教辅",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/3c05e8a526db549c3ea0447f54099766fce849aa.jpg",
+      "total": 17,
+      "fetched": 17,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1VD4y1D7UB",
+          "title": "2027高考数学必刷100讲【常规版】",
+          "duration": 367464,
+          "pubdate": 1595409319,
+          "cover": "https://i1.hdslb.com/bfs/archive/6a51c78459df3bc46fec46cb0e3e02614a638203.jpg",
+          "views": 36185793,
+          "danmaku": 13404,
+          "url": "https://www.bilibili.com/video/BV1VD4y1D7UB"
+        },
+        {
+          "bvid": "BV1w7411w7kQ",
+          "title": "2027高考数学必刷100讲【基础+中档】",
+          "duration": 301744,
+          "pubdate": 1582247710,
+          "cover": "https://i2.hdslb.com/bfs/archive/9d6a0ccd726015f9a041976d666f326e1a674c7a.jpg",
+          "views": 16565741,
+          "danmaku": 17650,
+          "url": "https://www.bilibili.com/video/BV1w7411w7kQ"
+        },
+        {
+          "bvid": "BV13t411E7G3",
+          "title": "2026高考数学必刷100讲【常规版】",
+          "duration": 365069,
+          "pubdate": 1563949157,
+          "cover": "https://i0.hdslb.com/bfs/archive/a838794565f6950ce4844e489ecf0595cbaa90e5.jpg",
+          "views": 1396475,
+          "danmaku": 18576,
+          "url": "https://www.bilibili.com/video/BV13t411E7G3"
+        },
+        {
+          "bvid": "BV13t411E7M5",
+          "title": "2026高考数学必刷100讲【基础+中档】",
+          "duration": 297750,
+          "pubdate": 1563954711,
+          "cover": "https://i1.hdslb.com/bfs/archive/b89c08ca1784857ec249bfdd41b7d7ebff22b54b.jpg",
+          "views": 2665427,
+          "danmaku": 30879,
+          "url": "https://www.bilibili.com/video/BV13t411E7M5"
+        },
+        {
+          "bvid": "BV15SH9eREx2",
+          "title": "2025高考数学必刷100讲【常规版】",
+          "duration": 339262,
+          "pubdate": 1725706800,
+          "cover": "https://i1.hdslb.com/bfs/archive/04411f1e97103f42e59560595cb1bafdf609b34d.jpg",
+          "views": 9936759,
+          "danmaku": 56054,
+          "url": "https://www.bilibili.com/video/BV15SH9eREx2"
+        },
+        {
+          "bvid": "BV1mE421A71a",
+          "title": "2025高考数学必刷100讲【基础+中档】",
+          "duration": 289969,
+          "pubdate": 1720865318,
+          "cover": "https://i1.hdslb.com/bfs/archive/be660e10df8c3ac250e76eab8780dcc5d772060a.jpg",
+          "views": 4317617,
+          "danmaku": 34213,
+          "url": "https://www.bilibili.com/video/BV1mE421A71a"
+        },
+        {
+          "bvid": "BV1Et411j7zk",
+          "title": "2024必刷100讲【常规版】",
+          "duration": 314095,
+          "pubdate": 1564029070,
+          "cover": "https://i1.hdslb.com/bfs/archive/5bbdfc3338295ce9a75215ec7eb566e24cfbd8ed.jpg",
+          "views": 3383731,
+          "danmaku": 27183,
+          "url": "https://www.bilibili.com/video/BV1Et411j7zk"
+        },
+        {
+          "bvid": "BV13t411j7AQ",
+          "title": "2024必刷100讲【基础+中档】",
+          "duration": 274049,
+          "pubdate": 1564028898,
+          "cover": "https://i1.hdslb.com/bfs/archive/3a100dbe35fb526c1af1b53eb5806ea4906d8466.jpg",
+          "views": 2505651,
+          "danmaku": 22838,
+          "url": "https://www.bilibili.com/video/BV13t411j7AQ"
+        },
+        {
+          "bvid": "BV1Gt411w7FZ",
+          "title": "【2026-2027学年】高中数学一本通：必修第1册",
+          "duration": 366760,
+          "pubdate": 1564565654,
+          "cover": "https://i1.hdslb.com/bfs/archive/203b69861be469df067ea4858bf5a32257096401.jpg",
+          "views": 741494,
+          "danmaku": 17877,
+          "url": "https://www.bilibili.com/video/BV1Gt411w7FZ"
+        },
+        {
+          "bvid": "BV1qt411c7gx",
+          "title": "【2026-2027学年】高中数学一本通：必修第2册",
+          "duration": 374502,
+          "pubdate": 1564508757,
+          "cover": "https://i0.hdslb.com/bfs/archive/f97eccc2d06fdf2f41a5032162f8425e6a2d149d.jpg",
+          "views": 403858,
+          "danmaku": 305,
+          "url": "https://www.bilibili.com/video/BV1qt411c7gx"
+        },
+        {
+          "bvid": "BV1K4411Q7q1",
+          "title": "【2026-2027学年】高中数学一本通：选择性必修第1册",
+          "duration": 397187,
+          "pubdate": 1565535224,
+          "cover": "https://i1.hdslb.com/bfs/archive/92298aa6e0c5c22b3dc91df14db1b72f6285a8db.jpg",
+          "views": 1293852,
+          "danmaku": 9340,
+          "url": "https://www.bilibili.com/video/BV1K4411Q7q1"
+        },
+        {
+          "bvid": "BV1Jt411E76i",
+          "title": "【2025-2026学年】高中数学一本通：必修第1册",
+          "duration": 336948,
+          "pubdate": 1563948193,
+          "cover": "https://i1.hdslb.com/bfs/archive/7bfdeb3f4698427fd7c61f9457dbca62e5f95c26.jpg",
+          "views": 1608100,
+          "danmaku": 29606,
+          "url": "https://www.bilibili.com/video/BV1Jt411E76i"
+        },
+        {
+          "bvid": "BV1J2rUB6EYj",
+          "title": "【2026版】高中数学一本通：必修第2册",
+          "duration": 374584,
+          "pubdate": 1768644000,
+          "cover": "https://i0.hdslb.com/bfs/archive/6ab22f16d73768b21ab2c0e1a1189f31daaaf8de.jpg",
+          "views": 1197373,
+          "danmaku": 2284,
+          "url": "https://www.bilibili.com/video/BV1J2rUB6EYj"
+        },
+        {
+          "bvid": "BV127eizjEW5",
+          "title": "【2025-2026学年】高中数学一本通：选择性必修第1册",
+          "duration": 382451,
+          "pubdate": 1755934004,
+          "cover": "https://i0.hdslb.com/bfs/archive/ca99c4acd1e13408fdc588fd95bf5264a13f0fe5.jpg",
+          "views": 1933505,
+          "danmaku": 7383,
+          "url": "https://www.bilibili.com/video/BV127eizjEW5"
+        },
+        {
+          "bvid": "BV1mJCCB6EuB",
+          "title": "【2025-2026学年】高中数学一本通：选择性必修第2册",
+          "duration": 217525,
+          "pubdate": 1763201100,
+          "cover": "https://i0.hdslb.com/bfs/archive/f971e076a8af152af12043e623f910cfcacc83ac.jpg",
+          "views": 1464138,
+          "danmaku": 2170,
+          "url": "https://www.bilibili.com/video/BV1mJCCB6EuB"
+        },
+        {
+          "bvid": "BV1V4PTeVEGu",
+          "title": "【2024-2025学年】高中数学一本通：必修第2册",
+          "duration": 327381,
+          "pubdate": 1740221588,
+          "cover": "https://i0.hdslb.com/bfs/archive/e212d9c0297654ddcd80ff0fe90fb946daf4feb1.jpg",
+          "views": 2861438,
+          "danmaku": 9984,
+          "url": "https://www.bilibili.com/video/BV1V4PTeVEGu"
+        },
+        {
+          "bvid": "BV1Bb42147jA",
+          "title": "【2024-2025学年】高中数学一本通：必修第1册",
+          "duration": 308008,
+          "pubdate": 1724498362,
+          "cover": "https://i1.hdslb.com/bfs/archive/8facf31510b57f9438e0b5114a85816ab7c7391a.jpg",
+          "views": 1508013,
+          "danmaku": 7865,
+          "url": "https://www.bilibili.com/video/BV1Bb42147jA"
+        }
+      ]
+    },
+    {
+      "season_id": 527242,
+      "title": "高考一轮复习（旧版）",
+      "intro": "系统复习合集来啦！会持续更新，覆盖高考核心考法+重难点。\n如果打击需要配套练习，可以购买纸质版教辅《必刷100讲》！\n也可以在APP“笔袋”或者公众号“一数儿”下载免费电子版！\n视频与教辅虽然内容大部分想通，但是各自独立，可分别观看或学习！",
+      "cover": "https://archive.biliimg.com/bfs/archive/435de38c921cbe8e85d374b5ae7af2fea9d98f4f.jpg",
+      "total": 49,
+      "fetched": 49,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1JG411x7jY",
+          "title": "高考数学系统复习【函数概念与性质】|函数篇1|小姚老师",
+          "duration": 4433,
+          "pubdate": 1656752713,
+          "cover": "https://i2.hdslb.com/bfs/archive/2922ece15ec663a6418f6b9776b9dba546233038.jpg",
+          "views": 9404255,
+          "danmaku": 31250,
+          "url": "https://www.bilibili.com/video/BV1JG411x7jY"
+        },
+        {
+          "bvid": "BV1Pe4y1R7Xh",
+          "title": "图像+比大小=10分【初等函数模块复习】高考数学|小姚老师",
+          "duration": 2822,
+          "pubdate": 1657369931,
+          "cover": "https://i0.hdslb.com/bfs/archive/701c56c4a98fc7ba19497259369fd5e9bc17c083.jpg",
+          "views": 2737674,
+          "danmaku": 13754,
+          "url": "https://www.bilibili.com/video/BV1Pe4y1R7Xh"
+        },
+        {
+          "bvid": "BV1mY4y177yd",
+          "title": "看到分段函数就头疼？看看这吧！高考复习|小姚老师",
+          "duration": 1962,
+          "pubdate": 1657974975,
+          "cover": "https://i0.hdslb.com/bfs/archive/958537759afafb7ff7f3a991aa6e5f6b1cfb25e7.jpg",
+          "views": 1937052,
+          "danmaku": 8613,
+          "url": "https://www.bilibili.com/video/BV1mY4y177yd"
+        },
+        {
+          "bvid": "BV1oW4y117Xu",
+          "title": "函数零点专题，分离思想的运用【高考一轮】小姚老师",
+          "duration": 1378,
+          "pubdate": 1658576099,
+          "cover": "https://i2.hdslb.com/bfs/archive/1224183545c053b81009016a205539ad883e47fb.jpg",
+          "views": 2274178,
+          "danmaku": 8312,
+          "url": "https://www.bilibili.com/video/BV1oW4y117Xu"
+        },
+        {
+          "bvid": "BV1wT411j7Ko",
+          "title": "【高考系统复习】复合函数 虽然复杂，套路性强！",
+          "duration": 1606,
+          "pubdate": 1660131000,
+          "cover": "https://i0.hdslb.com/bfs/archive/bce0aa2a0b446eba06bdbc87df88ec4aa712c203.jpg",
+          "views": 2231693,
+          "danmaku": 7946,
+          "url": "https://www.bilibili.com/video/BV1wT411j7Ko"
+        },
+        {
+          "bvid": "BV1ma4y1f7YC",
+          "title": "高考导数基础、常规题型，一个视频搞定！",
+          "duration": 2627,
+          "pubdate": 1661050480,
+          "cover": "https://i2.hdslb.com/bfs/archive/3368a86a8f1e44e0e5bba3117bcf9f542e2304da.jpg",
+          "views": 3804073,
+          "danmaku": 20189,
+          "url": "https://www.bilibili.com/video/BV1ma4y1f7YC"
+        },
+        {
+          "bvid": "BV1Qs4y1Z7kt",
+          "title": "导数恒成立问题，今天学TA！小姚老师",
+          "duration": 1091,
+          "pubdate": 1677376800,
+          "cover": "https://i0.hdslb.com/bfs/archive/acabd91a6eda39078e3434c4d35a6f352d219f16.jpg",
+          "views": 2218323,
+          "danmaku": 5748,
+          "url": "https://www.bilibili.com/video/BV1Qs4y1Z7kt"
+        },
+        {
+          "bvid": "BV1Ro4y1r7tE",
+          "title": "导数热点！30分钟彻底学完「同构」所有题型 | 神奇小猪",
+          "duration": 1901,
+          "pubdate": 1677930098,
+          "cover": "https://i1.hdslb.com/bfs/archive/59ecda94a58efa9ab65e5a59764484a230489748.jpg",
+          "views": 3424170,
+          "danmaku": 20657,
+          "url": "https://www.bilibili.com/video/BV1Ro4y1r7tE"
+        },
+        {
+          "bvid": "BV1Pv4y1v719",
+          "title": "高中函数-平移伸缩对称周期 性质总结大全！|小姚老师",
+          "duration": 1737,
+          "pubdate": 1673085496,
+          "cover": "https://i1.hdslb.com/bfs/archive/31680d951a9714348d9bdacd03d3e0e7d6fabc1a.jpg",
+          "views": 1688551,
+          "danmaku": 6275,
+          "url": "https://www.bilibili.com/video/BV1Pv4y1v719"
+        },
+        {
+          "bvid": "BV1yXbFeBE13",
+          "title": "基本不等式学懵了？40mins学会做题！",
+          "duration": 2784,
+          "pubdate": 1726833315,
+          "cover": "https://i1.hdslb.com/bfs/archive/6e3fa2cc772f09e00638a5cf59c59dfac92140d3.jpg",
+          "views": 3596201,
+          "danmaku": 31244,
+          "url": "https://www.bilibili.com/video/BV1yXbFeBE13"
+        },
+        {
+          "bvid": "BV1rnx4eeEDy",
+          "title": "“基本不等式”不会做题？一个视频搞定！",
+          "duration": 2538,
+          "pubdate": 1727697522,
+          "cover": "https://i0.hdslb.com/bfs/archive/dc2460c4020153fe315fe31ed6e0df7394347cc4.jpg",
+          "views": 2608269,
+          "danmaku": 24703,
+          "url": "https://www.bilibili.com/video/BV1rnx4eeEDy"
+        },
+        {
+          "bvid": "BV1FW4y1W75P",
+          "title": "12分钟学会三角所有诱导公式！|神奇小猪",
+          "duration": 1065,
+          "pubdate": 1670059226,
+          "cover": "https://i2.hdslb.com/bfs/archive/69802491f67978c6982e85a76716bdc250cd2cc7.jpg",
+          "views": 6792523,
+          "danmaku": 31696,
+          "url": "https://www.bilibili.com/video/BV1FW4y1W75P"
+        },
+        {
+          "bvid": "BV1Ke4y1Z71Z",
+          "title": "三角恒等变换，三大思想搞定！【高考复习】小姚老师",
+          "duration": 2272,
+          "pubdate": 1661601853,
+          "cover": "https://i1.hdslb.com/bfs/archive/56411a5db8a30dfb5a4062eb54f4954097870032.jpg",
+          "views": 2448919,
+          "danmaku": 12503,
+          "url": "https://www.bilibili.com/video/BV1Ke4y1Z71Z"
+        },
+        {
+          "bvid": "BV1wU4y1z7tZ",
+          "title": "三角函数-整体换元法系统复习【高考数学】小姚老师",
+          "duration": 2390,
+          "pubdate": 1662207797,
+          "cover": "https://i0.hdslb.com/bfs/archive/9175d40182dccfb9e9538d27903941617a66a01a.jpg",
+          "views": 1460840,
+          "danmaku": 8462,
+          "url": "https://www.bilibili.com/video/BV1wU4y1z7tZ"
+        },
+        {
+          "bvid": "BV1TT411M7bW",
+          "title": "【高考数学】三角函数图像综合题，一网打尽！|小姚老师",
+          "duration": 2007,
+          "pubdate": 1662897099,
+          "cover": "https://i0.hdslb.com/bfs/archive/dcc30edc59b672b9197f1b0c973e98aa54ac6223.jpg",
+          "views": 1349122,
+          "danmaku": 5042,
+          "url": "https://www.bilibili.com/video/BV1TT411M7bW"
+        },
+        {
+          "bvid": "BV1ue4y1c7qD",
+          "title": "快学！向量妙招！三点共线定理！等和线！",
+          "duration": 1676,
+          "pubdate": 1676638331,
+          "cover": "https://i2.hdslb.com/bfs/archive/6acb9616a9b9876e245c6330897a46ab91c6796c.jpg",
+          "views": 3570826,
+          "danmaku": 23856,
+          "url": "https://www.bilibili.com/video/BV1ue4y1c7qD"
+        },
+        {
+          "bvid": "BV1sA411176A",
+          "title": "数量积不会做？重要方法都在这！投影+极化恒等式+拆解 | 神奇小猪",
+          "duration": 1609,
+          "pubdate": 1677246035,
+          "cover": "https://i2.hdslb.com/bfs/archive/de097728bdadb39ff5a00fc5bdb8c008bcb8976c.jpg",
+          "views": 2658586,
+          "danmaku": 35975,
+          "url": "https://www.bilibili.com/video/BV1sA411176A"
+        },
+        {
+          "bvid": "BV1u8411c7k7",
+          "title": "平面向量建系教学！题目无系，心中有戏",
+          "duration": 1355,
+          "pubdate": 1677938326,
+          "cover": "https://i2.hdslb.com/bfs/archive/a933ac98c465f90b025aa2b0e46bef6dbb86d1b9.jpg",
+          "views": 1557186,
+          "danmaku": 7084,
+          "url": "https://www.bilibili.com/video/BV1u8411c7k7"
+        },
+        {
+          "bvid": "BV1gg4y1b7ju",
+          "title": "近年越来越\"离谱\"的正余弦定理化简，从基础到进阶！",
+          "duration": 1436,
+          "pubdate": 1678525364,
+          "cover": "https://i2.hdslb.com/bfs/archive/5a32601c0ba63888f4d48e16e0e08f337e40d412.jpg",
+          "views": 2808489,
+          "danmaku": 17036,
+          "url": "https://www.bilibili.com/video/BV1gg4y1b7ju"
+        },
+        {
+          "bvid": "BV1Ng4y1x7s9",
+          "title": "解三角形“范围与最值”没思路？两大做题方法梳理！",
+          "duration": 1319,
+          "pubdate": 1679128776,
+          "cover": "https://i1.hdslb.com/bfs/archive/505178c254823e9443dd9d2f71d90ec9a8162579.jpg",
+          "views": 3187189,
+          "danmaku": 19012,
+          "url": "https://www.bilibili.com/video/BV1Ng4y1x7s9"
+        },
+        {
+          "bvid": "BV1wY411d7uQ",
+          "title": "立体几何大题辅助线 终极教学，手把手指导！|平行篇",
+          "duration": 2856,
+          "pubdate": 1669510800,
+          "cover": "https://i1.hdslb.com/bfs/archive/992375acf6249f843feb7af75b5c4d9549197410.jpg",
+          "views": 2650758,
+          "danmaku": 30486,
+          "url": "https://www.bilibili.com/video/BV1wY411d7uQ"
+        },
+        {
+          "bvid": "BV1X44y1m7bv",
+          "title": "高考立体几何大题-垂直证明方法，全在这了",
+          "duration": 2623,
+          "pubdate": 1670741305,
+          "cover": "https://i1.hdslb.com/bfs/archive/dec83a9edb1b24ee36a921bb61e3190e973a8368.jpg",
+          "views": 3294573,
+          "danmaku": 17539,
+          "url": "https://www.bilibili.com/video/BV1X44y1m7bv"
+        },
+        {
+          "bvid": "BV1G24y1j7iQ",
+          "title": "立体几何如何算体积？公式法+割补法+祖暅原理",
+          "duration": 1439,
+          "pubdate": 1680338400,
+          "cover": "https://i2.hdslb.com/bfs/archive/d37c333edecea65d32ab35bb2b494d277ad140f6.jpg",
+          "views": 1780219,
+          "danmaku": 10641,
+          "url": "https://www.bilibili.com/video/BV1G24y1j7iQ"
+        },
+        {
+          "bvid": "BV19T411p7gi",
+          "title": "立体几何看见截面就怕？完整截面画法！|小姚老师",
+          "duration": 1115,
+          "pubdate": 1680873227,
+          "cover": "https://i0.hdslb.com/bfs/archive/a8bacc21423b1f60b9752f1ab3dcdfc4f335dc16.jpg",
+          "views": 2236099,
+          "danmaku": 8119,
+          "url": "https://www.bilibili.com/video/BV19T411p7gi"
+        },
+        {
+          "bvid": "BV1rG411P7kM",
+          "title": "高考立体几何噩梦-外接球，四大模型KO！|小姚老师",
+          "duration": 3099,
+          "pubdate": 1671328800,
+          "cover": "https://i1.hdslb.com/bfs/archive/f6789021b800af60c6f8692e5bdc4d90542d7228.jpg",
+          "views": 3902997,
+          "danmaku": 21286,
+          "url": "https://www.bilibili.com/video/BV1rG411P7kM"
+        },
+        {
+          "bvid": "BV1JY4y1o73Y",
+          "title": "高考立体几何-内切球难？就这两种思路！|小姚老师",
+          "duration": 1401,
+          "pubdate": 1674647351,
+          "cover": "https://i0.hdslb.com/bfs/archive/e5eb5c0749c08532c6da750464b65d612a56c0b4.jpg",
+          "views": 2941665,
+          "danmaku": 9148,
+          "url": "https://www.bilibili.com/video/BV1JY4y1o73Y"
+        },
+        {
+          "bvid": "BV1K14y197Rj",
+          "title": "【立体几何】当然用几何法！线线角与线面角总结！| 小姚老师",
+          "duration": 1936,
+          "pubdate": 1689254606,
+          "cover": "https://i1.hdslb.com/bfs/archive/dc9d403ebb4a6a1826b27453584bfed0cdbfe9c9.jpg",
+          "views": 1795216,
+          "danmaku": 9070,
+          "url": "https://www.bilibili.com/video/BV1K14y197Rj"
+        },
+        {
+          "bvid": "BV1YX4y1J7Qj",
+          "title": "【二面角】用几何法那么难吗？一个视频讲清细节！| 小姚老师",
+          "duration": 1527,
+          "pubdate": 1689946800,
+          "cover": "https://i1.hdslb.com/bfs/archive/e5b790b2bb836719217d11bc069741b06d7130ad.jpg",
+          "views": 2400382,
+          "danmaku": 8952,
+          "url": "https://www.bilibili.com/video/BV1YX4y1J7Qj"
+        },
+        {
+          "bvid": "BV1y14y1872V",
+          "title": "直线与圆公式、方法、二级结论全梳理，事半功倍！",
+          "duration": 3186,
+          "pubdate": 1664760600,
+          "cover": "https://i1.hdslb.com/bfs/archive/f1e1eba0027ff503afe707b2ce2434cfe08d73cd.jpg",
+          "views": 3935908,
+          "danmaku": 24824,
+          "url": "https://www.bilibili.com/video/BV1y14y1872V"
+        },
+        {
+          "bvid": "BV1r14y1j7Ev",
+          "title": "40分钟构建 椭圆题型、方法体系！",
+          "duration": 2404,
+          "pubdate": 1666534515,
+          "cover": "https://i0.hdslb.com/bfs/archive/60a9370a07ff505fd8c1ffd31c169c9664c04773.jpg",
+          "views": 3294182,
+          "danmaku": 17867,
+          "url": "https://www.bilibili.com/video/BV1r14y1j7Ev"
+        },
+        {
+          "bvid": "BV1wP4y1273G",
+          "title": "椭圆 好用的二级结论梳理！",
+          "duration": 1859,
+          "pubdate": 1667709716,
+          "cover": "https://i0.hdslb.com/bfs/archive/1bd2060753a3d7fb340bd0afefa919bf8fcdda87.jpg",
+          "views": 3586398,
+          "danmaku": 14142,
+          "url": "https://www.bilibili.com/video/BV1wP4y1273G"
+        },
+        {
+          "bvid": "BV15t4y1N7UN",
+          "title": "双曲线方法、题型、性质，框架梳理！",
+          "duration": 2155,
+          "pubdate": 1668318535,
+          "cover": "https://i0.hdslb.com/bfs/archive/009b3a7735c00f9dbaf66649f105a38d0108e58b.jpg",
+          "views": 2191093,
+          "danmaku": 10414,
+          "url": "https://www.bilibili.com/video/BV15t4y1N7UN"
+        },
+        {
+          "bvid": "BV1MP41137Yw",
+          "title": "抛物线重点全在这，事半功倍！超棒新老师登场！【圆锥曲线】",
+          "duration": 1854,
+          "pubdate": 1668857400,
+          "cover": "https://i1.hdslb.com/bfs/archive/bce35b1a0dd968a5ccde2c14b6c955f11f5fbd93.jpg",
+          "views": 3031202,
+          "danmaku": 17664,
+          "url": "https://www.bilibili.com/video/BV1MP41137Yw"
+        },
+        {
+          "bvid": "BV1sr4y1e7js",
+          "title": "圆锥曲线大题也能稳定得分？小姚老师教你清晰思路！第一集",
+          "duration": 1108,
+          "pubdate": 1642858567,
+          "cover": "https://i0.hdslb.com/bfs/archive/632e74b89bb129e061ba0446721cdd62793653fc.jpg",
+          "views": 1979491,
+          "danmaku": 8341,
+          "url": "https://www.bilibili.com/video/BV1sr4y1e7js"
+        },
+        {
+          "bvid": "BV1DY41157ap",
+          "title": "学会刻画参数，圆锥曲线大题思路也很清晰！小姚老师|亲子理论第二集：切线与同构",
+          "duration": 1682,
+          "pubdate": 1644234823,
+          "cover": "https://i1.hdslb.com/bfs/archive/2402753370a4c20b577a360c7d430637f713d706.jpg",
+          "views": 1080993,
+          "danmaku": 5836,
+          "url": "https://www.bilibili.com/video/BV1DY41157ap"
+        },
+        {
+          "bvid": "BV1Rq4y1x7uv",
+          "title": "高考数学圆锥曲线大题，实操找准方向！小姚老师|亲子理论第三集：长度篇",
+          "duration": 1723,
+          "pubdate": 1645876267,
+          "cover": "https://i0.hdslb.com/bfs/archive/99f943e259d837256902c644a7ee6e9b861810ff.jpg",
+          "views": 775728,
+          "danmaku": 4031,
+          "url": "https://www.bilibili.com/video/BV1Rq4y1x7uv"
+        },
+        {
+          "bvid": "BV1MR4y1Z791",
+          "title": "圆锥曲线硬解定理-入门到今年高考！|小姚老师",
+          "duration": 2411,
+          "pubdate": 1669457077,
+          "cover": "https://i0.hdslb.com/bfs/archive/9886563a6e2ff153ddcc53e71cbae1562da5224b.jpg",
+          "views": 1834847,
+          "danmaku": 5932,
+          "url": "https://www.bilibili.com/video/BV1MR4y1Z791"
+        },
+        {
+          "bvid": "BV1iq4y1B7Km",
+          "title": "圆锥曲线实用的特殊性质、二级结论、重要方法全梳理！",
+          "duration": 1700,
+          "pubdate": 1638064806,
+          "cover": "https://i1.hdslb.com/bfs/archive/478b321db686db782ece55f9e587cb6a6f093ddb.jpg",
+          "views": 3318239,
+          "danmaku": 13567,
+          "url": "https://www.bilibili.com/video/BV1iq4y1B7Km"
+        },
+        {
+          "bvid": "BV11K411X7Ps",
+          "title": "等差、等比数列重要性质全汇总！|小姚老师",
+          "duration": 1698,
+          "pubdate": 1670069479,
+          "cover": "https://i0.hdslb.com/bfs/archive/d956c6d0b1034909358d863c556dbf0f85b15430.jpg",
+          "views": 3094880,
+          "danmaku": 11422,
+          "url": "https://www.bilibili.com/video/BV11K411X7Ps"
+        },
+        {
+          "bvid": "BV1Me411P7tx",
+          "title": "数列求和三大核心方法，一个视频搞定！|神奇小猪",
+          "duration": 2207,
+          "pubdate": 1670678009,
+          "cover": "https://i2.hdslb.com/bfs/archive/028b218434bec523681165615a4619ceca72e2ac.jpg",
+          "views": 6390661,
+          "danmaku": 28956,
+          "url": "https://www.bilibili.com/video/BV1Me411P7tx"
+        },
+        {
+          "bvid": "BV1uV4y1c7o8",
+          "title": "高考涉及的数列通项核心求法， 都在这！|小猪2.0",
+          "duration": 1734,
+          "pubdate": 1671283242,
+          "cover": "https://i0.hdslb.com/bfs/archive/46238eb2ac9f6f2386c9e95b5f6647b184c83325.jpg",
+          "views": 4649438,
+          "danmaku": 18614,
+          "url": "https://www.bilibili.com/video/BV1uV4y1c7o8"
+        },
+        {
+          "bvid": "BV17V4y1w7kL",
+          "title": "高考数列anSn题型与变形，一步到位！|小姚老师",
+          "duration": 1762,
+          "pubdate": 1671886008,
+          "cover": "https://i2.hdslb.com/bfs/archive/71bba3fd2d68b516eca4f4fdb96d703029b60910.jpg",
+          "views": 2219741,
+          "danmaku": 8813,
+          "url": "https://www.bilibili.com/video/BV17V4y1w7kL"
+        },
+        {
+          "bvid": "BV14d4y177Qp",
+          "title": "看见数列奇偶问题就头秃？这是解药【求和篇】",
+          "duration": 2429,
+          "pubdate": 1672623900,
+          "cover": "https://i1.hdslb.com/bfs/archive/25168706bdaeadba3130925b556ec9da1bc4fbbd.jpg",
+          "views": 2347745,
+          "danmaku": 10652,
+          "url": "https://www.bilibili.com/video/BV14d4y177Qp"
+        },
+        {
+          "bvid": "BV1DR4y1m7gU",
+          "title": "奇偶数列不会做？超详细原理解读！",
+          "duration": 2599,
+          "pubdate": 1673145316,
+          "cover": "https://i0.hdslb.com/bfs/archive/8e8df734029de9e3b4a668d35a35dd0577e4b794.jpg",
+          "views": 2130210,
+          "danmaku": 10866,
+          "url": "https://www.bilibili.com/video/BV1DR4y1m7gU"
+        },
+        {
+          "bvid": "BV1Gg4y1t7HA",
+          "title": "排列组合，20分钟从零基础到高考要求！|小姚老师",
+          "duration": 1463,
+          "pubdate": 1679142661,
+          "cover": "https://i2.hdslb.com/bfs/archive/44c98a09c9245fb594de4a397a2d7f1a53d671dd.jpg",
+          "views": 6794055,
+          "danmaku": 27229,
+          "url": "https://www.bilibili.com/video/BV1Gg4y1t7HA"
+        },
+        {
+          "bvid": "BV1sc411L75L",
+          "title": "【二项式定理】保姆级梳理，重点题型一网打尽！",
+          "duration": 2103,
+          "pubdate": 1679734443,
+          "cover": "https://i1.hdslb.com/bfs/archive/5d7ccfab1ee3aa80d1efabc27ef0a79249b5da94.jpg",
+          "views": 7769497,
+          "danmaku": 56456,
+          "url": "https://www.bilibili.com/video/BV1sc411L75L"
+        },
+        {
+          "bvid": "BV1UV4y1C7di",
+          "title": "【期末冲刺】概率统计“易错点”太多？20分钟保姆式查缺补漏！",
+          "duration": 1390,
+          "pubdate": 1687350000,
+          "cover": "https://i0.hdslb.com/bfs/archive/8223806fdd878147f945f383d48b9774a67cb034.jpg",
+          "views": 5433588,
+          "danmaku": 21857,
+          "url": "https://www.bilibili.com/video/BV1UV4y1C7di"
+        },
+        {
+          "bvid": "BV13X4y1d7So",
+          "title": "条件概率-超保姆的全面细致讲解！|小姚老师",
+          "duration": 1842,
+          "pubdate": 1680352322,
+          "cover": "https://i2.hdslb.com/bfs/archive/31712a6b8238a4a3c4b43448fe5f8d34c297c5bb.jpg",
+          "views": 3998399,
+          "danmaku": 17206,
+          "url": "https://www.bilibili.com/video/BV13X4y1d7So"
+        },
+        {
+          "bvid": "BV1qc411n7w1",
+          "title": "概率大题看不懂？保姆式分析指导！|高考数学",
+          "duration": 3434,
+          "pubdate": 1681612813,
+          "cover": "https://i0.hdslb.com/bfs/archive/5030b9ec32ad97a2f060801f70bffb1e7a91731d.jpg",
+          "views": 2356699,
+          "danmaku": 10114,
+          "url": "https://www.bilibili.com/video/BV1qc411n7w1"
+        }
+      ]
+    },
+    {
+      "season_id": 1291233,
+      "title": "高考最后十课",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/b222383abb745aa7cc7aaa0130385b447c386af0.jpg",
+      "total": 22,
+      "fetched": 22,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV13H4y1K74s",
+          "title": "【最后十课】函数篇！2024高考冲刺！",
+          "duration": 8202,
+          "pubdate": 1713013238,
+          "cover": "https://i1.hdslb.com/bfs/archive/2da946be4b0459d7a25c0240cc2ef6fd8fe19f07.jpg",
+          "views": 6219867,
+          "danmaku": 53939,
+          "url": "https://www.bilibili.com/video/BV13H4y1K74s"
+        },
+        {
+          "bvid": "BV1ww4m1U7CP",
+          "title": "【最后十课】三角函数篇！2024高考冲刺！",
+          "duration": 5885,
+          "pubdate": 1713597848,
+          "cover": "https://i2.hdslb.com/bfs/archive/7f6f9c512b15ff70a320330f326d10ccc8edcb36.jpg",
+          "views": 2642922,
+          "danmaku": 24072,
+          "url": "https://www.bilibili.com/video/BV1ww4m1U7CP"
+        },
+        {
+          "bvid": "BV1dZ421n7zm",
+          "title": "【最后十课】解三角形篇！2024高考冲刺！",
+          "duration": 5264,
+          "pubdate": 1714132432,
+          "cover": "https://i1.hdslb.com/bfs/archive/6c395d4b5328e1104267c946d06cb5be378ee88d.jpg",
+          "views": 2481888,
+          "danmaku": 21969,
+          "url": "https://www.bilibili.com/video/BV1dZ421n7zm"
+        },
+        {
+          "bvid": "BV1Nf421D7Kv",
+          "title": "【最后十课】立体几何基础篇 ！2024高考冲刺！",
+          "duration": 5459,
+          "pubdate": 1714548600,
+          "cover": "https://i1.hdslb.com/bfs/archive/baa2619e3cd20d76f3d928eb97356b755917145a.jpg",
+          "views": 3716352,
+          "danmaku": 31600,
+          "url": "https://www.bilibili.com/video/BV1Nf421D7Kv"
+        },
+        {
+          "bvid": "BV1Gw4m1y7m5",
+          "title": "【最后十课】立体几何进阶篇！2024高考冲刺",
+          "duration": 5974,
+          "pubdate": 1714793417,
+          "cover": "https://i2.hdslb.com/bfs/archive/15574308c1fc43bdf0ced3f7b2a98a13eca5690b.jpg",
+          "views": 2085199,
+          "danmaku": 17436,
+          "url": "https://www.bilibili.com/video/BV1Gw4m1y7m5"
+        },
+        {
+          "bvid": "BV1yz42127Dc",
+          "title": "【最后十课】数列篇！2024高考冲刺！",
+          "duration": 8709,
+          "pubdate": 1715482401,
+          "cover": "https://i1.hdslb.com/bfs/archive/8447f17a6a601be55ff6b7f3144767e57d1314a7.jpg",
+          "views": 2704094,
+          "danmaku": 26241,
+          "url": "https://www.bilibili.com/video/BV1yz42127Dc"
+        },
+        {
+          "bvid": "BV1ty411a7z2",
+          "title": "【最后十课】圆锥曲线小题篇！2024高考冲刺！",
+          "duration": 8851,
+          "pubdate": 1716032361,
+          "cover": "https://i0.hdslb.com/bfs/archive/1ba305492e13d4be4c13326105274107b05b04bd.jpg",
+          "views": 1774538,
+          "danmaku": 14071,
+          "url": "https://www.bilibili.com/video/BV1ty411a7z2"
+        },
+        {
+          "bvid": "BV1xr42157dc",
+          "title": "【最后十课】概率统计基础篇！2024高考冲刺！",
+          "duration": 6703,
+          "pubdate": 1716205727,
+          "cover": "https://i2.hdslb.com/bfs/archive/dab5485d4129886c438c40209fa927793a07db1f.jpg",
+          "views": 4564860,
+          "danmaku": 39569,
+          "url": "https://www.bilibili.com/video/BV1xr42157dc"
+        },
+        {
+          "bvid": "BV14M4m1k71g",
+          "title": "【最后十课】概率大题束手无策？来拔高！2024高考冲刺！",
+          "duration": 5432,
+          "pubdate": 1716549596,
+          "cover": "https://i0.hdslb.com/bfs/archive/9d8f15edfc7216eccbecddba7ba8d6c8c9d44d37.jpg",
+          "views": 2102110,
+          "danmaku": 13882,
+          "url": "https://www.bilibili.com/video/BV14M4m1k71g"
+        },
+        {
+          "bvid": "BV1sr421w7GS",
+          "title": "【最后十课】导数基础+压轴全梳理！2024高考冲刺！",
+          "duration": 10801,
+          "pubdate": 1717073011,
+          "cover": "https://i0.hdslb.com/bfs/archive/3bae8f8a84fe312106a66297c92b379db72f9f2c.jpg",
+          "views": 2262704,
+          "danmaku": 27982,
+          "url": "https://www.bilibili.com/video/BV1sr421w7GS"
+        },
+        {
+          "bvid": "BV1nt421K7F8",
+          "title": "【最后十课·终篇】圆锥曲线大题！2024高考冲刺！",
+          "duration": 11865,
+          "pubdate": 1717229281,
+          "cover": "https://i1.hdslb.com/bfs/archive/3c03c20f6d13c42aa2caf244cefcfd253fdcd01f.jpg",
+          "views": 2269096,
+          "danmaku": 21615,
+          "url": "https://www.bilibili.com/video/BV1nt421K7F8"
+        },
+        {
+          "bvid": "BV1th4y1W7sq",
+          "title": "【最后十课】函数与导数-核心总结！2023高考冲刺！第一讲",
+          "duration": 5475,
+          "pubdate": 1681562525,
+          "cover": "https://i2.hdslb.com/bfs/archive/1e8f09f345868fa8ee3b9b6e03fd13802eafcc56.jpg",
+          "views": 4367047,
+          "danmaku": 41080,
+          "url": "https://www.bilibili.com/video/BV1th4y1W7sq"
+        },
+        {
+          "bvid": "BV1os4y1A7Ka",
+          "title": "【最后十课】三角函数-核心全讲！2023高考冲刺！第2讲",
+          "duration": 5267,
+          "pubdate": 1682252351,
+          "cover": "https://i1.hdslb.com/bfs/archive/3f416019c398ecd9a608df0efce7fd6ee5ca6b55.jpg",
+          "views": 2391332,
+          "danmaku": 19239,
+          "url": "https://www.bilibili.com/video/BV1os4y1A7Ka"
+        },
+        {
+          "bvid": "BV1fM4y187C8",
+          "title": "【最后十课】一小时拿下“解三角形“所有题型！2023高考冲刺！第3讲",
+          "duration": 3861,
+          "pubdate": 1682684100,
+          "cover": "https://i0.hdslb.com/bfs/archive/7e9b3421f125506e227b669496f6b3533cb7a4cd.jpg",
+          "views": 2457841,
+          "danmaku": 20590,
+          "url": "https://www.bilibili.com/video/BV1fM4y187C8"
+        },
+        {
+          "bvid": "BV1E14y1Z7wq",
+          "title": "【最后十课】立体几何-重点全解！2023高考冲刺！第5讲",
+          "duration": 6121,
+          "pubdate": 1682864343,
+          "cover": "https://i0.hdslb.com/bfs/archive/a278ea603da5b4589b28e876e27e450045200323.jpg",
+          "views": 2541450,
+          "danmaku": 18220,
+          "url": "https://www.bilibili.com/video/BV1E14y1Z7wq"
+        },
+        {
+          "bvid": "BV1zM4y187yk",
+          "title": "【最后十课】数列-核心全梳理！2023高考冲刺！第4讲",
+          "duration": 4603,
+          "pubdate": 1682842228,
+          "cover": "https://i1.hdslb.com/bfs/archive/0ec3f7c1194a11948b73752516db2c10db1affa2.jpg",
+          "views": 2294136,
+          "danmaku": 17411,
+          "url": "https://www.bilibili.com/video/BV1zM4y187yk"
+        },
+        {
+          "bvid": "BV1t24y1T7Vx",
+          "title": "【最后十课】概率统计-扫盲式全面复习！2023高考冲刺！第6讲",
+          "duration": 6628,
+          "pubdate": 1683458326,
+          "cover": "https://i1.hdslb.com/bfs/archive/55bcf33520fe383e55021e9cc419519a62ce1f42.jpg",
+          "views": 3703721,
+          "danmaku": 48372,
+          "url": "https://www.bilibili.com/video/BV1t24y1T7Vx"
+        },
+        {
+          "bvid": "BV1zg4y1V7sW",
+          "title": "【最后十课】不等式、向量、二项式等五章串讲！2023高考冲刺！第7讲",
+          "duration": 4926,
+          "pubdate": 1684035611,
+          "cover": "https://i1.hdslb.com/bfs/archive/0665af7d257e08dc16f50b325b516e753a021027.jpg",
+          "views": 1736051,
+          "danmaku": 14289,
+          "url": "https://www.bilibili.com/video/BV1zg4y1V7sW"
+        },
+        {
+          "bvid": "BV17z4y1b7ad",
+          "title": "【最后十课】圆锥曲线小题-考点全梳理！2023高考冲刺！第8讲",
+          "duration": 4197,
+          "pubdate": 1684580400,
+          "cover": "https://i2.hdslb.com/bfs/archive/d6578a141c7a0cf2596e5238cf8006cee50a4220.jpg",
+          "views": 1690205,
+          "danmaku": 17574,
+          "url": "https://www.bilibili.com/video/BV17z4y1b7ad"
+        },
+        {
+          "bvid": "BV1Uh4y1t7rP",
+          "title": "【最后十课】解析大题-题型策略都在这！2023高考冲刺！第9讲",
+          "duration": 5723,
+          "pubdate": 1684634400,
+          "cover": "https://i1.hdslb.com/bfs/archive/cd0fb3fec7fb29a602f895b06506000aa58ac93e.jpg",
+          "views": 1397629,
+          "danmaku": 7478,
+          "url": "https://www.bilibili.com/video/BV1Uh4y1t7rP"
+        },
+        {
+          "bvid": "BV1nh411c7cx",
+          "title": "【最后十课终篇】导数大题-方法思路大总结！2023高考冲刺！第10讲",
+          "duration": 4588,
+          "pubdate": 1685179800,
+          "cover": "https://i2.hdslb.com/bfs/archive/4e3c489d5766e8f74979bddcf54fc4a2d3710695.jpg",
+          "views": 1622726,
+          "danmaku": 10083,
+          "url": "https://www.bilibili.com/video/BV1nh411c7cx"
+        },
+        {
+          "bvid": "BV1Nc41137sq",
+          "title": "【2023高考】让你安心的最后一课！条件翻译+考点梳理+考试锦囊！",
+          "duration": 4035,
+          "pubdate": 1685863313,
+          "cover": "https://i2.hdslb.com/bfs/archive/d8fdbdd1608376e6ec358b4fecf805c5091ce031.jpg",
+          "views": 2459131,
+          "danmaku": 62920,
+          "url": "https://www.bilibili.com/video/BV1Nc41137sq"
+        }
+      ]
+    },
+    {
+      "season_id": 1623316,
+      "title": "进阶小专题",
+      "intro": "收录以往各模块的进阶思想和方法，用于基础较好的同学平时学习以及考前冲刺！",
+      "cover": "https://archive.biliimg.com/bfs/archive/e03a4307a4bbe4fb5df2cfe86f6b9373065f3f10.jpg",
+      "total": 21,
+      "fetched": 21,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1uz4y1475S",
+          "title": "【洛必达法则】高考使用指南",
+          "duration": 1049,
+          "pubdate": 1690718400,
+          "cover": "https://i0.hdslb.com/bfs/archive/b69b9880c2e4b3f81f27a43f5af992d84ff6690f.jpg",
+          "views": 6367237,
+          "danmaku": 25077,
+          "url": "https://www.bilibili.com/video/BV1uz4y1475S"
+        },
+        {
+          "bvid": "BV1zG4y1v7Ev",
+          "title": "6分钟上手高考中泰勒展开运用【保姆级教程】",
+          "duration": 903,
+          "pubdate": 1659787497,
+          "cover": "https://i0.hdslb.com/bfs/archive/17bb4bc1fcff930d7ae565ade6a7f70dbe7c9fcf.jpg",
+          "views": 5013955,
+          "danmaku": 17376,
+          "url": "https://www.bilibili.com/video/BV1zG4y1v7Ev"
+        },
+        {
+          "bvid": "BV18R4y1E79R",
+          "title": "高中数学同构思想，最保姆式的讲解，从基础到压轴！",
+          "duration": 775,
+          "pubdate": 1636251312,
+          "cover": "https://i1.hdslb.com/bfs/archive/f1cd03b6f5f3b99c83b84dfd03bbf468d06c5e40.jpg",
+          "views": 1440861,
+          "danmaku": 5689,
+          "url": "https://www.bilibili.com/video/BV18R4y1E79R"
+        },
+        {
+          "bvid": "BV1Vf4y1F7v4",
+          "title": "学霸喜欢的三角换元法-普通人也能会！【决胜强基系列】",
+          "duration": 1379,
+          "pubdate": 1642766389,
+          "cover": "https://i0.hdslb.com/bfs/archive/e7423889debad41ab8e1827fad013072973eaf50.jpg",
+          "views": 2429273,
+          "danmaku": 9752,
+          "url": "https://www.bilibili.com/video/BV1Vf4y1F7v4"
+        },
+        {
+          "bvid": "BV1pP4y1k79Q",
+          "title": "盘点高中数学有价值的二级结论！别学没用的！【必修篇】",
+          "duration": 3061,
+          "pubdate": 1673775090,
+          "cover": "https://i0.hdslb.com/bfs/archive/25e3a3ab4f1d016bc60ccd73744413a338b886fb.jpg",
+          "views": 5224299,
+          "danmaku": 14951,
+          "url": "https://www.bilibili.com/video/BV1pP4y1k79Q"
+        },
+        {
+          "bvid": "BV1FR4y1o7J8",
+          "title": "基本不等式，解题靠运气？来学核心思想！",
+          "duration": 2013,
+          "pubdate": 1664848800,
+          "cover": "https://i0.hdslb.com/bfs/archive/290f89bb0a57af3e2704789ef68d2bcef80e557d.jpg",
+          "views": 4079915,
+          "danmaku": 40784,
+          "url": "https://www.bilibili.com/video/BV1FR4y1o7J8"
+        },
+        {
+          "bvid": "BV1bm4y1y7wt",
+          "title": "立体几何-核心辅助线大全总结！|小姚老师",
+          "duration": 2806,
+          "pubdate": 1682082543,
+          "cover": "https://i0.hdslb.com/bfs/archive/db51b5c3570ad90d1ca70271c6e09ffecca6dd60.jpg",
+          "views": 1552268,
+          "danmaku": 5030,
+          "url": "https://www.bilibili.com/video/BV1bm4y1y7wt"
+        },
+        {
+          "bvid": "BV1xZ4y1y7b7",
+          "title": "超好懂的立体几何动点专题！位置关系的判定",
+          "duration": 1571,
+          "pubdate": 1651568400,
+          "cover": "https://i2.hdslb.com/bfs/archive/abbd06d1eef234ceb055e18a9656c445015c0ffa.jpg",
+          "views": 810255,
+          "danmaku": 2793,
+          "url": "https://www.bilibili.com/video/BV1xZ4y1y7b7"
+        },
+        {
+          "bvid": "BV1mA4y1X7Bm",
+          "title": "慎入，又臭又长的概率大题！手把手教你分析 |高考数学",
+          "duration": 1693,
+          "pubdate": 1649504150,
+          "cover": "https://i2.hdslb.com/bfs/archive/1ce7cedf610e9089bb57932ac355b725b0d70b93.jpg",
+          "views": 2742509,
+          "danmaku": 8016,
+          "url": "https://www.bilibili.com/video/BV1mA4y1X7Bm"
+        },
+        {
+          "bvid": "BV12u411H7df",
+          "title": "【解析几何】究竟有哪些“二级结论”要掌握？「上篇」| 小姚老师",
+          "duration": 3025,
+          "pubdate": 1691238000,
+          "cover": "https://i2.hdslb.com/bfs/archive/8525d9ec6511e7272d8302a501d95d2e35286bdd.jpg",
+          "views": 1269634,
+          "danmaku": 3910,
+          "url": "https://www.bilibili.com/video/BV12u411H7df"
+        },
+        {
+          "bvid": "BV1Kb4y187Gn",
+          "title": "圆锥曲线 动态离心率三大核心策略！ |或或",
+          "duration": 840,
+          "pubdate": 1635645600,
+          "cover": "https://i2.hdslb.com/bfs/archive/be410dfc216685505d7210d7536fa3afbd61e398.jpg",
+          "views": 1050182,
+          "danmaku": 3976,
+          "url": "https://www.bilibili.com/video/BV1Kb4y187Gn"
+        },
+        {
+          "bvid": "BV143411w7P1",
+          "title": "高中数学解题思想【数形结合】|理解本质，灵活运用！",
+          "duration": 2369,
+          "pubdate": 1656208799,
+          "cover": "https://i1.hdslb.com/bfs/archive/e2f22417f4618db5a7d9e5321bced3f065e9d704.jpg",
+          "views": 1127182,
+          "danmaku": 5721,
+          "url": "https://www.bilibili.com/video/BV143411w7P1"
+        },
+        {
+          "bvid": "BV15a411H7nE",
+          "title": "根据什么分类？17分钟学会数学分类讨论原理！",
+          "duration": 1015,
+          "pubdate": 1657710610,
+          "cover": "https://i0.hdslb.com/bfs/archive/049dfb428e7a33a27a3d72e4bb1c72878d2b8721.jpg",
+          "views": 528783,
+          "danmaku": 1458,
+          "url": "https://www.bilibili.com/video/BV15a411H7nE"
+        },
+        {
+          "bvid": "BV1zD4y1s76r",
+          "title": "越来越复杂的指对函数，一个视频打开思路！",
+          "duration": 1833,
+          "pubdate": 1668848400,
+          "cover": "https://i2.hdslb.com/bfs/archive/e5aff5f64ea26aa183042c40d9661f97f494be74.jpg",
+          "views": 2364837,
+          "danmaku": 11256,
+          "url": "https://www.bilibili.com/video/BV1zD4y1s76r"
+        },
+        {
+          "bvid": "BV12e4y1E7AL",
+          "title": "【高考解三角形】几何法核心思路与结论",
+          "duration": 1894,
+          "pubdate": 1665887700,
+          "cover": "https://i0.hdslb.com/bfs/archive/7b81c2612a3b3ebbd8932c6f971a3be0acbdabc9.jpg",
+          "views": 1179261,
+          "danmaku": 5255,
+          "url": "https://www.bilibili.com/video/BV12e4y1E7AL"
+        },
+        {
+          "bvid": "BV1gB4y1j7YY",
+          "title": "高考解三角形热点-化角消元思想，包教包会！",
+          "duration": 1787,
+          "pubdate": 1665107100,
+          "cover": "https://i2.hdslb.com/bfs/archive/a399d7fc92310d81f350a34e396d0b3c5922beb6.jpg",
+          "views": 1265096,
+          "danmaku": 6968,
+          "url": "https://www.bilibili.com/video/BV1gB4y1j7YY"
+        },
+        {
+          "bvid": "BV1AY411P7uR",
+          "title": "立体几何垂直利器：三垂线定理教学与运用|小姚老师",
+          "duration": 1427,
+          "pubdate": 1650634169,
+          "cover": "https://i0.hdslb.com/bfs/archive/7749e57d6d5b987f05afad13dedce1ff2957fbb4.jpg",
+          "views": 1063651,
+          "danmaku": 2743,
+          "url": "https://www.bilibili.com/video/BV1AY411P7uR"
+        },
+        {
+          "bvid": "BV1aY411j7kL",
+          "title": "立体几何平行不会用？证明与运用思路都在这儿！｜小姚老师",
+          "duration": 1581,
+          "pubdate": 1650030576,
+          "cover": "https://i2.hdslb.com/bfs/archive/b14a48521991e12cec76516a379ea3ce5709c35e.jpg",
+          "views": 675532,
+          "danmaku": 2616,
+          "url": "https://www.bilibili.com/video/BV1aY411j7kL"
+        },
+        {
+          "bvid": "BV1pF41137g2",
+          "title": "刚学立体几何懵了？学会找面，秒变初中几何！|小姚老师",
+          "duration": 1154,
+          "pubdate": 1648992626,
+          "cover": "https://i1.hdslb.com/bfs/archive/ebec07d4b264d272b4ef5c3d3979f6983363b8b3.jpg",
+          "views": 988155,
+          "danmaku": 2203,
+          "url": "https://www.bilibili.com/video/BV1pF41137g2"
+        },
+        {
+          "bvid": "BV1Qu411B7N1",
+          "title": "导数小题云刷题，来练练手！核心方法基本全覆盖！",
+          "duration": 1579,
+          "pubdate": 1647090004,
+          "cover": "https://i1.hdslb.com/bfs/archive/4096896b9363c3361ba393044c78597da07caba7.jpg",
+          "views": 1071950,
+          "danmaku": 4451,
+          "url": "https://www.bilibili.com/video/BV1Qu411B7N1"
+        },
+        {
+          "bvid": "BV17L411N7Gb",
+          "title": "高中数学平面向量主流方法、二级结论全梳理！|小姚老师",
+          "duration": 2799,
+          "pubdate": 1646401709,
+          "cover": "https://i1.hdslb.com/bfs/archive/41286dc69267198a456e3ab88ef55f8437c87255.jpg",
+          "views": 1687568,
+          "danmaku": 8543,
+          "url": "https://www.bilibili.com/video/BV17L411N7Gb"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 7,
+    "videos": 320,
+    "truncated_collections": []
+  }
+}

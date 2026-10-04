@@ -1,0 +1,1119 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>学习资源库</title>
+<style>
+  /* ---------- 主题：只有黑与白 ---------- */
+  :root{
+    --bg:#ffffff; --fg:#111111; --muted:#767676; --line:rgba(0,0,0,.14);
+    --line-strong:rgba(0,0,0,.34); --fill:rgba(0,0,0,.04); --fill-2:rgba(0,0,0,.07);
+    --inverse-bg:#111111; --inverse-fg:#ffffff;
+    color-scheme:light;
+  }
+  [data-theme="dark"]{
+    --bg:#0a0a0a; --fg:#f0f0f0; --muted:#8d8d8d; --line:rgba(255,255,255,.16);
+    --line-strong:rgba(255,255,255,.42); --fill:rgba(255,255,255,.05); --fill-2:rgba(255,255,255,.09);
+    --inverse-bg:#f0f0f0; --inverse-fg:#0a0a0a;
+    color-scheme:dark;
+  }
+  @media (prefers-color-scheme: dark){
+    [data-theme="auto"]{
+      --bg:#0a0a0a; --fg:#f0f0f0; --muted:#8d8d8d; --line:rgba(255,255,255,.16);
+      --line-strong:rgba(255,255,255,.42); --fill:rgba(255,255,255,.05); --fill-2:rgba(255,255,255,.09);
+      --inverse-bg:#f0f0f0; --inverse-fg:#0a0a0a;
+      color-scheme:dark;
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--fg);
+    font:15px/1.55 "Inter","Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;text-decoration:none}
+  button,input,select{font:inherit;color:inherit}
+  button{background:none;border:1px solid var(--line);padding:7px 11px;cursor:pointer;border-radius:0}
+  button:hover{border-color:var(--line-strong)}
+  button.on{background:var(--inverse-bg);color:var(--inverse-fg);border-color:var(--inverse-bg)}
+  /* 下拉栏：深色模式下原生弹层会和文字糊在一起，所以背景/文字都显式指定（深色用纯黑） */
+  select{background:var(--bg);color:var(--fg)}
+  select option{background:var(--bg);color:var(--fg)}
+  [data-theme="dark"] select,[data-theme="dark"] select option{background:#000;color:#f0f0f0}
+  @media (prefers-color-scheme: dark){
+    [data-theme="auto"] select,[data-theme="auto"] select option{background:#000;color:#f0f0f0}
+  }
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+  /* 撑满整个浏览器宽度：PC 上不再是一个居中的窄栏 */
+  .wrap{width:100%;max-width:none;margin:0;padding:0 26px}
+  @media (min-width:1760px){ .wrap{padding:0 44px} }
+
+  /* ---------- 添加 UP 主（需要本地 serve.py） ---------- */
+  .addpanel{display:none;border:1px solid var(--line);padding:16px 18px;margin:0 0 18px}
+  .addpanel.open{display:block}
+  .addpanel .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .addpanel input[type=text]{flex:1;min-width:260px;border:1px solid var(--line);background:transparent;
+    padding:10px 12px;border-radius:0}
+  .addpanel input[type=text]:focus{outline:none;border-color:var(--line-strong)}
+  .addpanel .hint{color:var(--muted);font-size:12.5px;margin-top:10px;line-height:1.7}
+  .addpanel .hint code{border:1px solid var(--line);padding:0 4px}
+  .addpanel .barwrap{height:2px;background:var(--fill-2);margin-top:12px;display:none}
+  .addpanel .barwrap i{display:block;height:100%;background:var(--fg);width:0;transition:width .3s}
+  .addpanel .log{display:none;margin-top:12px;max-height:160px;overflow:auto;white-space:pre-wrap;
+    font-family:ui-monospace,Consolas,monospace;font-size:11.5px;line-height:1.65;color:var(--muted);
+    background:var(--fill);padding:9px 11px}
+  .msg{display:none;margin-top:12px;font-size:13px;border-left:2px solid var(--fg);padding-left:9px}
+  .msg.on{display:block}
+
+  /* ---------- 顶栏 ---------- */
+  header{border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:10}
+  .top{display:flex;align-items:baseline;gap:16px;padding:18px 0 14px}
+  .brand{font-size:19px;font-weight:700;letter-spacing:-.2px}
+  .brand span{color:var(--muted);font-weight:400;font-size:13px;margin-left:10px;letter-spacing:0}
+  .top .spacer{flex:1}
+  .theme{display:flex;border:1px solid var(--line);flex:none;border-radius:5px;overflow:hidden}
+  .theme button{border:none;border-right:1px solid var(--line);padding:6px 10px;font-size:12px;
+    letter-spacing:.06em;white-space:nowrap}
+  .theme button:last-child{border-right:none}
+  .stats{display:flex;gap:22px;padding:0 0 14px;flex-wrap:wrap}
+  .stat{display:flex;flex-direction:column;gap:1px}
+  .stat b{font-family:ui-monospace,Consolas,monospace;font-size:17px;font-weight:600;letter-spacing:-.3px}
+  .stat small{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
+  .progress{flex:1;min-width:160px;align-self:center}
+  .bar{height:2px;background:var(--fill-2);margin-top:8px}
+  .bar i{display:block;height:100%;background:var(--fg)}
+
+  /* ---------- 工具条 ---------- */
+  .tools{display:flex;gap:10px;align-items:center;padding:14px 0;flex-wrap:wrap}
+  .search{flex:1;min-width:220px;position:relative}
+  .search input{width:100%;border:1px solid var(--line);background:transparent;padding:10px 12px;border-radius:0}
+  .search input:focus{outline:none;border-color:var(--line-strong)}
+  select{border:1px solid var(--line);background:transparent;padding:9px 8px;border-radius:0}
+  .toggle{font-size:13px}
+
+  /* ---------- 主体：侧栏 + 内容 ---------- */
+  main{display:grid;grid-template-columns:230px 1fr;gap:32px;padding:22px 0 60px;align-items:start}
+  nav{border-right:1px solid var(--line);padding-right:18px;position:sticky;top:132px;
+    max-height:calc(100vh - 150px);overflow:auto}
+  nav h4{margin:0 0 8px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
+    font-weight:600}
+  nav h4.subj{margin-top:16px;padding-top:10px;border-top:1px solid var(--line);color:var(--fg)}
+  nav ul{list-style:none;margin:0 0 22px;padding:0}
+  nav li{display:flex;justify-content:space-between;gap:8px;padding:5px 0;cursor:pointer;font-size:14px;
+    border-bottom:1px solid transparent}
+  nav li:hover{color:var(--fg)}
+  nav li .n{color:var(--muted);font-size:12px}
+  nav li.on{font-weight:700}
+  nav li.on .n{color:var(--fg)}
+  nav li span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  /* 学科分组 + 组内的 UP 主行（带改学科 / 删除） */
+  nav .subj-row{display:flex;justify-content:space-between;gap:8px;padding:6px 0;cursor:pointer;
+    font-weight:700;font-size:13.5px;border-bottom:1px solid var(--line);margin-top:4px}
+  nav .subj-row:hover{color:var(--fg)}
+  nav .subj-row .n{color:var(--muted);font-size:12px;font-weight:400}
+  nav .subj-row.on{text-decoration:underline;text-underline-offset:3px}
+  nav .src-row{display:flex;align-items:center;gap:6px;padding:4px 0 4px 12px;font-size:13px}
+  nav .src-row .nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer}
+  nav .src-row .nm:hover{text-decoration:underline;text-underline-offset:3px}
+  nav .src-row .n{color:var(--muted);font-size:12px}
+  nav .src-row button.mini{border:none;padding:0 3px;color:var(--muted);font-size:13px;line-height:1;
+    background:none;cursor:pointer}
+  nav .src-row button.mini:hover{color:var(--fg);border:none}
+  nav .src-row .warn{color:var(--fg)}
+  nav .addlink{padding:6px 0 6px 12px;font-size:12.5px;color:var(--muted);cursor:pointer}
+  nav .addlink:hover{color:var(--fg)}
+  nav .newsubj{display:flex;gap:6px;padding:6px 0 6px 12px}
+  nav .newsubj input{flex:1;min-width:0;border:1px solid var(--line-strong);background:var(--bg);
+    color:var(--fg);padding:4px 6px;font-size:12.5px;border-radius:0}
+
+  .group{margin-bottom:38px}
+  .group > h3{display:flex;align-items:baseline;gap:10px;margin:0 0 14px;font-size:15px;font-weight:700;
+    letter-spacing:-.1px;padding-bottom:8px;border-bottom:1px solid var(--line-strong)}
+  .group > h3 .n{color:var(--muted);font-size:12px;font-weight:400}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:22px 18px}
+  .grid.list{grid-template-columns:1fr;gap:2px}
+
+  /* ---------- 卡片 ---------- */
+  .card{display:flex;flex-direction:column;gap:9px;min-width:0}
+  .thumb{position:relative;display:block;aspect-ratio:16/10;background:var(--fill);overflow:hidden;
+    border:1px solid var(--line)}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .dur{position:absolute;right:0;bottom:0;background:var(--inverse-bg);color:var(--inverse-fg);
+    font-family:ui-monospace,Consolas,monospace;font-size:11px;padding:2px 6px;letter-spacing:.02em}
+  .bundle{border:1px solid var(--line-strong);padding:0 5px;font-size:10.5px;letter-spacing:.06em}
+  .author{border:1px solid var(--line);padding:0 5px;font-size:10.5px;letter-spacing:.04em;color:var(--muted)}
+  .chips.srcs{padding-bottom:6px}
+  .chips.srcs button{font-size:12px}
+  .card h4{margin:0;font-size:14.5px;font-weight:600;line-height:1.42;letter-spacing:-.1px;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .meta{display:flex;gap:10px;flex-wrap:wrap;color:var(--muted);font-size:11.5px;letter-spacing:.02em}
+  .meta .ct{border-bottom:1px solid var(--line)}
+  .acts{display:flex;gap:6px;margin-top:1px}
+  .acts button{padding:4px 8px;font-size:11.5px;letter-spacing:.04em;color:var(--muted)}
+  .acts button.on{color:var(--inverse-fg)}
+  .card.seen h4{color:var(--muted)}
+
+  .grid.list .card{flex-direction:row;align-items:center;gap:14px;padding:9px 0;border-bottom:1px solid var(--line)}
+  .grid.list .thumb{width:128px;flex:none;aspect-ratio:16/9}
+  .grid.list .body{flex:1;display:flex;align-items:center;gap:14px;min-width:0}
+  .grid.list .body h4{-webkit-line-clamp:1;flex:1}
+  .grid.list .acts{flex:none}
+  .grid.list .meta{flex:none;flex-direction:row}
+
+  .empty{padding:60px 0;color:var(--muted);text-align:center;border:1px dashed var(--line)}
+  footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:12.5px;
+    display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  .chips{display:none;gap:8px;overflow-x:auto;padding:0 0 12px;-webkit-overflow-scrolling:touch}
+  .chips button{white-space:nowrap;font-size:12.5px;padding:6px 10px}
+  @media (max-width:700px){
+    .top{flex-wrap:wrap;gap:10px 12px;padding:14px 0 10px}
+    .brand{flex:1 1 auto;font-size:17px}
+    .brand span{display:none}
+    .top .stats{order:3;width:100%;gap:18px;padding:0}
+    .stat b{font-size:15px}
+    .stat small{font-size:10px;letter-spacing:.08em}
+    .progress{width:100%;padding-bottom:4px}
+    .tools{gap:8px;padding:12px 0}
+    .search{min-width:100%}
+  }
+  @media (max-width:900px){
+    main{grid-template-columns:1fr;gap:0}
+    nav{display:none}
+    .chips{display:flex}
+    .wrapper{padding:0 14px}
+    .grid{grid-template-columns:1fr;gap:20px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">学习资源库<span id="srcLabel"></span></div>
+      <div class="spacer"></div>
+      <div class="stats" style="padding:0">
+        <div class="stat"><b id="sTotal">0</b><small>视频</small></div>
+        <div class="stat" title="已导入的学科数（含自定义学科）"><b id="sSubj">0</b><small>学科</small></div>
+        <div class="stat" title="单个视频超过 3 小时的完整课程（一本通 / 必刷100讲 这类）">
+          <b id="sBundle">0</b><small>课程包</small></div>
+        <div class="stat" title="只算普通单课视频的时长，不含课程包"><b id="sHours">0</b><small>单课小时</small></div>
+        <div class="stat"><b id="sSeen">0</b><small>看过</small></div>
+        <div class="stat"><b id="sStar">0</b><small>收藏</small></div>
+      </div>
+      <div class="theme" id="themeBox" role="group" aria-label="主题">
+        <button data-theme="auto" title="跟随系统">自动</button>
+        <button data-theme="light" title="浅色">浅</button>
+        <button data-theme="dark" title="深色">深</button>
+      </div>
+    </div>
+    <div class="progress">
+      <div class="meta mono" style="justify-content:space-between;display:flex">
+        <span>学习进度</span><span id="progText">0 / 0</span>
+      </div>
+      <div class="bar"><i id="progBar" style="width:0%"></i></div>
+    </div>
+    <div class="tools">
+      <div class="search"><input id="q" type="search" placeholder="搜索标题 / 课程 / 分类（空格分隔多个关键词）"></div>
+      <select id="sort" title="排序">
+        <option value="default">默认（课程顺序）</option>
+        <option value="views">播放量</option>
+        <option value="duration">时长</option>
+        <option value="new">最新发布</option>
+      </select>
+      <button id="btnUnseen" class="toggle">只看未看</button>
+      <button id="btnStar" class="toggle">只看收藏</button>
+      <button id="btnView" class="toggle">列表</button>
+      <button id="btnAdd" class="toggle">+ 添加 UP 主</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="addpanel" id="addPanel">
+    <div class="row">
+      <input id="addQuery" type="text" placeholder="输入 B 站 UP 主名称（如 黄夫人）或 ID / 主页链接">
+      <select id="addSubject" title="按哪个学科整理">
+        <option value="auto">自动识别学科</option>
+      </select>
+      <button id="addGo">开始抓取</button>
+      <button id="addClose">关闭</button>
+    </div>
+    <div class="hint" id="addHint"></div>
+    <div class="barwrap" id="addBarWrap"><i id="addBar"></i></div>
+    <div class="log" id="addLog"></div>
+    <div class="msg" id="addMsg"></div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="chips srcs" id="subjChips"></div>
+  <div class="chips srcs" id="srcChips"></div>
+  <div class="chips" id="chips"></div>
+</div>
+
+<div class="wrap">
+  <main>
+    <nav id="nav"></nav>
+    <section id="content"></section>
+  </main>
+  <footer>
+    <div id="footInfo">—</div>
+    <div>仅供个人学习整理 · 视频版权归原作者所有 · 点击卡片跳转到 B 站观看</div>
+  </footer>
+</div>
+
+<script src="data/resources.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  /* ======================================================================
+     CORE：纯函数区，不碰 DOM。单独抽出来给 node 测试（test_core.mjs）。
+     这里的数值口径必须和 build_resources.py 完全一致，否则「前端即时合并」
+     和「服务端重新生成的数据」会对不上（test_core.mjs 就是拿真实数据对比两边结果的）。
+     ====================================================================== */
+  /* === CORE:START === */
+  function clock(sec) {
+    sec = Math.max(0, Number(sec) || 0);
+    var h = Math.floor(sec / 3600), m = Math.floor((sec % 3600) / 60), s = sec % 60;
+    var mm = (m < 10 ? '0' : '') + m, ss = (s < 10 ? '0' : '') + s;
+    return h ? (h + ':' + mm + ':' + ss) : (m + ':' + ss);
+  }
+  function humanDuration(sec) {
+    sec = Math.max(0, Number(sec) || 0);
+    var h = Math.floor(sec / 3600), m = Math.floor((sec % 3600) / 60);
+    if (h) return m ? (h + ' 小时 ' + m + ' 分') : (h + ' 小时');   // 整小时不显示"0 分"，与 Python 一致
+    if (m) return m + ' 分钟';
+    return sec + ' 秒';
+  }
+  function fmtNum(n) {
+    n = Number(n) || 0;
+    if (n >= 100000000) return (n / 100000000).toFixed(1).replace(/\.0$/, '') + '亿';
+    if (n >= 10000) return (n / 10000).toFixed(1).replace(/\.0$/, '') + '万';
+    return String(n);
+  }
+  /* 按视频重新汇总学科 / 分类 / 课程 / 来源 / 全局统计 —— 口径与 build_resources.py 的 build() 一致 */
+  function recomputeSubjects(videos, courses, subjectList) {
+    var out = [], seen = {};
+    (subjectList || []).forEach(function (s) {
+      if (seen[s.id]) return;
+      seen[s.id] = 1;
+      out.push({ id: s.id, name: s.name, builtin: !!s.builtin, count: 0, sources: 0, courses: 0,
+                 duration_sec: 0 });
+    });
+    // 数据里出现、但清单里没有的学科（比如切片带来的自定义学科）补进去
+    videos.forEach(function (v) {
+      if (seen[v.subject_id]) return;
+      seen[v.subject_id] = 1;
+      out.push({ id: v.subject_id, name: v.subject, builtin: false, count: 0, sources: 0,
+                 courses: 0, duration_sec: 0 });
+    });
+    var byId = {};
+    out.forEach(function (s) { byId[s.id] = s; });
+    var sets = {};
+    videos.forEach(function (v) {
+      var s = byId[v.subject_id];
+      if (!s) return;
+      s.count += 1;
+      s.duration_sec += (Number(v.duration) || 0);
+      (sets[s.id] = sets[s.id] || {})[v.source_id] = 1;
+    });
+    out.forEach(function (s) {
+      s.sources = Object.keys(sets[s.id] || {}).length;
+      s.courses = (courses || []).filter(function (c) { return c.subject_id === s.id; }).length;
+      s.duration_text = humanDuration(s.duration_sec);
+    });
+    return out;
+  }
+  function recomputeAggregates(videos, courses, sources, subjectList) {
+    videos = videos || []; courses = courses || []; sources = sources || [];
+
+    var buckets = {};
+    videos.forEach(function (v) {
+      var b = buckets[v.category_id];
+      if (!b) {
+        b = buckets[v.category_id] = { id: v.category_id, name: v.category, subject_id: v.subject_id,
+                                       subject: v.subject, count: 0, duration_sec: 0 };
+      }
+      b.count += 1;
+      b.duration_sec += (Number(v.duration) || 0);
+    });
+    var categories = Object.keys(buckets).map(function (k) { return buckets[k]; });
+    categories.sort(function (a, b) {
+      if (a.subject_id !== b.subject_id) return a.subject_id < b.subject_id ? -1 : 1;
+      if (a.count !== b.count) return b.count - a.count;
+      return a.name < b.name ? -1 : (a.name > b.name ? 1 : 0);
+    });
+    categories.forEach(function (c) { c.duration_text = humanDuration(c.duration_sec); });
+
+    var cmap = {};
+    courses.forEach(function (c) {
+      cmap[c.id] = { id: c.id, season_id: c.season_id, title: c.title, intro: c.intro, cover: c.cover,
+                     source_id: c.source_id, author: c.author, subject_id: c.subject_id,
+                     subject: c.subject, count: 0, duration_sec: 0 };
+    });
+    videos.forEach(function (v) {
+      var c = cmap[v.course_id];
+      if (!c) {
+        c = cmap[v.course_id] = { id: v.course_id, season_id: null, title: v.course_title, intro: '',
+                                  cover: '', source_id: v.source_id, author: v.author,
+                                  subject_id: v.subject_id, subject: v.subject,
+                                  count: 0, duration_sec: 0 };
+      }
+      c.count += 1;
+      c.duration_sec += (Number(v.duration) || 0);
+    });
+    var courseList = courses.map(function (c) { return cmap[c.id]; });
+    Object.keys(cmap).forEach(function (k) {
+      if (courseList.indexOf(cmap[k]) < 0) courseList.push(cmap[k]);
+    });
+    courseList.forEach(function (c) { c.duration_text = humanDuration(c.duration_sec); });
+
+    var totalSec = 0, lessonSec = 0, bundles = 0;
+    videos.forEach(function (v) {
+      var d = Number(v.duration) || 0;
+      totalSec += d;
+      if (v.is_bundle) bundles += 1; else lessonSec += d;
+    });
+    var srcList = sources.map(function (s) {
+      var mine = videos.filter(function (v) { return v.source_id === s.id; });
+      var sec = mine.reduce(function (a, v) { return a + (Number(v.duration) || 0); }, 0);
+      var b = mine.filter(function (v) { return v.is_bundle; }).length;
+      return { id: s.id, name: s.name, mid: s.mid, subject_id: s.subject_id, subject: s.subject,
+               space: s.space, count: mine.length,
+               courses: courseList.filter(function (c) { return c.source_id === s.id; }).length,
+               duration_sec: sec, duration_text: humanDuration(sec),
+               bundles: b, lessons: mine.length - b };
+    });
+    var subjectRows = recomputeSubjects(videos, courseList, subjectList);
+    return {
+      categories: categories, courses: courseList, sources: srcList, subjects: subjectRows,
+      stats: {
+        total: videos.length, courses: courseList.length, categories: categories.length,
+        sources: srcList.length,
+        subjects: subjectRows.filter(function (s) { return s.count; }).length,
+        duration_sec: totalSec, duration_text: humanDuration(totalSec),
+        bundles: bundles, lessons: videos.length - bundles,
+        lesson_duration_sec: lessonSec, lesson_duration_text: humanDuration(lessonSec),
+        bundle_threshold_sec: 10800
+      }
+    };
+  }
+  /* 把一个「单来源切片」（服务端抓取结果）并进当前数据；同 id 的来源会被替换而不是重复追加 */
+  function mergeSlice(data, slice) {
+    var sid = slice.source.id;
+    var videos = data.videos.filter(function (v) { return v.source_id !== sid; }).concat(slice.videos);
+    videos.forEach(function (v, i) { v.order = i; });     // 新来源排在最后，默认排序才稳定
+    var sources = data.sources.filter(function (s) { return s.id !== sid; }).concat([slice.source]);
+    var courses = data.courses.filter(function (c) { return c.source_id !== sid; }).concat(slice.courses);
+    var subjectList = (data.subjects || []).concat(slice.subjects || []);
+    var agg = recomputeAggregates(videos, courses, sources, subjectList);
+    return {
+      schema: data.schema, generated_at: slice.generated_at || data.generated_at,
+      generated_at_text: slice.generated_at_text || data.generated_at_text,
+      sources: agg.sources, subjects: agg.subjects, stats: agg.stats, categories: agg.categories,
+      courses: agg.courses, videos: videos
+    };
+  }
+  /* === CORE:END === */
+
+  /* ---------- 数据加载：优先 window.RESOURCES（file:// 也能用），否则 fetch ---------- */
+  var DATA = window.RESOURCES || null;
+  var S = { q: '', cat: 'all', course: 'all', source: 'all', subject: 'all', sort: 'default',
+            view: 'grid', unseen: false, starred: false };
+  var KEY_SEEN = 'resource-lab.seen', KEY_STAR = 'resource-lab.starred', KEY_THEME = 'resource-lab.theme';
+  var seen = {}, starred = {};
+
+  function loadLocal(k) { try { return JSON.parse(localStorage.getItem(k) || '{}'); } catch (e) { return {}; } }
+  function saveLocal(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+  /* fmtNum / clock / humanDuration / recomputeAggregates / mergeSlice 都在上面的 CORE 块里 */
+
+  /* ---------- 主题 ---------- */
+  var theme = 'auto';
+  try { theme = localStorage.getItem(KEY_THEME) || 'auto'; } catch (e) {}
+  function applyTheme(t) {
+    theme = t;
+    document.documentElement.setAttribute('data-theme', t);
+    try { localStorage.setItem(KEY_THEME, t); } catch (e) {}
+    [].forEach.call(document.getElementById('themeBox').children, function (b) {
+      b.classList.toggle('on', b.dataset.theme === t);
+    });
+    var dark = t === 'dark' || (t === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    var m = document.querySelector('meta[name=theme-color]');
+    if (m) m.setAttribute('content', dark ? '#0a0a0a' : '#ffffff');
+  }
+  document.getElementById('themeBox').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-theme]');
+    if (b) applyTheme(b.dataset.theme);
+  });
+
+  /* ---------- 学科 / 来源（UP 主） ---------- */
+  function sources() { return (DATA && DATA.sources) || []; }
+  function subjects() { return (DATA && DATA.subjects) || []; }
+  function sourceById(id) { return sources().filter(function (s) { return s.id === id; })[0] || null; }
+  function subjectById(id) { return subjects().filter(function (s) { return s.id === id; })[0] || null; }
+  function sourceBySubject(sid) {
+    return sources().filter(function (s) { return s.subject_id === sid; })[0] || null;
+  }
+  function subjectName(sid) {
+    var s = subjectById(sid);
+    return s ? s.name : sid;
+  }
+  /* 当前作用域里的学科：显式选了学科就用它，否则用当前来源所属的学科 */
+  function curSubject() {
+    if (S.subject !== 'all') return S.subject;
+    var s = sourceById(S.source);
+    return s ? s.subject_id : null;
+  }
+  /* 当前来源下应该显示哪些分类 */
+  function visibleCategories() {
+    var subj = curSubject();
+    return DATA.categories.filter(function (c) { return !subj || c.subject_id === subj; });
+  }
+  /* 当前学科下应该显示哪些 UP 主 */
+  function visibleSources() {
+    return S.subject === 'all' ? sources()
+      : sources().filter(function (s) { return s.subject_id === S.subject; });
+  }
+  /* 侧栏里显示的学科：有视频的都显示，用户自己加的没视频也显示（否则他会以为没加上） */
+  function displaySubjects() {
+    return subjects().filter(function (s) { return s.count || !s.builtin; });
+  }
+
+  /* ---------- 过滤与排序 ---------- */
+  function match(v) {
+    if (S.subject !== 'all' && v.subject_id !== S.subject) return false;
+    if (S.source !== 'all' && v.source_id !== S.source) return false;
+    if (S.cat !== 'all' && v.category_id !== S.cat) return false;
+    if (S.course !== 'all' && v.course_id !== S.course) return false;
+    if (S.unseen && seen[v.id]) return false;
+    if (S.starred && !starred[v.id]) return false;
+    if (S.q) {
+      var hay = (v.title + ' ' + v.course_title + ' ' + v.category + ' ' + (v.author || '') + ' ' +
+                 (v.subject || '') + ' ' + (v.tags || []).join(' ')).toLowerCase();
+      var terms = S.q.toLowerCase().split(/\s+/).filter(Boolean);
+      for (var i = 0; i < terms.length; i++) if (hay.indexOf(terms[i]) < 0) return false;
+    }
+    return true;
+  }
+  function sortVideos(list) {
+    var l = list.slice();
+    if (S.sort === 'views') l.sort(function (a, b) { return b.views - a.views; });
+    else if (S.sort === 'duration') l.sort(function (a, b) { return b.duration - a.duration; });
+    else if (S.sort === 'new') l.sort(function (a, b) { return b.pubdate - a.pubdate; });
+    else l.sort(function (a, b) { return (a.order || 0) - (b.order || 0); });
+    return l;
+  }
+
+  /* ---------- 渲染 ---------- */
+  function cardHTML(v) {
+    var isSeen = !!seen[v.id], isStar = !!starred[v.id];
+    var badge = v.is_bundle ? '<span class="bundle">课程包</span>' : '';
+    return '<article class="card' + (isSeen ? ' seen' : '') + '" data-id="' + esc(v.id) + '">' +
+      '<a class="thumb" href="' + esc(v.url) + '" target="_blank" rel="noopener noreferrer">' +
+      (v.cover ? '<img src="' + esc(v.cover) + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '') +
+      '<span class="dur" title="' + esc(v.duration_text) + '">' + esc(v.duration_label || v.duration_text) +
+      '</span></a>' +
+      '<h4><a href="' + esc(v.url) + '" target="_blank" rel="noopener noreferrer">' + esc(v.title) + '</a></h4>' +
+      '<div class="meta"><span class="mono">▶ ' + fmtNum(v.views) + '</span>' +
+      '<span class="mono">' + esc(v.date_text || '') + '</span>' + badge +
+      '<span class="author">@' + esc(v.author || '') + '</span>' +
+      '<span class="ct">' + esc(v.course_title) + '</span></div>' +
+      '<div class="acts">' +
+      '<button data-act="seen" class="' + (isSeen ? 'on' : '') + '">' + (isSeen ? '✓ 看过' : '标记看过') + '</button>' +
+      '<button data-act="star" class="' + (isStar ? 'on' : '') + '">' + (isStar ? '★ 已收藏' : '☆ 收藏') + '</button>' +
+      '</div></article>';
+  }
+
+  function render() {
+    if (!DATA) return;
+    var vids = DATA.videos.filter(match);
+    vids = sortVideos(vids);
+
+    var content = document.getElementById('content');
+    if (!vids.length) {
+      content.innerHTML = '<div class="empty">没有匹配的视频<br><span style="font-size:12.5px">' +
+        '试试清空搜索词，或点掉「只看未看 / 只看收藏」</span></div>';
+    } else if (S.sort !== 'default' || S.q || S.cat !== 'all' || S.course !== 'all' ||
+               S.source !== 'all' || S.subject !== 'all' || S.unseen || S.starred) {
+      // 有筛选时平铺，更符合"我在找某一条"的心态
+      var head = [];
+      if (S.subject !== 'all') head.push(subjectName(S.subject));
+      if (S.source !== 'all') { var sc = sourceById(S.source); if (sc) head.push('@' + sc.name); }
+      if (S.cat !== 'all') { var cc = DATA.categories.filter(function (c) { return c.id === S.cat; })[0];
+        if (cc) head.push(cc.name); }
+      if (S.course !== 'all') { var co = DATA.courses.filter(function (c) { return c.id === S.course; })[0];
+        if (co) head.push(co.title); }
+      var extra = head.length ? ' <span class="n" style="margin-left:6px">' + esc(head.join(' · ')) + '</span>' : '';
+      content.innerHTML = '<div class="group"><h3>结果 <span class="n">' + vids.length + ' 条</span>' +
+        extra + '</h3>' +
+        '<div class="grid ' + (S.view === 'list' ? 'list' : '') + '">' + vids.map(cardHTML).join('') + '</div></div>';
+    } else {
+      // 默认：按分类分组（同时显示全部来源时，标出这个分类属于哪个学科）
+      content.innerHTML = visibleCategories().map(function (c) {
+        var list = vids.filter(function (v) { return v.category_id === c.id; });
+        if (!list.length) return '';
+        var subj = (S.source === 'all' && sources().length > 1)
+          ? ' <span class="n">· ' + esc(c.subject) + '</span>' : '';
+        return '<div class="group"><h3>' + esc(c.name) + subj +
+          ' <span class="n">' + list.length + ' 个 · ' + esc(c.duration_text) + '</span></h3>' +
+          '<div class="grid ' + (S.view === 'list' ? 'list' : '') + '">' + list.map(cardHTML).join('') +
+          '</div></div>';
+      }).join('') || '<div class="empty">这个筛选下没有视频</div>';
+    }
+    var tot = DATA.videos.length, sn = Object.keys(seen).length, st = Object.keys(starred).length;
+    document.getElementById('sTotal').textContent = tot;
+    document.getElementById('sSubj').textContent = DATA.stats.subjects != null
+      ? DATA.stats.subjects
+      : (DATA.subjects || []).filter(function (s) { return s.count; }).length;
+    document.getElementById('sBundle').textContent = DATA.stats.bundles != null
+      ? DATA.stats.bundles : DATA.videos.filter(function (v) { return v.is_bundle; }).length;
+    var lessonSec = DATA.stats.lesson_duration_sec != null
+      ? DATA.stats.lesson_duration_sec
+      : DATA.videos.filter(function (v) { return !v.is_bundle; }).reduce(function (a, v) { return a + v.duration; }, 0);
+    document.getElementById('sHours').textContent = Math.round(lessonSec / 3600);
+    document.getElementById('sSeen').textContent = sn;
+    document.getElementById('sStar').textContent = st;
+    document.getElementById('progText').textContent = sn + ' / ' + tot;
+    document.getElementById('progBar').style.width = (tot ? (sn / tot * 100) : 0) + '%';
+
+    /* 手机上：学科一行、该学科下的 UP 主一行、分类一行，都可横滑 */
+    var subChips = ['<button data-subject="all" class="' + (S.subject === 'all' ? 'on' : '') + '">全部学科 ' +
+                    tot + '</button>'];
+    displaySubjects().forEach(function (sub) {
+      subChips.push('<button data-subject="' + esc(sub.id) + '" class="' +
+        (S.subject === sub.id ? 'on' : '') + '">' + esc(sub.name) + ' ' + sub.count + '</button>');
+    });
+    document.getElementById('subjChips').innerHTML = subChips.join('');
+
+    var sc2 = ['<button data-src="all" class="' + (S.source === 'all' ? 'on' : '') + '">' +
+               (S.subject === 'all' ? '全部 UP 主' : '本学科全部') + ' ' +
+               DATA.videos.filter(function (v) {
+                 return S.subject === 'all' || v.subject_id === S.subject;
+               }).length + '</button>'];
+    visibleSources().forEach(function (s) {
+      sc2.push('<button data-src="' + esc(s.id) + '" class="' + (S.source === s.id ? 'on' : '') + '">@' +
+        esc(s.name) + ' ' + s.count + '</button>');
+    });
+    document.getElementById('srcChips').innerHTML = sc2.join('');
+
+    var vis = visibleCategories();
+    var visCount = DATA.videos.filter(function (v) {
+      return (!curSubject() || v.subject_id === curSubject());
+    }).length;
+    var chips = ['<button data-cat="all" class="' + (S.cat === 'all' ? 'on' : '') + '">' +
+                 (curSubject() ? '本学科全部' : '全部') + ' ' + visCount + '</button>'];
+    vis.forEach(function (c) {
+      chips.push('<button data-cat="' + esc(c.id) + '" class="' + (S.cat === c.id ? 'on' : '') + '">' +
+        esc(c.name) + ' ' + c.count + '</button>');
+    });
+    document.getElementById('chips').innerHTML = chips.join('');
+  }
+
+  function renderNav() {
+    if (!DATA) return;
+    var total = DATA.videos.length;
+    var visCount = DATA.videos.filter(function (v) {
+      return !curSubject() || v.subject_id === curSubject();
+    }).length;
+
+    /* 学科 → 该学科下的 UP 主，每个 UP 主带「改学科 / 删除」 */
+    var h = '<h4>学科 / UP 主</h4><ul>' +
+      '<li data-subject="all" class="' + (S.subject === 'all' && S.source === 'all' ? 'on' : '') + '">' +
+      '<span>全部来源</span><span class="n">' + total + '</span></li></ul>';
+    /* 「+ 添加学科」必须放在学科列表之前：「全部来源」那一行下面。
+       之前拼在循环之后，它会被画在最后一个学科（物理）下面，看起来像是物理分组里的东西。 */
+    if (NEW_SUBJ_OPEN) {
+      h += '<div class="newsubj"><input id="newSubjName" placeholder="新学科名称，回车确定">' +
+        '<button class="mini" data-addsubjok="1">加</button></div>';
+    } else {
+      h += '<div class="addlink" data-addsubj="1">+ 添加学科</div>';
+    }
+    displaySubjects().forEach(function (sub) {
+      var label = '<span>' + esc(sub.name) + '</span>';
+      var tail = '<span class="n">' + sub.count + '</span>';
+      if (!sub.builtin) {
+        tail += '<button class="mini" data-delsubj="' + esc(sub.id) + '" title="删除这个自定义学科">×</button>';
+      }
+      h += '<div class="subj-row' + (S.subject === sub.id ? ' on' : '') + '" data-subject="' + esc(sub.id) +
+        '" title="只看「' + esc(sub.name) + '」">' + label + tail + '</div>';
+      var mine = sources().filter(function (s) { return s.subject_id === sub.id; });
+      if (!mine.length) {
+        h += '<div class="src-row"><span class="nm" style="color:var(--muted);cursor:default">' +
+          '（还没有 UP 主）</span></div>';
+      }
+      mine.forEach(function (src) {
+        if (DEL_ASK === src.id) {
+          h += '<div class="src-row"><span class="nm warn">删除 @' + esc(src.name) + '？</span>' +
+            '<button class="mini" data-delok="' + esc(src.id) + '" title="确认删除">确认</button>' +
+            '<button class="mini" data-delno="1" title="取消">取消</button></div>';
+        } else if (EDIT_SRC === src.id) {
+          h += '<div class="src-row"><span class="nm">@' + esc(src.name) + ' →</span>' +
+            '<select data-changesel="' + esc(src.id) + '" title="改到哪个学科">' +
+            subjects().map(function (x) {
+              return '<option value="' + esc(x.id) + '"' + (x.id === src.subject_id ? ' selected' : '') +
+                '>' + esc(x.name) + '</option>';
+            }).join('') + '</select></div>';
+        } else {
+          h += '<div class="src-row">' +
+            '<span class="nm" data-src="' + esc(src.id) + '" title="@' + esc(src.name) + ' · ' +
+            esc(src.subject) + ' · ' + esc(src.space || '') + '">@' + esc(src.name) + '</span>' +
+            '<span class="n">' + src.count + '</span>' +
+            '<button class="mini" data-change="' + esc(src.id) + '" title="改学科">⇄</button>' +
+            '<button class="mini" data-del="' + esc(src.id) + '" title="删除这个 UP 主">×</button>' +
+            '</div>';
+        }
+      });
+    });
+
+    var vis = visibleCategories();
+    h += '<h4>主题分类</h4><ul>' +
+      '<li data-cat="all" class="' + (S.cat === 'all' ? 'on' : '') + '"><span>全部</span>' +
+      '<span class="n">' + visCount + '</span></li></ul>';
+    var subjOrder = [];
+    vis.forEach(function (c) { if (subjOrder.indexOf(c.subject_id) < 0) subjOrder.push(c.subject_id); });
+    subjOrder.forEach(function (sid) {
+      if (subjOrder.length > 1) h += '<h4 class="subj">' + esc(subjectName(sid)) + '</h4>';
+      h += '<ul>' + vis.filter(function (c) { return c.subject_id === sid; }).map(function (c) {
+        return '<li data-cat="' + esc(c.id) + '" class="' + (S.cat === c.id ? 'on' : '') + '">' +
+          '<span title="' + esc(c.name) + '">' + esc(c.name) + '</span>' +
+          '<span class="n">' + c.count + '</span></li>';
+      }).join('') + '</ul>';
+    });
+
+    var courses = DATA.courses.filter(function (c) { return !curSubject() || c.subject_id === curSubject(); });
+    h += '<h4>课程合集</h4><ul>' +
+      '<li data-course="all" class="' + (S.course === 'all' ? 'on' : '') + '"><span>全部课程</span>' +
+      '<span class="n">' + (curSubject() ? visCount : DATA.videos.length) + '</span></li>' +
+      courses.map(function (c) {
+        return '<li data-course="' + esc(c.id) + '" class="' + (S.course === c.id ? 'on' : '') + '">' +
+          '<span title="' + esc('@' + c.author + ' · ' + c.title) + '">' +
+          (S.source === 'all' ? esc(c.author) + ' · ' : '') + esc(c.title) + '</span>' +
+          '<span class="n">' + c.count + '</span></li>';
+      }).join('') + '</ul>';
+    document.getElementById('nav').innerHTML = h;
+  }
+
+  /* ---------- 事件 ---------- */
+  var DEL_ASK = null, EDIT_SRC = null, NEW_SUBJ_OPEN = false;
+
+  /* 学科 / 来源 / 分类三者互相约束，避免出现"物理学科 + 数学分类"这种空结果 */
+  function pickSubject(id) {
+    S.subject = id; S.source = 'all'; S.course = 'all';
+    if (id !== 'all' && S.cat !== 'all') {
+      var c = DATA.categories.filter(function (x) { return x.id === S.cat; })[0];
+      if (!c || c.subject_id !== id) S.cat = 'all';
+    }
+  }
+  function pickSource(id) {
+    S.source = id; S.course = 'all';
+    var src = sourceById(id);
+    S.subject = src ? src.subject_id : 'all';
+    if (S.cat !== 'all') {
+      var c = DATA.categories.filter(function (x) { return x.id === S.cat; })[0];
+      if (!c || (S.subject !== 'all' && c.subject_id !== S.subject)) S.cat = 'all';
+    }
+  }
+  function pickCategory(id) {
+    S.cat = id; S.course = 'all';
+    if (id !== 'all') {
+      var c = DATA.categories.filter(function (x) { return x.id === id; })[0];
+      var s = c ? sourceBySubject(c.subject_id) : null;
+      S.subject = c ? c.subject_id : S.subject;
+      if (s) S.source = s.id;
+    }
+  }
+  function refresh() { renderNav(); render(); }
+
+  /* ---------- 学科 / UP 主 的管理（需要本地 serve.py） ---------- */
+  function needApi(what) {
+    if (API.ok) return false;
+    el('addPanel').classList.add('open');
+    setHint();
+    showMsg('err', what + '需要通过本地服务：先在 resource-lab 目录运行 python serve.py，' +
+      '再用它打印的地址打开本页');
+    return true;
+  }
+  function api(method, path, body) {
+    return fetch(path, {
+      method: method, cache: 'no-store',
+      headers: body ? { 'Content-Type': 'application/json' } : undefined,
+      body: body ? JSON.stringify(body) : undefined
+    }).then(function (r) {
+      return r.json().then(function (j) { return { status: r.status, body: j }; });
+    }).then(function (res) {
+      if (!res.body || !res.body.ok) {
+        throw new Error((res.body && res.body.error) || ('HTTP ' + res.status));
+      }
+      return res.body;
+    });
+  }
+  function failMsg(what, e) {
+    refresh();
+    el('addPanel').classList.add('open');
+    showMsg('err', what + '失败：' + e.message);
+  }
+  function deleteSource(id) {
+    if (needApi('删除 UP 主')) { DEL_ASK = null; refresh(); return; }
+    var src = sourceById(id);
+    api('POST', 'api/source/delete', { id: id }).then(function () {
+      showMsg('ok', '已删除 @' + (src ? src.name : id) + '，原文件移到了 data/trash/（可恢复），页面即将刷新');
+      location.reload();
+    }).catch(function (e) { DEL_ASK = null; failMsg('删除 @' + (src ? src.name : id), e); });
+  }
+  function changeSourceSubject(id, sid) {
+    if (needApi('改学科')) { EDIT_SRC = null; refresh(); return; }
+    api('POST', 'api/source/subject', { id: id, subject_id: sid }).then(function () {
+      EDIT_SRC = null;
+      location.reload();
+    }).catch(function (e) { EDIT_SRC = null; failMsg('改学科', e); });
+  }
+  function deleteSubject(id) {
+    if (needApi('删除学科')) return;
+    var sub = subjectById(id);
+    api('DELETE', 'api/subjects/' + encodeURIComponent(id)).then(function () {
+      DATA.subjects = subjects().filter(function (s) { return s.id !== id; });
+      if (S.subject === id) { S.subject = 'all'; S.source = 'all'; }
+      if (DATA.stats && DATA.stats.subjects != null) {
+        DATA.stats.subjects = DATA.subjects.filter(function (s) { return s.count; }).length;
+      }
+      fillSubjectSelect();
+      refresh();
+      el('addPanel').classList.add('open');
+      showMsg('ok', '已删除自定义学科「' + (sub ? sub.name : id) + '」');
+    }).catch(function (e) { failMsg('删除学科', e); });
+  }
+  function addSubject(name) {
+    if (!name) { showMsg('err', '学科名称不能为空'); return; }
+    if (needApi('添加学科')) { NEW_SUBJ_OPEN = false; refresh(); return; }
+    api('POST', 'api/subjects', { name: name }).then(function (res) {
+      NEW_SUBJ_OPEN = false;
+      var sub = res.subject;
+      if (!sub) throw new Error('服务端没有返回学科信息');
+      var has = (DATA.subjects || []).some(function (x) { return x.id === sub.id; });
+      if (!has) {
+        DATA.subjects = (DATA.subjects || []).concat([{
+          id: sub.id, name: sub.name, builtin: !!sub.builtin, count: 0, sources: 0, courses: 0,
+          duration_sec: 0, duration_text: '0 秒'
+        }]);
+      }
+      fillSubjectSelect();
+      refresh();
+      el('addPanel').classList.add('open');
+      showMsg('ok', '已添加学科「' + sub.name + '」' +
+        (sub.builtin ? '（这是内置学科，已经存在）' : '（自定义）') +
+        '。给 UP 主抓取时可以在下拉框里选它，或点侧栏的 ⇄ 改已有 UP 主的学科。');
+    }).catch(function (e) { NEW_SUBJ_OPEN = false; failMsg('添加学科', e); });
+  }
+
+  document.getElementById('nav').addEventListener('click', function (e) {
+    var t = e.target;
+    var q = function (attr) { return t.closest('[' + attr + ']'); };
+    if (q('data-del')) { DEL_ASK = q('data-del').dataset.del; EDIT_SRC = null; refresh(); return; }
+    if (q('data-delno')) { DEL_ASK = null; refresh(); return; }
+    if (q('data-delok')) { deleteSource(q('data-delok').dataset.delok); return; }
+    if (q('data-change')) { EDIT_SRC = q('data-change').dataset.change; DEL_ASK = null; refresh(); return; }
+    if (q('data-addsubj')) {
+      NEW_SUBJ_OPEN = true; refresh();
+      var inp = el('newSubjName'); if (inp) inp.focus();
+      return;
+    }
+    if (q('data-addsubjok')) { var i2 = el('newSubjName'); if (i2) addSubject(i2.value.trim()); return; }
+    if (q('data-delsubj')) { deleteSubject(q('data-delsubj').dataset.delsubj); return; }
+    var subRow = q('data-subject');
+    if (subRow) { pickSubject(subRow.dataset.subject); refresh(); window.scrollTo({ top: 0, behavior: 'smooth' }); return; }
+    var srcRow = q('data-src');
+    if (srcRow) { pickSource(srcRow.dataset.src); refresh(); window.scrollTo({ top: 0, behavior: 'smooth' }); return; }
+    var li = t.closest('li');
+    if (li && li.dataset.cat) { pickCategory(li.dataset.cat); refresh(); return; }
+    if (li && li.dataset.course) { S.course = li.dataset.course; S.cat = 'all'; refresh(); return; }
+  });
+  document.getElementById('nav').addEventListener('change', function (e) {
+    var s = e.target.closest('[data-changesel]');
+    if (s) changeSourceSubject(s.dataset.changesel, s.value);
+  });
+  document.getElementById('nav').addEventListener('keydown', function (e) {
+    if (e.target.id !== 'newSubjName') return;
+    if (e.key === 'Enter') addSubject(e.target.value.trim());
+    if (e.key === 'Escape') { NEW_SUBJ_OPEN = false; refresh(); }
+  });
+  document.getElementById('subjChips').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-subject]'); if (!b) return;
+    pickSubject(b.dataset.subject); refresh();
+  });
+  document.getElementById('srcChips').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-src]'); if (!b) return;
+    pickSource(b.dataset.src); refresh();
+  });
+  document.getElementById('chips').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-cat]'); if (!b) return;
+    pickCategory(b.dataset.cat); refresh();
+  });
+  document.getElementById('q').addEventListener('input', function () { S.q = this.value; render(); });
+  document.getElementById('sort').addEventListener('change', function () { S.sort = this.value; render(); });
+  document.getElementById('btnUnseen').addEventListener('click', function () {
+    S.unseen = !S.unseen; this.classList.toggle('on', S.unseen); render();
+  });
+  document.getElementById('btnStar').addEventListener('click', function () {
+    S.starred = !S.starred; this.classList.toggle('on', S.starred); render();
+  });
+  document.getElementById('btnView').addEventListener('click', function () {
+    S.view = S.view === 'grid' ? 'list' : 'grid';
+    this.textContent = S.view === 'grid' ? '列表' : '卡片';
+    render();
+  });
+  document.getElementById('content').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-act]'); if (!b) return;
+    e.preventDefault();
+    var card = e.target.closest('article[data-id]'); if (!card) return;
+    var id = card.dataset.id;
+    if (b.dataset.act === 'seen') { if (seen[id]) delete seen[id]; else seen[id] = 1; saveLocal(KEY_SEEN, seen); }
+    if (b.dataset.act === 'star') { if (starred[id]) delete starred[id]; else starred[id] = 1; saveLocal(KEY_STAR, starred); }
+    render();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && document.activeElement.tagName !== 'INPUT') {
+      document.getElementById('q').focus(); e.preventDefault();
+    }
+  });
+  /* B 站封面偶尔会 403/防盗链，加载失败就悄悄隐藏，别留一个碎图图标 */
+  document.addEventListener('error', function (e) {
+    if (e.target && e.target.tagName === 'IMG') e.target.style.visibility = 'hidden';
+  }, true);
+
+  /* ---------- 添加 UP 主（需要本地 serve.py 提供 /api/*） ---------- */
+  var API = { ok: false, checked: false };
+  var JOB_TIMER = null, JOB_BUSY = false;
+
+  function el(id) { return document.getElementById(id); }
+
+  /* 抓取面板的学科下拉框按当前学科清单动态生成（含用户自定义学科） */
+  function fillSubjectSelect() {
+    var sel = el('addSubject');
+    if (!sel) return;
+    var keep = sel.value || 'auto';
+    var opts = ['<option value="auto">自动识别学科</option>'];
+    subjects().filter(function (s) { return s.id !== 'other'; }).forEach(function (s) {
+      opts.push('<option value="' + esc(s.id) + '">按' + esc(s.name) + '整理' +
+        (s.builtin ? '' : '（自定义）') + '</option>');
+    });
+    opts.push('<option value="other">按「其他」整理</option>');
+    sel.innerHTML = opts.join('');
+    var exists = subjects().some(function (s) { return s.id === keep; });
+    sel.value = (keep === 'auto' || exists) ? keep : 'auto';
+  }
+
+  function setHint() {
+    var hint = el('addHint');
+    if (!API.checked) { hint.innerHTML = '正在检查本地抓取服务……'; return; }
+    if (API.ok) {
+      hint.innerHTML = '输入 UP 主的<strong>名称</strong>（如「黄夫人」）或 <strong>ID</strong> / 主页链接，' +
+        '会抓下他的公开合集（没有合集时改用搜索兜底），再按学科分类整理。<br>' +
+        '名称有歧义时建议直接填 ID（在 B 站主页地址栏里那串数字）。抓取只在你本机发起。';
+      return;
+    }
+    hint.innerHTML = '⚠️ 自动抓取需要一个本地服务（浏览器直接打开网页时无法抓 B 站）。' +
+      '在 <code>resource-lab</code> 目录运行 <code>python serve.py</code>，' +
+      '然后用它打印的地址打开本页（默认 <code>http://127.0.0.1:8765</code>）。';
+  }
+
+  function showMsg(kind, text) {
+    var m = el('addMsg');
+    if (!text) { m.className = 'msg'; m.textContent = ''; return; }
+    m.className = 'msg on';
+    m.textContent = (kind === 'err' ? '✗ ' : '✓ ') + text;
+  }
+
+  function setBar(pct) {
+    el('addBarWrap').style.display = pct === null ? 'none' : 'block';
+    if (pct !== null) el('addBar').style.width = Math.max(0, Math.min(100, pct)) + '%';
+  }
+
+  function setLog(lines) {
+    var box = el('addLog');
+    if (!lines || !lines.length) { box.style.display = 'none'; box.textContent = ''; return; }
+    box.style.display = 'block';
+    box.textContent = lines.join('\n');
+    box.scrollTop = box.scrollHeight;
+  }
+
+  /* 进度条：服务端没给总数，就从爬虫日志里的 "[3/7]" 推断 */
+  function progressFromLog(lines) {
+    for (var i = lines.length - 1; i >= 0; i--) {
+      var m = /\[(\d+)\/(\d+)\]/.exec(lines[i]);
+      if (m) return Math.round(parseInt(m[1], 10) / Math.max(1, parseInt(m[2], 10)) * 100);
+    }
+    return lines.length ? 8 : 0;
+  }
+
+  function setBusy(busy, label) {
+    JOB_BUSY = busy;
+    el('addGo').disabled = busy;
+    el('addGo').textContent = busy ? (label || '抓取中…') : '开始抓取';
+  }
+
+  function stopPoll() {
+    if (JOB_TIMER) { clearInterval(JOB_TIMER); JOB_TIMER = null; }
+  }
+
+  function startCrawl() {
+    if (JOB_BUSY) return;
+    var q = el('addQuery').value.trim();
+    var subject = el('addSubject').value;
+    showMsg('ok', '');
+    if (!q) { showMsg('err', '请输入 UP 主名称或 ID'); el('addQuery').focus(); return; }
+    if (!API.ok) { showMsg('err', '自动抓取需要先在本地运行 python serve.py'); return; }
+    stopPoll();
+    setBusy(true, '启动中…');
+    setLog([]);
+    setBar(0);
+    fetch('api/crawl', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query: q, subject: subject })
+    }).then(function (r) {
+      return r.json().then(function (j) { return { status: r.status, body: j }; });
+    }).then(function (res) {
+      if (!res.body || !res.body.ok) {
+        throw new Error((res.body && res.body.error) || ('HTTP ' + res.status));
+      }
+      setBusy(true, '抓取中…');
+      pollJob(res.body.job);
+    }).catch(function (e) {
+      setBusy(false); setBar(null); showMsg('err', '启动失败：' + e.message);
+    });
+  }
+
+  function pollJob(id) {
+    JOB_TIMER = setInterval(function () {
+      fetch('api/job/' + encodeURIComponent(id), { cache: 'no-store' })
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+          if (!j || !j.ok) throw new Error('任务查询失败');
+          renderJob(j);
+          if (j.state === 'done') { stopPoll(); setBusy(false); setBar(100); onCrawlDone(j.result); }
+          else if (j.state === 'error') {
+            stopPoll(); setBusy(false); setBar(null);
+            showMsg('err', '抓取失败：' + (j.error || '未知错误'));
+          }
+        })
+        .catch(function (e) { stopPoll(); setBusy(false); setBar(null); showMsg('err', '任务中断：' + e.message); });
+    }, 600);
+  }
+
+  function renderJob(j) {
+    var lines = j.log || [];
+    setLog(lines);
+    setBar(j.state === 'done' ? 100 : progressFromLog(lines));
+    if (j.stage) {
+      var p = j.progress || {};
+      var extra = [];
+      if (p.collections) extra.push(p.collections + ' 个合集');
+      if (p.videos) extra.push(p.videos + ' 个视频');
+      setBusy(true, j.stage + (extra.length ? '（' + extra.join(' / ') + '）' : ''));
+    }
+  }
+
+  function onCrawlDone(result) {
+    if (!result || !result.source) { showMsg('err', '抓取完成但没有可用数据'); return; }
+    var merged = mergeSlice(DATA, result);
+    DATA.videos = merged.videos;
+    DATA.courses = merged.courses;
+    DATA.categories = merged.categories;
+    DATA.sources = merged.sources;
+    DATA.subjects = merged.subjects;
+    DATA.stats = merged.stats;
+    DATA.generated_at_text = merged.generated_at_text;
+    S.subject = result.source.subject_id;     // 自动切到新来源所属学科
+    S.source = result.source.id;              // 自动切到新来源，让用户直接看到结果
+    S.cat = 'all'; S.course = 'all'; S.q = '';
+    el('q').value = '';
+    fillSubjectSelect();
+    renderFooter(); renderNav(); render();
+    var src = result.source, info = result.info || {};
+    var bits = ['已添加 @' + src.name + '（' + src.subject + '）：' + src.count + ' 个视频 / ' +
+                src.courses + ' 个合集 / ' + src.duration_text];
+    if (info.subject_detected && info.subject_detected !== info.subject) {
+      bits.push('学科按你选的「' + src.subject + '」整理');
+    } else if (info.subject_detected) {
+      bits.push('自动识别学科：' + (info.subject_label || src.subject));
+    }
+    if (info.fallback_search) bits.push('该 UP 主没有公开合集，已用搜索兜底（不保证完整）');
+    if (info.truncated && info.truncated.length) bits.push('有 ' + info.truncated.length + ' 个合集未抓全');
+    bits.push('重开页面数据也在（服务端已存到 ' + (result.raw_path || 'data/') + '）');
+    showMsg('ok', bits.join('；'));
+  }
+
+  function renderFooter() {
+    var srcs = sources();
+    /*
+    el('srcLabel').textContent = srcs.length
+      ? 'B 站 ' + srcs.map(function (s) { return '@' + s.name + '（' + s.subject + '）'; }).join(' + ')
+      : '';
+    */
+    el('footInfo').innerHTML = srcs.length
+      ? '数据来源：' + srcs.map(function (s) {
+          return '<a href="' + esc(s.space || '#') + '" target="_blank" rel="noopener noreferrer">@' +
+            esc(s.name) + ' · ' + esc(s.subject) + ' · ' + s.count + ' 个 / ' + s.courses + ' 个合集</a>';
+        }).join('　') + '<br>更新于 ' + esc(DATA.generated_at_text || '') +
+        ' · ' + DATA.stats.subjects + ' 个学科 / ' + DATA.stats.courses + ' 个课程合集 / ' +
+        DATA.videos.length + ' 个视频'
+      : '';
+  }
+
+  function probeApi() {
+    function done(ok) { API.ok = ok; API.checked = true; setHint(); el('btnAdd').title = ok ? '' : '需要先运行 python serve.py'; }
+    if (typeof fetch !== 'function' || location.protocol === 'file:') { done(false); return; }
+    fetch('api/ping', { cache: 'no-store' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (j) { done(!!(j && j.ok)); })
+      .catch(function () { done(false); });
+  }
+
+  el('btnAdd').addEventListener('click', function () {
+    var p = el('addPanel');
+    p.classList.toggle('open');
+    if (p.classList.contains('open')) {
+      setHint();
+      p.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      el('addQuery').focus();
+    } else { stopPoll(); }
+  });
+  el('addClose').addEventListener('click', function () { el('addPanel').classList.remove('open'); stopPoll(); });
+  el('addGo').addEventListener('click', startCrawl);
+  el('addQuery').addEventListener('keydown', function (e) { if (e.key === 'Enter') startCrawl(); });
+
+  /* ---------- 启动 ---------- */
+  function boot() {
+    if (!DATA) {
+      document.getElementById('content').innerHTML =
+        '<div class="empty">没有找到数据文件 <code>data/resources.js</code><br>' +
+        '<span style="font-size:12.5px">先在 resource-lab 目录跑一次 <code>python build_resources.py</code>，' +
+        '或用 <code>python serve.py</code> 起本地服务再打开</span></div>';
+      return;
+    }
+    seen = loadLocal(KEY_SEEN); starred = loadLocal(KEY_STAR);
+    if (!DATA.subjects) DATA.subjects = [];
+    if (DATA.stats && DATA.stats.subjects == null) {
+      DATA.stats.subjects = DATA.subjects.filter(function (s) { return s.count; }).length;
+    }
+    renderFooter();
+    applyTheme(theme);
+    fillSubjectSelect();
+    renderNav(); render();
+    setHint();
+    probeApi();
+  }
+  boot();
+})();
+</script>
+</body>
+</html>

@@ -19,7 +19,7 @@
 
 ## 两种打开方式
 
-**① 只看已整理好的数据（不需要服务器、不需要联网）**
+**① 只看已整理好的数据（不需要服务器）**
 
 ```powershell
 start resource-lab\index.html          # 双击也行
@@ -27,6 +27,16 @@ start resource-lab\index.html          # 双击也行
 
 数据打包在 `data/resources.js` 里，封面图从 B 站 CDN 加载。文件打开时 `fetch` 会被浏览器拦住，
 所以数据用 `<script>` 引入 —— 这是为了让"双击就能看"成立。
+
+> **字体说明**：界面用 **MiSans**（小米免费商用），通过 jsDelivr CDN 加载。
+> MiSans 官方发布是**分片字体**（每个字重切成 42 个 woff2，全部共 2222 个文件），
+> 不适合塞进仓库，所以走了 CDN；**断网时会回退到系统字体**（PingFang SC / 微软雅黑），
+> 页面功能不受影响。除字体外没有其它外部依赖。
+>
+> ⚠️ 如果你要改字重：MiSans 的字重是**离散值** —— Regular=330、Medium=380、
+> Demibold=450、Bold=630（不是常规的 400/700）。写 `font-weight:400` 会导致
+> **没有任何 `@font-face` 匹配、浏览器静默回退**且不报错，极难发现。
+> 页面里统一用 `--fw / --fw-med / --fw-demi / --fw-bold` 四个变量。
 
 **② 想自己输入 UP 主名称/ID 让它现抓（需要一个本地服务）**
 

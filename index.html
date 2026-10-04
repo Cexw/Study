@@ -1,30 +1,44 @@
 <!-- 自动生成，请勿手改：源文件是 resource-lab/index.html，由 make_pages.py 改写相对路径后生成 -->
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN" data-theme="auto">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#ffffff">
 <title>学习资源库</title>
+<!-- MiSans（小米免费商用字体，分片 woff2，按 unicode-range 只取用到的分片）。
+     ⚠️ 关键坑：MiSans 各字重是**离散数值** ——
+        Thin 150 / ExtraLight 200 / Light 250 / Normal 305 / Regular 330
+        Medium 380 / Demibold 450 / Semibold 520 / Bold 630 / Heavy 700
+     不是常规的 400 / 700。若沿用 font-weight:400，**没有任何 @font-face 会匹配**，
+     浏览器静默回退到系统字体且不报错（实测字宽完全一致，极难发现）。
+     故下方 CSS 的字重全部改用 MiSans 的对应值，并加 --fw-* 变量集中管理。 -->
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Regular.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Medium.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Demibold.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Bold.min.css">
 <style>
   /* --------- 主题：只有黑与白 --------- */
   :root{
     --bg:#ffffff; --fg:#111111; --muted:#767676; --line:rgba(0,0,0,.14);
     --line-strong:rgba(0,0,0,.34); --fill:rgba(0,0,0,.04); --fill-2:rgba(0,0,0,.07);
-    --inverse-bg:#111111; --inverse-fg:#ffffff;
+    --sel-bg:rgba(0,0,0,.09); --sel-line:rgba(0,0,0,.5); --sel-fg:#111111;
     color-scheme:light;
+    /* MiSans 字重（离散值，见 <head> 里的说明）：不用 400/700 */
+    --fw:330; --fw-med:380; --fw-demi:450; --fw-bold:630;
   }
   [data-theme="dark"]{
     --bg:#0a0a0a; --fg:#f0f0f0; --muted:#8d8d8d; --line:rgba(255,255,255,.16);
     --line-strong:rgba(255,255,255,.42); --fill:rgba(255,255,255,.05); --fill-2:rgba(255,255,255,.09);
-    --inverse-bg:#f0f0f0; --inverse-fg:#0a0a0a;
+    --sel-bg:rgba(255,255,255,.14); --sel-line:rgba(255,255,255,.55); --sel-fg:#ffffff;
     color-scheme:dark;
   }
   @media (prefers-color-scheme: dark){
     [data-theme="auto"]{
       --bg:#0a0a0a; --fg:#f0f0f0; --muted:#8d8d8d; --line:rgba(255,255,255,.16);
       --line-strong:rgba(255,255,255,.42); --fill:rgba(255,255,255,.05); --fill-2:rgba(255,255,255,.09);
-      --inverse-bg:#f0f0f0; --inverse-fg:#0a0a0a;
+      --sel-bg:rgba(255,255,255,.14); --sel-line:rgba(255,255,255,.55); --sel-fg:#ffffff;
       color-scheme:dark;
     }
   }
@@ -32,14 +46,15 @@
   html,body{margin:0;padding:0}
   body{
     background:var(--bg); color:var(--fg);
-    font:15px/1.55 "Inter","Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+    font-family:MiSans,"PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+    font-size:15px; line-height:1.55; font-weight:var(--fw);
     -webkit-font-smoothing:antialiased;
   }
   a{color:inherit;text-decoration:none}
   button,input,select{font:inherit;color:inherit}
   button{background:none;border:1px solid var(--line);padding:7px 11px;cursor:pointer;border-radius:0}
   button:hover{border-color:var(--line-strong)}
-  button.on{background:var(--inverse-bg);color:var(--inverse-fg);border-color:var(--inverse-bg)}
+  button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
   /* 下拉栏：深色模式下原生弹层会和文字糊在一起，所以背景/文字都显式指定（深色用纯黑） */
   select{background:var(--bg);color:var(--fg)}
   select option{background:var(--bg);color:var(--fg)}
@@ -72,8 +87,8 @@
   /* ---------- 顶栏 ---------- */
   header{border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:10}
   .top{display:flex;align-items:baseline;gap:16px;padding:18px 0 14px}
-  .brand{font-size:19px;font-weight:700;letter-spacing:-.2px}
-  .brand span{color:var(--muted);font-weight:400;font-size:13px;margin-left:10px;letter-spacing:0}
+  .brand{font-size:19px;font-weight:var(--fw-bold);letter-spacing:-.2px}
+  .brand span{color:var(--muted);font-weight:var(--fw);font-size:13px;margin-left:10px;letter-spacing:0}
   .top .spacer{flex:1}
   .theme{display:flex;border:1px solid var(--line);flex:none;border-radius:5px;overflow:hidden}
   .theme button{border:none;border-right:1px solid var(--line);padding:6px 10px;font-size:12px;
@@ -81,7 +96,7 @@
   .theme button:last-child{border-right:none}
   .stats{display:flex;gap:22px;padding:0 0 14px;flex-wrap:wrap}
   .stat{display:flex;flex-direction:column;gap:1px}
-  .stat b{font-family:ui-monospace,Consolas,monospace;font-size:17px;font-weight:600;letter-spacing:-.3px}
+  .stat b{font-family:ui-monospace,Consolas,monospace;font-size:17px;font-weight:var(--fw-demi);letter-spacing:-.3px}
   .stat small{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
   .progress{flex:1;min-width:160px;align-self:center}
   .bar{height:2px;background:var(--fill-2);margin-top:8px}
@@ -100,16 +115,16 @@
   nav{border-right:1px solid var(--line);padding-right:16px;position:sticky;top:132px;
     max-height:calc(100vh - 150px);overflow:auto}
 
-  /* 分区标题：用反色实心块（黑底白字）——浅灰底会被下面的学科行"吃掉"，反色才压得住 */
+  /* 分区标题：实心块。它是"标题"不是"选中项"，用主题前景色填充不会与选中态混淆 */
   nav .sec{display:flex;align-items:baseline;gap:8px;margin:22px 0 10px;padding:9px 12px;
-    background:var(--inverse-bg);color:var(--inverse-fg);border-radius:7px;
-    font-size:16px;font-weight:700;letter-spacing:.04em;line-height:1.3}
+    background:var(--fg);color:var(--bg);border-radius:7px;
+    font-size:16px;font-weight:var(--fw-bold);letter-spacing:.04em;line-height:1.3}
   nav .sec:first-child{margin-top:0}
-  nav .sec .cnt{margin-left:auto;color:var(--inverse-fg);opacity:.62;font-size:12px;font-weight:400;
+  nav .sec .cnt{margin-left:auto;color:var(--bg);opacity:.66;font-size:12px;font-weight:var(--fw);
     font-family:ui-monospace,Consolas,monospace}
   /* 学科分组（二级标题）：比一级小一档，但仍明显重于条目 */
-  nav h4.subj{margin:16px 0 4px;padding:0 0 0 9px;font-size:13px;font-weight:600;letter-spacing:.05em;
-    color:var(--muted);border-left:2px solid var(--line-strong)}
+  nav h4.subj{margin:16px 0 4px;padding:0 0 0 9px;font-size:13px;font-weight:var(--fw-demi);
+    letter-spacing:.05em;color:var(--muted);border-left:2px solid var(--line-strong)}
 
   nav ul{list-style:none;margin:0 0 14px;padding:0}
 
@@ -119,25 +134,27 @@
     border:1px solid transparent;border-radius:6px;cursor:pointer;font-size:14.5px;line-height:1.35;
     transition:background .12s,border-color .12s}
   nav li:hover,nav .subj-row:hover,nav .src-row:hover{background:var(--fill);border-color:var(--line)}
+  /* 选中态：同主题下加深底色 + 描边。
+     之前用黑白反色实心，和整体黑白灰的色调不搭，也容易跟作为标题的反色块混淆。 */
   nav li.on,nav .subj-row.on,nav .src-row.on{
-    background:var(--inverse-bg);color:var(--inverse-fg);border-color:var(--inverse-bg);font-weight:700}
-  nav li.on .n,nav .subj-row.on .n,nav .src-row.on .n,nav .src-row.on .nm{color:var(--inverse-fg)}
-  nav li.on button.mini,nav .src-row.on button.mini{color:var(--inverse-fg)}
+    background:var(--sel-bg);color:var(--sel-fg);border-color:var(--sel-line);font-weight:var(--fw-demi)}
+  nav li.on .n,nav .subj-row.on .n,nav .src-row.on .n,nav .src-row.on .nm{color:var(--sel-fg)}
+  nav li.on button.mini,nav .src-row.on button.mini{color:var(--sel-fg);border-color:var(--sel-line)}
   nav li .n,nav .subj-row .n,nav .src-row .n{
-    margin-left:auto;color:var(--muted);font-size:12.5px;font-weight:400;
+    margin-left:auto;color:var(--muted);font-size:12.5px;font-weight:var(--fw);
     font-family:ui-monospace,Consolas,monospace;flex:none}
   nav li > span:first-child,nav .src-row .nm,nav .subj-row > span:first-child{
     overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
 
   /* 学科行：比 UP 主行重，但比一级分区标题轻（它属于"学科/UP主"这一节里的二级层级） */
-  nav .subj-row{font-size:14.5px;font-weight:700;padding:8px 10px;margin-top:8px;
+  nav .subj-row{font-size:14.5px;font-weight:var(--fw-demi);padding:8px 10px;margin-top:8px;
     background:var(--fill);border-color:var(--line)}
   /* UP 主行：缩进 + 左侧细线，表示"归属于上面的学科" */
   nav .src-row{font-size:14px;margin-left:16px;padding:7px 9px;position:relative}
   nav .src-row::before{content:"";position:absolute;left:-9px;top:0;bottom:0;width:1px;
     background:var(--line)}
   nav .src-row:last-child::before{bottom:50%}
-  nav .src-row .warn{color:inherit;font-weight:600}
+  nav .src-row .warn{color:inherit;font-weight:var(--fw-demi)}
   nav .src-row button.mini{border:1px solid var(--line);border-radius:5px;padding:1px 5px;
     color:var(--muted);font-size:12px;line-height:1.3;background:none;cursor:pointer;flex:none}
   nav .src-row button.mini:hover{color:var(--fg);border-color:var(--line-strong);background:var(--fill-2)}
@@ -156,9 +173,9 @@
     padding:1px 8px;font-size:12.5px;cursor:pointer}
 
   .group{margin-bottom:38px}
-  .group > h3{display:flex;align-items:baseline;gap:10px;margin:0 0 14px;font-size:15px;font-weight:700;
+  .group > h3{display:flex;align-items:baseline;gap:10px;margin:0 0 14px;font-size:15px;font-weight:var(--fw-bold);
     letter-spacing:-.1px;padding-bottom:8px;border-bottom:1px solid var(--line-strong)}
-  .group > h3 .n{color:var(--muted);font-size:12px;font-weight:400}
+  .group > h3 .n{color:var(--muted);font-size:12px;font-weight:var(--fw)}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:22px 18px}
   .grid.list{grid-template-columns:1fr;gap:2px}
 
@@ -167,19 +184,19 @@
   .thumb{position:relative;display:block;aspect-ratio:16/10;background:var(--fill);overflow:hidden;
     border:1px solid var(--line)}
   .thumb img{width:100%;height:100%;object-fit:cover;display:block}
-  .dur{position:absolute;right:0;bottom:0;background:var(--inverse-bg);color:var(--inverse-fg);
+  .dur{position:absolute;right:0;bottom:0;background:var(--fg);color:var(--bg);
     font-family:ui-monospace,Consolas,monospace;font-size:11px;padding:2px 6px;letter-spacing:.02em}
   .bundle{border:1px solid var(--line-strong);padding:0 5px;font-size:10.5px;letter-spacing:.06em}
   .author{border:1px solid var(--line);padding:0 5px;font-size:10.5px;letter-spacing:.04em;color:var(--muted)}
   .chips.srcs{padding-bottom:6px}
   .chips.srcs button{font-size:12px}
-  .card h4{margin:0;font-size:14.5px;font-weight:600;line-height:1.42;letter-spacing:-.1px;
+  .card h4{margin:0;font-size:14.5px;font-weight:var(--fw-demi);line-height:1.42;letter-spacing:-.1px;
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .meta{display:flex;gap:10px;flex-wrap:wrap;color:var(--muted);font-size:11.5px;letter-spacing:.02em}
   .meta .ct{border-bottom:1px solid var(--line)}
   .acts{display:flex;gap:6px;margin-top:1px}
   .acts button{padding:4px 8px;font-size:11.5px;letter-spacing:.04em;color:var(--muted)}
-  .acts button.on{color:var(--inverse-fg)}
+  .acts button.on{color:var(--bg)}
   .card.seen h4{color:var(--muted)}
 
   .grid.list .card{flex-direction:row;align-items:center;gap:14px;padding:9px 0;border-bottom:1px solid var(--line)}

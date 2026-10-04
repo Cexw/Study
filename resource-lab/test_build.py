@@ -9,6 +9,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 import tempfile
 from pathlib import Path
@@ -495,18 +496,24 @@ nav_css = html[html.index("/* ---------- 主体：侧栏 + 内容 ---------- */"
 ok("分区标题改成了 .sec（不再是 11px 灰色大写 h4）",
    'nav .sec{' in nav_css and 'nav h4{' not in nav_css)
 ok("分区标题字号 >= 16px", "font-size:16px" in nav_css, )
-ok("分区标题用反色实心块（浅灰底会被下面的学科行吃掉）",
-   "nav .sec{" in nav_css and "background:var(--inverse-bg)" in nav_css)
+ok("分区标题是实心块（用主题前景色填充，明显重于条目）",
+   "nav .sec{" in nav_css and "background:var(--fg)" in nav_css)
 ok("分区标题带计数（几类 / 几个学科）", 'class="sec"' in html and 'class="cnt"' in html
    and html.count('class="sec"') >= 3)
 ok("可点击行都有圆角矩形样式（border-radius:6px）",
    nav_css.count("border-radius:6px") >= 3)
 ok("可点击行有内边距与 hover 底色",
    "nav li:hover" in nav_css and "background:var(--fill)" in nav_css)
-ok("选中态是反色实心（不只是加粗）",
+# 选中态不能用"黑白互换"：那与整体黑白灰的色调不搭，也和作为标题的反色块混淆。
+# 改成同主题下加深底色 + 描边。
+ok("选中态是同主题加深底色 + 描边（不再用黑白反转）",
    "nav li.on,nav .subj-row.on,nav .src-row.on{" in nav_css
-   and nav_css.count("background:var(--inverse-bg)") >= 2)
-ok("层级：学科行(15px 以下且带灰底) < 分区标题(16px 反色)",
+   and "background:var(--sel-bg)" in nav_css and "border-color:var(--sel-line)" in nav_css)
+ok("侧栏里没有任何元素再用反色填充做选中态",
+   "var(--inverse" not in nav_css)
+ok("选中态变量在浅色/深色主题下都有定义",
+   "--sel-bg:" in html and html.count("--sel-bg:") >= 3)
+ok("层级：学科行(15px 以下且带灰底) < 分区标题(16px 实心)",
    "nav .subj-row{font-size:14.5px" in nav_css and "font-size:16px" in nav_css)
 ok("UP 主行缩进 + 左侧竖线表达从属关系",
    "nav .src-row{font-size:14px;margin-left:16px" in nav_css and "src-row::before" in nav_css)
@@ -524,8 +531,21 @@ ok("封面失败会自动隐藏", "referrerpolicy" in html and "visibility = 'hi
 ok("看过/收藏存 localStorage", "resource-lab.seen" in html and "resource-lab.starred" in html)
 ok("有搜索/排序/视图/筛选控件",
    all(k in html for k in ('id="q"', 'id="sort"', 'id="btnView"', 'id="btnUnseen"', 'id="btnStar"')))
-ok("没有任何外部 JS/CSS 依赖（离线可看）",
-   not any(x in html for x in ("cdn.", "unpkg", "jsdelivr", "googleapis")))
+# 原先这里断言"没有任何外部依赖（完全离线可用）"。加入 MiSans 后**这条原则被有意放宽**：
+# 字体走 CDN（MiSans 官方发布是 2222 个分片 woff2，不下载进仓库），因此断网时会回退到系统字体。
+# 除了字体，其余资源（数据、样式、逻辑、图片路径）仍然全部本地，页面功能不依赖网络。
+ok("除了 MiSans 字体，没有其它外部依赖",
+   not any(x in html for x in ("unpkg", "googleapis", "cdn.staticfile", "npm.elemecdn")))
+ok("外部依赖只有字体 CSS（明确列出，便于审计）",
+   set(re.findall(r'https://([a-z0-9.\-]+)/', html)) <= {"cdn.jsdelivr.net"},
+   str(sorted(set(re.findall(r'https://([a-z0-9.\-]+)/', html)))))
+ok("字体走 CDN 时有本地字体兜底（断网仍可读）",
+   'font-family:MiSans,"PingFang SC","Microsoft YaHei",system-ui,sans-serif' in html)
+ok("MiSans 字重用的是离散值（330/430…），不是 400/700",
+   "--fw:330" in html and "var(--fw-bold)" in html)
+ok("字重变量在正文与各层级都被使用（没有残留硬编码 400/700）",
+   "font-weight:400" not in html.replace("font-weight:400，", "")
+   and "font-weight:700" not in html)
 ok("数据缺失时给出友好提示而不是白屏", "没有找到数据文件" in html)
 ok("所有用户文本都做了 HTML 转义", "function esc(" in html and "replace(/[&<>\"']/g" in html)
 

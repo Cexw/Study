@@ -459,5 +459,27 @@ ok("没有任何外部 JS/CSS 依赖（离线可看）",
 ok("数据缺失时给出友好提示而不是白屏", "没有找到数据文件" in html)
 ok("所有用户文本都做了 HTML 转义", "function esc(" in html and "replace(/[&<>\"']/g" in html)
 
+print("\n[12] GitHub Pages 入口页（根目录 index.html）")
+# 发布页由根目录的 make_pages.py 从 resource-lab/index.html 生成。
+# 这里防的是"改了源文件却忘了重新生成"——两份一旦漂移，线上页面就会和本地不一致。
+root_html = HERE.parent / "index.html"
+nojekyll = HERE.parent / ".nojekyll"
+ok("根目录 index.html 存在（Pages 首页）", root_html.is_file())
+ok(".nojekyll 存在（否则下划线文件被 Jekyll 忽略、README 被当首页）", nojekyll.is_file())
+if root_html.is_file():
+    rh = root_html.read_text(encoding="utf-8")
+    ok("根版声明了自动生成、不要手改", rh.startswith("<!--") and "make_pages.py" in rh[:200])
+    ok("根版的数据引用改成了子目录路径",
+       '<script src="resource-lab/data/resources.js">' in rh)
+    ok("根版不再引用同级的 data/（否则线上 404）",
+       '<script src="data/resources.js">' not in rh)
+    # 用生成逻辑反推，确保内容与源文件一致
+    want = ("<!-- 自动生成，请勿手改：源文件是 resource-lab/index.html，"
+            "由 make_pages.py 改写相对路径后生成 -->\n"
+            + html.replace('<script src="data/resources.js">',
+                           '<script src="resource-lab/data/resources.js">'))
+    ok("根版与源文件同步（改了源文件要重新跑 make_pages.py）", rh == want,
+       "" if rh == want else "内容已漂移，请运行 python make_pages.py")
+
 print("\n===== 结果: %d 通过 / %d 失败 =====" % (PASS, FAIL))
 sys.exit(1 if FAIL else 0)

@@ -563,13 +563,61 @@ if root_html.is_file():
        '<script src="resource-lab/data/resources.js">' in rh)
     ok("根版不再引用同级的 data/（否则线上 404）",
        '<script src="data/resources.js">' not in rh)
-    # 用生成逻辑反推，确保内容与源文件一致
+    ok("根版的图标引用也改成了子目录路径（否则 favicon 404）",
+       'href="resource-lab/icon.ico' in rh and 'href="resource-lab/icon-192.png' in rh
+       and 'href="resource-lab/apple-touch-icon.png' in rh)
+    # 用生成逻辑反推，确保内容与源文件一致。
+    # 注意：这里必须和 make_pages.py 的 REWRITES 保持同一套改写规则。
+    want_body = html
+    for old, new in (('<script src="data/resources.js">', '<script src="resource-lab/data/resources.js">'),
+                     ('href="icon.ico', 'href="resource-lab/icon.ico'),
+                     ('href="icon-192.png', 'href="resource-lab/icon-192.png'),
+                     ('href="apple-touch-icon.png', 'href="resource-lab/apple-touch-icon.png')):
+        want_body = want_body.replace(old, new)
     want = ("<!-- 自动生成，请勿手改：源文件是 resource-lab/index.html，"
-            "由 make_pages.py 改写相对路径后生成 -->\n"
-            + html.replace('<script src="data/resources.js">',
-                           '<script src="resource-lab/data/resources.js">'))
+            "由 make_pages.py 改写相对路径后生成 -->\n" + want_body)
     ok("根版与源文件同步（改了源文件要重新跑 make_pages.py）", rh == want,
        "" if rh == want else "内容已漂移，请运行 python make_pages.py")
+
+print("\n[13] 站点图标")
+ico = HERE / "icon.ico"
+png192 = HERE / "icon-192.png"
+apple = HERE / "apple-touch-icon.png"
+ok("icon.ico / icon-192.png / apple-touch-icon.png 都在",
+   ico.is_file() and png192.is_file() and apple.is_file())
+if ico.is_file():
+    raw = ico.read_bytes()
+    # 历史坑：仓库里最早的 icon.ico 其实是个改了扩展名的 JPEG（头是 ff d8 ff e0），
+    # 这里必须断言它是**真正的 ICO**（头 00 00 01 00），否则等于没修。
+    ok("icon.ico 是真的 ICO 而不是改了扩展名的图片",
+       raw[:4] == b"\x00\x00\x01\x00",
+       "实际文件头: %s" % raw[:4].hex(" "))
+    ok("icon.ico 不是 JPEG/PNG 冒充", not raw.startswith(b"\xff\xd8\xff")
+       and not raw.startswith(b"\x89PNG"))
+    if raw[:4] == b"\x00\x00\x01\x00":
+        import struct as _s
+        _r, _t, _n = _s.unpack_from("<HHH", raw, 0)
+        sizes = []
+        for i in range(_n):
+            off = 6 + i * 16
+            if off + 16 > len(raw):
+                break
+            w, h = raw[off], raw[off + 1]
+            sizes.append((w or 256, h or 256))
+        ok("icon.ico 内含多尺寸（>=4 个）", len(sizes) >= 4, str(sizes))
+        ok("icon.ico 含 256x256（高清屏/任务栏大图标）", (256, 256) in sizes, str(sizes))
+        ok("icon.ico 含 16x16（地址栏/标签页）", (16, 16) in sizes, str(sizes))
+    ok("PNG 图标是真的 PNG", png192.read_bytes()[:8] == b"\x89PNG\r\n\x1a\n")
+    ok("apple-touch-icon 是真的 PNG", apple.read_bytes()[:8] == b"\x89PNG\r\n\x1a\n")
+# 页面的图标声明
+ok("页面声明了 favicon（含 ?v= 便于刷新缓存）",
+   'rel="icon"' in html and "icon.ico?v=" in html)
+ok("页面声明了 apple-touch-icon（iOS 添加到主屏用）",
+   'rel="apple-touch-icon"' in html and "apple-touch-icon.png" in html)
+ok("图标生成脚本自带格式校验（make_icon.py --check）",
+   (HERE / "make_icon.py").is_file()
+   and "--check" in (HERE / "make_icon.py").read_text(encoding="utf-8"))
+ok("源图备份存在（原 icon.ico 其实是 JPEG，不能丢）", (HERE / "icon-source.jpg").is_file())
 
 print("\n===== 结果: %d 通过 / %d 失败 =====" % (PASS, FAIL))
 sys.exit(1 if FAIL else 0)

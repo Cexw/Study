@@ -35,6 +35,10 @@ BANNER = ("<!-- 自动生成，请勿手改：源文件是 resource-lab/index.ht
 # 根目录这份要读子目录里的数据，所以只改这一个静态资源引用
 REWRITES = [
     ('<script src="data/resources.js">', '<script src="resource-lab/data/resources.js">'),
+    # 图标也要加前缀，否则根目录版会 404（浏览器控制台报 favicon 加载失败）
+    ('href="icon.ico', 'href="resource-lab/icon.ico'),
+    ('href="icon-192.png', 'href="resource-lab/icon-192.png'),
+    ('href="apple-touch-icon.png', 'href="resource-lab/apple-touch-icon.png'),
 ]
 
 
@@ -65,9 +69,15 @@ def main(argv: list[str] | None = None) -> int:
     want = build(source_text)
 
     # 校验改写真的生效了，否则说明源文件结构变了，这个脚本已经过时
+    # 校验每条改写都真的命中了：源文件结构一变，这里会立刻报出来，而不是静默生成坏页面
+    for old, new in REWRITES:
+        if old in source_text and new not in want:
+            print("错误：改写没有生效 —— %r\n      resource-lab/index.html 的结构可能变了，"
+                  "请同步更新 make_pages.py 的 REWRITES" % old, file=sys.stderr)
+            return 2
     if '<script src="resource-lab/data/resources.js">' not in want:
-        print("错误：相对路径改写没生效 —— resource-lab/index.html 里可能已经改了引用方式，"
-              "请同步更新 make_pages.py 的 REWRITES", file=sys.stderr)
+        print("错误：数据脚本改写没生效 —— 请检查 resource-lab/index.html 的引用方式",
+              file=sys.stderr)
         return 2
 
     if args.check:

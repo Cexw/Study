@@ -241,11 +241,16 @@ python build_resources.py
 ```
 resource-lab/
 ├── index.html             # 网站本体（单文件：极简黑白 UI + 前端聚合逻辑）
+├── icon.ico               # 站点图标（**真正的多尺寸 ICO** 16~256，由 make_icon.py 生成）
+├── icon-192.png           # PNG 图标（高清屏 / 通用）
+├── apple-touch-icon.png   # iOS 添加到主屏用的 180×180 图标
+├── icon-source.jpg        # 图标源图（注意：最早的 icon.ico 其实是个改了扩展名的 JPEG）
+├── make_icon.py           # 生成 / 校验图标（--check 验是否为规范 ICO）
 ├── serve.py               # 本地服务：静态站点 + 抓取 API（输入 UP 名/ID 自动抓取）
 ├── crawl_bilibili.py      # 爬虫：合集 + 合集内视频；还能解析 UP 名/ID、搜索兜底
 ├── build_resources.py     # 多来源合并 + 按学科分类 + 汇总 → data/resources.json / resources.js
 ├── test_crawl.py          # 爬虫离线测试（13 用例 / 5982 断言）
-├── test_build.py          # 分类器 + 构建器 + 学科 + 页面结构（139 断言）
+├── test_build.py          # 分类器 + 构建器 + 学科 + 页面结构 + 图标（185 断言）
 ├── test_core.mjs          # 前端聚合口径 vs Python 口径（node，40 断言）
 ├── test_serve.py          # 服务端接口离线测试（178 断言）
 ├── data/

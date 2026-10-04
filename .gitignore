@@ -28,3 +28,6 @@ desktop.ini
 
 # 寮�鍙戞湡涓存椂鎺㈤拡鏂囦欢
 _p_*.html
+
+# 为 Watt Toolkit 中间人证书合并出的 CA 包（本机自用）
+.tools-ca/

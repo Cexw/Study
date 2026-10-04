@@ -553,7 +553,15 @@ for m in re.finditer(r"([\w\s.#>:\[\]=-]+)\{([^}]*)\}", _css):
     sel, body = m.group(1).strip(), m.group(2)
     if re.search(r"(^|;)\s*border\s*:\s*\d+px", body) and "border-radius" not in body:
         _flat.append(sel)
-ok("所有整圈边框都带圆角（分界线除外）", not _flat, "缺圆角: %s" % _flat[:4])
+ok("整圈边框都带圆角（分界线除外）", not _flat, "缺圆角: %s" % _flat[:4])
+# 全站字体统一 MiSans（反馈要求）：不允许再出现等宽/其它字体族
+_fams = set(re.findall(r"font-family:([^;}]+)", _css))
+_fams = {f.strip() for f in _fams}
+ok("全站只有 MiSans 一种字体族", len(_fams) == 1 and all(f.startswith("MiSans") for f in _fams),
+   str(sorted(_fams)))
+ok("没有残留的等宽字体声明（monospace 等）",
+   not re.search(r"font-family:[^;}]*\b(monospace|Consolas|Menlo|SFMono)", _css))
+ok("数字仍保持等宽对齐（tabular-nums）", "tabular-nums" in _css)
 ok("卡片上标了作者", '"author"' in html and "@" in html and "class=\"author\"" in html)
 ok("分类按学科隔离显示（含学科分组标题）", "visibleCategories" in html and "subj" in html)
 ok("用了课程包角标（is_bundle）", "is_bundle" in html and "课程包" in html)

@@ -16,6 +16,10 @@
 
 ![学习资源库](resource-lab/screenshots/site-light.png)
 
+**在线预览**：https://cexw.github.io/Study/ （GitHub Pages，纯静态）
+> 线上版只能浏览已整理好的数据；「+ 添加 UP 主」自动抓取需要本地跑 `serve.py`，
+> 在 Pages 上不可用（页面会自己提示）。
+
 **快速开始**（详细说明见 [resource-lab/README.md](resource-lab/README.md)）
 
 ```bash

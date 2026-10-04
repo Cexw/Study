@@ -31,3 +31,8 @@ _p_*.html
 
 # 为 Watt Toolkit 中间人证书合并出的 CA 包（本机自用）
 .tools-ca/
+
+# 调试期的临时产物
+_icon_preview.png
+_ft*.html
+_pv_*.html

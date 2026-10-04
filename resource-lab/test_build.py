@@ -461,7 +461,8 @@ ok("侧栏按学科分组显示 UP 主", "subj-row" in html and "src-row" in htm
 ok("支持添加自定义学科", "data-addsubj" in html and "data-addsubjok" in html and "addSubject" in html)
 # 注意：不能用第一次出现 "displaySubjects().forEach" 的位置做比较 —— render() 里的手机标签条
 # 也调用它（更靠前）。这里锚定导航里那次：学科循环紧跟在「全部来源」之后。
-_nav = html.index('<h4>学科 / UP 主</h4>')
+# 分区标题从 h4 换成了 .sec（侧栏层级改造），锚点跟着变。
+_nav = html.index('<div class="sec">学科 / UP 主')
 _nav_end = html.index('var vis = visibleCategories();', _nav)
 _nav_block = html[_nav:_nav_end]
 ok("「+ 添加学科」拼在导航的学科列表里（不在别处）",
@@ -485,6 +486,36 @@ ok("支持改已有 UP 主的学科", "data-change" in html and "data-changesel"
 ok("学科下拉框是动态生成的（含自定义学科）", "fillSubjectSelect" in html)
 ok("深色模式下拉栏显式指定黑色背景", '[data-theme="dark"] select' in html and "background:#000" in html)
 ok("用 color-scheme 让原生控件跟随主题", "color-scheme:dark" in html and "color-scheme:light" in html)
+
+print("\n[12b] 侧栏层级与可点击按钮")
+# 原版侧栏的问题：分区标题只有 11px 灰色大写，子项 13~14px 无底色，层级全靠缩进 12px。
+# 这组断言锁住改造后的层级：一级分区 > 二级学科 > 三级条目，且可点击项都是圆角按钮。
+nav_css = html[html.index("/* ---------- 主体：侧栏 + 内容 ---------- */"):
+               html.index("nav .newsubj button")]
+ok("分区标题改成了 .sec（不再是 11px 灰色大写 h4）",
+   'nav .sec{' in nav_css and 'nav h4{' not in nav_css)
+ok("分区标题字号 >= 16px", "font-size:16px" in nav_css, )
+ok("分区标题用反色实心块（浅灰底会被下面的学科行吃掉）",
+   "nav .sec{" in nav_css and "background:var(--inverse-bg)" in nav_css)
+ok("分区标题带计数（几类 / 几个学科）", 'class="sec"' in html and 'class="cnt"' in html
+   and html.count('class="sec"') >= 3)
+ok("可点击行都有圆角矩形样式（border-radius:6px）",
+   nav_css.count("border-radius:6px") >= 3)
+ok("可点击行有内边距与 hover 底色",
+   "nav li:hover" in nav_css and "background:var(--fill)" in nav_css)
+ok("选中态是反色实心（不只是加粗）",
+   "nav li.on,nav .subj-row.on,nav .src-row.on{" in nav_css
+   and nav_css.count("background:var(--inverse-bg)") >= 2)
+ok("层级：学科行(15px 以下且带灰底) < 分区标题(16px 反色)",
+   "nav .subj-row{font-size:14.5px" in nav_css and "font-size:16px" in nav_css)
+ok("UP 主行缩进 + 左侧竖线表达从属关系",
+   "nav .src-row{font-size:14px;margin-left:16px" in nav_css and "src-row::before" in nav_css)
+ok("「+ 添加学科」也是圆角按钮（虚线边框）",
+   "nav .addlink{" in nav_css and "border:1px dashed" in nav_css)
+ok("小按钮（⇄ / ×）有边框和圆角，不再是无边框裸字符",
+   "nav .src-row button.mini{border:1px solid" in nav_css)
+ok("移动端侧栏整体隐藏（改用 chips），不受本次改动影响",
+   "nav{display:none}" in html and ".chips{display:flex}" in html)
 ok("卡片上标了作者", '"author"' in html and "@" in html and "class=\"author\"" in html)
 ok("分类按学科隔离显示（含学科分组标题）", "visibleCategories" in html and "subj" in html)
 ok("用了课程包角标（is_bundle）", "is_bundle" in html and "课程包" in html)

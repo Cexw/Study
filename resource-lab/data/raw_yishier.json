@@ -1,0 +1,552 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791184590873,
+  "source": {
+    "platform": "bilibili",
+    "author": "一史er",
+    "mid": 1893255165,
+    "space": "https://space.bilibili.com/1893255165"
+  },
+  "collections": [
+    {
+      "season_id": 9022685,
+      "title": "学透教材",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/7ea1512bf95d8cff4a399768ec8f21de29563268.jpg",
+      "total": 5,
+      "fetched": 5,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1c9bL6WEe3",
+          "title": "【学透教材】高二历史选必修一｜第1课中国古代政治制度的形成与发展｜选必修专题突破",
+          "duration": 6015,
+          "pubdate": 1788613749,
+          "cover": "https://i2.hdslb.com/bfs/archive/c35b29303f5d9c755d91141a1d2f93e04127769f.jpg",
+          "views": 72714,
+          "danmaku": 79,
+          "url": "https://www.bilibili.com/video/BV1c9bL6WEe3"
+        },
+        {
+          "bvid": "BV1ARYY6nEbZ",
+          "title": "【学透教材】高二历史选必修一｜第2课西方国家古代和近代政治制度的演变",
+          "duration": 5439,
+          "pubdate": 1789264800,
+          "cover": "https://i0.hdslb.com/bfs/archive/48f90b40fecfe2a99661ac38b0df68047215bf7f.jpg",
+          "views": 48443,
+          "danmaku": 34,
+          "url": "https://www.bilibili.com/video/BV1ARYY6nEbZ"
+        },
+        {
+          "bvid": "BV1XeeD6DEfS",
+          "title": "【学透教材】高二历史选必修一｜第3课 中国近代至当代政治制度的演变",
+          "duration": 4680,
+          "pubdate": 1789785000,
+          "cover": "https://i2.hdslb.com/bfs/archive/9d97a3160af8a46298201ca392f8624a917fcbf4.jpg",
+          "views": 46614,
+          "danmaku": 30,
+          "url": "https://www.bilibili.com/video/BV1XeeD6DEfS"
+        },
+        {
+          "bvid": "BV1N7aM61EFC",
+          "title": "【学透教材】高二历史选必修一｜第4课 中国历代变法与改革",
+          "duration": 4966,
+          "pubdate": 1790332200,
+          "cover": "https://i0.hdslb.com/bfs/archive/6d6fefd07877e21f3a77d64b9aaed3081b2bf75e.jpg",
+          "views": 41162,
+          "danmaku": 23,
+          "url": "https://www.bilibili.com/video/BV1N7aM61EFC"
+        },
+        {
+          "bvid": "BV1aKHv6rEUT",
+          "title": "【学透教材】高二历史选必修一｜第5课 中国古代官员的选拔与管理",
+          "duration": 4690,
+          "pubdate": 1791021920,
+          "cover": "https://i1.hdslb.com/bfs/archive/74538a56ae33a40e3f7223353bb6aff14588a53e.jpg",
+          "views": 21988,
+          "danmaku": 16,
+          "url": "https://www.bilibili.com/video/BV1aKHv6rEUT"
+        }
+      ]
+    },
+    {
+      "season_id": 6575973,
+      "title": "一轮复习",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/a835c7a04416379819ccd523793f91f551dc08b7.jpg",
+      "total": 26,
+      "fetched": 26,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1nBWHzgEoa",
+          "title": "【一轮复习】从石器时代到春秋战国｜知识划重点+选择题考法｜纲要+选必修",
+          "duration": 2242,
+          "pubdate": 1760752800,
+          "cover": "https://i0.hdslb.com/bfs/archive/2358435be58a13ec1554514664cfddaebcb61df3.jpg",
+          "views": 376537,
+          "danmaku": 1426,
+          "url": "https://www.bilibili.com/video/BV1nBWHzgEoa"
+        },
+        {
+          "bvid": "BV18hspzoEMH",
+          "title": "【一轮复习】秦汉时期｜知识划重点+材料题技巧｜纲要+选必修｜高一高二高三均可",
+          "duration": 5833,
+          "pubdate": 1761357600,
+          "cover": "https://i0.hdslb.com/bfs/archive/024c0db3d5046ecad59fb755c291f34d8bb4f245.jpg",
+          "views": 196131,
+          "danmaku": 1138,
+          "url": "https://www.bilibili.com/video/BV18hspzoEMH"
+        },
+        {
+          "bvid": "BV1fm1TBYEpc",
+          "title": "【一轮复习】魏晋南北朝｜知识划重点+选择题考法｜纲要+选必修｜高一高二高三均可",
+          "duration": 3131,
+          "pubdate": 1761917498,
+          "cover": "https://i2.hdslb.com/bfs/archive/4c259cce93b7f7e59a032337bf101db33155f8ca.jpg",
+          "views": 99165,
+          "danmaku": 861,
+          "url": "https://www.bilibili.com/video/BV1fm1TBYEpc"
+        },
+        {
+          "bvid": "BV1P9C5BRErs",
+          "title": "【一轮复习】隋唐时期｜知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 3388,
+          "pubdate": 1763172145,
+          "cover": "https://i2.hdslb.com/bfs/archive/7146f8d48aa845c6e3122ab4aeb50b05ba245454.jpg",
+          "views": 79306,
+          "danmaku": 621,
+          "url": "https://www.bilibili.com/video/BV1P9C5BRErs"
+        },
+        {
+          "bvid": "BV1V3UcByEFW",
+          "title": "【一轮复习】辽宋夏金元时期｜知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 4338,
+          "pubdate": 1763859600,
+          "cover": "https://i0.hdslb.com/bfs/archive/6b8f6e42afc982f404b08390e3d253ac7fea5a86.jpg",
+          "views": 77286,
+          "danmaku": 569,
+          "url": "https://www.bilibili.com/video/BV1V3UcByEFW"
+        },
+        {
+          "bvid": "BV1QmSABDEgo",
+          "title": "【一轮复习】明清时期（上）明朝知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 3569,
+          "pubdate": 1764466200,
+          "cover": "https://i2.hdslb.com/bfs/archive/ee209302c3ae8b129e3c62ea2a77d94ab2d0b726.jpg",
+          "views": 67621,
+          "danmaku": 606,
+          "url": "https://www.bilibili.com/video/BV1QmSABDEgo"
+        },
+        {
+          "bvid": "BV1yu2HBUEhJ",
+          "title": "【一轮复习】明清时期（下）清朝知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 3695,
+          "pubdate": 1764986400,
+          "cover": "https://i2.hdslb.com/bfs/archive/8c246bd7746f2de0a4658c7c1eb94bf10fec7c9f.jpg",
+          "views": 51807,
+          "danmaku": 297,
+          "url": "https://www.bilibili.com/video/BV1yu2HBUEhJ"
+        },
+        {
+          "bvid": "BV1UFBwByE7j",
+          "title": "【一轮复习】中国近代史（1840-1895）知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 2770,
+          "pubdate": 1766196000,
+          "cover": "https://i0.hdslb.com/bfs/archive/a80db56b966beb543dd536ce1fef6c69f06d9cdf.jpg",
+          "views": 130072,
+          "danmaku": 548,
+          "url": "https://www.bilibili.com/video/BV1UFBwByE7j"
+        },
+        {
+          "bvid": "BV171iVBdEaR",
+          "title": "【一轮复习】中国近代史（1895-1912）知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 4308,
+          "pubdate": 1767232800,
+          "cover": "https://i1.hdslb.com/bfs/archive/022a3e1bca06d1b434878ce5a2a2e5a22788ad72.jpg",
+          "views": 80196,
+          "danmaku": 473,
+          "url": "https://www.bilibili.com/video/BV171iVBdEaR"
+        },
+        {
+          "bvid": "BV1ULi8BnENc",
+          "title": "【一轮复习】世界古代史（上）：古代文明的产生与发展｜知识划重点｜纲要+选必修",
+          "duration": 3088,
+          "pubdate": 1767403800,
+          "cover": "https://i0.hdslb.com/bfs/archive/03652acca4dfa2eea76950539ea135138f798f9e.jpg",
+          "views": 82011,
+          "danmaku": 311,
+          "url": "https://www.bilibili.com/video/BV1ULi8BnENc"
+        },
+        {
+          "bvid": "BV1JrryBtELh",
+          "title": "【一轮复习】中国近代史（1912-1949）知识划重点+难点突破｜纲要+选必修｜高一高二高三均可",
+          "duration": 6349,
+          "pubdate": 1768613400,
+          "cover": "https://i1.hdslb.com/bfs/archive/34b9eac7fce5b1454bcbc529a0f170f9e674e5a0.jpg",
+          "views": 108038,
+          "danmaku": 564,
+          "url": "https://www.bilibili.com/video/BV1JrryBtELh"
+        },
+        {
+          "bvid": "BV1gs6JBuE8H",
+          "title": "【一轮复习】中国现代史（1949-今）｜知识划重点｜纲要上+选必修｜高一高二高三均可",
+          "duration": 4798,
+          "pubdate": 1769911200,
+          "cover": "https://i1.hdslb.com/bfs/archive/b2bf447eb185c927736c3ed27a76c893a12cc1a6.jpg",
+          "views": 74621,
+          "danmaku": 307,
+          "url": "https://www.bilibili.com/video/BV1gs6JBuE8H"
+        },
+        {
+          "bvid": "BV1CDF4zAEYi",
+          "title": "【一轮复习】世界古代史：古希腊和罗马",
+          "duration": 3423,
+          "pubdate": 1770516000,
+          "cover": "https://i2.hdslb.com/bfs/archive/422b606e57af4791c78be9786f79e575adaa4025.jpg",
+          "views": 53737,
+          "danmaku": 214,
+          "url": "https://www.bilibili.com/video/BV1CDF4zAEYi"
+        },
+        {
+          "bvid": "BV1eBZEBpERd",
+          "title": "【一轮复习】世界古代史：中古欧洲｜纲要下+选必修｜高一预习高二高三复习",
+          "duration": 2805,
+          "pubdate": 1771120800,
+          "cover": "https://i0.hdslb.com/bfs/archive/7592e1a4ac96a6c66ce1e8bf8254581651f65955.jpg",
+          "views": 58137,
+          "danmaku": 133,
+          "url": "https://www.bilibili.com/video/BV1eBZEBpERd"
+        },
+        {
+          "bvid": "BV1uBAezKEzP",
+          "title": "【一轮复习】世界近代史：全球联系的初步建立",
+          "duration": 4615,
+          "pubdate": 1772328600,
+          "cover": "https://i0.hdslb.com/bfs/archive/c9e0a258e607b8c821cd811f5e775ea2f34fa535.jpg",
+          "views": 43707,
+          "danmaku": 227,
+          "url": "https://www.bilibili.com/video/BV1uBAezKEzP"
+        },
+        {
+          "bvid": "BV1jfP4zaESj",
+          "title": "【高考补基础】世界近代史：欧洲的思想解放运动｜一轮复习｜纲要下+选必修｜高一高二高三均可",
+          "duration": 3529,
+          "pubdate": 1772848800,
+          "cover": "https://i1.hdslb.com/bfs/archive/f3ca923ba5fa21dfd5b7190b89fb65dae0751d27.jpg",
+          "views": 40541,
+          "danmaku": 203,
+          "url": "https://www.bilibili.com/video/BV1jfP4zaESj"
+        },
+        {
+          "bvid": "BV12YQvBMEUd",
+          "title": "【高考补基础】世界近代史：资本主义制度的确立｜一轮复习｜纲要+选必修",
+          "duration": 3722,
+          "pubdate": 1776169800,
+          "cover": "https://i2.hdslb.com/bfs/archive/040726bef6d41c6a143567b52435a6d035c273a5.jpg",
+          "views": 43800,
+          "danmaku": 114,
+          "url": "https://www.bilibili.com/video/BV12YQvBMEUd"
+        },
+        {
+          "bvid": "BV1htMK6oEyR",
+          "title": "【一轮速通】世界近代史：工业革命与社会转型（上）",
+          "duration": 3530,
+          "pubdate": 1783216800,
+          "cover": "https://i1.hdslb.com/bfs/archive/804e26d2254ad4e3859611fa5908df4412415bd6.jpg",
+          "views": 36337,
+          "danmaku": 85,
+          "url": "https://www.bilibili.com/video/BV1htMK6oEyR"
+        },
+        {
+          "bvid": "BV12yNc6fE4p",
+          "title": "【一轮速通】世界近代史：工业革命与社会转型（下）",
+          "duration": 3893,
+          "pubdate": 1783767600,
+          "cover": "https://i2.hdslb.com/bfs/archive/dcf799e2d72384272a8c3ac6811edff664038599.jpg",
+          "views": 36015,
+          "danmaku": 54,
+          "url": "https://www.bilibili.com/video/BV12yNc6fE4p"
+        },
+        {
+          "bvid": "BV1HtKP6wEPf",
+          "title": "【一轮速通】世界近代史：19世纪以来世界资本主义的扩展",
+          "duration": 3102,
+          "pubdate": 1784372852,
+          "cover": "https://i1.hdslb.com/bfs/archive/79d8579b19bdf827f0b4b6772c03f0df97d084e0.jpg",
+          "views": 45887,
+          "danmaku": 41,
+          "url": "https://www.bilibili.com/video/BV1HtKP6wEPf"
+        },
+        {
+          "bvid": "BV1vquu63Egk",
+          "title": "【一轮速通】世界近代史：世界殖民体系的形成",
+          "duration": 3123,
+          "pubdate": 1786185000,
+          "cover": "https://i0.hdslb.com/bfs/archive/ba8c59439cbeca3bf3807c3e3e9521561866bf6b.jpg",
+          "views": 48590,
+          "danmaku": 49,
+          "url": "https://www.bilibili.com/video/BV1vquu63Egk"
+        },
+        {
+          "bvid": "BV18Bg36GEBK",
+          "title": "【一轮速通】世界近代史：亚非拉的斗争",
+          "duration": 3402,
+          "pubdate": 1786788000,
+          "cover": "https://i0.hdslb.com/bfs/archive/05b4ca931758f977c0765a17a130c6a4bc0336bf.jpg",
+          "views": 42866,
+          "danmaku": 33,
+          "url": "https://www.bilibili.com/video/BV18Bg36GEBK"
+        },
+        {
+          "bvid": "BV1j2816eEp9",
+          "title": "【一轮速通】世界现代史：第一次世界大战",
+          "duration": 2388,
+          "pubdate": 1787394600,
+          "cover": "https://i0.hdslb.com/bfs/archive/e5d263a35bf653e572b6676747ded3120e3c4ae8.jpg",
+          "views": 41358,
+          "danmaku": 20,
+          "url": "https://www.bilibili.com/video/BV1j2816eEp9"
+        },
+        {
+          "bvid": "BV1iBtK6UE25",
+          "title": "【一轮速通】世界现代史：十月革命的胜利与苏联的社会主义实践",
+          "duration": 2583,
+          "pubdate": 1788055200,
+          "cover": "https://i2.hdslb.com/bfs/archive/87f56338974bd283475a65ff4da4147ddd78e734.jpg",
+          "views": 41982,
+          "danmaku": 14,
+          "url": "https://www.bilibili.com/video/BV1iBtK6UE25"
+        },
+        {
+          "bvid": "BV1MPYd69ECP",
+          "title": "【一轮速通】世界现代史：经济危机与世界大战",
+          "duration": 4675,
+          "pubdate": 1789216387,
+          "cover": "https://i1.hdslb.com/bfs/archive/d4c5063f49f5c7749e39c5b2d4049ad066495382.jpg",
+          "views": 43219,
+          "danmaku": 17,
+          "url": "https://www.bilibili.com/video/BV1MPYd69ECP"
+        },
+        {
+          "bvid": "BV1J1aT6qEdP",
+          "title": "【一轮速通】世界现代史：二战后世界的新变化（上）｜纲要下+选必修",
+          "duration": 1689,
+          "pubdate": 1790418600,
+          "cover": "https://i2.hdslb.com/bfs/archive/ddeba13a2934a44e589136626cb6b35cbe08419f.jpg",
+          "views": 29376,
+          "danmaku": 10,
+          "url": "https://www.bilibili.com/video/BV1J1aT6qEdP"
+        }
+      ]
+    },
+    {
+      "season_id": 6628228,
+      "title": "60秒解决",
+      "intro": "",
+      "cover": "https://i0.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "total": 8,
+      "fetched": 8,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV165sfz5Ea9",
+          "title": "【60秒解决高考真题】历史变化类｜题型技巧&精讲精练｜高一高二高三均可",
+          "duration": 1105,
+          "pubdate": 1761444000,
+          "cover": "https://i0.hdslb.com/bfs/archive/ea41e180df4dbc52bb202016295addadd3a53e87.jpg",
+          "views": 65160,
+          "danmaku": 139,
+          "url": "https://www.bilibili.com/video/BV165sfz5Ea9"
+        },
+        {
+          "bvid": "BV1Yk19BpEq1",
+          "title": "【60秒解决】党史易混点！高考每年都考，记住至少多拿3分！",
+          "duration": 158,
+          "pubdate": 1762653600,
+          "cover": "https://i1.hdslb.com/bfs/archive/20e7ff319845e47ce76eed1092d2c39d3afdc225.jpg",
+          "views": 34509,
+          "danmaku": 63,
+          "url": "https://www.bilibili.com/video/BV1Yk19BpEq1"
+        },
+        {
+          "bvid": "BV14cCyBkEAa",
+          "title": "【60秒解决】中国现代史易错点！1分钟记住这2点，选择题不要一错再错，高考至少多拿3分。",
+          "duration": 238,
+          "pubdate": 1763258400,
+          "cover": "https://i1.hdslb.com/bfs/archive/86e17e3e08b8e4cc11433e82cc1f8c54848279bc.jpg",
+          "views": 32106,
+          "danmaku": 49,
+          "url": "https://www.bilibili.com/video/BV14cCyBkEAa"
+        },
+        {
+          "bvid": "BV1o22RBaEiD",
+          "title": "【60秒解决】中国古代史高考易错点：精耕细作｜考点避坑+例题精讲｜高一高二高三均可",
+          "duration": 511,
+          "pubdate": 1765071000,
+          "cover": "https://i0.hdslb.com/bfs/archive/7e430ee99d88b01b620b1b0a4d41bf25b7c022a3.jpg",
+          "views": 24785,
+          "danmaku": 46,
+          "url": "https://www.bilibili.com/video/BV1o22RBaEiD"
+        },
+        {
+          "bvid": "BV1aGBcBmEnB",
+          "title": "【60秒解决】民族资本主义的发展历程｜高考选择题常考，别再掉进陷阱啦，背完直接拿分～",
+          "duration": 358,
+          "pubdate": 1766278800,
+          "cover": "https://i1.hdslb.com/bfs/archive/15a03396e717a627a2b8e0286ce1966e293f18a5.jpg",
+          "views": 37167,
+          "danmaku": 37,
+          "url": "https://www.bilibili.com/video/BV1aGBcBmEnB"
+        },
+        {
+          "bvid": "BV1aZfyBtEuE",
+          "title": "【60秒解决】历史高考背什么？带你按高考卷逐题划重点+考法秒题｜1.中华文明的起源+新石器时代晚期",
+          "duration": 671,
+          "pubdate": 1771934400,
+          "cover": "https://i1.hdslb.com/bfs/archive/5a33a4bd5e1864a244edd05fed26602e8c985292.jpg",
+          "views": 44672,
+          "danmaku": 52,
+          "url": "https://www.bilibili.com/video/BV1aZfyBtEuE"
+        },
+        {
+          "bvid": "BV1MWwJzxERi",
+          "title": "【60秒解决】历史高考背什么？带你按高考卷逐题划重点+考法秒题｜2.夏商西周｜春秋战国｜秦汉",
+          "duration": 1433,
+          "pubdate": 1773409380,
+          "cover": "https://i2.hdslb.com/bfs/archive/4f6cb1e7657885d76064dc00d23b6ba9d7a30caa.jpg",
+          "views": 43469,
+          "danmaku": 35,
+          "url": "https://www.bilibili.com/video/BV1MWwJzxERi"
+        },
+        {
+          "bvid": "BV1Urg36gE26",
+          "title": "【历史高考背什么】3.三国两晋南北朝｜带你按高考卷逐题划重点+考法秒题",
+          "duration": 988,
+          "pubdate": 1786845600,
+          "cover": "https://i0.hdslb.com/bfs/archive/2ca964f8a377dc8a8d061ca21d5a035afc3e3b61.jpg",
+          "views": 27781,
+          "danmaku": 16,
+          "url": "https://www.bilibili.com/video/BV1Urg36gE26"
+        }
+      ]
+    },
+    {
+      "season_id": 6669168,
+      "title": "易混易错",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/f6a7e83041fcccef360d330f42452766941cd246.jpg",
+      "total": 5,
+      "fetched": 5,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1kA4czWEhc",
+          "title": "挑战世界史常考易错点，拿下高考45分！",
+          "duration": 1969,
+          "pubdate": 1760185800,
+          "cover": "https://i1.hdslb.com/bfs/archive/e2e625ab72cb33084eb081b7b74ca4f23ad9fb4b.jpg",
+          "views": 188774,
+          "danmaku": 708,
+          "url": "https://www.bilibili.com/video/BV1kA4czWEhc"
+        },
+        {
+          "bvid": "BV1wgmUBoEo1",
+          "title": "挑战历史选必修一易错点，拿下政治史30分！",
+          "duration": 1541,
+          "pubdate": 1765627200,
+          "cover": "https://i2.hdslb.com/bfs/archive/44efbc2b54d26041ed82453ce89eda223c5cdfc6.jpg",
+          "views": 115525,
+          "danmaku": 224,
+          "url": "https://www.bilibili.com/video/BV1wgmUBoEo1"
+        },
+        {
+          "bvid": "BV14ErMBqE1i",
+          "title": "【期末复习】挑战历史选必修二易错点，拿下高考经济史30分！",
+          "duration": 939,
+          "pubdate": 1768008600,
+          "cover": "https://i0.hdslb.com/bfs/archive/83dcb8b896fd776d3ac4ce1391908c5f41a959d3.jpg",
+          "views": 53343,
+          "danmaku": 55,
+          "url": "https://www.bilibili.com/video/BV14ErMBqE1i"
+        },
+        {
+          "bvid": "BV1EFzuBQEgR",
+          "title": "【期末复习】挑战《中外历史纲要上》高频易错点，选择题不丢分！",
+          "duration": 1683,
+          "pubdate": 1769218200,
+          "cover": "https://i2.hdslb.com/bfs/archive/3905057753e12514def7a6e63d18da6b291a60c8.jpg",
+          "views": 140632,
+          "danmaku": 371,
+          "url": "https://www.bilibili.com/video/BV1EFzuBQEgR"
+        },
+        {
+          "bvid": "BV1dEJH6MEYT",
+          "title": "挑战《中外历史纲要下》高频易错点，选择题不丢分！",
+          "duration": 3309,
+          "pubdate": 1781344800,
+          "cover": "https://i1.hdslb.com/bfs/archive/0b011023854b60c52c17483d19b35a39b5e5721d.jpg",
+          "views": 87328,
+          "danmaku": 235,
+          "url": "https://www.bilibili.com/video/BV1dEJH6MEYT"
+        }
+      ]
+    },
+    {
+      "season_id": 6677811,
+      "title": "解题技巧",
+      "intro": "",
+      "cover": "https://i0.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "total": 4,
+      "fetched": 4,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1CGyXBcEuD",
+          "title": "【解题技巧】3步摆脱逐字翻译｜高考必考历史文言文选择题答题思路",
+          "duration": 1153,
+          "pubdate": 1762048800,
+          "cover": "https://i2.hdslb.com/bfs/archive/bc2498b8a4a8e14dfa1e224d0aef29f7294f2ffa.jpg",
+          "views": 82350,
+          "danmaku": 309,
+          "url": "https://www.bilibili.com/video/BV1CGyXBcEuD"
+        },
+        {
+          "bvid": "BV1uq11BREte",
+          "title": "历史小论文解题技巧｜万能3步走｜超详细讲解",
+          "duration": 1504,
+          "pubdate": 1762567200,
+          "cover": "https://i2.hdslb.com/bfs/archive/fb50a5aaab0cacef4bea5d1204358d26ffeb3552.jpg",
+          "views": 161279,
+          "danmaku": 428,
+          "url": "https://www.bilibili.com/video/BV1uq11BREte"
+        },
+        {
+          "bvid": "BV1LTSEBNEhR",
+          "title": "【解题技巧】5种思路解决高考历史特点题｜揭秘特点题答案的底层逻辑｜记住就会",
+          "duration": 1259,
+          "pubdate": 1764336565,
+          "cover": "https://i2.hdslb.com/bfs/archive/36ed3a0131dad0db314e807ff262f37ce12e3af5.jpg",
+          "views": 82231,
+          "danmaku": 215,
+          "url": "https://www.bilibili.com/video/BV1LTSEBNEhR"
+        },
+        {
+          "bvid": "BV1vNmmB3Ehu",
+          "title": "【解题技巧】内容措施类解题思路｜题型材料超详细拆解，记住套路高分稳拿",
+          "duration": 1186,
+          "pubdate": 1765545688,
+          "cover": "https://i2.hdslb.com/bfs/archive/2df2b789e7f99a2cb5fb0a617ebc0e1e68c2f07d.jpg",
+          "views": 39758,
+          "danmaku": 65,
+          "url": "https://www.bilibili.com/video/BV1vNmmB3Ehu"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 5,
+    "videos": 48,
+    "truncated_collections": []
+  }
+}

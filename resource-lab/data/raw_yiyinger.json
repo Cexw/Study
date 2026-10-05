@@ -1,0 +1,2918 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791183978155,
+  "source": {
+    "platform": "bilibili",
+    "author": "一英儿",
+    "mid": 632207543,
+    "space": "https://space.bilibili.com/632207543"
+  },
+  "collections": [
+    {
+      "season_id": 9170287,
+      "title": "用思维导图打开高考英语题型",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/fca78932241e9d0cf5fa516d8c47f971303cd255.jpg",
+      "total": 4,
+      "fetched": 4,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1bjbj6qEia",
+          "title": "告别盲目刷题！一张思维导图带你搭建阅读真题解题框架！",
+          "duration": 6524,
+          "pubdate": 1788610018,
+          "cover": "https://i2.hdslb.com/bfs/archive/ac8d8283edb93c697ee019511b4b70a1db473ddc.jpg",
+          "views": 82565,
+          "danmaku": 73,
+          "url": "https://www.bilibili.com/video/BV1bjbj6qEia"
+        },
+        {
+          "bvid": "BV1SLYX6UEFw",
+          "title": "告别盲目刷题！一张思维导图带你搭建高考「七选五」解题框架！",
+          "duration": 3490,
+          "pubdate": 1789212472,
+          "cover": "https://i1.hdslb.com/bfs/archive/ba7496f72007bbf2f72ee2747be70d9e64e30aeb.jpg",
+          "views": 68983,
+          "danmaku": 58,
+          "url": "https://www.bilibili.com/video/BV1SLYX6UEFw"
+        },
+        {
+          "bvid": "BV1ydh16nEwb",
+          "title": "「完形填空」如何提升？自检三问+思维导图给你答案！",
+          "duration": 5426,
+          "pubdate": 1790338267,
+          "cover": "https://i2.hdslb.com/bfs/archive/2d79e891139f64ff02238429e6f19a8ee6ea5726.jpg",
+          "views": 59032,
+          "danmaku": 81,
+          "url": "https://www.bilibili.com/video/BV1ydh16nEwb"
+        },
+        {
+          "bvid": "BV1ejYP69ERo",
+          "title": "告别盲目刷题！一张思维导图带你搭建高考「语法填空」解题框架！",
+          "duration": 4283,
+          "pubdate": 1790828709,
+          "cover": "https://i0.hdslb.com/bfs/archive/4059e2b4a1dd9d10f2c8ffb2f535abe2d51a2b93.jpg",
+          "views": 46073,
+          "danmaku": 62,
+          "url": "https://www.bilibili.com/video/BV1ejYP69ERo"
+        }
+      ]
+    },
+    {
+      "season_id": 8823510,
+      "title": "高中英语这样学！七七带你科学备考",
+      "intro": "本合集收录七七为各年级做的英语阶段规划，能力提升、复盘方法等。\n带你建立科学的备考节奏，把学习流程做对~",
+      "cover": "https://archive.biliimg.com/bfs/archive/7599b5b3c9e5b1efbf09f2980b03336f8ae4c4e9.jpg",
+      "total": 4,
+      "fetched": 4,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1G59AYzEW1",
+          "title": "高考倒计时100天，不同英语水平的提分 “捷径” 全公开！附保姆级周计划打卡表格",
+          "duration": 779,
+          "pubdate": 1740661542,
+          "cover": "https://i1.hdslb.com/bfs/archive/3bfc7f3c93faaf321f8928394ceb08a0a89e7b7a.jpg",
+          "views": 303412,
+          "danmaku": 3385,
+          "url": "https://www.bilibili.com/video/BV1G59AYzEW1"
+        },
+        {
+          "bvid": "BV1VdPezmEab",
+          "title": "高考不到100天，英语提分就靠它！2026届冲刺必看丨附全题型「三层复盘表」",
+          "duration": 540,
+          "pubdate": 1772629397,
+          "cover": "https://i1.hdslb.com/bfs/archive/2f31b13abbbf5f8125d2d3f541f5f474066ca01b.jpg",
+          "views": 153871,
+          "danmaku": 1417,
+          "url": "https://www.bilibili.com/video/BV1VdPezmEab"
+        },
+        {
+          "bvid": "BV1S9ui65EbK",
+          "title": "暑假余额不足20天，准高二英语到底怎么学？先诊断，再提升丨七七为你定制每天60-90分钟行动计划",
+          "duration": 785,
+          "pubdate": 1786444167,
+          "cover": "https://i2.hdslb.com/bfs/archive/e28d6ef87b2afab323f0b39edcc9b5f6f53d9e7d.jpg",
+          "views": 99640,
+          "danmaku": 150,
+          "url": "https://www.bilibili.com/video/BV1S9ui65EbK"
+        },
+        {
+          "bvid": "BV1zngV6aEj4",
+          "title": "看懂英语范文却写不好作文？「回译法」完整实操｜准高二高三暑期写作提分训练必备",
+          "duration": 652,
+          "pubdate": 1786529100,
+          "cover": "https://i1.hdslb.com/bfs/archive/0239256b9246c418c84ab8507073518e39e03d9a.jpg",
+          "views": 93828,
+          "danmaku": 193,
+          "url": "https://www.bilibili.com/video/BV1zngV6aEj4"
+        }
+      ]
+    },
+    {
+      "season_id": 6480593,
+      "title": "45篇短文搞定3500词",
+      "intro": "45篇短文搞定3500词【文本更新中】\n链接: https://pan.baidu.com/s/1MdMajYPk3-ElXEznUc2qeQ?pwd=7721 \n提取码: 7721",
+      "cover": "https://archive.biliimg.com/bfs/archive/f1edaa2cdebbbaaa6cd988d931db842965fa7c51.jpg",
+      "total": 46,
+      "fetched": 46,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV18jnGzXEKj",
+          "title": "音频来啦！45篇短文搞定3500词",
+          "duration": 5333,
+          "pubdate": 1758899776,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 1083301,
+          "danmaku": 571,
+          "url": "https://www.bilibili.com/video/BV18jnGzXEKj"
+        },
+        {
+          "bvid": "BV12cu8ziEhk",
+          "title": "背单词，看这个就够了丨45篇短文搞定3500词 第1篇 英语逆袭之路",
+          "duration": 3898,
+          "pubdate": 1752670650,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 1609628,
+          "danmaku": 11197,
+          "url": "https://www.bilibili.com/video/BV12cu8ziEhk"
+        },
+        {
+          "bvid": "BV1ShgpzdECP",
+          "title": "初升高必备！45篇短文搞定3500词 第2篇 向西而行: 在荒漠与星空下读懂家人丨背单词，看这个就够了！",
+          "duration": 4130,
+          "pubdate": 1753232400,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 497096,
+          "danmaku": 6171,
+          "url": "https://www.bilibili.com/video/BV1ShgpzdECP"
+        },
+        {
+          "bvid": "BV1C38tzCEUK",
+          "title": "初升高必备！45篇短文搞定3500词 第3篇 举重奶奶的逆龄人生丨背单词，看这个就够了！",
+          "duration": 4335,
+          "pubdate": 1753522002,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 356105,
+          "danmaku": 4138,
+          "url": "https://www.bilibili.com/video/BV1C38tzCEUK"
+        },
+        {
+          "bvid": "BV17ehbzrEpa",
+          "title": "初升高必备！45篇短文搞定3500词 第4篇 错发的缘分丨背单词，看这个就够了！",
+          "duration": 3850,
+          "pubdate": 1754107917,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 277761,
+          "danmaku": 3311,
+          "url": "https://www.bilibili.com/video/BV17ehbzrEpa"
+        },
+        {
+          "bvid": "BV1wHYzz7EGx",
+          "title": "初升高必备！45篇短文搞定3500词 第5篇 “3・11”海啸求生记丨背单词，看这个就够了！",
+          "duration": 4477,
+          "pubdate": 1755394200,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 228193,
+          "danmaku": 3008,
+          "url": "https://www.bilibili.com/video/BV1wHYzz7EGx"
+        },
+        {
+          "bvid": "BV1rShXzmEsP",
+          "title": "背单词就看这个！45篇短文搞定3500词 第6篇 当交换生遇上汉语",
+          "duration": 4567,
+          "pubdate": 1756469700,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 211970,
+          "danmaku": 2411,
+          "url": "https://www.bilibili.com/video/BV1rShXzmEsP"
+        },
+        {
+          "bvid": "BV1HzHCzwEPM",
+          "title": "背单词就看这个！45篇短文搞定3500词 第7篇 食物连心",
+          "duration": 3689,
+          "pubdate": 1757502600,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 202459,
+          "danmaku": 1735,
+          "url": "https://www.bilibili.com/video/BV1HzHCzwEPM"
+        },
+        {
+          "bvid": "BV1sZHZzLES8",
+          "title": "背单词就看这个！45篇短文搞定3500词 第8篇 小善举，大力量",
+          "duration": 3599,
+          "pubdate": 1757845200,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 172787,
+          "danmaku": 1299,
+          "url": "https://www.bilibili.com/video/BV1sZHZzLES8"
+        },
+        {
+          "bvid": "BV13npQzgEKJ",
+          "title": "背单词就看这个！45篇短文搞定3500词 第9篇 当退休演员遇见夜店 DJ：从吵到暖",
+          "duration": 4321,
+          "pubdate": 1758335890,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 165086,
+          "danmaku": 1616,
+          "url": "https://www.bilibili.com/video/BV13npQzgEKJ"
+        },
+        {
+          "bvid": "BV14dxTzEEuT",
+          "title": "背单词就看这个！45篇短文搞定3500词 第10篇 从垃圾遍布到野鸭归来",
+          "duration": 4029,
+          "pubdate": 1759672667,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 157529,
+          "danmaku": 985,
+          "url": "https://www.bilibili.com/video/BV14dxTzEEuT"
+        },
+        {
+          "bvid": "BV17zxRzvE7U",
+          "title": "背单词就看这个！45篇短文搞定3500词 第11篇 90天“不花钱”挑战！",
+          "duration": 3711,
+          "pubdate": 1759841918,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 186990,
+          "danmaku": 1148,
+          "url": "https://www.bilibili.com/video/BV17zxRzvE7U"
+        },
+        {
+          "bvid": "BV1wV1PBFEmF",
+          "title": "背单词就看这个！45篇短文搞定3500词 第12篇 临危三掌救幼童",
+          "duration": 3590,
+          "pubdate": 1761905100,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 140087,
+          "danmaku": 984,
+          "url": "https://www.bilibili.com/video/BV1wV1PBFEmF"
+        },
+        {
+          "bvid": "BV1qZ2MBBEec",
+          "title": "【结尾有彩蛋#^-^#】45篇短文搞定3500词 第13篇 迪士尼乐园诞生记丨背单词就看这个！",
+          "duration": 3285,
+          "pubdate": 1762512300,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 130425,
+          "danmaku": 752,
+          "url": "https://www.bilibili.com/video/BV1qZ2MBBEec"
+        },
+        {
+          "bvid": "BV1iHCcBuEmn",
+          "title": "45篇短文搞定3500词 第14篇 传统手工艺的当代突围丨背单词就看这个！",
+          "duration": 3259,
+          "pubdate": 1762782385,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 134138,
+          "danmaku": 851,
+          "url": "https://www.bilibili.com/video/BV1iHCcBuEmn"
+        },
+        {
+          "bvid": "BV1bcynBEEnb",
+          "title": "45篇短文搞定3500词 第15篇 当京剧遇上哈姆雷特丨背单词就看这个！",
+          "duration": 2905,
+          "pubdate": 1763550891,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 133909,
+          "danmaku": 826,
+          "url": "https://www.bilibili.com/video/BV1bcynBEEnb"
+        },
+        {
+          "bvid": "BV1AsSqBvEwb",
+          "title": "45篇短文搞定3500词 第16篇 濒危名单新成员丨背单词就看这个！",
+          "duration": 3821,
+          "pubdate": 1764513397,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 134626,
+          "danmaku": 662,
+          "url": "https://www.bilibili.com/video/BV1AsSqBvEwb"
+        },
+        {
+          "bvid": "BV1u32EBDE1q",
+          "title": "45篇短文搞定3500词 第17篇 竹刻生辉：非遗匠人的指尖传承 丨背单词就看这个！",
+          "duration": 3284,
+          "pubdate": 1764993300,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 124161,
+          "danmaku": 605,
+          "url": "https://www.bilibili.com/video/BV1u32EBDE1q"
+        },
+        {
+          "bvid": "BV1fm2fB7EjQ",
+          "title": "45篇短文搞定3500词 第18篇 七旬老人徒步丝绸之路 丨背单词就看这个！",
+          "duration": 3300,
+          "pubdate": 1765090756,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 133483,
+          "danmaku": 697,
+          "url": "https://www.bilibili.com/video/BV1fm2fB7EjQ"
+        },
+        {
+          "bvid": "BV1iKBxBfEss",
+          "title": "45篇短文搞定3500词 第19篇 沪上新生丨背单词就看这个！",
+          "duration": 3735,
+          "pubdate": 1766406600,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 125396,
+          "danmaku": 646,
+          "url": "https://www.bilibili.com/video/BV1iKBxBfEss"
+        },
+        {
+          "bvid": "BV1tZvxBGECZ",
+          "title": "45篇短文搞定3500词 第20篇 短视频快乐背后的代价丨背单词就看这个！",
+          "duration": 3210,
+          "pubdate": 1767016590,
+          "cover": "https://i0.hdslb.com/bfs/archive/16b7a36c9ef1ef8afb1d5243520f44568800c751.jpg",
+          "views": 142812,
+          "danmaku": 905,
+          "url": "https://www.bilibili.com/video/BV1tZvxBGECZ"
+        },
+        {
+          "bvid": "BV1CzrNBxEtW",
+          "title": "45篇短文搞定3500词 第21篇 彩绘人生丨背单词就看这个！",
+          "duration": 3047,
+          "pubdate": 1767961571,
+          "cover": "https://i1.hdslb.com/bfs/archive/898b6cbccc14fe25ede1e9fad17850647a96753d.jpg",
+          "views": 157317,
+          "danmaku": 528,
+          "url": "https://www.bilibili.com/video/BV1CzrNBxEtW"
+        },
+        {
+          "bvid": "BV1R6rQB3ErG",
+          "title": "45篇短文搞定3500词 第22篇 番茄大战 & 冰雪奇观丨背单词就看这个！",
+          "duration": 4045,
+          "pubdate": 1768660862,
+          "cover": "https://i1.hdslb.com/bfs/archive/a9bda3abf63a215e5eb8eae5b4c25631de00a94f.jpg",
+          "views": 122862,
+          "danmaku": 831,
+          "url": "https://www.bilibili.com/video/BV1R6rQB3ErG"
+        },
+        {
+          "bvid": "BV1xtzCBhE34",
+          "title": "45篇短文搞定3500词 第23篇 阿尔卑斯：绝境救援丨背单词就看这个！",
+          "duration": 3517,
+          "pubdate": 1769249261,
+          "cover": "https://i0.hdslb.com/bfs/archive/2a2544c1fe0d418fe8082c69562a5a6a2cfbbe70.jpg",
+          "views": 140397,
+          "danmaku": 847,
+          "url": "https://www.bilibili.com/video/BV1xtzCBhE34"
+        },
+        {
+          "bvid": "BV17762BfEwN",
+          "title": "45篇短文搞定3500词 第24篇 从扫把到键盘的蜕变丨背单词就看这个！",
+          "duration": 3097,
+          "pubdate": 1769852355,
+          "cover": "https://i1.hdslb.com/bfs/archive/a9bda3abf63a215e5eb8eae5b4c25631de00a94f.jpg",
+          "views": 128287,
+          "danmaku": 423,
+          "url": "https://www.bilibili.com/video/BV17762BfEwN"
+        },
+        {
+          "bvid": "BV1nF6bB7Egr",
+          "title": "45篇短文搞定3500词 第25篇 剩食变商机丨背单词就看这个！",
+          "duration": 3164,
+          "pubdate": 1769955994,
+          "cover": "https://i1.hdslb.com/bfs/archive/a9bda3abf63a215e5eb8eae5b4c25631de00a94f.jpg",
+          "views": 165463,
+          "danmaku": 719,
+          "url": "https://www.bilibili.com/video/BV1nF6bB7Egr"
+        },
+        {
+          "bvid": "BV1gafrBUE6Z",
+          "title": "45篇短文搞定3500词 第26篇 14岁少年发明抗癌肥皂丨背单词就看这个！",
+          "duration": 3689,
+          "pubdate": 1771896904,
+          "cover": "https://i2.hdslb.com/bfs/archive/65d5cb66ce50f4bdf4dac4ef68925e356821d7f6.jpg",
+          "views": 112575,
+          "danmaku": 644,
+          "url": "https://www.bilibili.com/video/BV1gafrBUE6Z"
+        },
+        {
+          "bvid": "BV191fbBnEPf",
+          "title": "45篇短文搞定3500词 第27篇 一人使命，非洲新生丨背单词就看这个！",
+          "duration": 3766,
+          "pubdate": 1772013896,
+          "cover": "https://i1.hdslb.com/bfs/archive/d178ca7feb9a3bf9c9a01290436001e156217ba0.jpg",
+          "views": 102553,
+          "danmaku": 494,
+          "url": "https://www.bilibili.com/video/BV191fbBnEPf"
+        },
+        {
+          "bvid": "BV1PoA6z7EXb",
+          "title": "45篇短文搞定3500词 第28篇 一个姿势引发的面试危机丨背单词就看这个！",
+          "duration": 3303,
+          "pubdate": 1772098808,
+          "cover": "https://i1.hdslb.com/bfs/archive/ca1340cdd7a5d9f0e5e5ff8fd8b91c6a428fe640.jpg",
+          "views": 108589,
+          "danmaku": 410,
+          "url": "https://www.bilibili.com/video/BV1PoA6z7EXb"
+        },
+        {
+          "bvid": "BV1W2NAzjEzL",
+          "title": "45篇短文搞定3500词 第29篇 太空旅行：福兮祸兮丨背单词就看这个！",
+          "duration": 3562,
+          "pubdate": 1772931900,
+          "cover": "https://i0.hdslb.com/bfs/archive/7cba8b2a7f5038e1645679d761d42b782ee0d94d.jpg",
+          "views": 108982,
+          "danmaku": 354,
+          "url": "https://www.bilibili.com/video/BV1W2NAzjEzL"
+        },
+        {
+          "bvid": "BV1rJcUzoEHA",
+          "title": "45篇短文搞定3500词 第30篇 未来校园：超乎想象丨背单词就看这个！",
+          "duration": 3541,
+          "pubdate": 1773408600,
+          "cover": "https://i0.hdslb.com/bfs/archive/2f9c2eb70b17b48df295a861982461f7d1386859.jpg",
+          "views": 119497,
+          "danmaku": 369,
+          "url": "https://www.bilibili.com/video/BV1rJcUzoEHA"
+        },
+        {
+          "bvid": "BV1KGSdB4E3n",
+          "title": "45篇短文搞定3500词 第31篇 电梯里的BGM，你留意过吗？丨背单词就看这个！",
+          "duration": 3215,
+          "pubdate": 1775447879,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 122240,
+          "danmaku": 362,
+          "url": "https://www.bilibili.com/video/BV1KGSdB4E3n"
+        },
+        {
+          "bvid": "BV13DQbBYERE",
+          "title": "45篇短文搞定3500词 第32篇 漂浮的绿色饭碗丨背单词就看这个！",
+          "duration": 3512,
+          "pubdate": 1776085200,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 113514,
+          "danmaku": 449,
+          "url": "https://www.bilibili.com/video/BV13DQbBYERE"
+        },
+        {
+          "bvid": "BV1FLoMBeEvh",
+          "title": "45篇短文搞定3500词 第33篇 细菌施肥术丨背单词就看这个！",
+          "duration": 3690,
+          "pubdate": 1776948605,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 122623,
+          "danmaku": 365,
+          "url": "https://www.bilibili.com/video/BV1FLoMBeEvh"
+        },
+        {
+          "bvid": "BV1NDL26SEnf",
+          "title": "45篇短文搞定3500词 第34篇 地铁读诗丨背单词就看这个！",
+          "duration": 3826,
+          "pubdate": 1779283362,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 110313,
+          "danmaku": 226,
+          "url": "https://www.bilibili.com/video/BV1NDL26SEnf"
+        },
+        {
+          "bvid": "BV11rLh6zEkh",
+          "title": "45篇短文搞定3500词 第35篇 六足软体机器人丨背单词就看这个！",
+          "duration": 2993,
+          "pubdate": 1779369597,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 132856,
+          "danmaku": 471,
+          "url": "https://www.bilibili.com/video/BV11rLh6zEkh"
+        },
+        {
+          "bvid": "BV1h1jo6dEnC",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第36篇 海洋动物的节能智慧",
+          "duration": 2126,
+          "pubdate": 1782306788,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 108740,
+          "danmaku": 192,
+          "url": "https://www.bilibili.com/video/BV1h1jo6dEnC"
+        },
+        {
+          "bvid": "BV1xojo6EEpL",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第37篇 我在太空拾星辰",
+          "duration": 2824,
+          "pubdate": 1782308157,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 101369,
+          "danmaku": 307,
+          "url": "https://www.bilibili.com/video/BV1xojo6EEpL"
+        },
+        {
+          "bvid": "BV1RCTZ6CEUc",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第38篇 绿茶燃脂？专家这么说...",
+          "duration": 2703,
+          "pubdate": 1783134155,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 103968,
+          "danmaku": 263,
+          "url": "https://www.bilibili.com/video/BV1RCTZ6CEUc"
+        },
+        {
+          "bvid": "BV1JCMw6cEkH",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第39篇 雨林生死劫",
+          "duration": 2623,
+          "pubdate": 1783163801,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 130403,
+          "danmaku": 318,
+          "url": "https://www.bilibili.com/video/BV1JCMw6cEkH"
+        },
+        {
+          "bvid": "BV1ntNu6CEit",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第40篇 瑞典：垃圾变能源的典范",
+          "duration": 2587,
+          "pubdate": 1783856050,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 119571,
+          "danmaku": 223,
+          "url": "https://www.bilibili.com/video/BV1ntNu6CEit"
+        },
+        {
+          "bvid": "BV1saKy6DEa3",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第41篇 科幻照见未来",
+          "duration": 3031,
+          "pubdate": 1784541600,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 172051,
+          "danmaku": 414,
+          "url": "https://www.bilibili.com/video/BV1saKy6DEa3"
+        },
+        {
+          "bvid": "BV1hyu365E1m",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第42篇 儿童肥胖如何破局",
+          "duration": 3959,
+          "pubdate": 1786194378,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 89118,
+          "danmaku": 252,
+          "url": "https://www.bilibili.com/video/BV1hyu365E1m"
+        },
+        {
+          "bvid": "BV1Xmui6EEwo",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第43篇 毒布之谎，溃于铁证",
+          "duration": 3403,
+          "pubdate": 1786445439,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 86913,
+          "danmaku": 247,
+          "url": "https://www.bilibili.com/video/BV1Xmui6EEwo"
+        },
+        {
+          "bvid": "BV1YR8L61E4X",
+          "title": "暑假当然要背单词啦！45篇短文搞定3500词 第44篇 2°警戒线：最后一搏",
+          "duration": 3205,
+          "pubdate": 1787133300,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 83699,
+          "danmaku": 166,
+          "url": "https://www.bilibili.com/video/BV1YR8L61E4X"
+        },
+        {
+          "bvid": "BV1Nm826QEEw",
+          "title": "【完结篇】暑假当然要抓紧背单词呀！45篇短文搞定3500词 第45篇 星云DNA",
+          "duration": 2750,
+          "pubdate": 1787405360,
+          "cover": "https://i1.hdslb.com/bfs/archive/4571d749a6fbbc0b6917e5c8e410eaeda3f4f4e0.jpg",
+          "views": 106456,
+          "danmaku": 458,
+          "url": "https://www.bilibili.com/video/BV1Nm826QEEw"
+        }
+      ]
+    },
+    {
+      "season_id": 6457869,
+      "title": "高考英语题型全解丨一英教辅",
+      "intro": "",
+      "cover": "https://i0.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "total": 15,
+      "fetched": 15,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1jset68Ey2",
+          "title": "一轮必学「句子思维」丨搞定谓语，长难句直接拆穿，扫清阅读障碍！",
+          "duration": 4282,
+          "pubdate": 1789791985,
+          "cover": "https://i0.hdslb.com/bfs/archive/6323e0eb3a8fbf36e47b12fdbbe15080292fdb38.jpg",
+          "views": 99176,
+          "danmaku": 130,
+          "url": "https://www.bilibili.com/video/BV1jset68Ey2"
+        },
+        {
+          "bvid": "BV1T6n1zLECr",
+          "title": "高考英语题型全解之语法填空丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 4082,
+          "pubdate": 1759230843,
+          "cover": "https://i2.hdslb.com/bfs/archive/713cbad1a85614032f03e72539ba805419bbf31a.jpg",
+          "views": 861307,
+          "danmaku": 2427,
+          "url": "https://www.bilibili.com/video/BV1T6n1zLECr"
+        },
+        {
+          "bvid": "BV18FHHzEEqg",
+          "title": "高考英语题型全解之语法填空【谓语篇】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 5545,
+          "pubdate": 1759312340,
+          "cover": "https://i0.hdslb.com/bfs/archive/da8e42a5861de058ffdf2f8a703d3f0014c46a6a.jpg",
+          "views": 307179,
+          "danmaku": 1077,
+          "url": "https://www.bilibili.com/video/BV18FHHzEEqg"
+        },
+        {
+          "bvid": "BV1vJHLz3EpV",
+          "title": "高考英语【非谓语】解题全攻略丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 5824,
+          "pubdate": 1759501019,
+          "cover": "https://i2.hdslb.com/bfs/archive/d304711610fcbfad2f0291ef62ce566eb876d500.jpg",
+          "views": 232400,
+          "danmaku": 687,
+          "url": "https://www.bilibili.com/video/BV1vJHLz3EpV"
+        },
+        {
+          "bvid": "BV1ruWEzaEgH",
+          "title": "高考英语题型全解之语法填空【动词难题篇】丨高三一轮复习丨高一高二进阶提升，看这个就够了！",
+          "duration": 5567,
+          "pubdate": 1760702391,
+          "cover": "https://i0.hdslb.com/bfs/archive/5dac60788a57325c3e68dda899ff54c41b6c54bb.jpg",
+          "views": 178776,
+          "danmaku": 637,
+          "url": "https://www.bilibili.com/video/BV1ruWEzaEgH"
+        },
+        {
+          "bvid": "BV1rWsHzCEnA",
+          "title": "高考英语题型全解之语法填空【词形转换篇】丨高三一轮复习丨高一高二进阶提升，看这个就够了！",
+          "duration": 3157,
+          "pubdate": 1761310800,
+          "cover": "https://i2.hdslb.com/bfs/archive/d3d3d1413fe40c55317c12efef7546efff77b051.jpg",
+          "views": 130407,
+          "danmaku": 247,
+          "url": "https://www.bilibili.com/video/BV1rWsHzCEnA"
+        },
+        {
+          "bvid": "BV1cUsoz5EfM",
+          "title": "高考英语【三大从句】解题全攻略丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 4775,
+          "pubdate": 1761386400,
+          "cover": "https://i0.hdslb.com/bfs/archive/dd7499cebbe9ca48b0fb1ca6f37333121e6fed51.jpg",
+          "views": 153479,
+          "danmaku": 532,
+          "url": "https://www.bilibili.com/video/BV1cUsoz5EfM"
+        },
+        {
+          "bvid": "BV1BaS5BhE9M",
+          "title": "终结冠代介连 “混战”！语填无提示词高分攻略在此！高考英语解题全攻略【语填最终话】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 6304,
+          "pubdate": 1764334800,
+          "cover": "https://i1.hdslb.com/bfs/archive/fcbf15ab8cfd7dbbe3625c897c8dfc460b049912.jpg",
+          "views": 165400,
+          "danmaku": 398,
+          "url": "https://www.bilibili.com/video/BV1BaS5BhE9M"
+        },
+        {
+          "bvid": "BV1FDCkBhEPy",
+          "title": "解“五有”完形，得满分填空！高考英语解题全攻略【完形篇】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 4491,
+          "pubdate": 1763196349,
+          "cover": "https://i2.hdslb.com/bfs/archive/a2335180766dae2ed24385245926d9047b72d7e2.jpg",
+          "views": 215983,
+          "danmaku": 1020,
+          "url": "https://www.bilibili.com/video/BV1FDCkBhEPy"
+        },
+        {
+          "bvid": "BV1N9ULBGEna",
+          "title": "害怕七选五？“大神”来支招！高考英语解题全攻略【七选五篇】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 7615,
+          "pubdate": 1763727225,
+          "cover": "https://i0.hdslb.com/bfs/archive/bebaf96a832e1f72470eb64e6925a73db259b34d.jpg",
+          "views": 254726,
+          "danmaku": 851,
+          "url": "https://www.bilibili.com/video/BV1N9ULBGEna"
+        },
+        {
+          "bvid": "BV1p5mEBkE4J",
+          "title": "“卷王”来了！用四大解题思维攻克「温州一模」阅读题！高考英语解题全攻略【阅读理解】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 5502,
+          "pubdate": 1765536900,
+          "cover": "https://i1.hdslb.com/bfs/archive/630d2dc8af0cd429bc12937f27d320b13adbdbaf.jpg",
+          "views": 231412,
+          "danmaku": 757,
+          "url": "https://www.bilibili.com/video/BV1p5mEBkE4J"
+        },
+        {
+          "bvid": "BV1r6BDBrE6t",
+          "title": "高考听力: 学会 “下棋思维”，预判快人一步！高考英语解题全攻略【听力】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 5494,
+          "pubdate": 1766657100,
+          "cover": "https://i0.hdslb.com/bfs/archive/a64b17a99dec1f998a9b4f6e53b001e6d3a6ade9.jpg",
+          "views": 234645,
+          "danmaku": 1475,
+          "url": "https://www.bilibili.com/video/BV1r6BDBrE6t"
+        },
+        {
+          "bvid": "BV1BziCBGEFZ",
+          "title": "不会复盘=T8 白考！七七为你送上英语客观题复盘指南丨高三必看！",
+          "duration": 5698,
+          "pubdate": 1767778792,
+          "cover": "https://i0.hdslb.com/bfs/archive/3d9c6738b957cd4d02d9d92bf02ca73a1832c60d.jpg",
+          "views": 145364,
+          "danmaku": 186,
+          "url": "https://www.bilibili.com/video/BV1BziCBGEFZ"
+        },
+        {
+          "bvid": "BV1K5kWBJEbA",
+          "title": "浙江首考英语启示录丨高三必看！",
+          "duration": 7082,
+          "pubdate": 1768710960,
+          "cover": "https://i0.hdslb.com/bfs/archive/6091ee1a2435ae6368b17d4c76aa275c35b55b4d.jpg",
+          "views": 121576,
+          "danmaku": 237,
+          "url": "https://www.bilibili.com/video/BV1K5kWBJEbA"
+        },
+        {
+          "bvid": "BV1GxwxzEEbH",
+          "title": "超“牛”续写来袭！「浙江首考」读后续写这样破！高考英语解题全攻略【读后续写】丨高三一轮复习丨高一高二进阶提升，看这个就够了！丨必刷100讲【26版】",
+          "duration": 3103,
+          "pubdate": 1773479842,
+          "cover": "https://i2.hdslb.com/bfs/archive/be6c8b580a5341d55920a19306f5ef90edf2c37a.jpg",
+          "views": 130684,
+          "danmaku": 228,
+          "url": "https://www.bilibili.com/video/BV1GxwxzEEbH"
+        }
+      ]
+    },
+    {
+      "season_id": 1864203,
+      "title": "高中英语大合集",
+      "intro": "一英儿2.0会不断完善与更新高中英语全部知识点、考点与技巧，敬请期待！",
+      "cover": "https://archive.biliimg.com/bfs/archive/ca57f14d12eb99cb403d9aa15c84c581c5f7beec.jpg",
+      "total": 86,
+      "fetched": 86,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1iP4y1P7ET",
+          "title": "为啥要学好语法？【语法合集第0集】先导篇",
+          "duration": 530,
+          "pubdate": 1643022515,
+          "cover": "https://i1.hdslb.com/bfs/archive/bdf61c3677d87ac855140cd52cba5e11e88bc831.jpg",
+          "views": 1591934,
+          "danmaku": 10342,
+          "url": "https://www.bilibili.com/video/BV1iP4y1P7ET"
+        },
+        {
+          "bvid": "BV1YF411n7wb",
+          "title": "系统语法教程【词性＆句子成分】清晰全面的学习英语！",
+          "duration": 956,
+          "pubdate": 1643028728,
+          "cover": "https://i2.hdslb.com/bfs/archive/05056ea88b96db50fcb8aca1bdc93fcb52913ef8.jpg",
+          "views": 1087438,
+          "danmaku": 6077,
+          "url": "https://www.bilibili.com/video/BV1YF411n7wb"
+        },
+        {
+          "bvid": "BV1Hq4y1h7e6",
+          "title": "【形容词、副词、介词、连词】系统语法教程|清晰全面的学习英语！",
+          "duration": 825,
+          "pubdate": 1643511012,
+          "cover": "https://i0.hdslb.com/bfs/archive/1989b1602cd7affd4d3b34419a843b93e3f5c904.jpg",
+          "views": 667642,
+          "danmaku": 5508,
+          "url": "https://www.bilibili.com/video/BV1Hq4y1h7e6"
+        },
+        {
+          "bvid": "BV1pr4y1s7ms",
+          "title": "一个方法，一种思维，搞定名词和冠词！",
+          "duration": 1315,
+          "pubdate": 1648953000,
+          "cover": "https://i2.hdslb.com/bfs/archive/f8124b4cd84f1c9a683c75f71adaf737055ef0d0.jpg",
+          "views": 394535,
+          "danmaku": 2036,
+          "url": "https://www.bilibili.com/video/BV1pr4y1s7ms"
+        },
+        {
+          "bvid": "BV18d4y1A7e2",
+          "title": "【高中英语从零开始】名词短语、形容词短语、副词短语，一次性分清！ | 保姆级讲解【不分教材版本】",
+          "duration": 1123,
+          "pubdate": 1661694546,
+          "cover": "https://i2.hdslb.com/bfs/archive/59ada4038336d90c7cd03d008ed3bcd63dae33be.jpg",
+          "views": 538777,
+          "danmaku": 2878,
+          "url": "https://www.bilibili.com/video/BV18d4y1A7e2"
+        },
+        {
+          "bvid": "BV1ZT411c7WP",
+          "title": "【高中英语从零开始】开更！基本句子结构丨保姆级讲解【不分教材版本】",
+          "duration": 1422,
+          "pubdate": 1661162400,
+          "cover": "https://i1.hdslb.com/bfs/archive/abbc7f56e25fdef1838586e73da9d42aa6de04e6.jpg",
+          "views": 3110630,
+          "danmaku": 13878,
+          "url": "https://www.bilibili.com/video/BV1ZT411c7WP"
+        },
+        {
+          "bvid": "BV1ke4y1d77z",
+          "title": "【高中英语从零开始】从简单句到复合句 | 手把手带你分析句子成分，轻松进阶复合句！",
+          "duration": 1520,
+          "pubdate": 1662293219,
+          "cover": "https://i1.hdslb.com/bfs/archive/1758009ab007c3a713f08e850139c5e2080a853a.jpg",
+          "views": 479234,
+          "danmaku": 4021,
+          "url": "https://www.bilibili.com/video/BV1ke4y1d77z"
+        },
+        {
+          "bvid": "BV16P4y1Z7sT",
+          "title": "【高中英语从零开始】及物动词&不及物动词|英语难解之谜，用思维搞定！",
+          "duration": 1496,
+          "pubdate": 1662885991,
+          "cover": "https://i0.hdslb.com/bfs/archive/ea28aa24caea0a9da10bc46ebb5d96d19a24f2f2.jpg",
+          "views": 336915,
+          "danmaku": 4166,
+          "url": "https://www.bilibili.com/video/BV16P4y1Z7sT"
+        },
+        {
+          "bvid": "BV1bq4y1b7gp",
+          "title": "超清晰语法教程！【非谓语】的全面讲解(上)",
+          "duration": 1650,
+          "pubdate": 1644058615,
+          "cover": "https://i0.hdslb.com/bfs/archive/d8db2c8aa34b475d5b2c5bc76ae29cc6eaa74eec.jpg",
+          "views": 928604,
+          "danmaku": 6187,
+          "url": "https://www.bilibili.com/video/BV1bq4y1b7gp"
+        },
+        {
+          "bvid": "BV1rr4y1h7XD",
+          "title": "to do/doing傻傻分不清？超全面非谓语剖析！|语法合集",
+          "duration": 1332,
+          "pubdate": 1644408094,
+          "cover": "https://i2.hdslb.com/bfs/archive/bb732894f137688df5fcf9635dda45880bad7dd9.jpg",
+          "views": 493951,
+          "danmaku": 3637,
+          "url": "https://www.bilibili.com/video/BV1rr4y1h7XD"
+        },
+        {
+          "bvid": "BV1Aq4y1t7Gh",
+          "title": "【非谓语动词】用法指南！动名词？分词？还是不定式？",
+          "duration": 1634,
+          "pubdate": 1644841129,
+          "cover": "https://i2.hdslb.com/bfs/archive/5ef9bd47436b24e17c7349548c15228881ee57ff.jpg",
+          "views": 458926,
+          "danmaku": 2706,
+          "url": "https://www.bilibili.com/video/BV1Aq4y1t7Gh"
+        },
+        {
+          "bvid": "BV1tB4y147mN",
+          "title": "独立主格结构，两句歌词一唱就会用!",
+          "duration": 1306,
+          "pubdate": 1655603072,
+          "cover": "https://i2.hdslb.com/bfs/archive/9ec8a04dd6415d1e915c32b0145737b8f4fbf8e0.jpg",
+          "views": 285748,
+          "danmaku": 1429,
+          "url": "https://www.bilibili.com/video/BV1tB4y147mN"
+        },
+        {
+          "bvid": "BV1oY4y1P7Ux",
+          "title": "【高中英语从零开始】用翻译的方式学定语从句，是什么样子？ |  新手友好，学透定从！",
+          "duration": 1710,
+          "pubdate": 1663668000,
+          "cover": "https://i2.hdslb.com/bfs/archive/657f2a064b9d80253c161f8c692ae690dcd9fe20.jpg",
+          "views": 514501,
+          "danmaku": 4790,
+          "url": "https://www.bilibili.com/video/BV1oY4y1P7Ux"
+        },
+        {
+          "bvid": "BV1MG4y1x71U",
+          "title": "【高中英语从零开始】分隔式定从？关系词省略？特殊先行词？一站式解决！",
+          "duration": 1437,
+          "pubdate": 1664022973,
+          "cover": "https://i2.hdslb.com/bfs/archive/d533dbc8ed088cbafead0d3f83214db711d8493c.jpg",
+          "views": 311559,
+          "danmaku": 1632,
+          "url": "https://www.bilibili.com/video/BV1MG4y1x71U"
+        },
+        {
+          "bvid": "BV1wV4y1G7ke",
+          "title": "一句So what玩转非限制性定语从句，易懂、更好用！",
+          "duration": 937,
+          "pubdate": 1666436344,
+          "cover": "https://i1.hdslb.com/bfs/archive/3844f246ca37315e09b784e26d0572a4d92a4d34.jpg",
+          "views": 301618,
+          "danmaku": 1437,
+          "url": "https://www.bilibili.com/video/BV1wV4y1G7ke"
+        },
+        {
+          "bvid": "BV1aG4y1h7cJ",
+          "title": "丘吉尔首相都“欲罢不能”的定语从句，你学懂了吗？定语从句最终话！",
+          "duration": 1054,
+          "pubdate": 1667051257,
+          "cover": "https://i2.hdslb.com/bfs/archive/a77a497e3f3140589db977890f01425201577285.jpg",
+          "views": 165333,
+          "danmaku": 741,
+          "url": "https://www.bilibili.com/video/BV1aG4y1h7cJ"
+        },
+        {
+          "bvid": "BV1Rg4y1s7Kr",
+          "title": "北美意难平？名词性从句！语法其实可以更easy～",
+          "duration": 937,
+          "pubdate": 1679187600,
+          "cover": "https://i1.hdslb.com/bfs/archive/bbdad94921a45037b3b24421b1718de67ebbac25.jpg",
+          "views": 199403,
+          "danmaku": 621,
+          "url": "https://www.bilibili.com/video/BV1Rg4y1s7Kr"
+        },
+        {
+          "bvid": "BV13s4y1H7Yi",
+          "title": "只是一个that，不必点进来丨不过是三大从句里的一个灵魂问题而已【名词性从句】",
+          "duration": 1213,
+          "pubdate": 1679749194,
+          "cover": "https://i0.hdslb.com/bfs/archive/290572b23537d476f4b5812c9fadf9f3cd30a006.jpg",
+          "views": 148797,
+          "danmaku": 703,
+          "url": "https://www.bilibili.com/video/BV13s4y1H7Yi"
+        },
+        {
+          "bvid": "BV19A4y1o7Df",
+          "title": "宾语从句不懂？从零开始保姆级教学！ |英语语法",
+          "duration": 495,
+          "pubdate": 1653222882,
+          "cover": "https://i1.hdslb.com/bfs/archive/119a055dd2ad4aa12d7538fd64ea5cfa3e3173d3.jpg",
+          "views": 470745,
+          "danmaku": 1842,
+          "url": "https://www.bilibili.com/video/BV19A4y1o7Df"
+        },
+        {
+          "bvid": "BV1h34y157F2",
+          "title": "主语从句就这？考试重难点全覆盖",
+          "duration": 582,
+          "pubdate": 1655542449,
+          "cover": "https://i0.hdslb.com/bfs/archive/a8e8ff8b50a0b5ee0c61284cbee3fc50d7a032b2.jpg",
+          "views": 269528,
+          "danmaku": 915,
+          "url": "https://www.bilibili.com/video/BV1h34y157F2"
+        },
+        {
+          "bvid": "BV1zg4111751",
+          "title": "【一英】同位语从句 看这个就够啦—名词性从句第三弹",
+          "duration": 745,
+          "pubdate": 1659153924,
+          "cover": "https://i1.hdslb.com/bfs/archive/2bf8b9fd3f10a8d926bfc7fef6067a25e1eda4d5.jpg",
+          "views": 278252,
+          "danmaku": 2368,
+          "url": "https://www.bilibili.com/video/BV1zg4111751"
+        },
+        {
+          "bvid": "BV1yt4y1E7aX",
+          "title": "【一英】表语从句全解析！真的超简单",
+          "duration": 555,
+          "pubdate": 1661593500,
+          "cover": "https://i2.hdslb.com/bfs/archive/1966265185b8659a4731a2315e45ce06b4d5a7d4.jpg",
+          "views": 299312,
+          "danmaku": 1391,
+          "url": "https://www.bilibili.com/video/BV1yt4y1E7aX"
+        },
+        {
+          "bvid": "BV1a44y1K7ys",
+          "title": "保姆级部分倒装，读后续写高分表达必备！",
+          "duration": 1298,
+          "pubdate": 1647081463,
+          "cover": "https://i1.hdslb.com/bfs/archive/8227be5c3cc40c833d0f7e910994f66290251bdc.jpg",
+          "views": 289573,
+          "danmaku": 1786,
+          "url": "https://www.bilibili.com/video/BV1a44y1K7ys"
+        },
+        {
+          "bvid": "BV1vL411w7TQ",
+          "title": "保姆级全部＆特殊倒装，让续写、应用文更高分！",
+          "duration": 1185,
+          "pubdate": 1647693795,
+          "cover": "https://i0.hdslb.com/bfs/archive/93efc7cc9e9d9916d8f6f38d70bb10dfcba67897.png",
+          "views": 193279,
+          "danmaku": 1173,
+          "url": "https://www.bilibili.com/video/BV1vL411w7TQ"
+        },
+        {
+          "bvid": "BV16g411X7xg",
+          "title": "“七氏语法秘籍”之保姆级强调句讲解",
+          "duration": 1252,
+          "pubdate": 1656155738,
+          "cover": "https://i0.hdslb.com/bfs/archive/70037e0e3d6f306d382bcc187c028e6ba7fea70c.jpg",
+          "views": 156064,
+          "danmaku": 1138,
+          "url": "https://www.bilibili.com/video/BV16g411X7xg"
+        },
+        {
+          "bvid": "BV1xqk2YpETR",
+          "title": "是英语语法里被狠狠低估的【省略】啊、别再省掉它啦！【英语语法系统合集】",
+          "duration": 1016,
+          "pubdate": 1734698297,
+          "cover": "https://i1.hdslb.com/bfs/archive/efba3cea3d534b5a8de50b23cad450095b40641f.jpg",
+          "views": 77564,
+          "danmaku": 342,
+          "url": "https://www.bilibili.com/video/BV1xqk2YpETR"
+        },
+        {
+          "bvid": "BV1NN4y1L7tt",
+          "title": "代词难点攻略，它比你想象的要复杂 | 讲练结合，速来挑战！",
+          "duration": 1431,
+          "pubdate": 1658929771,
+          "cover": "https://i2.hdslb.com/bfs/archive/926698929e03e2dc4c6a00daed6c95ad0a2deb51.jpg",
+          "views": 148533,
+          "danmaku": 794,
+          "url": "https://www.bilibili.com/video/BV1NN4y1L7tt"
+        },
+        {
+          "bvid": "BV1My4y1A7XX",
+          "title": "【英语语法系统合集】情态动词学得好，情商低不了！",
+          "duration": 1427,
+          "pubdate": 1698486900,
+          "cover": "https://i2.hdslb.com/bfs/archive/0cbd669cd4cc4c3009c0af6d8db983c399ea7306.jpg",
+          "views": 133067,
+          "danmaku": 673,
+          "url": "https://www.bilibili.com/video/BV1My4y1A7XX"
+        },
+        {
+          "bvid": "BV1Tu4y177QZ",
+          "title": "【英语语法系统合集】情态动词特殊用法，一表打尽！",
+          "duration": 1332,
+          "pubdate": 1699091700,
+          "cover": "https://i0.hdslb.com/bfs/archive/cabc10c8b169bda96e3f58bf7315e20d11fd5ae9.jpg",
+          "views": 91746,
+          "danmaku": 379,
+          "url": "https://www.bilibili.com/video/BV1Tu4y177QZ"
+        },
+        {
+          "bvid": "BV1cL41177q1",
+          "title": "【一英】保姆级虚拟语气，读后续写高分表达必备|手把手带你解虚拟“数学题“",
+          "duration": 1507,
+          "pubdate": 1640439641,
+          "cover": "https://i0.hdslb.com/bfs/archive/b55c47d4e824fb555cff558614fde3ffb040177c.jpg",
+          "views": 335272,
+          "danmaku": 4453,
+          "url": "https://www.bilibili.com/video/BV1cL41177q1"
+        },
+        {
+          "bvid": "BV1hGzHYQEf2",
+          "title": "一句口诀摸清状语！高分读后续写、拆解长难句都靠它！【英语语法系统合集】",
+          "duration": 938,
+          "pubdate": 1732962000,
+          "cover": "https://i0.hdslb.com/bfs/archive/4fdd0fd6e7fca8e450c4078c8c04a0835dfa6298.jpg",
+          "views": 139588,
+          "danmaku": 359,
+          "url": "https://www.bilibili.com/video/BV1hGzHYQEf2"
+        },
+        {
+          "bvid": "BV1AoBTYaEvN",
+          "title": "必看！九大状语从句，你都分清了吗？咱一次性梳理到位！【英语语法系统合集】",
+          "duration": 1575,
+          "pubdate": 1734094657,
+          "cover": "https://i2.hdslb.com/bfs/archive/99003dd03a660e0c223a7cee7bc936598a9b5a7b.jpg",
+          "views": 121772,
+          "danmaku": 685,
+          "url": "https://www.bilibili.com/video/BV1AoBTYaEvN"
+        },
+        {
+          "bvid": "BV1L94y1o7iU",
+          "title": "英语介词总混淆？拿捏介词核心义，以一顶百不是梦！",
+          "duration": 1325,
+          "pubdate": 1650160800,
+          "cover": "https://i0.hdslb.com/bfs/archive/943021f073929b09753c867575f82ab98ddf0217.jpg",
+          "views": 333098,
+          "danmaku": 1521,
+          "url": "https://www.bilibili.com/video/BV1L94y1o7iU"
+        },
+        {
+          "bvid": "BV1DT4y1z78h",
+          "title": "to/for傻傻分不清楚？一招搞定介词“四恶霸”",
+          "duration": 1318,
+          "pubdate": 1651316400,
+          "cover": "https://i0.hdslb.com/bfs/archive/0006ecd982901e38021200ba36c3e68925246107.jpg",
+          "views": 459923,
+          "danmaku": 1624,
+          "url": "https://www.bilibili.com/video/BV1DT4y1z78h"
+        },
+        {
+          "bvid": "BV1jS4y1b7eQ",
+          "title": "by/over/with“多管闲事”的介词三兄弟，一次性梳理到位！",
+          "duration": 1656,
+          "pubdate": 1652103346,
+          "cover": "https://i0.hdslb.com/bfs/archive/f85dcaed015b7f8cc783ad48d45073cf0a4d60b3.jpg",
+          "views": 143072,
+          "danmaku": 705,
+          "url": "https://www.bilibili.com/video/BV1jS4y1b7eQ"
+        },
+        {
+          "bvid": "BV1HU4y1o7LA",
+          "title": "阅读理解细节题，三招专治读不快读不懂！",
+          "duration": 1475,
+          "pubdate": 1646478385,
+          "cover": "https://i2.hdslb.com/bfs/archive/56bdf3dcc1801211a03e185a7a3d0cc832bb5d07.jpg",
+          "views": 1906406,
+          "danmaku": 8880,
+          "url": "https://www.bilibili.com/video/BV1HU4y1o7LA"
+        },
+        {
+          "bvid": "BV14Y411F77s",
+          "title": "保姆级英语阅读推断题讲解，来品经典真（kēng）题！",
+          "duration": 3038,
+          "pubdate": 1653137772,
+          "cover": "https://i0.hdslb.com/bfs/archive/98c7b1f973585982213af5949f15cd2f37cdd9c3.jpg",
+          "views": 340931,
+          "danmaku": 3150,
+          "url": "https://www.bilibili.com/video/BV14Y411F77s"
+        },
+        {
+          "bvid": "BV12r4y1n7sH",
+          "title": "英语阅读猜词题，3招化解！",
+          "duration": 1921,
+          "pubdate": 1649511836,
+          "cover": "https://i0.hdslb.com/bfs/archive/10c5b2d752fc1a5c1bfd5b91e0df0ad9c39b9806.jpg",
+          "views": 337280,
+          "danmaku": 2732,
+          "url": "https://www.bilibili.com/video/BV12r4y1n7sH"
+        },
+        {
+          "bvid": "BV19Y4y147ts",
+          "title": "英语阅读主旨拿捏不准？分享146分学姐的方法！",
+          "duration": 1989,
+          "pubdate": 1652618672,
+          "cover": "https://i2.hdslb.com/bfs/archive/c8b2bf61acd892381e2732fda391f94af263dacb.jpg",
+          "views": 401010,
+          "danmaku": 2359,
+          "url": "https://www.bilibili.com/video/BV19Y4y147ts"
+        },
+        {
+          "bvid": "BV1HU4y1T7fZ",
+          "title": "【一英】噩梦般的七选五，有套路！",
+          "duration": 809,
+          "pubdate": 1638019216,
+          "cover": "https://i2.hdslb.com/bfs/archive/b2d2b3262f89dd779b1c9414247b2f5d1f0e2476.jpg",
+          "views": 1862703,
+          "danmaku": 31867,
+          "url": "https://www.bilibili.com/video/BV1HU4y1T7fZ"
+        },
+        {
+          "bvid": "BV1Ge4y1v7Qh",
+          "title": "【考前必刷】语法填空词性转换，刷这个就够了！吐血整理必考清单丨建议反复听",
+          "duration": 1664,
+          "pubdate": 1665837812,
+          "cover": "https://i0.hdslb.com/bfs/archive/415a728a077e84500e629c2d1a8a3a71c8143dca.jpg",
+          "views": 977929,
+          "danmaku": 2778,
+          "url": "https://www.bilibili.com/video/BV1Ge4y1v7Qh"
+        },
+        {
+          "bvid": "BV1gL411u7Wg",
+          "title": "【一英】高考语法填空 有送分信号？",
+          "duration": 797,
+          "pubdate": 1636189817,
+          "cover": "https://i1.hdslb.com/bfs/archive/38ad8006c9cecb014b37aa8b61d226232dd69aee.jpg",
+          "views": 2140477,
+          "danmaku": 13325,
+          "url": "https://www.bilibili.com/video/BV1gL411u7Wg"
+        },
+        {
+          "bvid": "BV19P4y157d7",
+          "title": "【一英】高考语法填空提升篇 别怕谓语难题啦！",
+          "duration": 1111,
+          "pubdate": 1636857013,
+          "cover": "https://i1.hdslb.com/bfs/archive/388760bb441edb6df189feb8d0a317508466d80b.jpg",
+          "views": 968681,
+          "danmaku": 10701,
+          "url": "https://www.bilibili.com/video/BV19P4y157d7"
+        },
+        {
+          "bvid": "BV1dk4y177Ba",
+          "title": "【高考冲刺】介词小恶魔、原来这么“填”！语法填空系列课程",
+          "duration": 2404,
+          "pubdate": 1682935500,
+          "cover": "https://i0.hdslb.com/bfs/archive/8c51f134355eee995154ad9635c69f71a1016cf5.jpg",
+          "views": 255834,
+          "danmaku": 2244,
+          "url": "https://www.bilibili.com/video/BV1dk4y177Ba"
+        },
+        {
+          "bvid": "BV1yT411t7gw",
+          "title": "【高考冲刺】介词必刷题×长难句拆解，强强联合！语法填空系列课程",
+          "duration": 2456,
+          "pubdate": 1684059509,
+          "cover": "https://i2.hdslb.com/bfs/archive/59ec49b0869d163acca35783b2d985c76b4f4ebf.jpg",
+          "views": 133098,
+          "danmaku": 446,
+          "url": "https://www.bilibili.com/video/BV1yT411t7gw"
+        },
+        {
+          "bvid": "BV1dT411w7aj",
+          "title": "【一英】高考语法填空之并列连词丨阅读长难句：听我说、谢谢你！",
+          "duration": 1587,
+          "pubdate": 1660298991,
+          "cover": "https://i0.hdslb.com/bfs/archive/7ba5ed61e96c1ea345da96840cd980aa4f599ace.jpg",
+          "views": 271496,
+          "danmaku": 1359,
+          "url": "https://www.bilibili.com/video/BV1dT411w7aj"
+        },
+        {
+          "bvid": "BV1wj411u7gA",
+          "title": "高考语法填空之三大从句连词怎么选【上篇】",
+          "duration": 1673,
+          "pubdate": 1677998103,
+          "cover": "https://i0.hdslb.com/bfs/archive/ed73616fbe46a34178b3461fb2ef37b49f3f85a9.jpg",
+          "views": 282073,
+          "danmaku": 1281,
+          "url": "https://www.bilibili.com/video/BV1wj411u7gA"
+        },
+        {
+          "bvid": "BV1MM411s76T",
+          "title": "高考语法填空之三大从句连词怎么选【下篇】真题带练",
+          "duration": 1215,
+          "pubdate": 1678001014,
+          "cover": "https://i0.hdslb.com/bfs/archive/f895c454653f11567ac84452a27cb247a3847bf4.jpg",
+          "views": 127861,
+          "danmaku": 532,
+          "url": "https://www.bilibili.com/video/BV1MM411s76T"
+        },
+        {
+          "bvid": "BV1HZ4y1t7pK",
+          "title": "高考「读后续写」太难？2步10句搞定！",
+          "duration": 968,
+          "pubdate": 1654598102,
+          "cover": "https://i2.hdslb.com/bfs/archive/ab96106875c391ebc6f2b5e470f7550305824d82.jpg",
+          "views": 637163,
+          "danmaku": 1122,
+          "url": "https://www.bilibili.com/video/BV1HZ4y1t7pK"
+        },
+        {
+          "bvid": "BV13w411K77w",
+          "title": "「读后续写」情节翻译不了一点？收好18字口诀，告别中式英文！丨手把手教你“写对句子”",
+          "duration": 990,
+          "pubdate": 1700299500,
+          "cover": "https://i2.hdslb.com/bfs/archive/a44a4b5308669ace1ff83d1c73fa1295cd683f90.jpg",
+          "views": 487007,
+          "danmaku": 1808,
+          "url": "https://www.bilibili.com/video/BV13w411K77w"
+        },
+        {
+          "bvid": "BV1Eu4y157P2",
+          "title": "读后续写句子太短太普通？来学扩句、美句思路！",
+          "duration": 899,
+          "pubdate": 1700910842,
+          "cover": "https://i1.hdslb.com/bfs/archive/d40e309c3e32907e1711588ce749f456f909ccc6.jpg",
+          "views": 309680,
+          "danmaku": 1099,
+          "url": "https://www.bilibili.com/video/BV1Eu4y157P2"
+        },
+        {
+          "bvid": "BV1jT4y1Q7YV",
+          "title": "英语【读后续写】如何写出高分好句？变身超级造句机~",
+          "duration": 1053,
+          "pubdate": 1645787218,
+          "cover": "https://i0.hdslb.com/bfs/archive/4793b94f2aa57bcd594a501c0612398b8022f4bc.jpg",
+          "views": 747212,
+          "danmaku": 2940,
+          "url": "https://www.bilibili.com/video/BV1jT4y1Q7YV"
+        },
+        {
+          "bvid": "BV1tz4y1V7pG",
+          "title": "起猛了...用表情包可以学读后续写了!丨情绪描写三步法get√",
+          "duration": 5513,
+          "pubdate": 1695435822,
+          "cover": "https://i1.hdslb.com/bfs/archive/dbaaf851c7ceddbae091925e7e6d362f395485e6.jpg",
+          "views": 149256,
+          "danmaku": 2164,
+          "url": "https://www.bilibili.com/video/BV1tz4y1V7pG"
+        },
+        {
+          "bvid": "BV16H4y1k7m5",
+          "title": "读后续写「动作描写」太平淡？来学美化思路！",
+          "duration": 802,
+          "pubdate": 1702119917,
+          "cover": "https://i1.hdslb.com/bfs/archive/7e5e76ca3e4f2caadf6e01fc34c0a519b651707a.jpg",
+          "views": 261875,
+          "danmaku": 562,
+          "url": "https://www.bilibili.com/video/BV16H4y1k7m5"
+        },
+        {
+          "bvid": "BV1Yp4y1f7o2",
+          "title": "读后续写「动作描写」手脚并用、拿高分！",
+          "duration": 824,
+          "pubdate": 1702699919,
+          "cover": "https://i2.hdslb.com/bfs/archive/3970df144406993095c1de5aa82804af5b60b3a4.jpg",
+          "views": 313424,
+          "danmaku": 633,
+          "url": "https://www.bilibili.com/video/BV1Yp4y1f7o2"
+        },
+        {
+          "bvid": "BV1F64y1T7pz",
+          "title": "揭秘！读后续写「无灵主语」运用底层逻辑",
+          "duration": 808,
+          "pubdate": 1705140300,
+          "cover": "https://i1.hdslb.com/bfs/archive/182eee3ea72a3e35fa66aca838794df4416553a2.jpg",
+          "views": 657707,
+          "danmaku": 1878,
+          "url": "https://www.bilibili.com/video/BV1F64y1T7pz"
+        },
+        {
+          "bvid": "BV1PF4m1N7P5",
+          "title": "读后续写超级“说”挑战！对话描写必BEI词大起底！",
+          "duration": 430,
+          "pubdate": 1713099978,
+          "cover": "https://i2.hdslb.com/bfs/archive/eee7860603cc2aa1a1205c7e8c7109707a044bc6.jpg",
+          "views": 237895,
+          "danmaku": 263,
+          "url": "https://www.bilibili.com/video/BV1PF4m1N7P5"
+        },
+        {
+          "bvid": "BV1Sf4y1g7xe",
+          "title": "【一英】读后续写抓破头？电影式万能结构，一看就会！",
+          "duration": 1112,
+          "pubdate": 1634991703,
+          "cover": "https://i0.hdslb.com/bfs/archive/3743e6ae3b9d513d171d6c4a25b1e03887a167cf.jpg",
+          "views": 585249,
+          "danmaku": 2992,
+          "url": "https://www.bilibili.com/video/BV1Sf4y1g7xe"
+        },
+        {
+          "bvid": "BV1PL411s7Vr",
+          "title": "【一英】读后续写很难？来学点套路与万能句式吧~",
+          "duration": 803,
+          "pubdate": 1633314610,
+          "cover": "https://i1.hdslb.com/bfs/archive/74ce9529dbb9dd671707635c5dbee4c16005c607.jpg",
+          "views": 1845381,
+          "danmaku": 7363,
+          "url": "https://www.bilibili.com/video/BV1PL411s7Vr"
+        },
+        {
+          "bvid": "BV14T4y117KX",
+          "title": "高分实用干货！读后续写 动作情感套路大全！高考英语",
+          "duration": 901,
+          "pubdate": 1642237185,
+          "cover": "https://i1.hdslb.com/bfs/archive/de286866980d9760f5ac59a774204b9b1ad44551.jpg",
+          "views": 800721,
+          "danmaku": 2368,
+          "url": "https://www.bilibili.com/video/BV14T4y117KX"
+        },
+        {
+          "bvid": "BV1gS4y1g7S7",
+          "title": "别只会fear啦！【读后续写】负面情绪更生动描写！",
+          "duration": 658,
+          "pubdate": 1647741602,
+          "cover": "https://i2.hdslb.com/bfs/archive/877d4235985ac77f7deb83b51f9a9ade8305d9d9.jpg",
+          "views": 309233,
+          "danmaku": 838,
+          "url": "https://www.bilibili.com/video/BV1gS4y1g7S7"
+        },
+        {
+          "bvid": "BV1fA4y1Q75r",
+          "title": "【读后续写】3个高频动词的花式表达！妈妈再也不用担心我的作文啦",
+          "duration": 619,
+          "pubdate": 1650702487,
+          "cover": "https://i0.hdslb.com/bfs/archive/39c916d084a7070c399e1bc853e02b948a455442.jpg",
+          "views": 225228,
+          "danmaku": 476,
+          "url": "https://www.bilibili.com/video/BV1fA4y1Q75r"
+        },
+        {
+          "bvid": "BV14g41187SX",
+          "title": "【高考英语】读后续写不会？环境描写还在头秃？看完就懂！",
+          "duration": 629,
+          "pubdate": 1666518897,
+          "cover": "https://i0.hdslb.com/bfs/archive/1bc6a3e3fd5207f0bf73f23b034b26e2157b9f83.jpg",
+          "views": 211434,
+          "danmaku": 569,
+          "url": "https://www.bilibili.com/video/BV14g41187SX"
+        },
+        {
+          "bvid": "BV1Re4y1W7Cy",
+          "title": "【高中写作】读后续写之情绪表达-震惊，失望和尴尬",
+          "duration": 466,
+          "pubdate": 1668245100,
+          "cover": "https://i2.hdslb.com/bfs/archive/a7fa2a8ef6e1299f7fad740e4f41a72ad9a0afd3.jpg",
+          "views": 248396,
+          "danmaku": 422,
+          "url": "https://www.bilibili.com/video/BV1Re4y1W7Cy"
+        },
+        {
+          "bvid": "BV1j8411M7fA",
+          "title": "【高考英语】读后续写范文赏析 高分表达快到碗里来！",
+          "duration": 612,
+          "pubdate": 1676370280,
+          "cover": "https://i2.hdslb.com/bfs/archive/cea80351923ae8b8a01ee63832d23d704a0bc440.jpg",
+          "views": 194328,
+          "danmaku": 283,
+          "url": "https://www.bilibili.com/video/BV1j8411M7fA"
+        },
+        {
+          "bvid": "BV1zA41127Fp",
+          "title": "【高考英语】读后续写还不会？高分套句直接用！",
+          "duration": 582,
+          "pubdate": 1676803370,
+          "cover": "https://i2.hdslb.com/bfs/archive/677c938db9f97e1a718541174efe3f7f6dfa97ea.jpg",
+          "views": 417646,
+          "danmaku": 359,
+          "url": "https://www.bilibili.com/video/BV1zA41127Fp"
+        },
+        {
+          "bvid": "BV1hx4y1A7pM",
+          "title": "【高考英语】读后续写中的反转情节万能过渡句｜除了suddenly还有啥？",
+          "duration": 516,
+          "pubdate": 1679710200,
+          "cover": "https://i1.hdslb.com/bfs/archive/68ba7d9176c05f9cbcbd00e5b6f3523d77e44ff0.jpg",
+          "views": 186218,
+          "danmaku": 218,
+          "url": "https://www.bilibili.com/video/BV1hx4y1A7pM"
+        },
+        {
+          "bvid": "BV1rL411z7yi",
+          "title": "【高考英语】读后续写之结尾主题升华模板套句 |人与社会",
+          "duration": 472,
+          "pubdate": 1684030200,
+          "cover": "https://i0.hdslb.com/bfs/archive/d9ad21371e89ad520022c7e5f79a086f9fe2df9d.jpg",
+          "views": 357413,
+          "danmaku": 243,
+          "url": "https://www.bilibili.com/video/BV1rL411z7yi"
+        },
+        {
+          "bvid": "BV1G24y1N73c",
+          "title": "【高考英语】读后续写主题结尾升华句之人与自然 人与自我",
+          "duration": 407,
+          "pubdate": 1684666341,
+          "cover": "https://i2.hdslb.com/bfs/archive/bfdb1f1d34e4a47557cb062f416353b71cd71088.jpg",
+          "views": 255076,
+          "danmaku": 230,
+          "url": "https://www.bilibili.com/video/BV1G24y1N73c"
+        },
+        {
+          "bvid": "BV1Lj411b7GH",
+          "title": "英语应用文不会写、难提升？看这篇就够了！【手把手教你写作文系列】之申请信",
+          "duration": 935,
+          "pubdate": 1696334751,
+          "cover": "https://i1.hdslb.com/bfs/archive/d793c39c595c8bee3c562b926c85522ac235726a.jpg",
+          "views": 268462,
+          "danmaku": 2152,
+          "url": "https://www.bilibili.com/video/BV1Lj411b7GH"
+        },
+        {
+          "bvid": "BV1Wj411x7Gy",
+          "title": "助力高一英语月考&期中考【手把手教你写作文系列】之建议信",
+          "duration": 1457,
+          "pubdate": 1697277900,
+          "cover": "https://i2.hdslb.com/bfs/archive/b88ed0255e90335240590c2ad50a54151b7a7bf2.jpg",
+          "views": 436508,
+          "danmaku": 2536,
+          "url": "https://www.bilibili.com/video/BV1Wj411x7Gy"
+        },
+        {
+          "bvid": "BV1Gr421W7qZ",
+          "title": "高分邀请信，看这篇就够了！七七手把手带你写邀请信丨高考英语应用文全攻略",
+          "duration": 1079,
+          "pubdate": 1709426700,
+          "cover": "https://i0.hdslb.com/bfs/archive/b9fa7299702f9f40d82be595ee9bd6a4f64c6059.jpg",
+          "views": 294790,
+          "danmaku": 867,
+          "url": "https://www.bilibili.com/video/BV1Gr421W7qZ"
+        },
+        {
+          "bvid": "BV1wg2aYJEbR",
+          "title": "高分报道，看这篇就够了！七七手把手带你写报道丨高考英语应用文全攻略",
+          "duration": 1316,
+          "pubdate": 1728779400,
+          "cover": "https://i2.hdslb.com/bfs/archive/2bdf4397f7890c5a78353f013f6e1ae0bb3382f8.jpg",
+          "views": 130935,
+          "danmaku": 282,
+          "url": "https://www.bilibili.com/video/BV1wg2aYJEbR"
+        },
+        {
+          "bvid": "BV1KsALeXEw1",
+          "title": "用高分写作思维工具打开浙江首考应用文写作丨手把手教你写作文系列",
+          "duration": 1291,
+          "pubdate": 1739705503,
+          "cover": "https://i0.hdslb.com/bfs/archive/beb589676472d115b7278fc4b39c891466863112.jpg",
+          "views": 83718,
+          "danmaku": 284,
+          "url": "https://www.bilibili.com/video/BV1KsALeXEw1"
+        },
+        {
+          "bvid": "BV1SAz2B5EvP",
+          "title": "用高分写作思维工具打开「浙江首考」应用文写作！【2026版】",
+          "duration": 1173,
+          "pubdate": 1769304600,
+          "cover": "https://i0.hdslb.com/bfs/archive/61ecaef4965ff664a9978225adc7c0cbe80f01bf.jpg",
+          "views": 133284,
+          "danmaku": 170,
+          "url": "https://www.bilibili.com/video/BV1SAz2B5EvP"
+        },
+        {
+          "bvid": "BV1sYRRY3EMD",
+          "title": "“作品设计介绍”类应用文不会写？高分应用文“思维工具”大公开第二弹！告别“无话可说”丨应用文写作必看！",
+          "duration": 1267,
+          "pubdate": 1743847500,
+          "cover": "https://i1.hdslb.com/bfs/archive/f1c5f4f3fb8cb50fd4b1c76b38c9cf53e4e9df0e.jpg",
+          "views": 133176,
+          "danmaku": 158,
+          "url": "https://www.bilibili.com/video/BV1sYRRY3EMD"
+        },
+        {
+          "bvid": "BV1h84y1n7qs",
+          "title": "我猜ChatGPT会这样介绍中国传统文化... | 用魔法打败魔法！",
+          "duration": 885,
+          "pubdate": 1676769900,
+          "cover": "https://i2.hdslb.com/bfs/archive/b9e21bafa3ada7e79bae649865875534f98201b8.jpg",
+          "views": 117702,
+          "danmaku": 297,
+          "url": "https://www.bilibili.com/video/BV1h84y1n7qs"
+        },
+        {
+          "bvid": "BV1Sr4y1p7bV",
+          "title": "【英语写作】通知类应用文 写作思路与万能模板！",
+          "duration": 571,
+          "pubdate": 1649122200,
+          "cover": "https://i0.hdslb.com/bfs/archive/0715d5aafcec42562f30f4a28efceed7f568cbb3.jpg",
+          "views": 249816,
+          "danmaku": 486,
+          "url": "https://www.bilibili.com/video/BV1Sr4y1p7bV"
+        },
+        {
+          "bvid": "BV1PR4y1P7M7",
+          "title": "【英语写作】应用文之申请信万能模板",
+          "duration": 652,
+          "pubdate": 1652443726,
+          "cover": "https://i1.hdslb.com/bfs/archive/8aec9b7f3431ced3ac4a845d473b74358b6f624b.jpg",
+          "views": 192163,
+          "danmaku": 260,
+          "url": "https://www.bilibili.com/video/BV1PR4y1P7M7"
+        },
+        {
+          "bvid": "BV1oZ4y1C7k7",
+          "title": "【英语写作】应用文之演讲稿套用模板 学不会来找我！",
+          "duration": 628,
+          "pubdate": 1651396533,
+          "cover": "https://i0.hdslb.com/bfs/archive/bf0ae879f9abba4d8d5d10be5085eeefc59342ee.jpg",
+          "views": 207819,
+          "danmaku": 252,
+          "url": "https://www.bilibili.com/video/BV1oZ4y1C7k7"
+        },
+        {
+          "bvid": "BV1Kr4y1H71n",
+          "title": "英语应用文【倡议信】模板，轻松套出优美小作文！",
+          "duration": 708,
+          "pubdate": 1650103406,
+          "cover": "https://i2.hdslb.com/bfs/archive/69693bd4c3d2b9d8ee7afd55427aac59ec814a98.jpg",
+          "views": 182647,
+          "danmaku": 289,
+          "url": "https://www.bilibili.com/video/BV1Kr4y1H71n"
+        },
+        {
+          "bvid": "BV1Qb4y1n7cT",
+          "title": "英语写作救急：建议、投诉、道歉信套话与模板|老白",
+          "duration": 754,
+          "pubdate": 1641472447,
+          "cover": "https://i2.hdslb.com/bfs/archive/e7bb3adca4636d145ce8b04f4b35712d4701c8ad.jpg",
+          "views": 261681,
+          "danmaku": 777,
+          "url": "https://www.bilibili.com/video/BV1Qb4y1n7cT"
+        },
+        {
+          "bvid": "BV1Sf421i74w",
+          "title": "初升高必修课之国际音标丨前元音、中元音、后元音，你可分得清？每天一遍，音标全会",
+          "duration": 987,
+          "pubdate": 1724559414,
+          "cover": "https://i2.hdslb.com/bfs/archive/07443e97b7fa36d7b76968577f794358f127caa8.jpg",
+          "views": 204486,
+          "danmaku": 576,
+          "url": "https://www.bilibili.com/video/BV1Sf421i74w"
+        },
+        {
+          "bvid": "BV1n2421f7pV",
+          "title": "初升高必修课之国际音标丨中元音，双元音，半元音，可又分得清？每天一遍，音标全会",
+          "duration": 851,
+          "pubdate": 1725079077,
+          "cover": "https://i1.hdslb.com/bfs/archive/8a57bfc9e6da46f92ecbfc10e5634c65281559db.jpg",
+          "views": 70763,
+          "danmaku": 200,
+          "url": "https://www.bilibili.com/video/BV1n2421f7pV"
+        },
+        {
+          "bvid": "BV17iHQedEfG",
+          "title": "初升高必修课之国际音标丨爆破音、摩擦音、破擦音，一次分清！每天一遍，辅音全会！",
+          "duration": 1540,
+          "pubdate": 1725616331,
+          "cover": "https://i0.hdslb.com/bfs/archive/fb25ecb79a07a0009133cc1d98ac189fab274853.jpg",
+          "views": 62051,
+          "danmaku": 299,
+          "url": "https://www.bilibili.com/video/BV17iHQedEfG"
+        },
+        {
+          "bvid": "BV1Ba411M7Yh",
+          "title": "背单词必备 | 不可错过的“佛系有效”音标小课堂！【可反复跟读，建议收藏】",
+          "duration": 932,
+          "pubdate": 1658021400,
+          "cover": "https://i2.hdslb.com/bfs/archive/f36a0735b2b46b0d8b9cc2468534bd578a6643b0.jpg",
+          "views": 138272,
+          "danmaku": 328,
+          "url": "https://www.bilibili.com/video/BV1Ba411M7Yh"
+        }
+      ]
+    },
+    {
+      "season_id": 1687651,
+      "title": "高考英语系统复习课程",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/e4663bc1f95502f751309f2a351e53adb543fbbc.jpg",
+      "total": 73,
+      "fetched": 73,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1TM4m117AM",
+          "title": "【2025届高考英语系统课】语言的灵魂——动词丨四大时态判断法",
+          "duration": 5028,
+          "pubdate": 1721466213,
+          "cover": "https://i1.hdslb.com/bfs/archive/2acdfc1a35bc865448c608a73217b64d96659b35.jpg",
+          "views": 380598,
+          "danmaku": 1742,
+          "url": "https://www.bilibili.com/video/BV1TM4m117AM"
+        },
+        {
+          "bvid": "BV1K4tKeoE9m",
+          "title": "【2025届高考英语系统课】被动语态的坑，没你想的那么简单！",
+          "duration": 4955,
+          "pubdate": 1726308906,
+          "cover": "https://i0.hdslb.com/bfs/archive/ec7cc778ebe58a91be5213e87945ce1e528b69cb.jpg",
+          "views": 98762,
+          "danmaku": 577,
+          "url": "https://www.bilibili.com/video/BV1K4tKeoE9m"
+        },
+        {
+          "bvid": "BV1ur421M7ks",
+          "title": "【2025届高考英语系统课】主谓三一致，一表网尽",
+          "duration": 4777,
+          "pubdate": 1722256806,
+          "cover": "https://i0.hdslb.com/bfs/archive/e758e249b3e76131975b29e492ae4f5e1af4e0fe.jpg",
+          "views": 137087,
+          "danmaku": 1274,
+          "url": "https://www.bilibili.com/video/BV1ur421M7ks"
+        },
+        {
+          "bvid": "BV11DtzeJEno",
+          "title": "【2025届高考英语系统课】送分的情态动词，抢分的虚拟语气，分分必争！",
+          "duration": 6036,
+          "pubdate": 1726912500,
+          "cover": "https://i1.hdslb.com/bfs/archive/67ead404a1df9b995846043faba68b026e3ede8c.jpg",
+          "views": 76065,
+          "danmaku": 482,
+          "url": "https://www.bilibili.com/video/BV11DtzeJEno"
+        },
+        {
+          "bvid": "BV1qr4y1X7yv",
+          "title": "高三一轮复习开更！带你重新认识三大高频时态",
+          "duration": 6757,
+          "pubdate": 1693217700,
+          "cover": "https://i0.hdslb.com/bfs/archive/f609b2f589d0c1c9c5817557ad482dabc2a37a2a.jpg",
+          "views": 220560,
+          "danmaku": 2133,
+          "url": "https://www.bilibili.com/video/BV1qr4y1X7yv"
+        },
+        {
+          "bvid": "BV1rp4y1u7o7",
+          "title": "【高三英语一轮复习】手撕非谓语！上集",
+          "duration": 3701,
+          "pubdate": 1697336984,
+          "cover": "https://i0.hdslb.com/bfs/archive/c498862e0f33a4e7abd009289ea42b44ec41eae7.jpg",
+          "views": 144339,
+          "danmaku": 1331,
+          "url": "https://www.bilibili.com/video/BV1rp4y1u7o7"
+        },
+        {
+          "bvid": "BV1w34y1g7RJ",
+          "title": "【高三英语一轮复习】手撕非谓语！中集",
+          "duration": 3395,
+          "pubdate": 1697357182,
+          "cover": "https://i2.hdslb.com/bfs/archive/75f39578076029748b41e0dd7c5d497bdf259cdd.jpg",
+          "views": 78933,
+          "danmaku": 584,
+          "url": "https://www.bilibili.com/video/BV1w34y1g7RJ"
+        },
+        {
+          "bvid": "BV1Pu4y1W72i",
+          "title": "【高三英语一轮复习】手撕非谓语！下集丨更适合弱基础宝宝体质的非谓语课程！",
+          "duration": 7786,
+          "pubdate": 1697940695,
+          "cover": "https://i2.hdslb.com/bfs/archive/95687718d4186dbc1688a6c7fcff81005f479909.jpg",
+          "views": 95807,
+          "danmaku": 578,
+          "url": "https://www.bilibili.com/video/BV1Pu4y1W72i"
+        },
+        {
+          "bvid": "BV1vm4y1N7CE",
+          "title": "一句口诀，摆平三大从句混战！【高三英语一轮复习】",
+          "duration": 7165,
+          "pubdate": 1694943232,
+          "cover": "https://i2.hdslb.com/bfs/archive/faf496840ed7a49385c710c2cb748bdeb2147f2f.jpg",
+          "views": 216478,
+          "danmaku": 1856,
+          "url": "https://www.bilibili.com/video/BV1vm4y1N7CE"
+        },
+        {
+          "bvid": "BV1Zu411A7Le",
+          "title": "高频时态与写作运用【高三英语一轮复习】",
+          "duration": 4856,
+          "pubdate": 1693714442,
+          "cover": "https://i0.hdslb.com/bfs/archive/3615f611cba5941d53aed5e7cda5163f27af927a.jpg",
+          "views": 83738,
+          "danmaku": 382,
+          "url": "https://www.bilibili.com/video/BV1Zu411A7Le"
+        },
+        {
+          "bvid": "BV11m4y1N7uV",
+          "title": "被动语态，你用对了吗？【高三英语一轮复习】",
+          "duration": 3086,
+          "pubdate": 1693732773,
+          "cover": "https://i2.hdslb.com/bfs/archive/ef772bb397bf54e7e1f9306550174836c504699c.jpg",
+          "views": 87479,
+          "danmaku": 724,
+          "url": "https://www.bilibili.com/video/BV11m4y1N7uV"
+        },
+        {
+          "bvid": "BV1DKq5YdE3r",
+          "title": "给我15分钟，一首打油诗，搞定长难句！【直播回放】",
+          "duration": 888,
+          "pubdate": 1733565172,
+          "cover": "https://i2.hdslb.com/bfs/archive/2a70e92d73215bbb2966de4cb14aa14e00d2e6ae.jpg",
+          "views": 215052,
+          "danmaku": 535,
+          "url": "https://www.bilibili.com/video/BV1DKq5YdE3r"
+        },
+        {
+          "bvid": "BV1Ycq5YFEdn",
+          "title": "一首打油诗，搞定各类长难句！P.S. 这期信息量真的很大、很值！【直播回放】",
+          "duration": 3588,
+          "pubdate": 1733566556,
+          "cover": "https://i1.hdslb.com/bfs/archive/0e190889dd35893d15e3dd25f92eed7b2f8c5d92.jpg",
+          "views": 185497,
+          "danmaku": 804,
+          "url": "https://www.bilibili.com/video/BV1Ycq5YFEdn"
+        },
+        {
+          "bvid": "BV1YC4y1f7qR",
+          "title": "做阅读题还没有方法？我不允许！丨上集【高三英语一轮复习】",
+          "duration": 3634,
+          "pubdate": 1695981900,
+          "cover": "https://i2.hdslb.com/bfs/archive/2c505c2e64abe0f21203c1ed7813a69c71be684c.jpg",
+          "views": 755117,
+          "danmaku": 10981,
+          "url": "https://www.bilibili.com/video/BV1YC4y1f7qR"
+        },
+        {
+          "bvid": "BV1Bh4y1h7CT",
+          "title": "阅读有三宝：好心态、有策略、勤反思丨阅读方法论下集【高三英语一轮复习】",
+          "duration": 4189,
+          "pubdate": 1696069457,
+          "cover": "https://i1.hdslb.com/bfs/archive/6ee499e7a04bffe7dc53664dea6211a5d8608ed2.jpg",
+          "views": 258080,
+          "danmaku": 4343,
+          "url": "https://www.bilibili.com/video/BV1Bh4y1h7CT"
+        },
+        {
+          "bvid": "BV1a34y1A7Z8",
+          "title": "完形解题方法论，一个词的事儿！丨上集【高三英语一轮复习】",
+          "duration": 3847,
+          "pubdate": 1695519900,
+          "cover": "https://i2.hdslb.com/bfs/archive/3f99b80e02a85b432e4420fceade5556020a2cb9.jpg",
+          "views": 254818,
+          "danmaku": 4139,
+          "url": "https://www.bilibili.com/video/BV1a34y1A7Z8"
+        },
+        {
+          "bvid": "BV1Aj41187pN",
+          "title": "完形提分第一步：放大你的解题过程丨完形方法论下集【高三英语一轮复习】",
+          "duration": 3697,
+          "pubdate": 1695555055,
+          "cover": "https://i1.hdslb.com/bfs/archive/3ed9faa21f67a274d31fd24f9753b638ad53fa0c.jpg",
+          "views": 129834,
+          "danmaku": 1382,
+          "url": "https://www.bilibili.com/video/BV1Aj41187pN"
+        },
+        {
+          "bvid": "BV1iN92YeEBQ",
+          "title": "完形填空提分必看！三维复盘法+两篇神级文章，手把手教你逆袭！吃透这两篇，续写自动涨分！",
+          "duration": 3742,
+          "pubdate": 1741342200,
+          "cover": "https://i0.hdslb.com/bfs/archive/71d6ad2c5f0b9cd81dc151828f15ebd4b47a2161.jpg",
+          "views": 137849,
+          "danmaku": 1066,
+          "url": "https://www.bilibili.com/video/BV1iN92YeEBQ"
+        },
+        {
+          "bvid": "BV1h84y1Q7i9",
+          "title": "高考七选五阅读送分信号！【高考英语一轮复习】",
+          "duration": 4159,
+          "pubdate": 1699147861,
+          "cover": "https://i2.hdslb.com/bfs/archive/0e4a72e5f196cf25023fe977458ebdaab9cdb582.jpg",
+          "views": 206243,
+          "danmaku": 3182,
+          "url": "https://www.bilibili.com/video/BV1h84y1Q7i9"
+        },
+        {
+          "bvid": "BV16u4y177M9",
+          "title": "高考七选五阅读的神助攻们！【高考英语一轮复习】",
+          "duration": 3115,
+          "pubdate": 1699154686,
+          "cover": "https://i2.hdslb.com/bfs/archive/c40adbc7cf38f2d673673b2484dc9ba101c54c46.jpg",
+          "views": 174194,
+          "danmaku": 937,
+          "url": "https://www.bilibili.com/video/BV16u4y177M9"
+        },
+        {
+          "bvid": "BV1GC4y1q7b6",
+          "title": "口诀加公式，明辨谓语、非谓语！丨2024高考英语【直播回放】",
+          "duration": 5034,
+          "pubdate": 1703387399,
+          "cover": "https://i2.hdslb.com/bfs/archive/e65addb88de15927e2b0b77cd542dc325110834d.jpg",
+          "views": 241810,
+          "danmaku": 3194,
+          "url": "https://www.bilibili.com/video/BV1GC4y1q7b6"
+        },
+        {
+          "bvid": "BV17v421C7aL",
+          "title": "三大从句如何辨？语填连词怎么选？一句口诀就能解！丨2024高考英语语法填空【直播回放】",
+          "duration": 4735,
+          "pubdate": 1708596256,
+          "cover": "https://i1.hdslb.com/bfs/archive/8031b9d47786f718d2f038b79609bc03a66254a7.jpg",
+          "views": 233064,
+          "danmaku": 1378,
+          "url": "https://www.bilibili.com/video/BV17v421C7aL"
+        },
+        {
+          "bvid": "BV1uF41157BV",
+          "title": "考前（精准）突击！高考英语应用文提升！",
+          "duration": 537,
+          "pubdate": 1653648756,
+          "cover": "https://i0.hdslb.com/bfs/archive/459227546e41aa6f3367196ef3f59a28cc4ede5f.jpg",
+          "views": 334591,
+          "danmaku": 1318,
+          "url": "https://www.bilibili.com/video/BV1uF41157BV"
+        },
+        {
+          "bvid": "BV1rp421S7aq",
+          "title": "【最后八课】语法填空's考点+方法全梳理！2024高考冲刺",
+          "duration": 5692,
+          "pubdate": 1714267115,
+          "cover": "https://i2.hdslb.com/bfs/archive/be08bbddce69e59870a3d9f6e6dbb15e9572e36e.jpg",
+          "views": 633727,
+          "danmaku": 4041,
+          "url": "https://www.bilibili.com/video/BV1rp421S7aq"
+        },
+        {
+          "bvid": "BV181421C7L2",
+          "title": "【最后八课】5个Tips，搞定阅读A篇丨末尾有彩蛋！必看~",
+          "duration": 1499,
+          "pubdate": 1717750800,
+          "cover": "https://i0.hdslb.com/bfs/archive/b1b0d0b770d2e9f789d318f2b1bea051d3783eba.jpg",
+          "views": 185337,
+          "danmaku": 1194,
+          "url": "https://www.bilibili.com/video/BV181421C7L2"
+        },
+        {
+          "bvid": "BV19D421K7cG",
+          "title": "【最后八课】阅读B篇/记叙文阅读有套路！2024高考冲刺",
+          "duration": 5180,
+          "pubdate": 1714732284,
+          "cover": "https://i2.hdslb.com/bfs/archive/e2a954ba89fc0485885270e878cd78fd99c2075b.jpg",
+          "views": 214747,
+          "danmaku": 2079,
+          "url": "https://www.bilibili.com/video/BV19D421K7cG"
+        },
+        {
+          "bvid": "BV1j7421o7up",
+          "title": "【最后八课】高考英语阅读CD篇，见招拆招！2024高考冲刺丨直播回放",
+          "duration": 7039,
+          "pubdate": 1717158200,
+          "cover": "https://i0.hdslb.com/bfs/archive/4639a1b17b6b63a878d016ed7e063f348e5cfaac.jpg",
+          "views": 157367,
+          "danmaku": 1372,
+          "url": "https://www.bilibili.com/video/BV1j7421o7up"
+        },
+        {
+          "bvid": "BV1fz421Y7MC",
+          "title": "【最后八课】速来、七选五阅读考前技能升级！2024高考冲刺",
+          "duration": 3254,
+          "pubdate": 1716544800,
+          "cover": "https://i2.hdslb.com/bfs/archive/9585f5b517351815c8054a46ef5a8cf4b954b062.jpg",
+          "views": 188784,
+          "danmaku": 1264,
+          "url": "https://www.bilibili.com/video/BV1fz421Y7MC"
+        },
+        {
+          "bvid": "BV1yi421Q7tK",
+          "title": "【最后八课】你的完形填空，即将高分“闪耀”！2024高考冲刺",
+          "duration": 5261,
+          "pubdate": 1715474700,
+          "cover": "https://i0.hdslb.com/bfs/archive/a9229bd893879f93d2cd333455016c82533185c9.jpg",
+          "views": 230406,
+          "danmaku": 1846,
+          "url": "https://www.bilibili.com/video/BV1yi421Q7tK"
+        },
+        {
+          "bvid": "BV1bT421v7mw",
+          "title": "最后时刻！高考英语作文救急高分表达丨直播纯享版",
+          "duration": 1013,
+          "pubdate": 1717496958,
+          "cover": "https://i2.hdslb.com/bfs/archive/dae26ba336e588afe2c888b94e7781e358b0025b.jpg",
+          "views": 418466,
+          "danmaku": 902,
+          "url": "https://www.bilibili.com/video/BV1bT421v7mw"
+        },
+        {
+          "bvid": "BV1KwNSeWEtk",
+          "title": "【开年好卷】浙江首考英语真题精讲丨语法填空这三题，必刷！",
+          "duration": 5857,
+          "pubdate": 1739103152,
+          "cover": "https://i0.hdslb.com/bfs/archive/f57886db4e7848b03ab6e49c7b6e439d39d08f1d.jpg",
+          "views": 155010,
+          "danmaku": 1035,
+          "url": "https://www.bilibili.com/video/BV1KwNSeWEtk"
+        },
+        {
+          "bvid": "BV1Sy411z7Uy",
+          "title": "【2024高考英语】全国I卷真题精讲丨直播回放",
+          "duration": 7176,
+          "pubdate": 1719222861,
+          "cover": "https://i2.hdslb.com/bfs/archive/03968f567977cdd533ecb49b8f8afff49d6bf37d.jpg",
+          "views": 176539,
+          "danmaku": 805,
+          "url": "https://www.bilibili.com/video/BV1Sy411z7Uy"
+        },
+        {
+          "bvid": "BV1dF411971d",
+          "title": "2023年新高考I卷英语总评&阅读C篇精析丨保姆级讲解，高一高二友好型【直播回放】",
+          "duration": 3164,
+          "pubdate": 1688267851,
+          "cover": "https://i1.hdslb.com/bfs/archive/fc6597984b0a817f3e054c1008ab7786e4fb940c.jpg",
+          "views": 124781,
+          "danmaku": 1092,
+          "url": "https://www.bilibili.com/video/BV1dF411971d"
+        },
+        {
+          "bvid": "BV1QX4y1n7Qu",
+          "title": "2023年新高考I卷英语阅读D篇精析丨保姆级讲解，高一高二友好型【直播回放】",
+          "duration": 2799,
+          "pubdate": 1688278562,
+          "cover": "https://i1.hdslb.com/bfs/archive/ce7aef52d3cbf0010680d0fc3480470fc3cb74d3.jpg",
+          "views": 61664,
+          "danmaku": 532,
+          "url": "https://www.bilibili.com/video/BV1QX4y1n7Qu"
+        },
+        {
+          "bvid": "BV1H8411P7Ei",
+          "title": "【直播回放】三个buff搞定七选五！保姆级真题精讲",
+          "duration": 2777,
+          "pubdate": 1674207817,
+          "cover": "https://i0.hdslb.com/bfs/archive/7280d3ea7eeeb6034a7c3e983d8b95085cda94b0.jpg",
+          "views": 113147,
+          "danmaku": 1722,
+          "url": "https://www.bilibili.com/video/BV1H8411P7Ei"
+        },
+        {
+          "bvid": "BV1Eg4y1A71F",
+          "title": "2023年新高考I卷英语完形&七选五精析丨偏低难度，高一高二必刷！【直播回放】",
+          "duration": 1897,
+          "pubdate": 1688297606,
+          "cover": "https://i0.hdslb.com/bfs/archive/7f146cfac59966b12c14ee02d1246dd2f82f46c3.jpg",
+          "views": 90273,
+          "danmaku": 512,
+          "url": "https://www.bilibili.com/video/BV1Eg4y1A71F"
+        },
+        {
+          "bvid": "BV15u4y117KK",
+          "title": "【全国I&II卷】2023高考英语语法填空真题精讲【直播回放】",
+          "duration": 1579,
+          "pubdate": 1691229900,
+          "cover": "https://i1.hdslb.com/bfs/archive/924c8cc164888e0316be9b4ad1e2fe9f9e76c963.jpg",
+          "views": 73000,
+          "danmaku": 588,
+          "url": "https://www.bilibili.com/video/BV15u4y117KK"
+        },
+        {
+          "bvid": "BV1CP411r7nB",
+          "title": "2023高考英语语法填空真题精讲【全国甲卷】",
+          "duration": 1234,
+          "pubdate": 1690255066,
+          "cover": "https://i1.hdslb.com/bfs/archive/924c8cc164888e0316be9b4ad1e2fe9f9e76c963.jpg",
+          "views": 71442,
+          "danmaku": 533,
+          "url": "https://www.bilibili.com/video/BV1CP411r7nB"
+        },
+        {
+          "bvid": "BV1Az4y1x7cK",
+          "title": "2023高考英语语法填空真题精讲【全国乙卷】",
+          "duration": 2830,
+          "pubdate": 1690172282,
+          "cover": "https://i0.hdslb.com/bfs/archive/7cdead6d11e0a9d73c093f28c226298ddcbe19a5.jpg",
+          "views": 71581,
+          "danmaku": 609,
+          "url": "https://www.bilibili.com/video/BV1Az4y1x7cK"
+        },
+        {
+          "bvid": "BV1xd4y1p7y1",
+          "title": "【如何精做一篇完形填空】浙江真题精讲，高一高二高三皆友好！",
+          "duration": 2064,
+          "pubdate": 1675335281,
+          "cover": "https://i0.hdslb.com/bfs/archive/1217bea3ea3e686fdb2386b83e106398d6e8aac7.jpg",
+          "views": 33637,
+          "danmaku": 244,
+          "url": "https://www.bilibili.com/video/BV1xd4y1p7y1"
+        },
+        {
+          "bvid": "BV1TD4y1Y7EA",
+          "title": "【2022年乙卷CD篇】惊！英语老师这么解阅读题！【直播回放】",
+          "duration": 3253,
+          "pubdate": 1670133265,
+          "cover": "https://i2.hdslb.com/bfs/archive/5ae3f5c17658c4e113e2165a7eaa90741970704a.jpg",
+          "views": 84901,
+          "danmaku": 1046,
+          "url": "https://www.bilibili.com/video/BV1TD4y1Y7EA"
+        },
+        {
+          "bvid": "BV1Nv4y1o71w",
+          "title": "【直播回放】惊！英语老师这么解阅读题！【2022年乙卷AB篇】",
+          "duration": 3520,
+          "pubdate": 1670129881,
+          "cover": "https://i1.hdslb.com/bfs/archive/a38762809688f29e901cb0e527993e3e91658885.jpg",
+          "views": 75438,
+          "danmaku": 861,
+          "url": "https://www.bilibili.com/video/BV1Nv4y1o71w"
+        },
+        {
+          "bvid": "BV1kr4y1V7RY",
+          "title": "2022高考英语三套真题哪家强？这个题型不可忽视！",
+          "duration": 3497,
+          "pubdate": 1654954386,
+          "cover": "https://i2.hdslb.com/bfs/archive/850cde4788c156478748d578921ad4f50e30d0b0.jpg",
+          "views": 55117,
+          "danmaku": 278,
+          "url": "https://www.bilibili.com/video/BV1kr4y1V7RY"
+        },
+        {
+          "bvid": "BV1R34y1Z7mx",
+          "title": "【直播回放】七选五线索不清晰，谁的锅？丨保姆级真题精讲【2021年6月浙江卷】",
+          "duration": 2211,
+          "pubdate": 1674649352,
+          "cover": "https://i2.hdslb.com/bfs/archive/43fc61f40ceefcc3bd267ffe7527fdbcb647b2ae.jpg",
+          "views": 102637,
+          "danmaku": 965,
+          "url": "https://www.bilibili.com/video/BV1R34y1Z7mx"
+        },
+        {
+          "bvid": "BV1NH1iYeEDD",
+          "title": "刷刷精选模考完形好题！【2025届高考英语系统课丨实战篇】",
+          "duration": 10550,
+          "pubdate": 1728209918,
+          "cover": "https://i0.hdslb.com/bfs/archive/65c0f97fdcd0c1e6c903f1c842bd7a5dc46f1712.jpg",
+          "views": 186111,
+          "danmaku": 935,
+          "url": "https://www.bilibili.com/video/BV1NH1iYeEDD"
+        },
+        {
+          "bvid": "BV1JbyUYWEhd",
+          "title": "刷刷精选模考七选五好题！【2025届高考英语系统课丨实战篇】丨直播回放",
+          "duration": 10939,
+          "pubdate": 1729855200,
+          "cover": "https://i0.hdslb.com/bfs/archive/ceb656b42eb740ded1a0b10eb1787ad8c8798ef4.jpg",
+          "views": 128884,
+          "danmaku": 408,
+          "url": "https://www.bilibili.com/video/BV1JbyUYWEhd"
+        },
+        {
+          "bvid": "BV133mzYdEWt",
+          "title": "温州一模阅读难？没事、我们有阅读超能力！通“杀”BCD篇！",
+          "duration": 3118,
+          "pubdate": 1731246315,
+          "cover": "https://i1.hdslb.com/bfs/archive/39d69f1961b7eb69888cdbc04ad33b994d9898b4.jpg",
+          "views": 62379,
+          "danmaku": 330,
+          "url": "https://www.bilibili.com/video/BV133mzYdEWt"
+        },
+        {
+          "bvid": "BV1fMmoYDEfZ",
+          "title": "刷刷精选模考阅读理解好题！【2025届高考英语系统课丨实战篇】丨直播回放",
+          "duration": 5766,
+          "pubdate": 1731667106,
+          "cover": "https://i2.hdslb.com/bfs/archive/82d6d9cec9cf2dfcead52832e53f0b1ae6f3fc4a.jpg",
+          "views": 67872,
+          "danmaku": 208,
+          "url": "https://www.bilibili.com/video/BV1fMmoYDEfZ"
+        },
+        {
+          "bvid": "BV1RNBiYfEFc",
+          "title": "刷刷“搞抽象”的模考阅读理解好题！【2025届高考英语系统课丨实战篇】丨直播回放",
+          "duration": 5173,
+          "pubdate": 1732277553,
+          "cover": "https://i0.hdslb.com/bfs/archive/23a7984e895d116052dcec4e37e12684c9610f67.jpg",
+          "views": 57120,
+          "danmaku": 233,
+          "url": "https://www.bilibili.com/video/BV1RNBiYfEFc"
+        },
+        {
+          "bvid": "BV1bQUrYFE3F",
+          "title": "大概是最近【最值得刷】的语法填空题了！解一题、抵百题！",
+          "duration": 1905,
+          "pubdate": 1731850865,
+          "cover": "https://i2.hdslb.com/bfs/archive/f4c5c544026456f0f1a9a5541301bbae359ef5eb.jpg",
+          "views": 143063,
+          "danmaku": 765,
+          "url": "https://www.bilibili.com/video/BV1bQUrYFE3F"
+        },
+        {
+          "bvid": "BV1vbBtY3ESe",
+          "title": "模考语法填空难题挑战！【2025届高考英语系统课丨实战篇】丨直播回放",
+          "duration": 4838,
+          "pubdate": 1732453715,
+          "cover": "https://i0.hdslb.com/bfs/archive/97466a550bdc03660d7c06f6a0be595f8048dfc0.jpg",
+          "views": 96189,
+          "danmaku": 592,
+          "url": "https://www.bilibili.com/video/BV1vbBtY3ESe"
+        },
+        {
+          "bvid": "BV1jERBY2Esn",
+          "title": "嚯、好有杀伤力的一篇七选五！丨福建质检",
+          "duration": 1261,
+          "pubdate": 1743936900,
+          "cover": "https://i2.hdslb.com/bfs/archive/01bd978a3b9750b479400814e8f459bde3318e32.jpg",
+          "views": 117838,
+          "danmaku": 353,
+          "url": "https://www.bilibili.com/video/BV1jERBY2Esn"
+        },
+        {
+          "bvid": "BV1cooRYkEU2",
+          "title": "最新模考阅读理解，坑你没商量！快来提前避坑丨广州一模",
+          "duration": 4425,
+          "pubdate": 1743166777,
+          "cover": "https://i1.hdslb.com/bfs/archive/d6f59fcffbd159f8a5ce893046da080f534c6099.jpg",
+          "views": 83293,
+          "danmaku": 463,
+          "url": "https://www.bilibili.com/video/BV1cooRYkEU2"
+        },
+        {
+          "bvid": "BV1wyXWY1E63",
+          "title": "模考阅读命题又双叒“进化”了！从武汉二调看模考阅读“三大新型杀招”",
+          "duration": 5021,
+          "pubdate": 1742646326,
+          "cover": "https://i0.hdslb.com/bfs/archive/e984acea28ea6c64d271be6af6643d239d4b8b7a.jpg",
+          "views": 71295,
+          "danmaku": 517,
+          "url": "https://www.bilibili.com/video/BV1wyXWY1E63"
+        },
+        {
+          "bvid": "BV118XhYMEQP",
+          "title": "纳尼、阅读理解长难篇章可以这样“高效”解？丨模考必刷好题精讲",
+          "duration": 3125,
+          "pubdate": 1742705518,
+          "cover": "https://i0.hdslb.com/bfs/archive/165c0e6221b520a12d291696138b0df97c4aa7db.jpg",
+          "views": 61096,
+          "danmaku": 257,
+          "url": "https://www.bilibili.com/video/BV118XhYMEQP"
+        },
+        {
+          "bvid": "BV1EaQtYjEMj",
+          "title": "又一模考好卷！阅读小有难度、完形有新意，但值得高一高二挑战！^-^",
+          "duration": 3359,
+          "pubdate": 1742104612,
+          "cover": "https://i0.hdslb.com/bfs/archive/dbc73eadc9afe90b3e7edb24c1bdb471592d9572.jpg",
+          "views": 69062,
+          "danmaku": 249,
+          "url": "https://www.bilibili.com/video/BV1EaQtYjEMj"
+        },
+        {
+          "bvid": "BV1tbRpY9ENj",
+          "title": "fair/pair/partner/smooth，这几个多词性词“活用”题杀疯了！武汉二调&深圳一模语法填空精讲",
+          "duration": 1993,
+          "pubdate": 1741427073,
+          "cover": "https://i0.hdslb.com/bfs/archive/840dd891939a025d64d0db817071aa1d5229a19b.jpg",
+          "views": 90927,
+          "danmaku": 539,
+          "url": "https://www.bilibili.com/video/BV1tbRpY9ENj"
+        },
+        {
+          "bvid": "BV1o4kRYwER1",
+          "title": "做好三件事，解阅读CD篇、如此轻松！【2025届T8联考英语】",
+          "duration": 1107,
+          "pubdate": 1735047101,
+          "cover": "https://i1.hdslb.com/bfs/archive/6b7c45d33a754dcaaeb37af0b3096c41b1bc7c60.jpg",
+          "views": 67519,
+          "danmaku": 133,
+          "url": "https://www.bilibili.com/video/BV1o4kRYwER1"
+        },
+        {
+          "bvid": "BV1HWkiYHEbK",
+          "title": "【2025届T8联考英语】是适合高一高二宝宝体质的完形！完形解题方法，你会用、用对了吗？",
+          "duration": 1610,
+          "pubdate": 1734866308,
+          "cover": "https://i1.hdslb.com/bfs/archive/b5be6b9a352c2c752c74b7ab3cafa88cc7324835.jpg",
+          "views": 46668,
+          "danmaku": 173,
+          "url": "https://www.bilibili.com/video/BV1HWkiYHEbK"
+        },
+        {
+          "bvid": "BV1tmCKY7EUY",
+          "title": "【2025届T8联考英语】也是适合高一高二宝宝体质的七选五！七选五解题方法，你会用、用对了吗？",
+          "duration": 1049,
+          "pubdate": 1734871931,
+          "cover": "https://i2.hdslb.com/bfs/archive/e205039bdec19be433a37d0aed410674a0564dcb.jpg",
+          "views": 58014,
+          "danmaku": 188,
+          "url": "https://www.bilibili.com/video/BV1tmCKY7EUY"
+        },
+        {
+          "bvid": "BV19tCVYVEqj",
+          "title": "这篇语法填空题，必刷！快来检测你的解题思路捋清楚了没~【2025届T8联考英语】",
+          "duration": 1303,
+          "pubdate": 1734963896,
+          "cover": "https://i0.hdslb.com/bfs/archive/b275c5f095fec288da6f3818597f660467a10ef6.jpg",
+          "views": 99866,
+          "danmaku": 461,
+          "url": "https://www.bilibili.com/video/BV19tCVYVEqj"
+        },
+        {
+          "bvid": "BV1E1421U7NR",
+          "title": "超级组合！广州一模、广东一模、福建质检、山西一模难题大作战【直播回放】",
+          "duration": 6932,
+          "pubdate": 1711893679,
+          "cover": "https://i2.hdslb.com/bfs/archive/4d33581229bfeef61b091d72902322fbd0fb15ce.jpg",
+          "views": 92171,
+          "danmaku": 469,
+          "url": "https://www.bilibili.com/video/BV1E1421U7NR"
+        },
+        {
+          "bvid": "BV1Hx4y1U746",
+          "title": "广东一模英语必刷好题！【直播回放】",
+          "duration": 4898,
+          "pubdate": 1711250058,
+          "cover": "https://i0.hdslb.com/bfs/archive/00392d1f0e29166b9b529589b84b7c391b7acc59.jpg",
+          "views": 63298,
+          "danmaku": 458,
+          "url": "https://www.bilibili.com/video/BV1Hx4y1U746"
+        },
+        {
+          "bvid": "BV1ri421d71s",
+          "title": "“杀疯了”的武汉二调英语卷，到底有多难？丨难题精讲【直播回放】",
+          "duration": 6547,
+          "pubdate": 1710241550,
+          "cover": "https://i1.hdslb.com/bfs/archive/e26cf8f203ace5f2217702d985a3c793612b6c7d.jpg",
+          "views": 103736,
+          "danmaku": 755,
+          "url": "https://www.bilibili.com/video/BV1ri421d71s"
+        },
+        {
+          "bvid": "BV1uX4y1277y",
+          "title": "广东二模语法填空速刷！非谓语解题心法，倾囊相授！【高考陪伴计划】",
+          "duration": 1515,
+          "pubdate": 1683455153,
+          "cover": "https://i2.hdslb.com/bfs/archive/f84612f0a7180bf926c4eadb4f778e7d16c88f1e.jpg",
+          "views": 58228,
+          "danmaku": 411,
+          "url": "https://www.bilibili.com/video/BV1uX4y1277y"
+        },
+        {
+          "bvid": "BV1Bv4y1E7AT",
+          "title": "广州二模语法填空速刷！睡前来一篇，稳赚不亏！【高考陪伴计划】",
+          "duration": 951,
+          "pubdate": 1682257474,
+          "cover": "https://i1.hdslb.com/bfs/archive/d6e0e4aeade1cb79230e8e5d2b0e494ea88b1b4e.jpg",
+          "views": 63054,
+          "danmaku": 444,
+          "url": "https://www.bilibili.com/video/BV1Bv4y1E7AT"
+        },
+        {
+          "bvid": "BV1hP4y1i7Zi",
+          "title": "【圣诞快乐！】2023届T8联考英语丨语法填空&彩蛋",
+          "duration": 2093,
+          "pubdate": 1671945672,
+          "cover": "https://i2.hdslb.com/bfs/archive/36b23733ff9dde1427fe40c8ce77d7178376250f.jpg",
+          "views": 71155,
+          "danmaku": 935,
+          "url": "https://www.bilibili.com/video/BV1hP4y1i7Zi"
+        },
+        {
+          "bvid": "BV1v84y1s76d",
+          "title": "【直播回放】2023届T8联考英语丨阅读理解",
+          "duration": 5243,
+          "pubdate": 1671938785,
+          "cover": "https://i2.hdslb.com/bfs/archive/4e7349d795f79f1a39d6cb7cdcaa0149eea7c089.jpg",
+          "views": 101498,
+          "danmaku": 1972,
+          "url": "https://www.bilibili.com/video/BV1v84y1s76d"
+        },
+        {
+          "bvid": "BV1XX4y197BH",
+          "title": "四省联考英语“超难”七选五，难在哪？怎么解？手把手带你应对挑战！",
+          "duration": 2666,
+          "pubdate": 1677373200,
+          "cover": "https://i0.hdslb.com/bfs/archive/4cd46941c3b5ca640efc41238a0fe153dd3775b7.jpg",
+          "views": 116919,
+          "danmaku": 666,
+          "url": "https://www.bilibili.com/video/BV1XX4y197BH"
+        },
+        {
+          "bvid": "BV1Dv4y1e7n3",
+          "title": "【直播回放】四省联考vs武汉二调，谁更胜一筹？来刷语法填空好题！",
+          "duration": 1632,
+          "pubdate": 1677381777,
+          "cover": "https://i2.hdslb.com/bfs/archive/c1139e50f50f7ab191639eb348cea9e50c660183.jpg",
+          "views": 67508,
+          "danmaku": 611,
+          "url": "https://www.bilibili.com/video/BV1Dv4y1e7n3"
+        },
+        {
+          "bvid": "BV18o4y187mY",
+          "title": "高三英语模考【七选五】哪家强？福建质检 Win! 来学解题思路",
+          "duration": 2516,
+          "pubdate": 1681521300,
+          "cover": "https://i0.hdslb.com/bfs/archive/afbed67a7007a0899ac209f0810dda611b6f4b2d.jpg",
+          "views": 80158,
+          "danmaku": 240,
+          "url": "https://www.bilibili.com/video/BV18o4y187mY"
+        },
+        {
+          "bvid": "BV1fM4y1175n",
+          "title": "高三英语模考【阅读】哪家强？广东一模 Win! 来学解题思路【直播回放】",
+          "duration": 5460,
+          "pubdate": 1681120512,
+          "cover": "https://i2.hdslb.com/bfs/archive/43f267d96ea917098eee685cb8a8cf90985b7bcf.jpg",
+          "views": 66520,
+          "danmaku": 405,
+          "url": "https://www.bilibili.com/video/BV1fM4y1175n"
+        },
+        {
+          "bvid": "BV1si4y197ED",
+          "title": "【一英】T8联考英语重难题精讲|完形填空、语法填空、阅读",
+          "duration": 2338,
+          "pubdate": 1641126266,
+          "cover": "https://i2.hdslb.com/bfs/archive/d365ce5e685adbdd49a05003503d73c3841b28c2.jpg",
+          "views": 109859,
+          "danmaku": 1022,
+          "url": "https://www.bilibili.com/video/BV1si4y197ED"
+        }
+      ]
+    },
+    {
+      "season_id": 3913880,
+      "title": "读后续写实战篇",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/ecf1528598f2977e7f83590851927d0609c9966b.jpg",
+      "total": 5,
+      "fetched": 5,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV17Zt2eZESy",
+          "title": "【读后续写实战篇】两步化解读后续写不会读、不会写！还有翻转写作，快来解锁~丨高一高二高三都适用",
+          "duration": 5678,
+          "pubdate": 1726967587,
+          "cover": "https://i0.hdslb.com/bfs/archive/daf0e5a0fbc6a4e2790e12b65785f4ad181d5ebd.jpg",
+          "views": 419261,
+          "danmaku": 2003,
+          "url": "https://www.bilibili.com/video/BV17Zt2eZESy"
+        },
+        {
+          "bvid": "BV1gYxFerEJo",
+          "title": "【读后续写实战篇】友情类主题如何读、怎么写？超级变变变，带你花式抢分！丨高一高二高三都适用",
+          "duration": 4582,
+          "pubdate": 1727432761,
+          "cover": "https://i0.hdslb.com/bfs/archive/a0a953e60b4e9e97c39b2b7fd42618a49e5bd0de.jpg",
+          "views": 98977,
+          "danmaku": 472,
+          "url": "https://www.bilibili.com/video/BV1gYxFerEJo"
+        },
+        {
+          "bvid": "BV1Hf4getErD",
+          "title": "读后续写遇到“汪星人”怎么破？这些必备表达，带你花式抢分！丨高一高二高三都适用【读后续写实战篇】",
+          "duration": 5673,
+          "pubdate": 1727864494,
+          "cover": "https://i0.hdslb.com/bfs/archive/2014695fe0ce1fb72574c55161dd8c196f616e5b.jpg",
+          "views": 100674,
+          "danmaku": 520,
+          "url": "https://www.bilibili.com/video/BV1Hf4getErD"
+        },
+        {
+          "bvid": "BV18g1sYGE9V",
+          "title": "情节不够怎么办？无灵主语怎么用？尽在本期读后续写实战！超级变变变，带你花式抢分！丨高一高二高三都适用",
+          "duration": 5581,
+          "pubdate": 1729937100,
+          "cover": "https://i1.hdslb.com/bfs/archive/09b1ef792d94bbffa2531b74192a17731024a7b1.jpg",
+          "views": 156002,
+          "danmaku": 375,
+          "url": "https://www.bilibili.com/video/BV18g1sYGE9V"
+        },
+        {
+          "bvid": "BV12dQzYbEBN",
+          "title": "【浙江首考】读后续写难题，重磅来袭！挖伏笔？巧点睛？戏剧力？跟七七一起这么做！丨读后续写实战",
+          "duration": 5074,
+          "pubdate": 1742004000,
+          "cover": "https://i2.hdslb.com/bfs/archive/d3c9f1af8185d415599b636bf668a690511c8733.jpg",
+          "views": 114425,
+          "danmaku": 479,
+          "url": "https://www.bilibili.com/video/BV12dQzYbEBN"
+        }
+      ]
+    },
+    {
+      "season_id": 4284107,
+      "title": "是七七呀！",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/4f245527314e52c135ec9c0a0733495e8c128261.jpg",
+      "total": 7,
+      "fetched": 7,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1FZzRYcEti",
+          "title": "最近视频播放量可太没劲了、卖艺吧！大概是每个女孩子都喜欢的歌【Like My Father-Jax 翻唱】",
+          "duration": 183,
+          "pubdate": 1733047679,
+          "cover": "https://i1.hdslb.com/bfs/archive/17826cf080b58ff50a405914dcef44d06d1a6869.jpg",
+          "views": 492604,
+          "danmaku": 169,
+          "url": "https://www.bilibili.com/video/BV1FZzRYcEti"
+        },
+        {
+          "bvid": "BV1oSZKBxEV8",
+          "title": "轻松学习不NG！77送上假期观影清单丨附彩蛋(#^.^#)",
+          "duration": 311,
+          "pubdate": 1771238229,
+          "cover": "https://i0.hdslb.com/bfs/archive/e31018eb0bb5b242cb244cc0da83f184b0ecb91f.jpg",
+          "views": 115299,
+          "danmaku": 154,
+          "url": "https://www.bilibili.com/video/BV1oSZKBxEV8"
+        },
+        {
+          "bvid": "BV1ZT421r7Si",
+          "title": "新高一的宝子们、别再让我推荐高中英语教辅了...因为、它来了!",
+          "duration": 239,
+          "pubdate": 1720181278,
+          "cover": "https://i1.hdslb.com/bfs/archive/e87099059314c53c9b55dca04c29660358dd7580.jpg",
+          "views": 541121,
+          "danmaku": 232,
+          "url": "https://www.bilibili.com/video/BV1ZT421r7Si"
+        },
+        {
+          "bvid": "BV1fJT6zjE7W",
+          "title": "保姆级高考福利！学会这个方法，解题、奖金我都要！",
+          "duration": 397,
+          "pubdate": 1749556800,
+          "cover": "https://i0.hdslb.com/bfs/archive/bed905f07eb7d06535c2f0cf5aac3067e0b24bf3.jpg",
+          "views": 131679,
+          "danmaku": 22,
+          "url": "https://www.bilibili.com/video/BV1fJT6zjE7W"
+        },
+        {
+          "bvid": "BV1CpNn61ExT",
+          "title": "适合准高一的新版「解题觉醒」，“再来一本”吧！77手把手教你暑假免费领书！",
+          "duration": 117,
+          "pubdate": 1783681030,
+          "cover": "https://i2.hdslb.com/bfs/archive/fe6915259e01fac80cb0ffd2436ca74ce9caa902.jpg",
+          "views": 69692,
+          "danmaku": 18,
+          "url": "https://www.bilibili.com/video/BV1CpNn61ExT"
+        },
+        {
+          "bvid": "BV1nj41167mT",
+          "title": "学习语言的意义 | 77的意大利旅行vlog",
+          "duration": 141,
+          "pubdate": 1691845775,
+          "cover": "https://i1.hdslb.com/bfs/archive/e0cc4021e57c642ca305060f48ad08e52505a48c.jpg",
+          "views": 131755,
+          "danmaku": 85,
+          "url": "https://www.bilibili.com/video/BV1nj41167mT"
+        },
+        {
+          "bvid": "BV1vkGF6oE7R",
+          "title": "一英儿带爸妈去看世界了、一音儿上线！经典英文歌When you say nothing at all翻唱丨欧洲法意瑞跟团旅行vlog",
+          "duration": 253,
+          "pubdate": 1785499200,
+          "cover": "https://i1.hdslb.com/bfs/archive/e96cb4a2f08a3ddfc15f2fddedb263afd3c2561e.jpg",
+          "views": 117370,
+          "danmaku": 77,
+          "url": "https://www.bilibili.com/video/BV1vkGF6oE7R"
+        }
+      ]
+    },
+    {
+      "season_id": 6185400,
+      "title": "超系统&超好懂的英语大合集",
+      "intro": "0基础友好的系统英语课",
+      "cover": "https://archive.biliimg.com/bfs/archive/47924e14de0235914a9165892357cc98bfb69fb1.jpg",
+      "total": 3,
+      "fetched": 3,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1SchwzEETb",
+          "title": "超系统&超好懂的英语大合集来咯！ 一切从「名词」说起",
+          "duration": 554,
+          "pubdate": 1753848414,
+          "cover": "https://i2.hdslb.com/bfs/archive/d37a5d0cbf76ccba6dd911ea353e135740c931ca.jpg",
+          "views": 232868,
+          "danmaku": 363,
+          "url": "https://www.bilibili.com/video/BV1SchwzEETb"
+        },
+        {
+          "bvid": "BV1Tkh3zGE6s",
+          "title": "超系统&超好懂的英语大合集来咯！名词的小难题丨名词第二弹",
+          "duration": 753,
+          "pubdate": 1754215200,
+          "cover": "https://i1.hdslb.com/bfs/archive/1d61b5eca20242e339d87e71296072dc29397348.jpg",
+          "views": 137652,
+          "danmaku": 253,
+          "url": "https://www.bilibili.com/video/BV1Tkh3zGE6s"
+        },
+        {
+          "bvid": "BV1bceazrEy4",
+          "title": "泛指还是特指？冠词用法大揭秘丨超系统&超好懂的英语大合集",
+          "duration": 736,
+          "pubdate": 1755921600,
+          "cover": "https://i2.hdslb.com/bfs/archive/1788ce10db5cb5a1d1c5e42c71b0329fb8a14b90.jpg",
+          "views": 136230,
+          "danmaku": 250,
+          "url": "https://www.bilibili.com/video/BV1bceazrEy4"
+        }
+      ]
+    },
+    {
+      "season_id": 146588,
+      "title": "【英语16种时态】0基础教程",
+      "intro": "16种时态，一网打尽！零基础起步，小白也可以轻松系统的学会所有英语时态~",
+      "cover": "https://archive.biliimg.com/bfs/archive/4e72d9421ae2a188497f3a7c759c63d48ac939f9.jpg",
+      "total": 7,
+      "fetched": 7,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1eP4y1774h",
+          "title": "一般现在、过去时【0基础最系统时态教程】第一集",
+          "duration": 1241,
+          "pubdate": 1642854773,
+          "cover": "https://i1.hdslb.com/bfs/archive/19f5243d7ade5f2b19a849ec7d73d3ee6d682542.jpg",
+          "views": 469178,
+          "danmaku": 3410,
+          "url": "https://www.bilibili.com/video/BV1eP4y1774h"
+        },
+        {
+          "bvid": "BV1Wu411R74U",
+          "title": "一般将来时【0基础最系统时态教程】第二集",
+          "duration": 944,
+          "pubdate": 1643425206,
+          "cover": "https://i1.hdslb.com/bfs/archive/8a6cf258a5052f8a6441af9b4c5c2c7481435166.jpg",
+          "views": 119267,
+          "danmaku": 861,
+          "url": "https://www.bilibili.com/video/BV1Wu411R74U"
+        },
+        {
+          "bvid": "BV1L44y1W7op",
+          "title": "3种【进行时态】系统教程，0基础也能学会！",
+          "duration": 1119,
+          "pubdate": 1643978159,
+          "cover": "https://i2.hdslb.com/bfs/archive/d8a99bb487cdaf0182eb5b0ea53ce6f54ce2d8ba.jpg",
+          "views": 88626,
+          "danmaku": 557,
+          "url": "https://www.bilibili.com/video/BV1L44y1W7op"
+        },
+        {
+          "bvid": "BV1GS4y1C7Nr",
+          "title": "现在完成时/现在完成进行时 混淆不会用？看这个就会啦！|时态系列合集",
+          "duration": 1106,
+          "pubdate": 1644577206,
+          "cover": "https://i2.hdslb.com/bfs/archive/b45335c6d8b27e956f2e60cfd546ae3b34957e5e.jpg",
+          "views": 177965,
+          "danmaku": 1110,
+          "url": "https://www.bilibili.com/video/BV1GS4y1C7Nr"
+        },
+        {
+          "bvid": "BV1jZ4y1k7tF",
+          "title": "过去完成时/现过去完成进行时【英语时态系统教程】|低基础起步",
+          "duration": 718,
+          "pubdate": 1645104088,
+          "cover": "https://i1.hdslb.com/bfs/archive/b4dda81a331a29d99388b9a8aa100bc58cbc1f07.jpg",
+          "views": 197491,
+          "danmaku": 778,
+          "url": "https://www.bilibili.com/video/BV1jZ4y1k7tF"
+        },
+        {
+          "bvid": "BV1Pb4y1x7K7",
+          "title": "将来完成时/将来完成进行时【英语时态系统教程】|低基础起步",
+          "duration": 436,
+          "pubdate": 1645879264,
+          "cover": "https://i0.hdslb.com/bfs/archive/27bd555acd8d02c90580b559aeaf6c3be39572cc.jpg",
+          "views": 69924,
+          "danmaku": 230,
+          "url": "https://www.bilibili.com/video/BV1Pb4y1x7K7"
+        },
+        {
+          "bvid": "BV1ES4y16767",
+          "title": "过去将来4种时态都是啥？过去将来进行时、过去将来完成时、过去将来完成进行时",
+          "duration": 511,
+          "pubdate": 1646310203,
+          "cover": "https://i1.hdslb.com/bfs/archive/d657810da1cd0f1b115f0764689bb004952b709e.jpg",
+          "views": 93026,
+          "danmaku": 402,
+          "url": "https://www.bilibili.com/video/BV1ES4y16767"
+        }
+      ]
+    },
+    {
+      "season_id": 664709,
+      "title": "词根词缀记单词",
+      "intro": "老白七七带你高效记单词！",
+      "cover": "https://archive.biliimg.com/bfs/archive/435d320c51f0011aac36ae0d1274a2b9e6c5ddba.jpg",
+      "total": 28,
+      "fetched": 28,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1sd4y1d7DF",
+          "title": "词根词缀记单词!【vid/vis】｜高中3500/大学四级单词",
+          "duration": 314,
+          "pubdate": 1661344355,
+          "cover": "https://i2.hdslb.com/bfs/archive/34ae83e4841e46d37292d05884fb09be5d8c924e.jpg",
+          "views": 539572,
+          "danmaku": 739,
+          "url": "https://www.bilibili.com/video/BV1sd4y1d7DF"
+        },
+        {
+          "bvid": "BV1KU4y1k7Nv",
+          "title": "词根词缀记单词!【spect】｜高中3500/大学四级单词",
+          "duration": 136,
+          "pubdate": 1660827509,
+          "cover": "https://i1.hdslb.com/bfs/archive/8ede3f205716c1360db35a69eb2f590b51797295.jpg",
+          "views": 137029,
+          "danmaku": 144,
+          "url": "https://www.bilibili.com/video/BV1KU4y1k7Nv"
+        },
+        {
+          "bvid": "BV1DD4y1B7Zu",
+          "title": "词根词缀记单词!【com-】｜高中3500/大学四级单词",
+          "duration": 167,
+          "pubdate": 1662087459,
+          "cover": "https://i2.hdslb.com/bfs/archive/5e6d0d5a2af377567fc3a735892682deca1e8687.jpg",
+          "views": 101406,
+          "danmaku": 150,
+          "url": "https://www.bilibili.com/video/BV1DD4y1B7Zu"
+        },
+        {
+          "bvid": "BV1Ye411u7h3",
+          "title": "词根词缀记单词!【-ment-】|高中3500/大学四级单词",
+          "duration": 150,
+          "pubdate": 1662872881,
+          "cover": "https://i1.hdslb.com/bfs/archive/e79ac2eebee1c3ee12a94b1b5b7e9394501bb088.jpg",
+          "views": 61255,
+          "danmaku": 51,
+          "url": "https://www.bilibili.com/video/BV1Ye411u7h3"
+        },
+        {
+          "bvid": "BV1m24y1o7jT",
+          "title": "词根词缀记单词!【-pos-】|高中3500/大学四级单词",
+          "duration": 207,
+          "pubdate": 1662646695,
+          "cover": "https://i1.hdslb.com/bfs/archive/cb58c8ad0dc09a17b8a4e7a4112dcbcd57bd351e.jpg",
+          "views": 49727,
+          "danmaku": 71,
+          "url": "https://www.bilibili.com/video/BV1m24y1o7jT"
+        },
+        {
+          "bvid": "BV1LB4y1n7R9",
+          "title": "词根词缀记单词!【-form-】|高中3500/大学四级单词",
+          "duration": 146,
+          "pubdate": 1663329491,
+          "cover": "https://i1.hdslb.com/bfs/archive/1029466973ff5a83a4868fb309e0e963b8390c02.jpg",
+          "views": 49189,
+          "danmaku": 113,
+          "url": "https://www.bilibili.com/video/BV1LB4y1n7R9"
+        },
+        {
+          "bvid": "BV1Ge411M72z",
+          "title": "词根词缀记单词!【-ced-】|高中3500/大学四级单词",
+          "duration": 166,
+          "pubdate": 1663640700,
+          "cover": "https://i0.hdslb.com/bfs/archive/c13421a87c638f8ad5f7366cb586462cbbb49f27.jpg",
+          "views": 33733,
+          "danmaku": 41,
+          "url": "https://www.bilibili.com/video/BV1Ge411M72z"
+        },
+        {
+          "bvid": "BV1RN4y1N7Fz",
+          "title": "词根词缀记单词!【-centr-】|高中3500/大学四级单词",
+          "duration": 138,
+          "pubdate": 1663923689,
+          "cover": "https://i0.hdslb.com/bfs/archive/055c8c41e72af84fc01205e543281eba0821c2d8.jpg",
+          "views": 32440,
+          "danmaku": 37,
+          "url": "https://www.bilibili.com/video/BV1RN4y1N7Fz"
+        },
+        {
+          "bvid": "BV17N4y1N78L",
+          "title": "词根词缀记单词!【-graph-】|高中3500/大学四级单词",
+          "duration": 201,
+          "pubdate": 1664714412,
+          "cover": "https://i0.hdslb.com/bfs/archive/7a8a55fec1f5dc1b823e382fdc0ae072e325bac6.jpg",
+          "views": 34514,
+          "danmaku": 58,
+          "url": "https://www.bilibili.com/video/BV17N4y1N78L"
+        },
+        {
+          "bvid": "BV1db4y1v7nm",
+          "title": "【一英】名词后缀大汇总！快速拓展词汇量",
+          "duration": 591,
+          "pubdate": 1640399418,
+          "cover": "https://i2.hdslb.com/bfs/archive/54a00190baaa9187b559d346cfb0bb81ac4bc3df.jpg",
+          "views": 133188,
+          "danmaku": 315,
+          "url": "https://www.bilibili.com/video/BV1db4y1v7nm"
+        },
+        {
+          "bvid": "BV1xT411N7Cj",
+          "title": "6分钟搞定常见形容词后缀！",
+          "duration": 360,
+          "pubdate": 1664106887,
+          "cover": "https://i2.hdslb.com/bfs/archive/8f2b89e5b0780ecd5fd63d3e3a56cd8abf94c0db.jpg",
+          "views": 113635,
+          "danmaku": 221,
+          "url": "https://www.bilibili.com/video/BV1xT411N7Cj"
+        },
+        {
+          "bvid": "BV1jG411n7AN",
+          "title": "词根词缀记单词!【-viv-】|高中3500/大学四级单词",
+          "duration": 252,
+          "pubdate": 1664879437,
+          "cover": "https://i0.hdslb.com/bfs/archive/5180a0f5c396c685a5922827db0834ceb8424523.jpg",
+          "views": 46599,
+          "danmaku": 86,
+          "url": "https://www.bilibili.com/video/BV1jG411n7AN"
+        },
+        {
+          "bvid": "BV1K84y1z7ai",
+          "title": "词根词缀记单词!【-cid/cis-】|高中3500/大学四级单词",
+          "duration": 177,
+          "pubdate": 1665581329,
+          "cover": "https://i0.hdslb.com/bfs/archive/162b3dcc9cd57a50dcbc45cf5bc3c204782d2def.jpg",
+          "views": 32989,
+          "danmaku": 31,
+          "url": "https://www.bilibili.com/video/BV1K84y1z7ai"
+        },
+        {
+          "bvid": "BV1ue411V72b",
+          "title": "词根词缀记单词!【-equ(i)-】|高中3500/大学四级单词",
+          "duration": 179,
+          "pubdate": 1665901222,
+          "cover": "https://i2.hdslb.com/bfs/archive/45a53a3f5b9b9f64ec19c85edfa371059618bb62.jpg",
+          "views": 44493,
+          "danmaku": 96,
+          "url": "https://www.bilibili.com/video/BV1ue411V72b"
+        },
+        {
+          "bvid": "BV1L8411V7S5",
+          "title": "词根词缀记单词!【-dent-】|高中3500/大学四级单词",
+          "duration": 158,
+          "pubdate": 1670752387,
+          "cover": "https://i1.hdslb.com/bfs/archive/fc60f057f646005f0ff417a9d5d6adef758d3f4e.jpg",
+          "views": 55430,
+          "danmaku": 122,
+          "url": "https://www.bilibili.com/video/BV1L8411V7S5"
+        },
+        {
+          "bvid": "BV1fW4y1p7dr",
+          "title": "词根词缀记单词!【-meter-】|高中3500/大学四级单词",
+          "duration": 185,
+          "pubdate": 1670060700,
+          "cover": "https://i1.hdslb.com/bfs/archive/d276d4cdc8ddc4329b3a65de1248005759a76ba3.jpg",
+          "views": 37503,
+          "danmaku": 41,
+          "url": "https://www.bilibili.com/video/BV1fW4y1p7dr"
+        },
+        {
+          "bvid": "BV1EY411d7XZ",
+          "title": "词根词缀记单词!【-act-】|高中3500/大学四级单词",
+          "duration": 157,
+          "pubdate": 1669453446,
+          "cover": "https://i2.hdslb.com/bfs/archive/c3055d6cfd3cfb98532d6a548f7781f9f41089bb.jpg",
+          "views": 43455,
+          "danmaku": 84,
+          "url": "https://www.bilibili.com/video/BV1EY411d7XZ"
+        },
+        {
+          "bvid": "BV1s8411H7DF",
+          "title": "词根词缀记单词!【-sist-】|高中3500/大学四级单词",
+          "duration": 189,
+          "pubdate": 1671879391,
+          "cover": "https://i1.hdslb.com/bfs/archive/1797c0ce0b64c6dfa8771f40a3d197dde431d737.jpg",
+          "views": 47108,
+          "danmaku": 38,
+          "url": "https://www.bilibili.com/video/BV1s8411H7DF"
+        },
+        {
+          "bvid": "BV1624y1B7xP",
+          "title": "词根词缀记单词!【-integr-】|高中3500/大学四级单词",
+          "duration": 179,
+          "pubdate": 1675415471,
+          "cover": "https://i2.hdslb.com/bfs/archive/287b98ee18d6aa8550967f8d2c5be77eb727081f.jpg",
+          "views": 42151,
+          "danmaku": 16,
+          "url": "https://www.bilibili.com/video/BV1624y1B7xP"
+        },
+        {
+          "bvid": "BV1Pg4y1J7wk",
+          "title": "词根词缀记单词!【-bio-】|高中3500/大学四级单词",
+          "duration": 205,
+          "pubdate": 1678176528,
+          "cover": "https://i2.hdslb.com/bfs/archive/ea25e90750464eac6a47fc3faa89779bdc635677.jpg",
+          "views": 42338,
+          "danmaku": 46,
+          "url": "https://www.bilibili.com/video/BV1Pg4y1J7wk"
+        },
+        {
+          "bvid": "BV1N14y1Z7xN",
+          "title": "词根词缀记单词!【-cand-】|高中3500/大学四级单词",
+          "duration": 217,
+          "pubdate": 1682760661,
+          "cover": "https://i0.hdslb.com/bfs/archive/d491c7b51595bb9bfdfedc8bac4efbb53d7fc17b.jpg",
+          "views": 38316,
+          "danmaku": 97,
+          "url": "https://www.bilibili.com/video/BV1N14y1Z7xN"
+        },
+        {
+          "bvid": "BV1Xh41157xn",
+          "title": "词根词缀记单词!【-aud-】|高中3500/大学四级单词",
+          "duration": 218,
+          "pubdate": 1683806400,
+          "cover": "https://i1.hdslb.com/bfs/archive/e2f22015f21072edbd80b2c6f3467278ca399577.jpg",
+          "views": 41024,
+          "danmaku": 44,
+          "url": "https://www.bilibili.com/video/BV1Xh41157xn"
+        },
+        {
+          "bvid": "BV11V4y1z75u",
+          "title": "词根词缀记单词!【-cor-】|高中3500/大学四级单词",
+          "duration": 229,
+          "pubdate": 1684493189,
+          "cover": "https://i0.hdslb.com/bfs/archive/c90afacdfb8b27eb1d75be8128d98d4e598f9271.jpg",
+          "views": 36964,
+          "danmaku": 72,
+          "url": "https://www.bilibili.com/video/BV11V4y1z75u"
+        },
+        {
+          "bvid": "BV1LL411z7KM",
+          "title": "词根词缀记单词!【-dic(t)-】|高中3500/大学四六级单词",
+          "duration": 228,
+          "pubdate": 1685183143,
+          "cover": "https://i0.hdslb.com/bfs/archive/6fe9a9cd9ed0c3f5cc1697c052af36c3881ba6c9.jpg",
+          "views": 42251,
+          "danmaku": 54,
+          "url": "https://www.bilibili.com/video/BV1LL411z7KM"
+        },
+        {
+          "bvid": "BV1kN411C7ey",
+          "title": "词根词缀记单词!【-dem(o)-】|高中3500/大学四六级单词",
+          "duration": 264,
+          "pubdate": 1685977640,
+          "cover": "https://i2.hdslb.com/bfs/archive/46c75db8fdf4100a3099ebb329eed2c0cd2e534c.jpg",
+          "views": 47685,
+          "danmaku": 36,
+          "url": "https://www.bilibili.com/video/BV1kN411C7ey"
+        },
+        {
+          "bvid": "BV1CN411S7u1",
+          "title": "词根词缀记单词!【-clin-】|高中3500/大学四六级单词",
+          "duration": 214,
+          "pubdate": 1688641500,
+          "cover": "https://i2.hdslb.com/bfs/archive/3723e43c4b264700fcf14a6f700207c352157b0b.jpg",
+          "views": 90294,
+          "danmaku": 35,
+          "url": "https://www.bilibili.com/video/BV1CN411S7u1"
+        },
+        {
+          "bvid": "BV1e14y1S7cB",
+          "title": "词根词缀记单词!【-dur-】|高中3500/大学四六级单词",
+          "duration": 307,
+          "pubdate": 1686914400,
+          "cover": "https://i1.hdslb.com/bfs/archive/30c2844e8c9011bd8d18fe61348948e3907bc2af.jpg",
+          "views": 55001,
+          "danmaku": 218,
+          "url": "https://www.bilibili.com/video/BV1e14y1S7cB"
+        },
+        {
+          "bvid": "BV1om4y1i7zr",
+          "title": "词根词缀记单词!【-fer-】|高中3500/大学四六级单词",
+          "duration": 296,
+          "pubdate": 1686308982,
+          "cover": "https://i0.hdslb.com/bfs/archive/16706a4d05ae4bd779eb76d106c9b0119c73f0db.jpg",
+          "views": 67955,
+          "danmaku": 76,
+          "url": "https://www.bilibili.com/video/BV1om4y1i7zr"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 11,
+    "videos": 278,
+    "truncated_collections": []
+  }
+}

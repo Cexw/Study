@@ -1,0 +1,3122 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791183983668,
+  "source": {
+    "platform": "bilibili",
+    "author": "学过石油的语文老师",
+    "mid": 39737405,
+    "space": "https://space.bilibili.com/39737405"
+  },
+  "collections": [
+    {
+      "season_id": 117412,
+      "title": "佳油奇说",
+      "intro": "不止语文",
+      "cover": "https://archive.biliimg.com/bfs/archive/0305c00840cd8f13c881140baf4f0533981cd57a.jpg",
+      "total": 92,
+      "fetched": 92,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1uytm6dE5h",
+          "title": "42岁的家政阿姨，为啥一定要去上大学？",
+          "duration": 1158,
+          "pubdate": 1788494400,
+          "cover": "https://i2.hdslb.com/bfs/archive/df31e7f7d577933729f02e578e5e38add6620adb.jpg",
+          "views": 104924,
+          "danmaku": 32,
+          "url": "https://www.bilibili.com/video/BV1uytm6dE5h"
+        },
+        {
+          "bvid": "BV1AERFBkEk5",
+          "title": "云游淄博陶琉馆？踏访曲阜圣文庙！",
+          "duration": 1130,
+          "pubdate": 1777809600,
+          "cover": "https://i2.hdslb.com/bfs/archive/253545d4799c5f70498a475a1ef7ea81da7b2c1c.jpg",
+          "views": 236777,
+          "danmaku": 370,
+          "url": "https://www.bilibili.com/video/BV1AERFBkEk5"
+        },
+        {
+          "bvid": "BV15B6FBZERE",
+          "title": "马刺总冠军！Go Spurs Go !!!",
+          "duration": 1519,
+          "pubdate": 1769774400,
+          "cover": "https://i2.hdslb.com/bfs/archive/812aabde18336980635130d56c73244ce7dcb29d.jpg",
+          "views": 328144,
+          "danmaku": 1009,
+          "url": "https://www.bilibili.com/video/BV15B6FBZERE"
+        },
+        {
+          "bvid": "BV1g6zWBDEXR",
+          "title": "探亲3年未见的姥姥：交通工具变了，我也长大了",
+          "duration": 1038,
+          "pubdate": 1769086800,
+          "cover": "https://i0.hdslb.com/bfs/archive/4df4d5ec6c4d3682b30a7ecf420510c387698b53.jpg",
+          "views": 958832,
+          "danmaku": 199,
+          "url": "https://www.bilibili.com/video/BV1g6zWBDEXR"
+        },
+        {
+          "bvid": "BV1tXsdzSE57",
+          "title": "突发奇想！带全家去追1000年一遇的彗星！",
+          "duration": 804,
+          "pubdate": 1761393600,
+          "cover": "https://i1.hdslb.com/bfs/archive/4c9c9dab1c7205cbf18b71d41d79229941c0a4aa.jpg",
+          "views": 500282,
+          "danmaku": 767,
+          "url": "https://www.bilibili.com/video/BV1tXsdzSE57"
+        },
+        {
+          "bvid": "BV1iExJzAEvy",
+          "title": "奔袭1000KM？我又双叒买了一辆梦中情车！",
+          "duration": 1002,
+          "pubdate": 1759838400,
+          "cover": "https://i0.hdslb.com/bfs/archive/9ba8a992e40e8626d872e3d1792de2ea13f9041a.jpg",
+          "views": 705434,
+          "danmaku": 352,
+          "url": "https://www.bilibili.com/video/BV1iExJzAEvy"
+        },
+        {
+          "bvid": "BV1rD736UEz9",
+          "title": "回东北？当一天汽车人！｜我的硬核工位",
+          "duration": 3401,
+          "pubdate": 1782475200,
+          "cover": "https://i0.hdslb.com/bfs/archive/3d30b9f847ac32b4b92ee16dc18db89ae46a1722.jpg",
+          "views": 275560,
+          "danmaku": 288,
+          "url": "https://www.bilibili.com/video/BV1rD736UEz9"
+        },
+        {
+          "bvid": "BV1fxMtzmE4X",
+          "title": "第一次出国？和我爹在瑞典当老外！",
+          "duration": 2731,
+          "pubdate": 1749991924,
+          "cover": "https://i2.hdslb.com/bfs/archive/f98cfbbab3fcb6baffab8139ff635676f06347e8.jpg",
+          "views": 419916,
+          "danmaku": 532,
+          "url": "https://www.bilibili.com/video/BV1fxMtzmE4X"
+        },
+        {
+          "bvid": "BV1SGFPenE9e",
+          "title": "山东过年有多野？坐稳了！",
+          "duration": 843,
+          "pubdate": 1738238400,
+          "cover": "https://i0.hdslb.com/bfs/archive/866f9a99bda0e2f93f8c0315b88971bacb9e6e52.jpg",
+          "views": 1035860,
+          "danmaku": 2680,
+          "url": "https://www.bilibili.com/video/BV1SGFPenE9e"
+        },
+        {
+          "bvid": "BV1rmtHetEWB",
+          "title": "800w粉丝？百大UP主？开什么车！",
+          "duration": 1003,
+          "pubdate": 1726833600,
+          "cover": "https://i0.hdslb.com/bfs/archive/9a940047104978d0732b8fa86c9e4fa6d047f0ba.jpg",
+          "views": 700742,
+          "danmaku": 1240,
+          "url": "https://www.bilibili.com/video/BV1rmtHetEWB"
+        },
+        {
+          "bvid": "BV1gw41137S1",
+          "title": "640w粉丝？109次热门？我经历了什么！心路分享！",
+          "duration": 1769,
+          "pubdate": 1704456000,
+          "cover": "https://i1.hdslb.com/bfs/archive/0ca50ca1945bcaf895e9222e904db13934122c87.jpg",
+          "views": 1004480,
+          "danmaku": 2791,
+          "url": "https://www.bilibili.com/video/BV1gw41137S1"
+        },
+        {
+          "bvid": "BV14jFseuEMW",
+          "title": "一键查询UP主精神状态：我在春晚后台当显眼包？！",
+          "duration": 567,
+          "pubdate": 1738081277,
+          "cover": "https://i1.hdslb.com/bfs/archive/2d8424bff7fe6d93477130769f717733e6b68d62.jpg",
+          "views": 550613,
+          "danmaku": 2495,
+          "url": "https://www.bilibili.com/video/BV14jFseuEMW"
+        },
+        {
+          "bvid": "BV1bd4y1W7rw",
+          "title": "九岁就知道？我能当百大！【学过石油的语文老师】",
+          "duration": 127,
+          "pubdate": 1674561600,
+          "cover": "https://i1.hdslb.com/bfs/archive/8e98319767c8293f3eddbcf0359463dcf3de7289.jpg",
+          "views": 1477120,
+          "danmaku": 1877,
+          "url": "https://www.bilibili.com/video/BV1bd4y1W7rw"
+        },
+        {
+          "bvid": "BV1NN4y1N7v5",
+          "title": "青春版奇哥？高二！激情演讲？喝过石油！",
+          "duration": 291,
+          "pubdate": 1664883672,
+          "cover": "https://i1.hdslb.com/bfs/archive/f0d26329f3c0731836954ba32a3868acea85af34.jpg",
+          "views": 1527921,
+          "danmaku": 3848,
+          "url": "https://www.bilibili.com/video/BV1NN4y1N7v5"
+        },
+        {
+          "bvid": "BV1dG4y1B7Ss",
+          "title": "我怀念的？是无边感动！【学过石油的语文老师】",
+          "duration": 1318,
+          "pubdate": 1662466956,
+          "cover": "https://i0.hdslb.com/bfs/archive/63163382027c96e513447a1fcf4201bd459dd9c1.jpg",
+          "views": 423931,
+          "danmaku": 2003,
+          "url": "https://www.bilibili.com/video/BV1dG4y1B7Ss"
+        },
+        {
+          "bvid": "BV1WT411S77U",
+          "title": "我的故乡？辽宁凌源！西有敦煌？东有朝阳！【学过石油的语文老师】",
+          "duration": 615,
+          "pubdate": 1677070571,
+          "cover": "https://i1.hdslb.com/bfs/archive/e296ef85eb0e55d76cf708cabf74c867ddf8148f.jpg",
+          "views": 218503,
+          "danmaku": 866,
+          "url": "https://www.bilibili.com/video/BV1WT411S77U"
+        },
+        {
+          "bvid": "BV1Zo4y1w7fY",
+          "title": "泰裤辣！广西三月三？山清水秀人更美！游玩Vlog？【学过石油的语文老师】",
+          "duration": 499,
+          "pubdate": 1683028800,
+          "cover": "https://i2.hdslb.com/bfs/archive/99758d193a1ef6fa3851125966537a7bbf6fd71c.jpg",
+          "views": 272249,
+          "danmaku": 802,
+          "url": "https://www.bilibili.com/video/BV1Zo4y1w7fY"
+        },
+        {
+          "bvid": "BV1Wo4y1W7QU",
+          "title": "黄河湿地Vlog？奇哥东营溜大鹅！",
+          "duration": 1297,
+          "pubdate": 1680264000,
+          "cover": "https://i1.hdslb.com/bfs/archive/74cb215d4874b7f1a7d8eb5c9256d43732e3b885.jpg",
+          "views": 158843,
+          "danmaku": 748,
+          "url": "https://www.bilibili.com/video/BV1Wo4y1W7QU"
+        },
+        {
+          "bvid": "BV1WM411G7Pj",
+          "title": "奥斯卡遗珠？只拿一半或许是对抗“卷”最好的答案！",
+          "duration": 848,
+          "pubdate": 1682920800,
+          "cover": "https://i2.hdslb.com/bfs/archive/fb3ae1c80f681dc798b742df4f8d75983e94bdab.jpg",
+          "views": 539476,
+          "danmaku": 487,
+          "url": "https://www.bilibili.com/video/BV1WM411G7Pj"
+        },
+        {
+          "bvid": "BV1W24y1h7SH",
+          "title": "奇哥教辅？解题觉醒！适用对象？使用方法！【学过石油的语文老师】",
+          "duration": 652,
+          "pubdate": 1673958993,
+          "cover": "https://i2.hdslb.com/bfs/archive/6c385c59bf5687f36c69b41ddaea3a5f2e56453f.jpg",
+          "views": 1650469,
+          "danmaku": 3846,
+          "url": "https://www.bilibili.com/video/BV1W24y1h7SH"
+        },
+        {
+          "bvid": "BV1yU4y1c7d3",
+          "title": "得罪书商！豁出去了？避雷作文教辅！【学过石油的语文老师】",
+          "duration": 842,
+          "pubdate": 1633221001,
+          "cover": "https://i1.hdslb.com/bfs/archive/5840a3b08656cad65a26eece4fcbd6bcb3a8876a.jpg",
+          "views": 1149171,
+          "danmaku": 6248,
+          "url": "https://www.bilibili.com/video/BV1yU4y1c7d3"
+        },
+        {
+          "bvid": "BV1Q64y1i7yx",
+          "title": "高中练习册测评？OMG！别买它！【学过石油的语文老师】",
+          "duration": 981,
+          "pubdate": 1629277214,
+          "cover": "https://i1.hdslb.com/bfs/archive/b57b2232cd67d971c1e52c4e656adcf9eacdce18.jpg",
+          "views": 4088242,
+          "danmaku": 19476,
+          "url": "https://www.bilibili.com/video/BV1Q64y1i7yx"
+        },
+        {
+          "bvid": "BV1ru411x7W8",
+          "title": "一份送往大山的爱心加餐",
+          "duration": 365,
+          "pubdate": 1684497600,
+          "cover": "https://i1.hdslb.com/bfs/archive/40c503f529836b986b66c0faa0534651cab8f6bc.jpg",
+          "views": 392896,
+          "danmaku": 522,
+          "url": "https://www.bilibili.com/video/BV1ru411x7W8"
+        },
+        {
+          "bvid": "BV1co4y1g7nr",
+          "title": "下一站？上岸！孔庙祈福？高考必胜！【学过石油的语文老师】",
+          "duration": 873,
+          "pubdate": 1686024000,
+          "cover": "https://i0.hdslb.com/bfs/archive/7963175669fb21661a801363f63b646c3f6e44cd.jpg",
+          "views": 814336,
+          "danmaku": 31892,
+          "url": "https://www.bilibili.com/video/BV1co4y1g7nr"
+        },
+        {
+          "bvid": "BV1994y1t77d",
+          "title": "麦克阿瑟怎么说？纪录片！《石油传奇》",
+          "duration": 93,
+          "pubdate": 1697630400,
+          "cover": "https://i1.hdslb.com/bfs/archive/89ed74acfcd67b5c21b738388a15df97859aead4.jpg",
+          "views": 1465291,
+          "danmaku": 498,
+          "url": "https://www.bilibili.com/video/BV1994y1t77d"
+        },
+        {
+          "bvid": "BV1Yv411A7iu",
+          "title": "开学第一天，我为啥要学习？【学过石油的语文老师】",
+          "duration": 769,
+          "pubdate": 1630468812,
+          "cover": "https://i1.hdslb.com/bfs/archive/0a4a7d5a44c9c1bf345f18fbcd15040ce0ca023b.jpg",
+          "views": 618202,
+          "danmaku": 3632,
+          "url": "https://www.bilibili.com/video/BV1Yv411A7iu"
+        },
+        {
+          "bvid": "BV1FZ4y167vy",
+          "title": "全职up主！我有多自由？【学过石油的语文老师】",
+          "duration": 464,
+          "pubdate": 1647347870,
+          "cover": "https://i0.hdslb.com/bfs/archive/1fd0d648197e133f3b1ae738f23a2193590e77ab.jpg",
+          "views": 411599,
+          "danmaku": 1290,
+          "url": "https://www.bilibili.com/video/BV1FZ4y167vy"
+        },
+        {
+          "bvid": "BV1iR4y1h7HV",
+          "title": "浪漫又现实？内卷又躺平！诗人白居易？大唐最拧巴！【学过石油的语文老师】",
+          "duration": 706,
+          "pubdate": 1674820800,
+          "cover": "https://i1.hdslb.com/bfs/archive/e6181e63cf3d048c581058d0d6da20543154661b.jpg",
+          "views": 278052,
+          "danmaku": 1171,
+          "url": "https://www.bilibili.com/video/BV1iR4y1h7HV"
+        },
+        {
+          "bvid": "BV1Ct4y137hC",
+          "title": "诗词中的浪漫？陆游这个“负心汉”！【学过石油的语文老师】",
+          "duration": 605,
+          "pubdate": 1659614368,
+          "cover": "https://i2.hdslb.com/bfs/archive/4b1e9a781ddc832726b67fe2285660a3955d2ba9.jpg",
+          "views": 398608,
+          "danmaku": 2975,
+          "url": "https://www.bilibili.com/video/BV1Ct4y137hC"
+        },
+        {
+          "bvid": "BV18d4y1m7uR",
+          "title": "孤独？成长的必经路！【学过石油的语文老师】",
+          "duration": 338,
+          "pubdate": 1660046400,
+          "cover": "https://i1.hdslb.com/bfs/archive/c9b7aa62a12d38fca35c1466acbdcc41e48c0b2b.jpg",
+          "views": 389500,
+          "danmaku": 2028,
+          "url": "https://www.bilibili.com/video/BV18d4y1m7uR"
+        },
+        {
+          "bvid": "BV1KW4y1Y7Sw",
+          "title": "诗词中的菊花！不止高洁？还可世俗！【学过石油的语文老师】",
+          "duration": 380,
+          "pubdate": 1660651200,
+          "cover": "https://i2.hdslb.com/bfs/archive/94032d37b5399069f05dc287f4792f7984f25280.jpg",
+          "views": 239930,
+          "danmaku": 766,
+          "url": "https://www.bilibili.com/video/BV1KW4y1Y7Sw"
+        },
+        {
+          "bvid": "BV1Ma411G7dH",
+          "title": "如何写景？文采斐然！古诗中的写作技巧？！【学过石油的语文老师】",
+          "duration": 507,
+          "pubdate": 1661258233,
+          "cover": "https://i2.hdslb.com/bfs/archive/bbb1034d32e5286ce7b23768b025dbc6165caa84.jpg",
+          "views": 325159,
+          "danmaku": 840,
+          "url": "https://www.bilibili.com/video/BV1Ma411G7dH"
+        },
+        {
+          "bvid": "BV1C14y1W76y",
+          "title": "如果再投胎？我怕被关进动物园！【学过石油的语文老师】",
+          "duration": 274,
+          "pubdate": 1661860800,
+          "cover": "https://i2.hdslb.com/bfs/archive/4b745b3c664254ee0c638751a4264bf82ffc5897.jpg",
+          "views": 167245,
+          "danmaku": 652,
+          "url": "https://www.bilibili.com/video/BV1C14y1W76y"
+        },
+        {
+          "bvid": "BV1i3411a77T",
+          "title": "社牛西湖讲苏轼？长风破浪会有时！【学过石油的语文老师】",
+          "duration": 438,
+          "pubdate": 1643103018,
+          "cover": "https://i1.hdslb.com/bfs/archive/5f67402d3a6cb2d5c0a9e6a3f8869c7e1daebd04.jpg",
+          "views": 277135,
+          "danmaku": 1622,
+          "url": "https://www.bilibili.com/video/BV1i3411a77T"
+        },
+        {
+          "bvid": "BV1wM4y1p7yf",
+          "title": "不喜欢的专业？要不要复读！【学过石油的语文老师】",
+          "duration": 466,
+          "pubdate": 1691150400,
+          "cover": "https://i2.hdslb.com/bfs/archive/ac54261e4b6552d9a24970834a7587fcab7bc240.jpg",
+          "views": 580610,
+          "danmaku": 1151,
+          "url": "https://www.bilibili.com/video/BV1wM4y1p7yf"
+        },
+        {
+          "bvid": "BV1p44y1z7eF",
+          "title": "出分了？必须知道这5件事！【学过石油的语文老师】",
+          "duration": 887,
+          "pubdate": 1624445762,
+          "cover": "https://i0.hdslb.com/bfs/archive/4873edf56de6cee5a731fbe4701ab49124a9d7fc.jpg",
+          "views": 657288,
+          "danmaku": 5072,
+          "url": "https://www.bilibili.com/video/BV1p44y1z7eF"
+        },
+        {
+          "bvid": "BV1vF411G7qG",
+          "title": "不断努力的自己？才是更好的答案！【学过石油的语文老师】",
+          "duration": 257,
+          "pubdate": 1654682400,
+          "cover": "https://i2.hdslb.com/bfs/archive/9c019dd48dba4fd0be86d68f251cb621d6f5af5e.jpg",
+          "views": 644048,
+          "danmaku": 3874,
+          "url": "https://www.bilibili.com/video/BV1vF411G7qG"
+        },
+        {
+          "bvid": "BV1yr4y177ht",
+          "title": "从此故乡？再无春秋！只有冬夏！",
+          "duration": 211,
+          "pubdate": 1658494979,
+          "cover": "https://i1.hdslb.com/bfs/archive/3c88b7437201679a05b3cc111c3f763ef583087a.jpg",
+          "views": 393201,
+          "danmaku": 1475,
+          "url": "https://www.bilibili.com/video/BV1yr4y177ht"
+        },
+        {
+          "bvid": "BV1DY4y1E7RB",
+          "title": "录取分数线？全国各省！哪个容易上本科？【学过石油的语文老师】",
+          "duration": 605,
+          "pubdate": 1657281949,
+          "cover": "https://i2.hdslb.com/bfs/archive/61c125420ab69b02b46013c6f9e0b2e87231c217.jpg",
+          "views": 4961604,
+          "danmaku": 16905,
+          "url": "https://www.bilibili.com/video/BV1DY4y1E7RB"
+        },
+        {
+          "bvid": "BV1sq4y1s7TA",
+          "title": "全国31个省市！高考分数线！背后的秘密？【学过石油的语文老师】",
+          "duration": 1300,
+          "pubdate": 1624708712,
+          "cover": "https://i2.hdslb.com/bfs/archive/33a77f8f3864a6db97aa345171042b486f803520.jpg",
+          "views": 1999649,
+          "danmaku": 35699,
+          "url": "https://www.bilibili.com/video/BV1sq4y1s7TA"
+        },
+        {
+          "bvid": "BV1QBja6sEd5",
+          "title": "志愿，志愿？别忘了！志向和愿望！",
+          "duration": 934,
+          "pubdate": 1781870400,
+          "cover": "https://i0.hdslb.com/bfs/archive/07e06d6bce0f3fb575172419956b32d69f6daaee.jpg",
+          "views": 251148,
+          "danmaku": 551,
+          "url": "https://www.bilibili.com/video/BV1QBja6sEd5"
+        },
+        {
+          "bvid": "BV1buNRzYEvr",
+          "title": "志愿填报懵了？这个视频帮你快速捋清！",
+          "duration": 977,
+          "pubdate": 1750593600,
+          "cover": "https://i0.hdslb.com/bfs/archive/1f87a940a1e3608c7c7599f6ec68ae6db6498ff2.jpg",
+          "views": 521666,
+          "danmaku": 1923,
+          "url": "https://www.bilibili.com/video/BV1buNRzYEvr"
+        },
+        {
+          "bvid": "BV1pU4y197ub",
+          "title": "怎么报志愿！才能少走弯路？",
+          "duration": 680,
+          "pubdate": 1655985620,
+          "cover": "https://i2.hdslb.com/bfs/archive/47b1e1d4a053c79fd9078cbdf593eee5e2926289.jpg",
+          "views": 629272,
+          "danmaku": 5384,
+          "url": "https://www.bilibili.com/video/BV1pU4y197ub"
+        },
+        {
+          "bvid": "BV1Tz421z7WX",
+          "title": "高考志愿！啥优先？专业or学校or城市！",
+          "duration": 1265,
+          "pubdate": 1719057600,
+          "cover": "https://i0.hdslb.com/bfs/archive/cc36d7601919b0eedc07c06dc13cddb8fbbde869.jpg",
+          "views": 511646,
+          "danmaku": 3531,
+          "url": "https://www.bilibili.com/video/BV1Tz421z7WX"
+        },
+        {
+          "bvid": "BV1DX4y147VP",
+          "title": "志愿填报？必备概念！切勿盲目？自己负责！【学过石油的语文老师】",
+          "duration": 683,
+          "pubdate": 1687089600,
+          "cover": "https://i1.hdslb.com/bfs/archive/3df6f044b18a04ebf348f262f26fca3b8483614e.jpg",
+          "views": 1243739,
+          "danmaku": 5948,
+          "url": "https://www.bilibili.com/video/BV1DX4y147VP"
+        },
+        {
+          "bvid": "BV1tG4y1T7Fk",
+          "title": "一年更新138期！咋做视频？软件公开！【学过石油的语文老师】",
+          "duration": 876,
+          "pubdate": 1675771200,
+          "cover": "https://i0.hdslb.com/bfs/archive/ca8462cad821c8b8de5ebf5c4301b6dbfe4c6230.jpg",
+          "views": 149368,
+          "danmaku": 293,
+          "url": "https://www.bilibili.com/video/BV1tG4y1T7Fk"
+        },
+        {
+          "bvid": "BV1QSXvBnELZ",
+          "title": "不卖课？怎么做教培！",
+          "duration": 1020,
+          "pubdate": 1774958400,
+          "cover": "https://i0.hdslb.com/bfs/archive/07db1ee1d13b381ac4a6c854be7481e4aa3f6e27.jpg",
+          "views": 434362,
+          "danmaku": 798,
+          "url": "https://www.bilibili.com/video/BV1QSXvBnELZ"
+        },
+        {
+          "bvid": "BV1RP4y1X7KY",
+          "title": "300w粉丝？一年赚多少！UP主咋涨粉？【学过石油的语文老师】",
+          "duration": 747,
+          "pubdate": 1669866300,
+          "cover": "https://i1.hdslb.com/bfs/archive/bd65dbaf66b648021229da6ccb6414d93020401c.jpg",
+          "views": 1618455,
+          "danmaku": 7650,
+          "url": "https://www.bilibili.com/video/BV1RP4y1X7KY"
+        },
+        {
+          "bvid": "BV1Ni4y1Q71b",
+          "title": "自爆！b站数据后台？粉丝情况一览！",
+          "duration": 246,
+          "pubdate": 1648555200,
+          "cover": "https://i0.hdslb.com/bfs/archive/3caed271c99b48c0d5ef3d590f95fbc839b59342.jpg",
+          "views": 474361,
+          "danmaku": 5883,
+          "url": "https://www.bilibili.com/video/BV1Ni4y1Q71b"
+        },
+        {
+          "bvid": "BV1HH4y1J7pq",
+          "title": "新学期？你的贴身学习APP，升级了！",
+          "duration": 265,
+          "pubdate": 1708689600,
+          "cover": "https://i0.hdslb.com/bfs/archive/f686192f9eae38a43a823417daaf4d5ba9360dfb.jpg",
+          "views": 334829,
+          "danmaku": 485,
+          "url": "https://www.bilibili.com/video/BV1HH4y1J7pq"
+        },
+        {
+          "bvid": "BV1CX4y1e78w",
+          "title": "一家四口？奇哥最丑！",
+          "duration": 10,
+          "pubdate": 1689163124,
+          "cover": "https://i2.hdslb.com/bfs/archive/f44ae7cf9b39a7558cd1bac4711765d85841bec0.jpg",
+          "views": 948594,
+          "danmaku": 711,
+          "url": "https://www.bilibili.com/video/BV1CX4y1e78w"
+        },
+        {
+          "bvid": "BV1hKe16vEic",
+          "title": "2026最新真题？真题十二卷！焕新升级？官方答案！",
+          "duration": 81,
+          "pubdate": 1789732800,
+          "cover": "https://i0.hdslb.com/bfs/archive/72972c3cbadc9e1430205be75f5d99d86039909a.jpg",
+          "views": 68852,
+          "danmaku": 29,
+          "url": "https://www.bilibili.com/video/BV1hKe16vEic"
+        },
+        {
+          "bvid": "BV1d9nzz3EWw",
+          "title": "高考标准答案！去哪找？！",
+          "duration": 580,
+          "pubdate": 1759320000,
+          "cover": "https://i1.hdslb.com/bfs/archive/f3900d5153d7525cd1ce33d5074cc18dd9541c38.jpg",
+          "views": 240844,
+          "danmaku": 295,
+          "url": "https://www.bilibili.com/video/BV1d9nzz3EWw"
+        },
+        {
+          "bvid": "BV17w4m1R7N2",
+          "title": "奇哥新书？高考真题！官方答案？石油解析！",
+          "duration": 650,
+          "pubdate": 1710503100,
+          "cover": "https://i1.hdslb.com/bfs/archive/7489feee210e6b18376286578d51455f8c777ea8.jpg",
+          "views": 822179,
+          "danmaku": 1027,
+          "url": "https://www.bilibili.com/video/BV17w4m1R7N2"
+        },
+        {
+          "bvid": "BV16E421A7u2",
+          "title": "做公益的课！也想做免费的书！【学过石油的语文老师】",
+          "duration": 662,
+          "pubdate": 1720186355,
+          "cover": "https://i2.hdslb.com/bfs/archive/92740a43e9c1fe125067d7737ed20786f9e8bdd7.jpg",
+          "views": 1527877,
+          "danmaku": 7941,
+          "url": "https://www.bilibili.com/video/BV16E421A7u2"
+        },
+        {
+          "bvid": "BV16ut86dEJn",
+          "title": "回母校？喝石油！",
+          "duration": 2623,
+          "pubdate": 1789128000,
+          "cover": "https://i2.hdslb.com/bfs/archive/a1e460ff53b4e224f0fee95a4d8deae52e67537d.jpg",
+          "views": 169553,
+          "danmaku": 316,
+          "url": "https://www.bilibili.com/video/BV16ut86dEJn"
+        },
+        {
+          "bvid": "BV1rU4y1F7pD",
+          "title": "提桶跑路！离开教培我怎么养活自己？【学过石油的语文老师】",
+          "duration": 386,
+          "pubdate": 1634454569,
+          "cover": "https://i0.hdslb.com/bfs/archive/7f2d4a966fd8de555b9cda703643d675ba3b80c8.jpg",
+          "views": 1752589,
+          "danmaku": 5812,
+          "url": "https://www.bilibili.com/video/BV1rU4y1F7pD"
+        },
+        {
+          "bvid": "BV1AT4y1y7Ye",
+          "title": "为了不后悔！究竟咋选择？【学过石油的语文老师】",
+          "duration": 755,
+          "pubdate": 1643688015,
+          "cover": "https://i1.hdslb.com/bfs/archive/28d4ed34d292bbf457f58f198a4825a812a252c9.jpg",
+          "views": 418065,
+          "danmaku": 3114,
+          "url": "https://www.bilibili.com/video/BV1AT4y1y7Ye"
+        },
+        {
+          "bvid": "BV1CuVa6YEkF",
+          "title": "高考结束了，请别再当考生了！",
+          "duration": 676,
+          "pubdate": 1781092800,
+          "cover": "https://i0.hdslb.com/bfs/archive/f3ae85e66f49de3e299f18ebf800be44d8f172fd.jpg",
+          "views": 503259,
+          "danmaku": 3987,
+          "url": "https://www.bilibili.com/video/BV1CuVa6YEkF"
+        },
+        {
+          "bvid": "BV19w411X7oD",
+          "title": "写封情书给十八岁",
+          "duration": 500,
+          "pubdate": 1692705194,
+          "cover": "https://i1.hdslb.com/bfs/archive/39095595d16e26ab1303a060e1c38dd97876a5d6.jpg",
+          "views": 1036601,
+          "danmaku": 2818,
+          "url": "https://www.bilibili.com/video/BV19w411X7oD"
+        },
+        {
+          "bvid": "BV1Z4wcecEhU",
+          "title": "崽崽和我",
+          "duration": 91,
+          "pubdate": 1738047799,
+          "cover": "https://i1.hdslb.com/bfs/archive/fd23b3c0c70e31df393517345fd3594e79cba908.jpg",
+          "views": 728557,
+          "danmaku": 1048,
+          "url": "https://www.bilibili.com/video/BV1Z4wcecEhU"
+        },
+        {
+          "bvid": "BV1rP4y137Ce",
+          "title": "喜欢不是三分钟热度，是蓄谋已久后的深思熟虑【学过石油的语文老师】",
+          "duration": 1125,
+          "pubdate": 1638877700,
+          "cover": "https://i0.hdslb.com/bfs/archive/1950180c64e2fd4342c5490811ffca92c31913b1.jpg",
+          "views": 1515263,
+          "danmaku": 10822,
+          "url": "https://www.bilibili.com/video/BV1rP4y137Ce"
+        },
+        {
+          "bvid": "BV14S4y1F7dA",
+          "title": "娶了毕业照上的女孩",
+          "duration": 38,
+          "pubdate": 1645539613,
+          "cover": "https://i2.hdslb.com/bfs/archive/b92c1f782549c0d0e550dd38297a0a95bb2831c3.jpg",
+          "views": 1256928,
+          "danmaku": 4691,
+          "url": "https://www.bilibili.com/video/BV14S4y1F7dA"
+        },
+        {
+          "bvid": "BV1QA4y1f7uZ",
+          "title": "双向奔赴！从校服到婚纱？",
+          "duration": 167,
+          "pubdate": 1653048475,
+          "cover": "https://i2.hdslb.com/bfs/archive/5b294f1dfdbad95f3e9b2b3ef22da275e9557a91.jpg",
+          "views": 2248743,
+          "danmaku": 13071,
+          "url": "https://www.bilibili.com/video/BV1QA4y1f7uZ"
+        },
+        {
+          "bvid": "BV15TkQYEEBj",
+          "title": "生活不只有工作！不吃老本？立新功！【学过石油的语文老师】",
+          "duration": 1590,
+          "pubdate": 1735300800,
+          "cover": "https://i1.hdslb.com/bfs/archive/bef1a68bfbe457d03573c12c823da451dd703aad.jpg",
+          "views": 648716,
+          "danmaku": 1676,
+          "url": "https://www.bilibili.com/video/BV15TkQYEEBj"
+        },
+        {
+          "bvid": "BV1md4y1y7Te",
+          "title": "1000元？征集一句话！哪一句话？突然扎了你的心！【学过石油的语文老师】",
+          "duration": 135,
+          "pubdate": 1666699200,
+          "cover": "https://i2.hdslb.com/bfs/archive/06f10b8882b9841c3e290f82e52b2398adf24eb3.jpg",
+          "views": 400704,
+          "danmaku": 221,
+          "url": "https://www.bilibili.com/video/BV1md4y1y7Te"
+        },
+        {
+          "bvid": "BV1cM411F724",
+          "title": "工作健身两不误？这套桌椅有点酷！【学过石油的语文老师】",
+          "duration": 147,
+          "pubdate": 1673352000,
+          "cover": "https://i1.hdslb.com/bfs/archive/3891e30e5162659ae2d0757860b9dda656c27cdc.jpg",
+          "views": 218409,
+          "danmaku": 911,
+          "url": "https://www.bilibili.com/video/BV1cM411F724"
+        },
+        {
+          "bvid": "BV1De41157Qc",
+          "title": "一杯敬明天！一杯敬过往！这杯牛奶？我先干了！",
+          "duration": 332,
+          "pubdate": 1665460500,
+          "cover": "https://i1.hdslb.com/bfs/archive/48a32604047f1a02a5201a7b30880a0d8aebe689.jpg",
+          "views": 265892,
+          "danmaku": 684,
+          "url": "https://www.bilibili.com/video/BV1De41157Qc"
+        },
+        {
+          "bvid": "BV15v4y1B7cn",
+          "title": "从弹弓简史？看奇迹的“杠杆效应”！GOOD YOUNG？勇追梦！",
+          "duration": 494,
+          "pubdate": 1672718400,
+          "cover": "https://i0.hdslb.com/bfs/archive/6e1e0c1f61574bfe95b44bc39b12088884236918.jpg",
+          "views": 144235,
+          "danmaku": 532,
+          "url": "https://www.bilibili.com/video/BV15v4y1B7cn"
+        },
+        {
+          "bvid": "BV1jDKG6EEQN",
+          "title": "党章诞生地旁边，为什么有一所女校?",
+          "duration": 1058,
+          "pubdate": 1784203200,
+          "cover": "https://i1.hdslb.com/bfs/archive/316cd9157af16d42db421f150060ea49813c4ec3.jpg",
+          "views": 147960,
+          "danmaku": 133,
+          "url": "https://www.bilibili.com/video/BV1jDKG6EEQN"
+        },
+        {
+          "bvid": "BV1wV48zgERr",
+          "title": "一滴酒，三点水：流进了上海，也流进了中国人的血里！",
+          "duration": 625,
+          "pubdate": 1760702400,
+          "cover": "https://i0.hdslb.com/bfs/archive/3fee74baf03da4a267d0f315acfd3ee8155498f2.jpg",
+          "views": 252064,
+          "danmaku": 1072,
+          "url": "https://www.bilibili.com/video/BV1wV48zgERr"
+        },
+        {
+          "bvid": "BV1yP4y1W7UW",
+          "title": "中国古人就用星座算命？还会上升星座？【学过石油的语文老师】",
+          "duration": 1880,
+          "pubdate": 1628676294,
+          "cover": "https://i2.hdslb.com/bfs/archive/e45825a9ee1ab3113eb1c5e53e8bed7d63ec9d62.jpg",
+          "views": 261030,
+          "danmaku": 2661,
+          "url": "https://www.bilibili.com/video/BV1yP4y1W7UW"
+        },
+        {
+          "bvid": "BV13L411E7WY",
+          "title": "中国神话宇宙！【学过石油的语文老师】",
+          "duration": 1117,
+          "pubdate": 1640145879,
+          "cover": "https://i1.hdslb.com/bfs/archive/85b638d0ddb0a707ff0f98e950933bd73e0f7d91.jpg",
+          "views": 174313,
+          "danmaku": 2263,
+          "url": "https://www.bilibili.com/video/BV13L411E7WY"
+        },
+        {
+          "bvid": "BV1jP4y1g7Ek",
+          "title": "妇女节？没有更不需要其他代称！",
+          "duration": 368,
+          "pubdate": 1646739014,
+          "cover": "https://i0.hdslb.com/bfs/archive/9e33693cb8c64e08f101a23c549972dd6acbdc68.jpg",
+          "views": 258096,
+          "danmaku": 705,
+          "url": "https://www.bilibili.com/video/BV1jP4y1g7Ek"
+        },
+        {
+          "bvid": "BV1Mt421P7Uj",
+          "title": "暂时停更？未来计划！【学过石油的语文老师】",
+          "duration": 728,
+          "pubdate": 1714478400,
+          "cover": "https://i1.hdslb.com/bfs/archive/a51bfdedfb856d0d2980d526cc29e53ceb3b1477.jpg",
+          "views": 985417,
+          "danmaku": 5794,
+          "url": "https://www.bilibili.com/video/BV1Mt421P7Uj"
+        },
+        {
+          "bvid": "BV1oRcQz8Eq4",
+          "title": "更新计划？事业规划！【学过石油的语文老师】",
+          "duration": 1578,
+          "pubdate": 1773403200,
+          "cover": "https://i0.hdslb.com/bfs/archive/57d9be95506deab5fe260c67c0ecbb4c7b9cebc0.jpg",
+          "views": 226363,
+          "danmaku": 658,
+          "url": "https://www.bilibili.com/video/BV1oRcQz8Eq4"
+        },
+        {
+          "bvid": "BV12p4y1H7wM",
+          "title": "孔庙祈福！你的国子监导游【学过石油的语文老师】",
+          "duration": 2348,
+          "pubdate": 1615023406,
+          "cover": "https://i0.hdslb.com/bfs/archive/c9b629444fcafdb4db80104b4bf232b181b83d06.jpg",
+          "views": 137420,
+          "danmaku": 940,
+          "url": "https://www.bilibili.com/video/BV12p4y1H7wM"
+        },
+        {
+          "bvid": "BV19SfRYPEwc",
+          "title": "八省联考作文？艺术与同情！【学过石油的语文老师】",
+          "duration": 1223,
+          "pubdate": 1737806400,
+          "cover": "https://i1.hdslb.com/bfs/archive/b2aad1b84c683364aaacf191bed97292b234fdcb.jpg",
+          "views": 635961,
+          "danmaku": 2763,
+          "url": "https://www.bilibili.com/video/BV19SfRYPEwc"
+        },
+        {
+          "bvid": "BV1kR4y177xu",
+          "title": "“青春如同奔流的江河，一去不回，来不及道别”【学过石油的语文老师】",
+          "duration": 133,
+          "pubdate": 1635419676,
+          "cover": "https://i0.hdslb.com/bfs/archive/48b9dc077de4d357a0ae44140c765012c6072138.jpg",
+          "views": 391009,
+          "danmaku": 2018,
+          "url": "https://www.bilibili.com/video/BV1kR4y177xu"
+        },
+        {
+          "bvid": "BV1Ar4y1Y74H",
+          "title": "春节剩饭拯救者",
+          "duration": 590,
+          "pubdate": 1643860514,
+          "cover": "https://i1.hdslb.com/bfs/archive/39361a6edff4fdced554a7703d4542d59541ace3.jpg",
+          "views": 320934,
+          "danmaku": 2954,
+          "url": "https://www.bilibili.com/video/BV1Ar4y1Y74H"
+        },
+        {
+          "bvid": "BV1wb421n7sk",
+          "title": "我的大学生活！幸福吗？【学过石油的语文老师】",
+          "duration": 1944,
+          "pubdate": 1718883892,
+          "cover": "https://i0.hdslb.com/bfs/archive/21d8edfbe70a14879d1ee8aa8c5f2d5feec8fac9.jpg",
+          "views": 611524,
+          "danmaku": 1233,
+          "url": "https://www.bilibili.com/video/BV1wb421n7sk"
+        },
+        {
+          "bvid": "BV1jq4y1q7Qh",
+          "title": "那些年，我在新疆挖过的石油【学过石油的语文老师】",
+          "duration": 3622,
+          "pubdate": 1639043547,
+          "cover": "https://i0.hdslb.com/bfs/archive/7fabd9a72d275340c82bccf88c51267d6b39aeac.jpg",
+          "views": 258448,
+          "danmaku": 1696,
+          "url": "https://www.bilibili.com/video/BV1jq4y1q7Qh"
+        },
+        {
+          "bvid": "BV1pU4y1T7zT",
+          "title": "油 辅 导",
+          "duration": 46,
+          "pubdate": 1637834112,
+          "cover": "https://i1.hdslb.com/bfs/archive/477dac58b10ca42ba043ec7eaa69cc3fa579f026.jpg",
+          "views": 744057,
+          "danmaku": 719,
+          "url": "https://www.bilibili.com/video/BV1pU4y1T7zT"
+        },
+        {
+          "bvid": "BV1xY411i7xE",
+          "title": "高考改革？纯属扯淡！官方发布？并没有！【学过石油的语文老师】",
+          "duration": 659,
+          "pubdate": 1676376000,
+          "cover": "https://i0.hdslb.com/bfs/archive/f52d70e5fa9b28ed0f121d9bcd134975bc9b251b.jpg",
+          "views": 726655,
+          "danmaku": 1418,
+          "url": "https://www.bilibili.com/video/BV1xY411i7xE"
+        },
+        {
+          "bvid": "BV1qH4y1Q7sV",
+          "title": "新学期？我要这样过！【学过石油的语文老师】",
+          "duration": 524,
+          "pubdate": 1693915200,
+          "cover": "https://i2.hdslb.com/bfs/archive/4cdda20bfcdd822fd945242794a4daeec333241e.jpg",
+          "views": 497019,
+          "danmaku": 920,
+          "url": "https://www.bilibili.com/video/BV1qH4y1Q7sV"
+        },
+        {
+          "bvid": "BV17f7izhE9x",
+          "title": "秘？反正考完了！我和天星出教辅！后悔吗？",
+          "duration": 2386,
+          "pubdate": 1749556800,
+          "cover": "https://i1.hdslb.com/bfs/archive/40ba9b2fb3850b021b50fd2725adbbc2d2e44ec0.jpg",
+          "views": 485614,
+          "danmaku": 675,
+          "url": "https://www.bilibili.com/video/BV17f7izhE9x"
+        },
+        {
+          "bvid": "BV1pB4y1K73p",
+          "title": "去你的吧！7天高考语文130+【学过石油的语文老师】",
+          "duration": 778,
+          "pubdate": 1626838214,
+          "cover": "https://i1.hdslb.com/bfs/archive/f2fc432edeb8df5a9b30257b3e7ec9a065e942cb.jpg",
+          "views": 4299160,
+          "danmaku": 16282,
+          "url": "https://www.bilibili.com/video/BV1pB4y1K73p"
+        },
+        {
+          "bvid": "BV1UX4y1T7d6",
+          "title": "学习方法+大学建议+同行你好【学过石油的语文老师】",
+          "duration": 1381,
+          "pubdate": 1609416799,
+          "cover": "https://i2.hdslb.com/bfs/archive/617235f52194f9784c5e2d191eb11ece9625e0de.jpg",
+          "views": 361016,
+          "danmaku": 1069,
+          "url": "https://www.bilibili.com/video/BV1UX4y1T7d6"
+        },
+        {
+          "bvid": "BV1vA411F7f1",
+          "title": "砸培训机构饭碗！高考语文体系规划！【学过石油的语文老师】",
+          "duration": 738,
+          "pubdate": 1631092266,
+          "cover": "https://i0.hdslb.com/bfs/archive/e6ba0094dd5cbe740082bc5f13356a9af2b57721.jpg",
+          "views": 321793,
+          "danmaku": 1924,
+          "url": "https://www.bilibili.com/video/BV1vA411F7f1"
+        },
+        {
+          "bvid": "BV1QDcuzAEgN",
+          "title": "哪副春联是AI写的？语文老师现场判卷！",
+          "duration": 699,
+          "pubdate": 1770714000,
+          "cover": "https://i1.hdslb.com/bfs/archive/6d2d25f9e9573634ea38cfada0aa6b22055a2010.jpg",
+          "views": 794603,
+          "danmaku": 1957,
+          "url": "https://www.bilibili.com/video/BV1QDcuzAEgN"
+        },
+        {
+          "bvid": "BV16WMjznEaD",
+          "title": "2025年高考作文！鲁迅先生会咋写？",
+          "duration": 546,
+          "pubdate": 1749614505,
+          "cover": "https://i0.hdslb.com/bfs/archive/52a8f497180e241ab639efdada1a12109b9812a3.jpg",
+          "views": 1456613,
+          "danmaku": 709,
+          "url": "https://www.bilibili.com/video/BV16WMjznEaD"
+        },
+        {
+          "bvid": "BV1ssM3z5EGf",
+          "title": "至“建”者？天下无敌！",
+          "duration": 855,
+          "pubdate": 1749561689,
+          "cover": "https://i2.hdslb.com/bfs/archive/66a03602c6619d84eac16dc227548d227b503eb7.jpg",
+          "views": 515280,
+          "danmaku": 792,
+          "url": "https://www.bilibili.com/video/BV1ssM3z5EGf"
+        }
+      ]
+    },
+    {
+      "season_id": 619105,
+      "title": "课内考点",
+      "intro": "合集区分模块 分册在收藏夹",
+      "cover": "https://archive.biliimg.com/bfs/archive/01273dc24725bd20236a4bd15e2e722f4b765f43.jpg",
+      "total": 6,
+      "fetched": 6,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1wYbnzpEWE",
+          "title": "答题模板？体系！语言炼字？通透！必修上册第1课《沁园春·长沙》【同步教材001】",
+          "duration": 2701,
+          "pubdate": 1755259200,
+          "cover": "https://i1.hdslb.com/bfs/archive/feb84af9877d7e3e81fe35dd9b7b9dab30a6524f.jpg",
+          "views": 1669035,
+          "danmaku": 13928,
+          "url": "https://www.bilibili.com/video/BV1wYbnzpEWE"
+        },
+        {
+          "bvid": "BV13wiDBDEfP",
+          "title": "炼字题卡壳？手把手攻克！泛舟虹桥+内宴奉诏【同步教材002】",
+          "duration": 3299,
+          "pubdate": 1767924000,
+          "cover": "https://i0.hdslb.com/bfs/archive/d3406715d3fb2f5ef6fd6e90904f2d6a712e9147.jpg",
+          "views": 374188,
+          "danmaku": 5038,
+          "url": "https://www.bilibili.com/video/BV13wiDBDEfP"
+        },
+        {
+          "bvid": "BV1WDF6z6E1k",
+          "title": "散文炼字！诗歌炼句？放猖+残春旅社+临江仙【同步教材003】",
+          "duration": 3465,
+          "pubdate": 1770379200,
+          "cover": "https://i1.hdslb.com/bfs/archive/09381b06928191c9ad016556f1277df3ea98275d.jpg",
+          "views": 216873,
+          "danmaku": 2416,
+          "url": "https://www.bilibili.com/video/BV1WDF6z6E1k"
+        },
+        {
+          "bvid": "BV1DJzpBLEiy",
+          "title": "意象和象征？碰见不再懵！必修上册第2课*《天狗》【同步教材004】",
+          "duration": 2292,
+          "pubdate": 1769169600,
+          "cover": "https://i2.hdslb.com/bfs/archive/b6e0fbbc7d8453679c5f39708db3530c71f53b63.jpg",
+          "views": 269061,
+          "danmaku": 2769,
+          "url": "https://www.bilibili.com/video/BV1DJzpBLEiy"
+        },
+        {
+          "bvid": "BV1NvZMByEeT",
+          "title": "托物言志？借景抒情！啥区别？画眉+画鹤？还有老病鹤！【同步教材005】",
+          "duration": 2051,
+          "pubdate": 1771588800,
+          "cover": "https://i2.hdslb.com/bfs/archive/cfa756b9f37ab935df704b91b3b26e0437fd3347.jpg",
+          "views": 225099,
+          "danmaku": 2188,
+          "url": "https://www.bilibili.com/video/BV1NvZMByEeT"
+        },
+        {
+          "bvid": "BV1i5RcBPE18",
+          "title": "借喻？借代！怎么区分？绿石砚+苦笋？【同步教材006】",
+          "duration": 3293,
+          "pubdate": 1778846400,
+          "cover": "https://i2.hdslb.com/bfs/archive/59943c994d00a4619aed2469554ddd5b1af363a6.jpg",
+          "views": 195922,
+          "danmaku": 1875,
+          "url": "https://www.bilibili.com/video/BV1i5RcBPE18"
+        }
+      ]
+    },
+    {
+      "season_id": 6964,
+      "title": "作文素材",
+      "intro": "图片及word版在视频简介",
+      "cover": "https://archive.biliimg.com/bfs/archive/89d2733e7a8f056c146ca22b33c7e5f4470e7bd4.jpg",
+      "total": 39,
+      "fetched": 39,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1WG411u7RG",
+          "title": "2022世界杯？绝佳素材！不仅积累词句？还能打开格局！【学过石油的语文老师】",
+          "duration": 1182,
+          "pubdate": 1669982400,
+          "cover": "https://i2.hdslb.com/bfs/archive/3b0a30ae8b18e670c633f12c7965d6bed84c5c10.jpg",
+          "views": 1767922,
+          "danmaku": 9356,
+          "url": "https://www.bilibili.com/video/BV1WG411u7RG"
+        },
+        {
+          "bvid": "BV1aA4y1D7rj",
+          "title": "高考热点？押题！共青团百年？红色素材！【学过石油的语文老师】",
+          "duration": 1067,
+          "pubdate": 1651233600,
+          "cover": "https://i0.hdslb.com/bfs/archive/c8c4e9da9e8be2669669e3e0dedc63083aceb9cf.jpg",
+          "views": 1513808,
+          "danmaku": 6791,
+          "url": "https://www.bilibili.com/video/BV1aA4y1D7rj"
+        },
+        {
+          "bvid": "BV1xjJVzmEX7",
+          "title": "和他们一起，用心听！",
+          "duration": 595,
+          "pubdate": 1747571308,
+          "cover": "https://i2.hdslb.com/bfs/archive/9b504323ee519a60a29729a488483746e3fc86f7.jpg",
+          "views": 527887,
+          "danmaku": 599,
+          "url": "https://www.bilibili.com/video/BV1xjJVzmEX7"
+        },
+        {
+          "bvid": "BV1VhdwBKEQX",
+          "title": "从13个人到万吨巨舰！只有海军足够强？我们才能活得有尊严！",
+          "duration": 892,
+          "pubdate": 1778155200,
+          "cover": "https://i2.hdslb.com/bfs/archive/76cd79a9e198a570adf169cadf04b54cec4de41a.jpg",
+          "views": 171312,
+          "danmaku": 261,
+          "url": "https://www.bilibili.com/video/BV1VhdwBKEQX"
+        },
+        {
+          "bvid": "BV1ig411E72t",
+          "title": "中国航天？模板素材！作文？神舟十四十五！【学过石油的语文老师】",
+          "duration": 1130,
+          "pubdate": 1671796800,
+          "cover": "https://i1.hdslb.com/bfs/archive/6aa58d52eabe524a9a98a08ba875b9fe09f6c566.jpg",
+          "views": 658198,
+          "danmaku": 1875,
+          "url": "https://www.bilibili.com/video/BV1ig411E72t"
+        },
+        {
+          "bvid": "BV1MY411774y",
+          "title": "作文押题？神舟十三！高考热点？航天素材！【学过石油的语文老师】",
+          "duration": 1223,
+          "pubdate": 1650369600,
+          "cover": "https://i2.hdslb.com/bfs/archive/8da758b091b9f1aa04df6c7fbae6774bdef1e2f5.jpg",
+          "views": 876050,
+          "danmaku": 8501,
+          "url": "https://www.bilibili.com/video/BV1MY411774y"
+        },
+        {
+          "bvid": "BV1764y1i7Ud",
+          "title": "日本福岛核废水！咋当高考作文素材？【学过石油的语文老师】",
+          "duration": 882,
+          "pubdate": 1618997412,
+          "cover": "https://i2.hdslb.com/bfs/archive/aa9a9f14e9f6759b3fb731d4255e3c4f9e5195d6.jpg",
+          "views": 697108,
+          "danmaku": 5628,
+          "url": "https://www.bilibili.com/video/BV1764y1i7Ud"
+        },
+        {
+          "bvid": "BV1Kv411g7gQ",
+          "title": "冒险偷拍工厂！环保作文素材？必考热点“碳中和”【学过石油的语文老师】",
+          "duration": 558,
+          "pubdate": 1633393814,
+          "cover": "https://i0.hdslb.com/bfs/archive/4d6a722f1a223509dfb102a931e8d42c682e05a1.jpg",
+          "views": 350342,
+          "danmaku": 2590,
+          "url": "https://www.bilibili.com/video/BV1Kv411g7gQ"
+        },
+        {
+          "bvid": "BV15yPDzFEY2",
+          "title": "大国工匠？作文素材！国之重器？中国智造！【学过石油的语文老师】",
+          "duration": 467,
+          "pubdate": 1773057729,
+          "cover": "https://i2.hdslb.com/bfs/archive/60e2990d1ea4cf46df19caeaaf86d91c8abe6760.jpg",
+          "views": 413902,
+          "danmaku": 1394,
+          "url": "https://www.bilibili.com/video/BV15yPDzFEY2"
+        },
+        {
+          "bvid": "BV1uk4y1h7mL",
+          "title": "感动中国？热门主题！万能句式？人物素材！【学过石油的语文老师】",
+          "duration": 920,
+          "pubdate": 1678449600,
+          "cover": "https://i0.hdslb.com/bfs/archive/8441ccb4e3e5d5c89a9bb500303e446cc6f5c219.jpg",
+          "views": 1244477,
+          "danmaku": 3973,
+          "url": "https://www.bilibili.com/video/BV1uk4y1h7mL"
+        },
+        {
+          "bvid": "BV1234y1k7Zp",
+          "title": "不死记硬背？15分钟全会！感动中国？作文素材！【学过石油的语文老师】",
+          "duration": 829,
+          "pubdate": 1646395377,
+          "cover": "https://i2.hdslb.com/bfs/archive/7fabcffb945f833e7d2620e72053cffad74855d6.jpg",
+          "views": 2865455,
+          "danmaku": 9381,
+          "url": "https://www.bilibili.com/video/BV1234y1k7Zp"
+        },
+        {
+          "bvid": "BV1dh411D7z2",
+          "title": "你那叫作文素材吗？感动中国2020（上）【学过石油的语文老师】",
+          "duration": 2219,
+          "pubdate": 1614767532,
+          "cover": "https://i1.hdslb.com/bfs/archive/6163f7e3a3794819a80dd54f1bfc4ac88aed8810.jpg",
+          "views": 1200929,
+          "danmaku": 8947,
+          "url": "https://www.bilibili.com/video/BV1dh411D7z2"
+        },
+        {
+          "bvid": "BV1yp4y1H7QM",
+          "title": "你那叫作文素材吗？感动中国2020（下）【学过石油的语文老师】",
+          "duration": 2804,
+          "pubdate": 1615372211,
+          "cover": "https://i0.hdslb.com/bfs/archive/79b80ba932f293ab6043686ddba568ebb9c883bc.jpg",
+          "views": 250139,
+          "danmaku": 745,
+          "url": "https://www.bilibili.com/video/BV1yp4y1H7QM"
+        },
+        {
+          "bvid": "BV1Mq4y1j7LE",
+          "title": "2021高考作文大热点？美育！【学过石油的语文老师】",
+          "duration": 1675,
+          "pubdate": 1621857645,
+          "cover": "https://i1.hdslb.com/bfs/archive/a279355ba5e472ac7ebb6687726550710142d5e1.jpg",
+          "views": 1086537,
+          "danmaku": 12327,
+          "url": "https://www.bilibili.com/video/BV1Mq4y1j7LE"
+        },
+        {
+          "bvid": "BV1WU4y1h7nX",
+          "title": "高考考体育咋办？这才叫作文素材！【学过石油的语文老师】",
+          "duration": 1617,
+          "pubdate": 1618394411,
+          "cover": "https://i1.hdslb.com/bfs/archive/09b85d2a06ce1aff214678658bf09c98bc1f40eb.jpg",
+          "views": 231186,
+          "danmaku": 1803,
+          "url": "https://www.bilibili.com/video/BV1WU4y1h7nX"
+        },
+        {
+          "bvid": "BV1qb4y1r7M4",
+          "title": "东京奥运好离谱？作文素材不迷糊！【学过石油的语文老师】",
+          "duration": 921,
+          "pubdate": 1628067612,
+          "cover": "https://i1.hdslb.com/bfs/archive/944105128bba35828ab1dbd53d4a93debc52acd8.jpg",
+          "views": 435330,
+          "danmaku": 4833,
+          "url": "https://www.bilibili.com/video/BV1qb4y1r7M4"
+        },
+        {
+          "bvid": "BV15U4y1M7oB",
+          "title": "为什么要庆祝？EDG夺冠！绝秒作文素材？【学过石油的语文老师】",
+          "duration": 812,
+          "pubdate": 1636534760,
+          "cover": "https://i2.hdslb.com/bfs/archive/ce886b956be2197a3805eeeadd75520a077db757.jpg",
+          "views": 535946,
+          "danmaku": 3190,
+          "url": "https://www.bilibili.com/video/BV15U4y1M7oB"
+        },
+        {
+          "bvid": "BV1pS4y157rS",
+          "title": "女足夺冠！逆转绝杀？什么值得写？【学过石油的语文老师】",
+          "duration": 701,
+          "pubdate": 1644226716,
+          "cover": "https://i1.hdslb.com/bfs/archive/ed5dd7b56a7747676a08c1fc6ae184ede020c84e.jpg",
+          "views": 358598,
+          "danmaku": 3776,
+          "url": "https://www.bilibili.com/video/BV1pS4y157rS"
+        },
+        {
+          "bvid": "BV1Jm4y1o7Mx",
+          "title": "全面！精华！15分钟搞定？冬奥作文素材！【学过石油的语文老师】",
+          "duration": 927,
+          "pubdate": 1645439725,
+          "cover": "https://i1.hdslb.com/bfs/archive/7985d8b8e1a8dc9037242afef3537a646dec648e.jpg",
+          "views": 535283,
+          "danmaku": 3801,
+          "url": "https://www.bilibili.com/video/BV1Jm4y1o7Mx"
+        },
+        {
+          "bvid": "BV1dP4y1c7nT",
+          "title": "轻盈似“羽” 奏歌如“弦”【学过石油的语文老师】",
+          "duration": 478,
+          "pubdate": 1644476848,
+          "cover": "https://i1.hdslb.com/bfs/archive/65946a789da8d8f26233158c05f0cd073c6436db.jpg",
+          "views": 670437,
+          "danmaku": 4146,
+          "url": "https://www.bilibili.com/video/BV1dP4y1c7nT"
+        },
+        {
+          "bvid": "BV1bD4y1F7py",
+          "title": "穿汉服滑雪讲作文？冬奥会作文素材！【学过石油的语文老师】",
+          "duration": 492,
+          "pubdate": 1641375006,
+          "cover": "https://i1.hdslb.com/bfs/archive/f9e6f7640d073d5b7c3172c106598e2d1aeae3d3.jpg",
+          "views": 577163,
+          "danmaku": 2129,
+          "url": "https://www.bilibili.com/video/BV1bD4y1F7py"
+        },
+        {
+          "bvid": "BV1Dh411v7QV",
+          "title": "科技创新？2021高考作文押题！【学过石油的语文老师】",
+          "duration": 895,
+          "pubdate": 1621345820,
+          "cover": "https://i2.hdslb.com/bfs/archive/5c74e10fef5007ea17b2d4534aa805b01e9cb141.jpg",
+          "views": 416944,
+          "danmaku": 3646,
+          "url": "https://www.bilibili.com/video/BV1Dh411v7QV"
+        },
+        {
+          "bvid": "BV1pa411j7dm",
+          "title": "押题？高考热点！传统文化？高级思维！【学过石油的语文老师】",
+          "duration": 1146,
+          "pubdate": 1653654931,
+          "cover": "https://i1.hdslb.com/bfs/archive/f75312724b239137616f205b4f7532695c6898de.jpg",
+          "views": 1148710,
+          "danmaku": 8345,
+          "url": "https://www.bilibili.com/video/BV1pa411j7dm"
+        },
+        {
+          "bvid": "BV1MK4y1m7z6",
+          "title": "高考作文素材！庖丁解牛人民日报？【学过石油的语文老师】",
+          "duration": 2232,
+          "pubdate": 1617795967,
+          "cover": "https://i2.hdslb.com/bfs/archive/a0ea875826f18a2bddf940c0d1fec51e3108bdb9.jpg",
+          "views": 952073,
+          "danmaku": 5763,
+          "url": "https://www.bilibili.com/video/BV1MK4y1m7z6"
+        },
+        {
+          "bvid": "BV1P64y1v7bK",
+          "title": "万能作文素材？觉醒年代！【学过石油的语文老师】",
+          "duration": 1501,
+          "pubdate": 1629886166,
+          "cover": "https://i1.hdslb.com/bfs/archive/d6945053801ea446fd59e631f4f7f796c0927d44.jpg",
+          "views": 1135894,
+          "danmaku": 13987,
+          "url": "https://www.bilibili.com/video/BV1P64y1v7bK"
+        },
+        {
+          "bvid": "BV1xh411v7Ji",
+          "title": "作文结尾怎么搞？就夸红色精神好！【学过石油的语文老师】",
+          "duration": 1965,
+          "pubdate": 1621606672,
+          "cover": "https://i0.hdslb.com/bfs/archive/47a4ac0981c38f9ece11a1ad069b168d9ef66833.jpg",
+          "views": 544294,
+          "danmaku": 5584,
+          "url": "https://www.bilibili.com/video/BV1xh411v7Ji"
+        },
+        {
+          "bvid": "BV1aK4y1T7En",
+          "title": "高考作文素材！谁敢不给你高分！【学过石油的语文老师】",
+          "duration": 1485,
+          "pubdate": 1615975200,
+          "cover": "https://i1.hdslb.com/bfs/archive/2d0bef10ee052ecff55d389214fadefdfe8635a1.jpg",
+          "views": 312614,
+          "danmaku": 1524,
+          "url": "https://www.bilibili.com/video/BV1aK4y1T7En"
+        },
+        {
+          "bvid": "BV1SR4y1373G",
+          "title": "谁敢不给高分？作文素材天花板！【学过石油的语文老师】",
+          "duration": 596,
+          "pubdate": 1640988015,
+          "cover": "https://i2.hdslb.com/bfs/archive/b566a8f02382d87a3f780fb0cd239f69265c573c.jpg",
+          "views": 363501,
+          "danmaku": 2807,
+          "url": "https://www.bilibili.com/video/BV1SR4y1373G"
+        },
+        {
+          "bvid": "BV1Np4y187U6",
+          "title": "一个视频解决高考作文素材！历史文化！【学过石油的语文老师】",
+          "duration": 1282,
+          "pubdate": 1616575192,
+          "cover": "https://i1.hdslb.com/bfs/archive/4391e6ec1bc4616dc0f64c1c506088cedbd5e4d1.jpg",
+          "views": 253016,
+          "danmaku": 1284,
+          "url": "https://www.bilibili.com/video/BV1Np4y187U6"
+        },
+        {
+          "bvid": "BV1dy4y1t7hV",
+          "title": "高考作文该如何歌颂您！壮丽的山河！【学过石油的语文老师】",
+          "duration": 3524,
+          "pubdate": 1617184812,
+          "cover": "https://i0.hdslb.com/bfs/archive/ce5c24931b75ee590ddd60aae0a756d2dcf4a25e.jpg",
+          "views": 165885,
+          "danmaku": 1610,
+          "url": "https://www.bilibili.com/video/BV1dy4y1t7hV"
+        },
+        {
+          "bvid": "BV1Bv411H7u9",
+          "title": "黄金素材？七一勋章！【学过石油的语文老师】",
+          "duration": 3214,
+          "pubdate": 1624967783,
+          "cover": "https://i0.hdslb.com/bfs/archive/560b918a560066b3ec24521bea59bfd7231bc23c.jpg",
+          "views": 163944,
+          "danmaku": 991,
+          "url": "https://www.bilibili.com/video/BV1Bv411H7u9"
+        },
+        {
+          "bvid": "BV19v411M7xo",
+          "title": "抗美援朝？作文素材！观后感！【学过石油的语文老师】",
+          "duration": 451,
+          "pubdate": 1634722302,
+          "cover": "https://i2.hdslb.com/bfs/archive/bd1e4a432213c1370e66eb44947379c0592e4251.jpg",
+          "views": 286581,
+          "danmaku": 551,
+          "url": "https://www.bilibili.com/video/BV19v411M7xo"
+        },
+        {
+          "bvid": "BV15v411w7Gw",
+          "title": "战争和平！铭记历史！烈士英雄！作文素材！【学过石油的语文老师】",
+          "duration": 994,
+          "pubdate": 1631700005,
+          "cover": "https://i0.hdslb.com/bfs/archive/080ff328cd8952b664039c412c9d5ad57b571649.jpg",
+          "views": 336828,
+          "danmaku": 2386,
+          "url": "https://www.bilibili.com/video/BV15v411w7Gw"
+        },
+        {
+          "bvid": "BV1Zq4y1V7dw",
+          "title": "作文素材？孟晚舟！【学过石油的语文老师】",
+          "duration": 1283,
+          "pubdate": 1634120448,
+          "cover": "https://i2.hdslb.com/bfs/archive/e4bbd4999af74c2966de864e5e1f365c83a049d5.jpg",
+          "views": 365221,
+          "danmaku": 1889,
+          "url": "https://www.bilibili.com/video/BV1Zq4y1V7dw"
+        },
+        {
+          "bvid": "BV1M64y1x76U",
+          "title": "河南暴雨！作文考到咋办？【学过石油的语文老师】",
+          "duration": 1124,
+          "pubdate": 1627471598,
+          "cover": "https://i2.hdslb.com/bfs/archive/98b92fc75648b359d3502599c0175bbf7946f881.jpg",
+          "views": 226335,
+          "danmaku": 2756,
+          "url": "https://www.bilibili.com/video/BV1M64y1x76U"
+        },
+        {
+          "bvid": "BV1j34y1U7VX",
+          "title": "我在天安门讲作文【学过石油的语文老师】",
+          "duration": 281,
+          "pubdate": 1633082832,
+          "cover": "https://i1.hdslb.com/bfs/archive/c2ef44a02383b4a7cf340511945fe5e3c7039dfc.jpg",
+          "views": 422731,
+          "danmaku": 2015,
+          "url": "https://www.bilibili.com/video/BV1j34y1U7VX"
+        },
+        {
+          "bvid": "BV1qe411V7nu",
+          "title": "吾辈青年！该咋办？万能句式？红素材！【学过石油的语文老师】",
+          "duration": 55,
+          "pubdate": 1666094400,
+          "cover": "https://i0.hdslb.com/bfs/archive/5fe2694034e6db8ddd13d98f81ef25235996569e.jpg",
+          "views": 646033,
+          "danmaku": 135,
+          "url": "https://www.bilibili.com/video/BV1qe411V7nu"
+        },
+        {
+          "bvid": "BV1HehdzxEfM",
+          "title": "从荒滩到新城只用15年？前海的“开挂”密码藏在这里！",
+          "duration": 754,
+          "pubdate": 1756470900,
+          "cover": "https://i2.hdslb.com/bfs/archive/edfd77059c5ece158e8bf4dfde31a2a506eb2779.jpg",
+          "views": 325350,
+          "danmaku": 237,
+          "url": "https://www.bilibili.com/video/BV1HehdzxEfM"
+        },
+        {
+          "bvid": "BV1nN411g7p7",
+          "title": "一山一河，这里藏着半个中国",
+          "duration": 337,
+          "pubdate": 1699617600,
+          "cover": "https://i2.hdslb.com/bfs/archive/1d5d4836dfb5e60b2d36a26e4b33be5d9a30586d.jpg",
+          "views": 500120,
+          "danmaku": 910,
+          "url": "https://www.bilibili.com/video/BV1nN411g7p7"
+        }
+      ]
+    },
+    {
+      "season_id": 6288,
+      "title": "高考技巧",
+      "intro": "系统课程，全面覆盖\n高一高二高三都可观看",
+      "cover": "https://archive.biliimg.com/bfs/archive/4a4b3f28ec8bacda9176202be07eed40eda2fe6b.jpg",
+      "total": 164,
+      "fetched": 164,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1FV4y1h7LT",
+          "title": "高考语文！快速提分？没有捷径！只有辛苦！【语文大合集01】",
+          "duration": 595,
+          "pubdate": 1688731200,
+          "cover": "https://i2.hdslb.com/bfs/archive/6d4dd1926c58fdea9edd9eb37d59ae4eeef3351b.jpg",
+          "views": 7000534,
+          "danmaku": 20205,
+          "url": "https://www.bilibili.com/video/BV1FV4y1h7LT"
+        },
+        {
+          "bvid": "BV1yu41157sL",
+          "title": "选择题！咋翻身？所有考点？体系梳理！【语文大合集02】",
+          "duration": 809,
+          "pubdate": 1689336000,
+          "cover": "https://i2.hdslb.com/bfs/archive/04768a63cae7aeb6621a71248be88c960995cae9.jpg",
+          "views": 4906812,
+          "danmaku": 32583,
+          "url": "https://www.bilibili.com/video/BV1yu41157sL"
+        },
+        {
+          "bvid": "BV1wM411R74T",
+          "title": "语文所有大题？只有三种题型！【语文大合集17】",
+          "duration": 1011,
+          "pubdate": 1697803200,
+          "cover": "https://i2.hdslb.com/bfs/archive/3fe6e5a8d0fbfefa220de5756a4b817117b06c58.jpg",
+          "views": 4685345,
+          "danmaku": 27849,
+          "url": "https://www.bilibili.com/video/BV1wM411R74T"
+        },
+        {
+          "bvid": "BV1TJ4m147Ue",
+          "title": "先写作文？纯扯淡！高考语文？时间安排！做题顺序？【语文大合集32】",
+          "duration": 644,
+          "pubdate": 1706875200,
+          "cover": "https://i2.hdslb.com/bfs/archive/4bea3ca12edd93b8b23ec1df3d5a089946513bec.jpg",
+          "views": 1975636,
+          "danmaku": 5575,
+          "url": "https://www.bilibili.com/video/BV1TJ4m147Ue"
+        },
+        {
+          "bvid": "BV19M4y1P7iN",
+          "title": "考完了？！如何提高？选择题正确率！【学过石油的语文老师】",
+          "duration": 618,
+          "pubdate": 1638351226,
+          "cover": "https://i0.hdslb.com/bfs/archive/9a857cf7dfa45160c14a19a342c73b5316086280.jpg",
+          "views": 4846596,
+          "danmaku": 8599,
+          "url": "https://www.bilibili.com/video/BV19M4y1P7iN"
+        },
+        {
+          "bvid": "BV1xd4y1R7ea",
+          "title": "高中语文？所有考点！体系搭建？新学期称王！【学过石油的语文老师】",
+          "duration": 2397,
+          "pubdate": 1662120000,
+          "cover": "https://i1.hdslb.com/bfs/archive/8811a8c6d4d5d9519b70d8d46b3d53f721402cb9.jpg",
+          "views": 2262737,
+          "danmaku": 28657,
+          "url": "https://www.bilibili.com/video/BV1xd4y1R7ea"
+        },
+        {
+          "bvid": "BV1ZT4113744",
+          "title": "新题型？新趋势！高考语文？启示录！【学过石油的语文老师】",
+          "duration": 487,
+          "pubdate": 1656676825,
+          "cover": "https://i2.hdslb.com/bfs/archive/7ae1ca730235a3e67906cb0624436d0dcc795d58.jpg",
+          "views": 2594401,
+          "danmaku": 15491,
+          "url": "https://www.bilibili.com/video/BV1ZT4113744"
+        },
+        {
+          "bvid": "BV1F44y1M7vV",
+          "title": "我劝你别记！语文笔记？【学过石油的语文老师】",
+          "duration": 923,
+          "pubdate": 1646136004,
+          "cover": "https://i1.hdslb.com/bfs/archive/1a5a162c40f5234f8579b761fe63f82545c53793.jpg",
+          "views": 1891293,
+          "danmaku": 8890,
+          "url": "https://www.bilibili.com/video/BV1F44y1M7vV"
+        },
+        {
+          "bvid": "BV1rh411p7ph",
+          "title": "高考作文搞不定？明天我就跟你姓！【学过石油的语文老师】",
+          "duration": 821,
+          "pubdate": 1632175209,
+          "cover": "https://i2.hdslb.com/bfs/archive/ead5007e06814cb03a92bc6ac65c81e2f2170808.jpg",
+          "views": 8394371,
+          "danmaku": 48472,
+          "url": "https://www.bilibili.com/video/BV1rh411p7ph"
+        },
+        {
+          "bvid": "BV1qY4y1Z7bq",
+          "title": "作文提分！分几步？清晰高效！不迷糊？【学过石油的语文老师】",
+          "duration": 1144,
+          "pubdate": 1674216000,
+          "cover": "https://i2.hdslb.com/bfs/archive/b1e725eae7d036eb473fa18a53b76b2097ca8aad.jpg",
+          "views": 1934931,
+          "danmaku": 14642,
+          "url": "https://www.bilibili.com/video/BV1qY4y1Z7bq"
+        },
+        {
+          "bvid": "BV1Vu411D7bG",
+          "title": "没文采咋办？字不好看扣分吗？作文咋提分！【学过石油的语文老师】",
+          "duration": 1206,
+          "pubdate": 1641074413,
+          "cover": "https://i2.hdslb.com/bfs/archive/bf4b83a3307220669c192f39a6e6a9cbd8e2f97c.jpg",
+          "views": 3290851,
+          "danmaku": 24917,
+          "url": "https://www.bilibili.com/video/BV1Vu411D7bG"
+        },
+        {
+          "bvid": "BV1vT4y1y7NN",
+          "title": "暴击命题人心坎？审题立意？高考作文！【学过石油的语文老师】",
+          "duration": 955,
+          "pubdate": 1643362213,
+          "cover": "https://i1.hdslb.com/bfs/archive/01837f296029dc1b498d303e6c1481d9d6bb2b5e.jpg",
+          "views": 1852530,
+          "danmaku": 12388,
+          "url": "https://www.bilibili.com/video/BV1vT4y1y7NN"
+        },
+        {
+          "bvid": "BV1zY411w7E5",
+          "title": "高考趋势？思辨回归！哲理类？关系类！作文构思【学过石油的语文老师】",
+          "duration": 649,
+          "pubdate": 1651356000,
+          "cover": "https://i0.hdslb.com/bfs/archive/d7a1e0a99c0266cf804c35b5c4fb187d22108dff.jpg",
+          "views": 1937226,
+          "danmaku": 7475,
+          "url": "https://www.bilibili.com/video/BV1zY411w7E5"
+        },
+        {
+          "bvid": "BV1zt42esEtM",
+          "title": "2024高考作文！人工智能和互联网？答案与问题！新课标Ⅰ卷？【学过石油的语文老师】",
+          "duration": 996,
+          "pubdate": 1726401600,
+          "cover": "https://i1.hdslb.com/bfs/archive/01230ed10e9bcad59ae6fe775e096f904a8856e0.jpg",
+          "views": 932063,
+          "danmaku": 2899,
+          "url": "https://www.bilibili.com/video/BV1zt42esEtM"
+        },
+        {
+          "bvid": "BV1RvwceREgG",
+          "title": "2024高考作文！未知之境？掰开揉碎！新课标Ⅱ卷？【学过石油的语文老师】",
+          "duration": 1173,
+          "pubdate": 1737201600,
+          "cover": "https://i1.hdslb.com/bfs/archive/e4e0a36a9d5e9f42d8fa27a0e177938f14526a24.jpg",
+          "views": 867625,
+          "danmaku": 4487,
+          "url": "https://www.bilibili.com/video/BV1RvwceREgG"
+        },
+        {
+          "bvid": "BV1BM4y1Y7Nq",
+          "title": "2023高考？作文真题！透彻精讲？全国4套卷！【学过石油的语文老师】",
+          "duration": 1036,
+          "pubdate": 1686398400,
+          "cover": "https://i2.hdslb.com/bfs/archive/5f28c2ccd1387a800af17e807f6a06b8e16e3784.jpg",
+          "views": 2983481,
+          "danmaku": 12895,
+          "url": "https://www.bilibili.com/video/BV1BM4y1Y7Nq"
+        },
+        {
+          "bvid": "BV14K4y1B7Bw",
+          "title": "我在交错带送礼？九省联考2024！作文咋写？真的很难！【语文大合集29】",
+          "duration": 1599,
+          "pubdate": 1705827600,
+          "cover": "https://i0.hdslb.com/bfs/archive/175c5086e96415d3382d6b954bed69d3d990db83.jpg",
+          "views": 1649160,
+          "danmaku": 8277,
+          "url": "https://www.bilibili.com/video/BV14K4y1B7Bw"
+        },
+        {
+          "bvid": "BV1Uw4m127ET",
+          "title": "画虎画皮难画骨？奇哥教你写八股！高考作文？行文结构！【语文大合集44】",
+          "duration": 1058,
+          "pubdate": 1714139111,
+          "cover": "https://i0.hdslb.com/bfs/archive/1b3bc225a37d0ec0ffdfd1c530956839c4bf522e.jpg",
+          "views": 1952041,
+          "danmaku": 4054,
+          "url": "https://www.bilibili.com/video/BV1Uw4m127ET"
+        },
+        {
+          "bvid": "BV1CM4m1D7DE",
+          "title": "作文？精准切题！快速？得出立意！【语文大合集43】",
+          "duration": 918,
+          "pubdate": 1713528000,
+          "cover": "https://i1.hdslb.com/bfs/archive/c4404a498ce3394ac43627661042c85a99fdccf8.jpg",
+          "views": 2099614,
+          "danmaku": 8927,
+          "url": "https://www.bilibili.com/video/BV1CM4m1D7DE"
+        },
+        {
+          "bvid": "BV19P411S7js",
+          "title": "高考作文！考啥？考啥？咱都不怕！【学过石油的语文老师】",
+          "duration": 1412,
+          "pubdate": 1682078400,
+          "cover": "https://i0.hdslb.com/bfs/archive/6cf1079c3fb38d01e7b964a36c77beda44a264ef.jpg",
+          "views": 976840,
+          "danmaku": 6618,
+          "url": "https://www.bilibili.com/video/BV19P411S7js"
+        },
+        {
+          "bvid": "BV1jR4y1F79G",
+          "title": "这波在大气层？分论点高级写法！作文结构！【学过石油的语文老师】",
+          "duration": 1104,
+          "pubdate": 1647604812,
+          "cover": "https://i2.hdslb.com/bfs/archive/1c5d4e89fa1479500422a42c83514063a743213d.jpg",
+          "views": 2490555,
+          "danmaku": 16603,
+          "url": "https://www.bilibili.com/video/BV1jR4y1F79G"
+        },
+        {
+          "bvid": "BV1gY411i7Tc",
+          "title": "菜鸟到大师！分论点搭建？高考作文！一看就会？【学过石油的语文老师】",
+          "duration": 3488,
+          "pubdate": 1676160000,
+          "cover": "https://i1.hdslb.com/bfs/archive/8ec2d620e47e3e43a6924d85a615c9ef62d583bb.jpg",
+          "views": 980490,
+          "danmaku": 4945,
+          "url": "https://www.bilibili.com/video/BV1gY411i7Tc"
+        },
+        {
+          "bvid": "BV1S34y1x7Ei",
+          "title": "速成？分论点段！绝了？巧用素材！【学过石油的语文老师】",
+          "duration": 1122,
+          "pubdate": 1648209397,
+          "cover": "https://i1.hdslb.com/bfs/archive/cfb6644430cd4f697d0dfcccbbc9037d65fd658b.jpg",
+          "views": 1117236,
+          "danmaku": 7100,
+          "url": "https://www.bilibili.com/video/BV1S34y1x7Ei"
+        },
+        {
+          "bvid": "BV1cM4y1d7w1",
+          "title": "动笔实操？分论点段！必备句子？快速搭建！【学过石油的语文老师】",
+          "duration": 1282,
+          "pubdate": 1677844800,
+          "cover": "https://i1.hdslb.com/bfs/archive/068debdc4ccca471c3032585e81eab0b428018f4.jpg",
+          "views": 940573,
+          "danmaku": 6731,
+          "url": "https://www.bilibili.com/video/BV1cM4y1d7w1"
+        },
+        {
+          "bvid": "BV1xr4y1s7kW",
+          "title": "咋结合段落？用论证方法？咋有文采？作文素材！【学过石油的语文老师】",
+          "duration": 468,
+          "pubdate": 1648814400,
+          "cover": "https://i2.hdslb.com/bfs/archive/7c13db70de6f460abb94c54ade048ce83e0c61aa.jpg",
+          "views": 1778200,
+          "danmaku": 5282,
+          "url": "https://www.bilibili.com/video/BV1xr4y1s7kW"
+        },
+        {
+          "bvid": "BV1oL411t7t2",
+          "title": "作文标题？属实玩明白了！【学过石油的语文老师】",
+          "duration": 2896,
+          "pubdate": 1629496810,
+          "cover": "https://i2.hdslb.com/bfs/archive/422b405f871f823b1df8fcda38a7ce47746ca3fc.jpg",
+          "views": 2462294,
+          "danmaku": 31865,
+          "url": "https://www.bilibili.com/video/BV1oL411t7t2"
+        },
+        {
+          "bvid": "BV1tY411x7Cn",
+          "title": "天花板！秒杀作文标题？最终答案【学过石油的语文老师】",
+          "duration": 5923,
+          "pubdate": 1636756215,
+          "cover": "https://i0.hdslb.com/bfs/archive/da0bd3966470585ac2834e851fbad540424b7fc4.jpg",
+          "views": 1272331,
+          "danmaku": 21160,
+          "url": "https://www.bilibili.com/video/BV1tY411x7Cn"
+        },
+        {
+          "bvid": "BV1HB4y1c7pm",
+          "title": "演讲稿？书信？辩论稿？高考作文应用文荟萃！【学过石油的语文老师】",
+          "duration": 784,
+          "pubdate": 1619602211,
+          "cover": "https://i0.hdslb.com/bfs/archive/7c34f065cd6d852e7dc0bef08fad639a9e2671b4.jpg",
+          "views": 726243,
+          "danmaku": 2994,
+          "url": "https://www.bilibili.com/video/BV1HB4y1c7pm"
+        },
+        {
+          "bvid": "BV1jP411P7LS",
+          "title": "驳论文！辩论稿？手把手教你写！其实就是抬杠？【学过石油的语文老师】",
+          "duration": 889,
+          "pubdate": 1666958400,
+          "cover": "https://i1.hdslb.com/bfs/archive/4bf3753524a3183f91831ef822ac303d1160db1c.jpg",
+          "views": 588183,
+          "danmaku": 4752,
+          "url": "https://www.bilibili.com/video/BV1jP411P7LS"
+        },
+        {
+          "bvid": "BV1RP411Q7ZP",
+          "title": "高考作文？考前梳理！别信押题？重在审题！【学过石油的语文老师】",
+          "duration": 1876,
+          "pubdate": 1685102400,
+          "cover": "https://i1.hdslb.com/bfs/archive/599f9ddfbf3632e7b55fab2d8459b67a1b56b4c4.jpg",
+          "views": 1432562,
+          "danmaku": 18921,
+          "url": "https://www.bilibili.com/video/BV1RP411Q7ZP"
+        },
+        {
+          "bvid": "BV1A84y1i7BN",
+          "title": "直播码字？在线写作！语文作文？这么写！【学过石油的语文老师】",
+          "duration": 3579,
+          "pubdate": 1668297600,
+          "cover": "https://i0.hdslb.com/bfs/archive/58240cb9bc27d77643d5940048bc49d40e424476.jpg",
+          "views": 963434,
+          "danmaku": 5872,
+          "url": "https://www.bilibili.com/video/BV1A84y1i7BN"
+        },
+        {
+          "bvid": "BV1tq4y1Y7pa",
+          "title": "现场抽题？逐字写作文！高考语文【学过石油的语文老师】",
+          "duration": 2796,
+          "pubdate": 1648332000,
+          "cover": "https://i2.hdslb.com/bfs/archive/53932582385dc701533cbe2b19c4b266da2e1cf4.jpg",
+          "views": 1063248,
+          "danmaku": 15036,
+          "url": "https://www.bilibili.com/video/BV1tq4y1Y7pa"
+        },
+        {
+          "bvid": "BV1q54y1o72i",
+          "title": "现场写作？高考作文！逐字逐句？沉浸式提分！【学过石油的语文老师】",
+          "duration": 3261,
+          "pubdate": 1653775200,
+          "cover": "https://i2.hdslb.com/bfs/archive/11bbf7383bade034a184e48c80c6244f963e1d74.jpg",
+          "views": 891740,
+          "danmaku": 17425,
+          "url": "https://www.bilibili.com/video/BV1q54y1o72i"
+        },
+        {
+          "bvid": "BV1o54y1u7XH",
+          "title": "逐字写作！思辨作文？四省联考！哲理不怕？【学过石油的语文老师】",
+          "duration": 3132,
+          "pubdate": 1677974400,
+          "cover": "https://i1.hdslb.com/bfs/archive/6a7ff8a3b0d6d912e5acc1e351e1e703651970d7.jpg",
+          "views": 742903,
+          "danmaku": 4911,
+          "url": "https://www.bilibili.com/video/BV1o54y1u7XH"
+        },
+        {
+          "bvid": "BV1Jr4y1Y7Zj",
+          "title": "5年真题带你刷！作文审题顶呱呱！【学过石油的语文老师】",
+          "duration": 4769,
+          "pubdate": 1643493615,
+          "cover": "https://i1.hdslb.com/bfs/archive/de5fa7f130760e36fd3993c7b12c0a440cda8125.jpg",
+          "views": 848173,
+          "danmaku": 10634,
+          "url": "https://www.bilibili.com/video/BV1Jr4y1Y7Zj"
+        },
+        {
+          "bvid": "BV1n341187zM",
+          "title": "文言文？零基础？从入门到精通！【学过石油的语文老师】",
+          "duration": 758,
+          "pubdate": 1637142910,
+          "cover": "https://i0.hdslb.com/bfs/archive/7c83f56a6359de1cd2e2f7ef0db40acb0747ccb4.jpg",
+          "views": 3821774,
+          "danmaku": 35200,
+          "url": "https://www.bilibili.com/video/BV1n341187zM"
+        },
+        {
+          "bvid": "BV1bM4y1P7BV",
+          "title": "悟了！10分钟搞定？秒懂文言语法！特殊句式？【学过石油的语文老师】",
+          "duration": 641,
+          "pubdate": 1637746200,
+          "cover": "https://i0.hdslb.com/bfs/archive/e585a3fd7b9b0d162ede3ee43cd0aeb885c33fdf.jpg",
+          "views": 3867292,
+          "danmaku": 36472,
+          "url": "https://www.bilibili.com/video/BV1bM4y1P7BV"
+        },
+        {
+          "bvid": "BV1pF411k7um",
+          "title": "文言文？选择题！文意理解？So easy！【语文大合集10】",
+          "duration": 821,
+          "pubdate": 1693569600,
+          "cover": "https://i2.hdslb.com/bfs/archive/07393d4013546a92340bff9e2489c75244341fb0.jpg",
+          "views": 2695628,
+          "danmaku": 10779,
+          "url": "https://www.bilibili.com/video/BV1pF411k7um"
+        },
+        {
+          "bvid": "BV1ZJ8UzZELu",
+          "title": "2025高考？最难文言文！《左传》读不懂？没事！【学过石油的语文老师】",
+          "duration": 1985,
+          "pubdate": 1754049600,
+          "cover": "https://i0.hdslb.com/bfs/archive/8bd691b314e99b076d0796bab6851c6372e20169.jpg",
+          "views": 974670,
+          "danmaku": 6621,
+          "url": "https://www.bilibili.com/video/BV1ZJ8UzZELu"
+        },
+        {
+          "bvid": "BV1MB4y1H7LR",
+          "title": "文言文？满分钥匙！先做？文意理解！【学过石油的语文老师】",
+          "duration": 2964,
+          "pubdate": 1663422356,
+          "cover": "https://i2.hdslb.com/bfs/archive/839daca7065b32ff7465065c7599ecc17cdd8cd9.jpg",
+          "views": 1081582,
+          "danmaku": 11327,
+          "url": "https://www.bilibili.com/video/BV1MB4y1H7LR"
+        },
+        {
+          "bvid": "BV1Wg411P7kP",
+          "title": "秒出答案！文言文？选择第3题！【学过石油的语文老师】",
+          "duration": 3293,
+          "pubdate": 1638655200,
+          "cover": "https://i1.hdslb.com/bfs/archive/da7f4ab3e82d59f2a9bdef3c70690265d448aa21.jpg",
+          "views": 1524134,
+          "danmaku": 20325,
+          "url": "https://www.bilibili.com/video/BV1Wg411P7kP"
+        },
+        {
+          "bvid": "BV11w411A7Kv",
+          "title": "新断句？新文常！掌握技巧？并不难！【语文大合集16】",
+          "duration": 1016,
+          "pubdate": 1697198400,
+          "cover": "https://i2.hdslb.com/bfs/archive/4c0dab0d4a83445f71166f8a645656d998494a2e.jpg",
+          "views": 1566370,
+          "danmaku": 7660,
+          "url": "https://www.bilibili.com/video/BV11w411A7Kv"
+        },
+        {
+          "bvid": "BV1xW4y1v7pg",
+          "title": "文言选择？全新题型！课内？实词虚词！【学过石油的语文老师】",
+          "duration": 756,
+          "pubdate": 1663934400,
+          "cover": "https://i1.hdslb.com/bfs/archive/a7203dc3e093f583deb8985f97d421a55a932af3.jpg",
+          "views": 931963,
+          "danmaku": 6869,
+          "url": "https://www.bilibili.com/video/BV1xW4y1v7pg"
+        },
+        {
+          "bvid": "BV1i6421G7wB",
+          "title": "文言文？翻译题！别想秘籍？脚踏实地！【语文大合集33】",
+          "duration": 1228,
+          "pubdate": 1707480000,
+          "cover": "https://i1.hdslb.com/bfs/archive/0a9632d6fe9142da33a65352e2de0a88739c4f08.jpg",
+          "views": 2584684,
+          "danmaku": 15109,
+          "url": "https://www.bilibili.com/video/BV1i6421G7wB"
+        },
+        {
+          "bvid": "BV1vF4m177xo",
+          "title": "逐字精讲！文言翻译？不论基础？都能提分！祝你金榜题名正当时！【语文大合集34】",
+          "duration": 6756,
+          "pubdate": 1707609600,
+          "cover": "https://i2.hdslb.com/bfs/archive/8c75d4e6e4f26340fd41e49922be82e8b6f9edbf.jpg",
+          "views": 1874173,
+          "danmaku": 27015,
+          "url": "https://www.bilibili.com/video/BV1vF4m177xo"
+        },
+        {
+          "bvid": "BV1Ne4y1r7f8",
+          "title": "零基础？也高分！文言翻译？没秘诀！【学过石油的语文老师】",
+          "duration": 2863,
+          "pubdate": 1664064000,
+          "cover": "https://i1.hdslb.com/bfs/archive/16cb47e3510aa934d34c4701aca11ed030c76fa6.jpg",
+          "views": 1466384,
+          "danmaku": 22801,
+          "url": "https://www.bilibili.com/video/BV1Ne4y1r7f8"
+        },
+        {
+          "bvid": "BV1gG411Q7cG",
+          "title": "文言文？概括题！大题中的？最容易！【语文大合集19】",
+          "duration": 496,
+          "pubdate": 1700222400,
+          "cover": "https://i0.hdslb.com/bfs/archive/414cd0b77c51b6c25658411e91278097e461d39b.jpg",
+          "views": 1173179,
+          "danmaku": 3375,
+          "url": "https://www.bilibili.com/video/BV1gG411Q7cG"
+        },
+        {
+          "bvid": "BV1Cu4y1F78j",
+          "title": "文言文！不会翻译？别慌！照样得分？【语文大合集21】",
+          "duration": 651,
+          "pubdate": 1701172800,
+          "cover": "https://i2.hdslb.com/bfs/archive/3a98a912ee6becd7948911390701ea9e825506c9.jpg",
+          "views": 926084,
+          "danmaku": 3453,
+          "url": "https://www.bilibili.com/video/BV1Cu4y1F78j"
+        },
+        {
+          "bvid": "BV1yt4y1T7kk",
+          "title": "文言文！概括题？很像！小说散文？【学过石油的语文老师】",
+          "duration": 1199,
+          "pubdate": 1667088000,
+          "cover": "https://i2.hdslb.com/bfs/archive/692a4c3faadb69f2b1ceff1a54826073de6dd6a6.jpg",
+          "views": 665482,
+          "danmaku": 5232,
+          "url": "https://www.bilibili.com/video/BV1yt4y1T7kk"
+        },
+        {
+          "bvid": "BV1PF411i7x9",
+          "title": "文言文？新高考！概括大题？拍手叫好！【学过石油的语文老师】",
+          "duration": 2112,
+          "pubdate": 1642197601,
+          "cover": "https://i0.hdslb.com/bfs/archive/a9d9a693d0814f502666e7a7d4e77f549938d2bc.jpg",
+          "views": 644385,
+          "danmaku": 8178,
+          "url": "https://www.bilibili.com/video/BV1PF411i7x9"
+        },
+        {
+          "bvid": "BV1U44y1X7Wf",
+          "title": "文言虚词？千万别背！20分钟？全都弄会！【学过石油的语文老师】",
+          "duration": 1268,
+          "pubdate": 1669377600,
+          "cover": "https://i0.hdslb.com/bfs/archive/8cce4664332291095250b85b4f4ec0825a378ecc.jpg",
+          "views": 2090926,
+          "danmaku": 15816,
+          "url": "https://www.bilibili.com/video/BV1U44y1X7Wf"
+        },
+        {
+          "bvid": "BV1RR4y1Z7of",
+          "title": "通透！全网最清晰！文言文？词类活用！【学过石油的语文老师】",
+          "duration": 1091,
+          "pubdate": 1668772800,
+          "cover": "https://i2.hdslb.com/bfs/archive/e3f3db2b5f1af92ca543799767fc3ff2c2b63660.jpg",
+          "views": 1001626,
+          "danmaku": 7193,
+          "url": "https://www.bilibili.com/video/BV1RR4y1Z7of"
+        },
+        {
+          "bvid": "BV1zLCyBAECy",
+          "title": "你们省？古诗文背多少篇！【学过石油的语文老师】",
+          "duration": 515,
+          "pubdate": 1763210857,
+          "cover": "https://i2.hdslb.com/bfs/archive/584fb7267ceb990ce976739427aa88f447064ee5.jpg",
+          "views": 1018127,
+          "danmaku": 1208,
+          "url": "https://www.bilibili.com/video/BV1zLCyBAECy"
+        },
+        {
+          "bvid": "BV1e94y1Z7Yh",
+          "title": "读不懂？古诗！思想情感？【学过石油的语文老师】",
+          "duration": 983,
+          "pubdate": 1649419200,
+          "cover": "https://i1.hdslb.com/bfs/archive/8260ea55a2d3a173900e9d3e5ccf208b90d9f563.jpg",
+          "views": 6186526,
+          "danmaku": 36806,
+          "url": "https://www.bilibili.com/video/BV1e94y1Z7Yh"
+        },
+        {
+          "bvid": "BV1Km4y1j7w9",
+          "title": "古诗选择题？嗖嗖提成绩！先看选项？读不懂也得分！【语文大合集04】",
+          "duration": 988,
+          "pubdate": 1690545600,
+          "cover": "https://i1.hdslb.com/bfs/archive/786e22717e5a5ef9ed041a7edf037d1b61482335.jpg",
+          "views": 2853882,
+          "danmaku": 16846,
+          "url": "https://www.bilibili.com/video/BV1Km4y1j7w9"
+        },
+        {
+          "bvid": "BV1hX4y1L7xE",
+          "title": "高考真题？古诗选择题！2020-2022！透彻精讲？【语文大合集05】",
+          "duration": 3759,
+          "pubdate": 1691280000,
+          "cover": "https://i2.hdslb.com/bfs/archive/ce320c14c244f4d5b67b5b1a8eef8e0995e86cce.jpg",
+          "views": 1782428,
+          "danmaku": 19539,
+          "url": "https://www.bilibili.com/video/BV1hX4y1L7xE"
+        },
+        {
+          "bvid": "BV1u94y1k74z",
+          "title": "应试之外？古诗选择！高考真题？另类解读！【语文大合集07】",
+          "duration": 3368,
+          "pubdate": 1691884800,
+          "cover": "https://i1.hdslb.com/bfs/archive/169d46f41c0c658383c911602e0ddf843e886110.jpg",
+          "views": 926226,
+          "danmaku": 10067,
+          "url": "https://www.bilibili.com/video/BV1u94y1k74z"
+        },
+        {
+          "bvid": "BV1YF411H7Rd",
+          "title": "古诗读不懂？照样能得分！【学过石油的语文老师】",
+          "duration": 1168,
+          "pubdate": 1643946911,
+          "cover": "https://i1.hdslb.com/bfs/archive/1b8703218011c5af1af912f1515ad37acb05638b.jpg",
+          "views": 1525509,
+          "danmaku": 11750,
+          "url": "https://www.bilibili.com/video/BV1YF411H7Rd"
+        },
+        {
+          "bvid": "BV1BG4y187bN",
+          "title": "古诗大题别怕？奇哥教你绝杀！掌握这个心法？做题如同切瓜！【学过石油的语文老师】",
+          "duration": 1448,
+          "pubdate": 1666353600,
+          "cover": "https://i2.hdslb.com/bfs/archive/5240350c3974031b17670e4bcef0a99ff43c15c9.jpg",
+          "views": 2158165,
+          "danmaku": 13552,
+          "url": "https://www.bilibili.com/video/BV1BG4y187bN"
+        },
+        {
+          "bvid": "BV1fj411E74k",
+          "title": "古诗大题？情景关系！把握逻辑？化难为易！【语文大合集20】",
+          "duration": 794,
+          "pubdate": 1700827200,
+          "cover": "https://i0.hdslb.com/bfs/archive/e9fe3c67a6a3438888933d1fd210e8362d6620d3.jpg",
+          "views": 1490418,
+          "danmaku": 5295,
+          "url": "https://www.bilibili.com/video/BV1fj411E74k"
+        },
+        {
+          "bvid": "BV1Hc411r7V9",
+          "title": "古诗手法？快速弄懂！抒情写景？融会贯通！【语文大合集22】",
+          "duration": 1059,
+          "pubdate": 1701432000,
+          "cover": "https://i1.hdslb.com/bfs/archive/c267aa4fa3845ac218d4afe7f2483df4e3b25a94.jpg",
+          "views": 1575616,
+          "danmaku": 9569,
+          "url": "https://www.bilibili.com/video/BV1Hc411r7V9"
+        },
+        {
+          "bvid": "BV1Td4y1f7tx",
+          "title": "哲理古诗！怎么破？蕴藏道理！如何做？【学过石油的语文老师】",
+          "duration": 1940,
+          "pubdate": 1684843200,
+          "cover": "https://i1.hdslb.com/bfs/archive/467bffdc27ebe350e4ff275249fb2779a1c37123.jpg",
+          "views": 853989,
+          "danmaku": 8884,
+          "url": "https://www.bilibili.com/video/BV1Td4y1f7tx"
+        },
+        {
+          "bvid": "BV1Fa411H7Do",
+          "title": "有逻辑！最清晰？语文所有手法体系？绝不死记硬背！【学过石油的语文老师】",
+          "duration": 1937,
+          "pubdate": 1657885984,
+          "cover": "https://i0.hdslb.com/bfs/archive/bd30164b7d85c1808f1e8e705335874343552231.jpg",
+          "views": 4107342,
+          "danmaku": 32122,
+          "url": "https://www.bilibili.com/video/BV1Fa411H7Do"
+        },
+        {
+          "bvid": "BV1dV41137Pd",
+          "title": "读不懂文章？照样得分！小说散文？选择题密码！【语文大合集06】",
+          "duration": 1168,
+          "pubdate": 1691755200,
+          "cover": "https://i2.hdslb.com/bfs/archive/fa7b6ad29de4ee66637061c1ce2a22a4a484e931.jpg",
+          "views": 1910325,
+          "danmaku": 18999,
+          "url": "https://www.bilibili.com/video/BV1dV41137Pd"
+        },
+        {
+          "bvid": "BV1Sp4y1J7V4",
+          "title": "通过选择题！读文章？2023新课标Ⅰ卷！给儿子？【语文大合集08】",
+          "duration": 1130,
+          "pubdate": 1692446400,
+          "cover": "https://i0.hdslb.com/bfs/archive/31eda75a6e7aa48b47c9080b9a56a13e1099736f.jpg",
+          "views": 1057503,
+          "danmaku": 11401,
+          "url": "https://www.bilibili.com/video/BV1Sp4y1J7V4"
+        },
+        {
+          "bvid": "BV1Vu4y1X72N",
+          "title": "小说选择题？2023高考最佳！社戏？深度解析！【语文大合集09】",
+          "duration": 890,
+          "pubdate": 1692964800,
+          "cover": "https://i0.hdslb.com/bfs/archive/58db72fab016a0ed63ce07213c754478c7973dac.jpg",
+          "views": 852657,
+          "danmaku": 3830,
+          "url": "https://www.bilibili.com/video/BV1Vu4y1X72N"
+        },
+        {
+          "bvid": "BV19M41157XZ",
+          "title": "小说散文？选择题！武汉四调？很容易！【学过石油的语文老师】",
+          "duration": 2434,
+          "pubdate": 1681473600,
+          "cover": "https://i0.hdslb.com/bfs/archive/7b23f91d263c9a427215c5144faf9b0b87ffbd56.jpg",
+          "views": 657743,
+          "danmaku": 4913,
+          "url": "https://www.bilibili.com/video/BV19M41157XZ"
+        },
+        {
+          "bvid": "BV1dT411H7xD",
+          "title": "文章好？题也棒！小说选择？疯狂刷题！【学过石油的语文老师】",
+          "duration": 4095,
+          "pubdate": 1681599600,
+          "cover": "https://i1.hdslb.com/bfs/archive/ff27e26bfc1ab5f723a3cb1118ff8c333fc10f80.jpg",
+          "views": 621591,
+          "danmaku": 5886,
+          "url": "https://www.bilibili.com/video/BV1dT411H7xD"
+        },
+        {
+          "bvid": "BV18W4y1M751",
+          "title": "所有题型？最强归纳！小说散文？提分不难！【学过石油的语文老师】",
+          "duration": 1136,
+          "pubdate": 1670587200,
+          "cover": "https://i2.hdslb.com/bfs/archive/93e5795cc89bffc079bd08292c676b17bc5f2565.jpg",
+          "views": 1789373,
+          "danmaku": 11345,
+          "url": "https://www.bilibili.com/video/BV18W4y1M751"
+        },
+        {
+          "bvid": "BV12N4y1v74F",
+          "title": "每年必考题！概括人物心理？小说散文？必会题型！【语文大合集28】",
+          "duration": 970,
+          "pubdate": 1705060800,
+          "cover": "https://i1.hdslb.com/bfs/archive/d20cf48f11bd18c97573d9bb6ab5e08a2f04b6ab.jpg",
+          "views": 1340722,
+          "danmaku": 6630,
+          "url": "https://www.bilibili.com/video/BV12N4y1v74F"
+        },
+        {
+          "bvid": "BV1pf4y1T7gT",
+          "title": "有手就行！秒出答案？小说人物形象题！【学过石油的语文老师】",
+          "duration": 4641,
+          "pubdate": 1636151406,
+          "cover": "https://i1.hdslb.com/bfs/archive/286dee5b52954af7750963681a289fa8c3b9589d.jpg",
+          "views": 1098676,
+          "danmaku": 12720,
+          "url": "https://www.bilibili.com/video/BV1pf4y1T7gT"
+        },
+        {
+          "bvid": "BV1QK4y1i7rE",
+          "title": "小说散文！必考题？深层含义！咋挖掘？【语文大合集31】",
+          "duration": 1011,
+          "pubdate": 1706270400,
+          "cover": "https://i2.hdslb.com/bfs/archive/4eaba330a9e3dcd5668f2fd4580af51f6ce086b7.jpg",
+          "views": 1207011,
+          "danmaku": 5370,
+          "url": "https://www.bilibili.com/video/BV1QK4y1i7rE"
+        },
+        {
+          "bvid": "BV1Kd4y1Y7go",
+          "title": "含义题？小说散文！快准狠？争取满分！【学过石油的语文老师】",
+          "duration": 1202,
+          "pubdate": 1672401600,
+          "cover": "https://i2.hdslb.com/bfs/archive/a5cb63d400107ef7b2f8a202561b18dfca996941.jpg",
+          "views": 1155955,
+          "danmaku": 8815,
+          "url": "https://www.bilibili.com/video/BV1Kd4y1Y7go"
+        },
+        {
+          "bvid": "BV1qG4y1271L",
+          "title": "概括题？所有题型！大合集？体系梳理！【学过石油的语文老师】",
+          "duration": 3065,
+          "pubdate": 1673136000,
+          "cover": "https://i2.hdslb.com/bfs/archive/2692c31534eb87af4352defada21b746d03ff866.jpg",
+          "views": 1140869,
+          "danmaku": 12926,
+          "url": "https://www.bilibili.com/video/BV1qG4y1271L"
+        },
+        {
+          "bvid": "BV1diEDzvEb7",
+          "title": "2024高考！最难散文？答题模板！藏在题干里？【学过石油的语文老师】",
+          "duration": 1817,
+          "pubdate": 1748001600,
+          "cover": "https://i0.hdslb.com/bfs/archive/544da841121e5ec51e8b2132ca6526225a56f748.jpg",
+          "views": 760241,
+          "danmaku": 8906,
+          "url": "https://www.bilibili.com/video/BV1diEDzvEb7"
+        },
+        {
+          "bvid": "BV1Ez421d7ok",
+          "title": "人物+景物+正侧+细节+白描！描写手法？体系大梳理！【语文大合集35】",
+          "duration": 1140,
+          "pubdate": 1708084800,
+          "cover": "https://i1.hdslb.com/bfs/archive/f6b6b792b8320c1290c31e6066ceb1f1d72b4fcf.jpg",
+          "views": 1444083,
+          "danmaku": 8195,
+          "url": "https://www.bilibili.com/video/BV1Ez421d7ok"
+        },
+        {
+          "bvid": "BV1iQ4y1q7kV",
+          "title": "人物赏析？如何塑造？小说从入门到精通！【学过石油的语文老师】",
+          "duration": 2489,
+          "pubdate": 1635544814,
+          "cover": "https://i0.hdslb.com/bfs/archive/4b1e07372766b7077203368fa883156e964bc027.jpg",
+          "views": 1073079,
+          "danmaku": 10788,
+          "url": "https://www.bilibili.com/video/BV1iQ4y1q7kV"
+        },
+        {
+          "bvid": "BV1Re4y1x7hh",
+          "title": "倒数200天？押题！赏析？语言风格！【学过石油的语文老师】",
+          "duration": 1269,
+          "pubdate": 1668168000,
+          "cover": "https://i1.hdslb.com/bfs/archive/587fd8bb3495a3b5ab2d5a0e86f161a6d0301839.jpg",
+          "views": 1510409,
+          "danmaku": 12222,
+          "url": "https://www.bilibili.com/video/BV1Re4y1x7hh"
+        },
+        {
+          "bvid": "BV1X24y1j7ex",
+          "title": "散文小说化？小说诗歌化！相互转化？从此不怕！【学过石油的语文老师】",
+          "duration": 1828,
+          "pubdate": 1679659200,
+          "cover": "https://i1.hdslb.com/bfs/archive/62f0bfaf68319282300418484325114b88fca7d1.jpg",
+          "views": 914701,
+          "danmaku": 8031,
+          "url": "https://www.bilibili.com/video/BV1X24y1j7ex"
+        },
+        {
+          "bvid": "BV1yu4y1f7T6",
+          "title": "叙事视角？遇见别慌！小说新题？新瓶旧酒！【学过石油的语文老师】",
+          "duration": 932,
+          "pubdate": 1685448000,
+          "cover": "https://i1.hdslb.com/bfs/archive/faead2ba5c7b26864cf83d8ea9856663781ce362.jpg",
+          "views": 967705,
+          "danmaku": 8184,
+          "url": "https://www.bilibili.com/video/BV1yu4y1f7T6"
+        },
+        {
+          "bvid": "BV1QU4y1u7CE",
+          "title": "本文是如何叙述XX的故事的？小说叙事特征题！【学过石油的语文老师】",
+          "duration": 1671,
+          "pubdate": 1635935417,
+          "cover": "https://i0.hdslb.com/bfs/archive/85f264919f6a6b8bd7a1f046c1b2a6c5172a5fda.jpg",
+          "views": 913136,
+          "danmaku": 8411,
+          "url": "https://www.bilibili.com/video/BV1QU4y1u7CE"
+        },
+        {
+          "bvid": "BV1e44y1o7rf",
+          "title": "答题技巧？系统梳理！手法题？散文小说！【学过石油的语文老师】",
+          "duration": 2605,
+          "pubdate": 1671926400,
+          "cover": "https://i1.hdslb.com/bfs/archive/8f2a2206611f3152680cb43f1c1798daf5bc9f6e.jpg",
+          "views": 1389952,
+          "danmaku": 14701,
+          "url": "https://www.bilibili.com/video/BV1e44y1o7rf"
+        },
+        {
+          "bvid": "BV1p84y1x72k",
+          "title": "彻底讲透！叙事特征？语言风格？情节手法！【学过石油的语文老师】",
+          "duration": 2173,
+          "pubdate": 1672142400,
+          "cover": "https://i1.hdslb.com/bfs/archive/ab2085adff51a91a64f789dcc8066a78cdfb0d3f.jpg",
+          "views": 939724,
+          "danmaku": 8096,
+          "url": "https://www.bilibili.com/video/BV1p84y1x72k"
+        },
+        {
+          "bvid": "BV1Si4y187hn",
+          "title": "散文作用题？！信息类？也有作用题！【语文大合集26】",
+          "duration": 912,
+          "pubdate": 1703851200,
+          "cover": "https://i2.hdslb.com/bfs/archive/276c013244740f12f374e607ad363b1bed2fda64.jpg",
+          "views": 862587,
+          "danmaku": 2773,
+          "url": "https://www.bilibili.com/video/BV1Si4y187hn"
+        },
+        {
+          "bvid": "BV1fG4y1v7u5",
+          "title": "小说题？王二狗在文中！有啥作用？【学过石油的语文老师】",
+          "duration": 3091,
+          "pubdate": 1658620800,
+          "cover": "https://i0.hdslb.com/bfs/archive/8e996074649222780aa4d771f838783af3b6dcb1.jpg",
+          "views": 439178,
+          "danmaku": 5003,
+          "url": "https://www.bilibili.com/video/BV1fG4y1v7u5"
+        },
+        {
+          "bvid": "BV1ne4y1R7ea",
+          "title": "刷透？高考小说！有史第一套？2007年新课标真题！【学过石油的语文老师】",
+          "duration": 3345,
+          "pubdate": 1657411200,
+          "cover": "https://i0.hdslb.com/bfs/archive/85e505053b4a0f79656542b2023f7b8658139e95.jpg",
+          "views": 358383,
+          "danmaku": 4392,
+          "url": "https://www.bilibili.com/video/BV1ne4y1R7ea"
+        },
+        {
+          "bvid": "BV1dN4y1T7ck",
+          "title": "通透！详细归纳？环境作用？小说！【学过石油的语文老师】",
+          "duration": 4207,
+          "pubdate": 1658016000,
+          "cover": "https://i2.hdslb.com/bfs/archive/16a92a7bb31c2e9049885112b2afda11833778d3.jpg",
+          "views": 541214,
+          "danmaku": 7002,
+          "url": "https://www.bilibili.com/video/BV1dN4y1T7ck"
+        },
+        {
+          "bvid": "BV1P8411V755",
+          "title": "答题模板！最强最全！作用题？小说散文！【学过石油的语文老师】",
+          "duration": 4291,
+          "pubdate": 1670716800,
+          "cover": "https://i0.hdslb.com/bfs/archive/0d8e06900d5812ebf0d88cb9b0cc8eae798feb9f.jpg",
+          "views": 1246925,
+          "danmaku": 20112,
+          "url": "https://www.bilibili.com/video/BV1P8411V755"
+        },
+        {
+          "bvid": "BV1d3411C7Gy",
+          "title": "一个模板通杀！小说大题？作用题！【学过石油的语文老师】",
+          "duration": 4166,
+          "pubdate": 1634951715,
+          "cover": "https://i2.hdslb.com/bfs/archive/f025275b2df60e0c0d9b6cd899c0f03a87542b5d.jpg",
+          "views": 1048395,
+          "danmaku": 15557,
+          "url": "https://www.bilibili.com/video/BV1d3411C7Gy"
+        },
+        {
+          "bvid": "BV1YH4y1U7yh",
+          "title": "这很难评？不是新题型！文学短评？马上让你行！【语文大合集14】",
+          "duration": 1023,
+          "pubdate": 1696334400,
+          "cover": "https://i0.hdslb.com/bfs/archive/3bfa1f955f4b9abe9d01a3b003db51ec56d4cc14.jpg",
+          "views": 1050697,
+          "danmaku": 4630,
+          "url": "https://www.bilibili.com/video/BV1YH4y1U7yh"
+        },
+        {
+          "bvid": "BV1RM411D7Se",
+          "title": "“浑然一体”如何实现？去套路化！2023高考乙卷！最难手法题？【语文大合集18】",
+          "duration": 955,
+          "pubdate": 1699012800,
+          "cover": "https://i0.hdslb.com/bfs/archive/06c70adc26b4cbb4ed9b9ec4bb8b6a8d9ddc0684.jpg",
+          "views": 883974,
+          "danmaku": 2746,
+          "url": "https://www.bilibili.com/video/BV1RM411D7Se"
+        },
+        {
+          "bvid": "BV1Se4y1f7oS",
+          "title": "2022新题？全员懵圈！双文本？虚构与现实！【学过石油的语文老师】",
+          "duration": 2502,
+          "pubdate": 1661039700,
+          "cover": "https://i2.hdslb.com/bfs/archive/866d4228ebed0b440a55f916bcb5d69f305b770a.jpg",
+          "views": 363380,
+          "danmaku": 3179,
+          "url": "https://www.bilibili.com/video/BV1Se4y1f7oS"
+        },
+        {
+          "bvid": "BV1zM411U7zj",
+          "title": "T8八校联考？小说精讲！明线暗线？有啥区别！【学过石油的语文老师】",
+          "duration": 855,
+          "pubdate": 1671192000,
+          "cover": "https://i0.hdslb.com/bfs/archive/ba74ee9bc094a82c2f4b4713dd2f78704e46c3f7.jpg",
+          "views": 519200,
+          "danmaku": 4320,
+          "url": "https://www.bilibili.com/video/BV1zM411U7zj"
+        },
+        {
+          "bvid": "BV1ik4y1775L",
+          "title": "万一考戏剧？不考小说！高考咋复习？千万别怕！【学过石油的语文老师】",
+          "duration": 1952,
+          "pubdate": 1682683200,
+          "cover": "https://i0.hdslb.com/bfs/archive/8880e4f7e616009bf8f0407de3cbb119eb50272e.jpg",
+          "views": 531769,
+          "danmaku": 6320,
+          "url": "https://www.bilibili.com/video/BV1ik4y1775L"
+        },
+        {
+          "bvid": "BV1fS411F752",
+          "title": "万一高考考戏剧？你千万别成“悲剧”！",
+          "duration": 490,
+          "pubdate": 1715425200,
+          "cover": "https://i2.hdslb.com/bfs/archive/7d88705dc95cb186b766a47490cf7448379c6a99.jpg",
+          "views": 1163757,
+          "danmaku": 10218,
+          "url": "https://www.bilibili.com/video/BV1fS411F752"
+        },
+        {
+          "bvid": "BV1TM4y1G7z9",
+          "title": "所有小说！只有3种主旨？【学过石油的语文老师】",
+          "duration": 2559,
+          "pubdate": 1630708210,
+          "cover": "https://i1.hdslb.com/bfs/archive/f457b9c4849a9f3699e5cd3e2a45bd8be3e2661f.jpg",
+          "views": 591524,
+          "danmaku": 8518,
+          "url": "https://www.bilibili.com/video/BV1TM4y1G7z9"
+        },
+        {
+          "bvid": "BV1vG4y147t6",
+          "title": "秒懂散文？得分超神！速通？全国卷所有真题！【学过石油的语文老师】",
+          "duration": 3715,
+          "pubdate": 1668902400,
+          "cover": "https://i1.hdslb.com/bfs/archive/4ad8799994124a365d290a03cdfed83fe4be185b.jpg",
+          "views": 629413,
+          "danmaku": 5393,
+          "url": "https://www.bilibili.com/video/BV1vG4y147t6"
+        },
+        {
+          "bvid": "BV1Dg411p7cA",
+          "title": "看不懂文章？不怕！读懂题干？就能得分！【学过石油的语文老师】",
+          "duration": 3050,
+          "pubdate": 1669507200,
+          "cover": "https://i1.hdslb.com/bfs/archive/4874d7acd47d7203813b59b149ba24a37dc1a072.jpg",
+          "views": 476822,
+          "danmaku": 3968,
+          "url": "https://www.bilibili.com/video/BV1Dg411p7cA"
+        },
+        {
+          "bvid": "BV1Jg411D7om",
+          "title": "读不懂？也能得分！最新4套卷？小说真题！【学过石油的语文老师】",
+          "duration": 3493,
+          "pubdate": 1661644800,
+          "cover": "https://i2.hdslb.com/bfs/archive/10b30cd96909a16024d250f2d09b9ce8a76b5652.jpg",
+          "views": 377819,
+          "danmaku": 3227,
+          "url": "https://www.bilibili.com/video/BV1Jg411D7om"
+        },
+        {
+          "bvid": "BV1wb4y1a7xE",
+          "title": "20分钟？彻底弄懂！小说散文大题【学过石油的语文老师】",
+          "duration": 1538,
+          "pubdate": 1635327337,
+          "cover": "https://i1.hdslb.com/bfs/archive/9e97d90d651469f72a84f946ea1f87b53045b3e9.jpg",
+          "views": 564011,
+          "danmaku": 4871,
+          "url": "https://www.bilibili.com/video/BV1wb4y1a7xE"
+        },
+        {
+          "bvid": "BV1cP411J7cV",
+          "title": "信息类？论述类？实用类？选择题！理论技巧！【学过石油的语文老师】",
+          "duration": 3024,
+          "pubdate": 1664668800,
+          "cover": "https://i2.hdslb.com/bfs/archive/d8ccbe577c2fcf385c6dd8cf1cbecf6ec5fa19e3.jpg",
+          "views": 2854528,
+          "danmaku": 26753,
+          "url": "https://www.bilibili.com/video/BV1cP411J7cV"
+        },
+        {
+          "bvid": "BV1kg411e7D6",
+          "title": "忘掉大招！信息类？论述类？选择题！理论技巧！【学过石油的语文老师】",
+          "duration": 1078,
+          "pubdate": 1664539200,
+          "cover": "https://i1.hdslb.com/bfs/archive/3e46901692380e882f566e7ae3f3206164b54172.jpg",
+          "views": 1013182,
+          "danmaku": 8845,
+          "url": "https://www.bilibili.com/video/BV1kg411e7D6"
+        },
+        {
+          "bvid": "BV1Je4y1677R",
+          "title": "根据原文推断？适合作为论据？论述类！信息类！选择难题！【学过石油的语文老师】",
+          "duration": 817,
+          "pubdate": 1665143400,
+          "cover": "https://i2.hdslb.com/bfs/archive/78d97f9c8b573b183ec132f2a21a9bbef94de42d.jpg",
+          "views": 835802,
+          "danmaku": 4834,
+          "url": "https://www.bilibili.com/video/BV1Je4y1677R"
+        },
+        {
+          "bvid": "BV1GN4y1Q7Yj",
+          "title": "实用类文本？快速拿分！新高考也需要？基础母题！【语文大合集11】",
+          "duration": 996,
+          "pubdate": 1694174400,
+          "cover": "https://i1.hdslb.com/bfs/archive/2d468ee568d52ea2c406cf46e197f2d4bced4786.jpg",
+          "views": 884160,
+          "danmaku": 2693,
+          "url": "https://www.bilibili.com/video/BV1GN4y1Q7Yj"
+        },
+        {
+          "bvid": "BV1FK4y1w7nD",
+          "title": "论述类？透彻精讲！杀疯了？先看选项！【语文大合集12】",
+          "duration": 1672,
+          "pubdate": 1694780635,
+          "cover": "https://i2.hdslb.com/bfs/archive/afca5676ca3f8f7bc6e128745acf835d9214cc96.jpg",
+          "views": 1027656,
+          "danmaku": 5769,
+          "url": "https://www.bilibili.com/video/BV1FK4y1w7nD"
+        },
+        {
+          "bvid": "BV1XP411b7K9",
+          "title": "借选项？跳读原文！信息类？快速提分！【语文大合集13】",
+          "duration": 695,
+          "pubdate": 1695384000,
+          "cover": "https://i0.hdslb.com/bfs/archive/848f1bce2ca1e61f59e3ecaf385e2ef197116079.jpg",
+          "views": 1272141,
+          "danmaku": 3227,
+          "url": "https://www.bilibili.com/video/BV1XP411b7K9"
+        },
+        {
+          "bvid": "BV1MT411k7JV",
+          "title": "选择前3题！信息类？论述类！实用类？【学过石油的语文老师】",
+          "duration": 1731,
+          "pubdate": 1679054400,
+          "cover": "https://i1.hdslb.com/bfs/archive/aca405242b2c9755080c67a15e59d35b87c7467b.jpg",
+          "views": 1657293,
+          "danmaku": 13823,
+          "url": "https://www.bilibili.com/video/BV1MT411k7JV"
+        },
+        {
+          "bvid": "BV18u4y1t74a",
+          "title": "2023高考真题！乙卷+新课标Ⅱ卷？论述类+信息类！【语文大合集15】",
+          "duration": 2750,
+          "pubdate": 1696593600,
+          "cover": "https://i2.hdslb.com/bfs/archive/af81a1e021accf1546c18c809d543e38bede8435.jpg",
+          "views": 790498,
+          "danmaku": 4500,
+          "url": "https://www.bilibili.com/video/BV18u4y1t74a"
+        },
+        {
+          "bvid": "BV1o64y157cP",
+          "title": "吃透概括？像开挂！信息类大题？别害怕！【语文大合集24】",
+          "duration": 1124,
+          "pubdate": 1702641600,
+          "cover": "https://i0.hdslb.com/bfs/archive/a3d8fa5af9a0971cd8a2fb76851ba86ca35bef46.jpg",
+          "views": 1226201,
+          "danmaku": 4147,
+          "url": "https://www.bilibili.com/video/BV1o64y157cP"
+        },
+        {
+          "bvid": "BV1CH4y1C7CD",
+          "title": "所有大题？打地基！实用类的？概括题！【语文大合集23】",
+          "duration": 1377,
+          "pubdate": 1702036800,
+          "cover": "https://i1.hdslb.com/bfs/archive/b8eeb5fabc0e347a880d0ca66bd1c336862b9c40.jpg",
+          "views": 910608,
+          "danmaku": 5000,
+          "url": "https://www.bilibili.com/video/BV1CH4y1C7CD"
+        },
+        {
+          "bvid": "BV1oC4y1S7Yf",
+          "title": "两篇文本！如何找？相同点和不同点！语文大题？【语文大合集25】",
+          "duration": 772,
+          "pubdate": 1703246400,
+          "cover": "https://i2.hdslb.com/bfs/archive/142392cd04a89bc76161203c000708e84f9d8c3a.jpg",
+          "views": 732469,
+          "danmaku": 1164,
+          "url": "https://www.bilibili.com/video/BV1oC4y1S7Yf"
+        },
+        {
+          "bvid": "BV1B8411e7iR",
+          "title": "行文脉络！喂到嘴里？梳理文章结构！【学过石油的语文老师】",
+          "duration": 2508,
+          "pubdate": 1666483200,
+          "cover": "https://i0.hdslb.com/bfs/archive/6a427c1d573366d7d9f711613b9e2e44eba649b9.jpg",
+          "views": 1063557,
+          "danmaku": 14551,
+          "url": "https://www.bilibili.com/video/BV1B8411e7iR"
+        },
+        {
+          "bvid": "BV1GG411j7Di",
+          "title": "概括题？进阶！下定义？咋做！【学过石油的语文老师】",
+          "duration": 1455,
+          "pubdate": 1667088300,
+          "cover": "https://i2.hdslb.com/bfs/archive/b21f32426f242df406d6af86a40805b030852b9d.jpg",
+          "views": 611655,
+          "danmaku": 2292,
+          "url": "https://www.bilibili.com/video/BV1GG411j7Di"
+        },
+        {
+          "bvid": "BV1aP41177NA",
+          "title": "手把手？概括题！新老高考？都要听！【学过石油的语文老师】",
+          "duration": 2274,
+          "pubdate": 1665273600,
+          "cover": "https://i0.hdslb.com/bfs/archive/9e2588b76e0a3acec0db2a0b303b788a224610fe.jpg",
+          "views": 754315,
+          "danmaku": 8465,
+          "url": "https://www.bilibili.com/video/BV1aP41177NA"
+        },
+        {
+          "bvid": "BV1rm4y1A7vh",
+          "title": "新老高考？都要听！概括题？详细步骤！【学过石油的语文老师】",
+          "duration": 3464,
+          "pubdate": 1665878400,
+          "cover": "https://i0.hdslb.com/bfs/archive/5042d954d515dee9f518b699cb95b8bc8cd34cd0.jpg",
+          "views": 702077,
+          "danmaku": 5209,
+          "url": "https://www.bilibili.com/video/BV1rm4y1A7vh"
+        },
+        {
+          "bvid": "BV1HT411x7NZ",
+          "title": "信息类！实用类？新题型！联系文本外？或课内！【学过石油的语文老师】",
+          "duration": 1709,
+          "pubdate": 1680868800,
+          "cover": "https://i2.hdslb.com/bfs/archive/143b35cb20ed092221ee04522164e135a83535ce.jpg",
+          "views": 572900,
+          "danmaku": 2806,
+          "url": "https://www.bilibili.com/video/BV1HT411x7NZ"
+        },
+        {
+          "bvid": "BV1Zx4y1E7DV",
+          "title": "考前预防针？语文新题型！",
+          "duration": 1654,
+          "pubdate": 1717588800,
+          "cover": "https://i1.hdslb.com/bfs/archive/3821a442e54998559512cb88e7d1778c31672848.jpg",
+          "views": 1700498,
+          "danmaku": 47086,
+          "url": "https://www.bilibili.com/video/BV1Zx4y1E7DV"
+        },
+        {
+          "bvid": "BV1d14y1f72s",
+          "title": "信息类大题！新题型？顺序作用！说明语言？【学过石油的语文老师】",
+          "duration": 1660,
+          "pubdate": 1682424000,
+          "cover": "https://i2.hdslb.com/bfs/archive/5c2ad07ccff66270c69577339cebba0181983fc0.jpg",
+          "views": 726537,
+          "danmaku": 6952,
+          "url": "https://www.bilibili.com/video/BV1d14y1f72s"
+        },
+        {
+          "bvid": "BV1zM411a7ej",
+          "title": "题型梳理！语言文字应用题？内在逻辑！无论咋考都不怕？【学过石油的语文老师】",
+          "duration": 841,
+          "pubdate": 1673006400,
+          "cover": "https://i0.hdslb.com/bfs/archive/38ff79c6ef6aee97d6a46634831c52efe8bba831.jpg",
+          "views": 843281,
+          "danmaku": 5323,
+          "url": "https://www.bilibili.com/video/BV1zM411a7ej"
+        },
+        {
+          "bvid": "BV1RK421s7Zt",
+          "title": "一招鲜？杀遍天！语言文字运用？选择题！【语文大合集37】",
+          "duration": 985,
+          "pubdate": 1709899200,
+          "cover": "https://i0.hdslb.com/bfs/archive/8f7112ed7c8aed451f02f82f31fb6b15754d6646.jpg",
+          "views": 907045,
+          "danmaku": 5717,
+          "url": "https://www.bilibili.com/video/BV1RK421s7Zt"
+        },
+        {
+          "bvid": "BV1CM411t79Z",
+          "title": "标点符号？修辞人称！成语补写？还有病句！【学过石油的语文老师】",
+          "duration": 3505,
+          "pubdate": 1674342000,
+          "cover": "https://i1.hdslb.com/bfs/archive/483fa0e59a4c3363f3bfdf762884f3fcc47f2b36.jpg",
+          "views": 787821,
+          "danmaku": 12168,
+          "url": "https://www.bilibili.com/video/BV1CM411t79Z"
+        },
+        {
+          "bvid": "BV1qd4y1T7Yo",
+          "title": "新题型？难度爆炸！成语填空？咱们不怕！【学过石油的语文老师】",
+          "duration": 1028,
+          "pubdate": 1659700800,
+          "cover": "https://i0.hdslb.com/bfs/archive/9a52aea633cb4ba216235927cd78f01f4dc9f6a9.jpg",
+          "views": 1635117,
+          "danmaku": 25673,
+          "url": "https://www.bilibili.com/video/BV1qd4y1T7Yo"
+        },
+        {
+          "bvid": "BV1FZ42187hx",
+          "title": "成语填空？就是补写句子！核心方法？快速掌握！【语文大合集39】",
+          "duration": 1407,
+          "pubdate": 1711108800,
+          "cover": "https://i2.hdslb.com/bfs/archive/1d1c0ae0ec9c3dca4b05944a6b747eb2668874fc.jpg",
+          "views": 872201,
+          "danmaku": 6147,
+          "url": "https://www.bilibili.com/video/BV1FZ42187hx"
+        },
+        {
+          "bvid": "BV1iy4y197Nt",
+          "title": "成语填空=补写句子+句子变换！【学过石油的语文老师】",
+          "duration": 3369,
+          "pubdate": 1674950400,
+          "cover": "https://i1.hdslb.com/bfs/archive/6a799116a7b6ead9cfb9ca9523f3757ed83705d1.jpg",
+          "views": 841514,
+          "danmaku": 13556,
+          "url": "https://www.bilibili.com/video/BV1iy4y197Nt"
+        },
+        {
+          "bvid": "BV1zm411S78F",
+          "title": "病句大题！咋修改？【语文大合集36】",
+          "duration": 1515,
+          "pubdate": 1709294400,
+          "cover": "https://i1.hdslb.com/bfs/archive/e3e40a7179814a009996f56f599cb071d1d9d4bc.jpg",
+          "views": 1286965,
+          "danmaku": 9869,
+          "url": "https://www.bilibili.com/video/BV1zm411S78F"
+        },
+        {
+          "bvid": "BV1ED4y1T7rS",
+          "title": "新题预测？病句综合！朝花夕拾？语言得体！【学过石油的语文老师】",
+          "duration": 3438,
+          "pubdate": 1675555200,
+          "cover": "https://i2.hdslb.com/bfs/archive/8771195355e195702d866ff549c44b1175040758.jpg",
+          "views": 583708,
+          "danmaku": 5197,
+          "url": "https://www.bilibili.com/video/BV1ED4y1T7rS"
+        },
+        {
+          "bvid": "BV1gp42117v1",
+          "title": "创新重灾区？最杂题型！从此不再懵？语言文字效果题！【语文大合集40】",
+          "duration": 1697,
+          "pubdate": 1711713600,
+          "cover": "https://i0.hdslb.com/bfs/archive/534dccf0e0d90b7d69ab6e36fa8f3bab37a9be53.jpg",
+          "views": 1136497,
+          "danmaku": 6697,
+          "url": "https://www.bilibili.com/video/BV1gp42117v1"
+        },
+        {
+          "bvid": "BV1NB4y1G7fP",
+          "title": "新型难题！容易忽略？原句改句！语言文字应用？表达效果题！【学过石油的语文老师】",
+          "duration": 1582,
+          "pubdate": 1661515200,
+          "cover": "https://i2.hdslb.com/bfs/archive/267b14a2cf94e9d9911e4440f492fc2a0bc649f6.jpg",
+          "views": 921447,
+          "danmaku": 8450,
+          "url": "https://www.bilibili.com/video/BV1NB4y1G7fP"
+        },
+        {
+          "bvid": "BV14R4y1q7wb",
+          "title": "长句改短句？整句改散句！单句改复句？从此有头绪！【学过石油的语文老师】",
+          "duration": 1378,
+          "pubdate": 1676030400,
+          "cover": "https://i2.hdslb.com/bfs/archive/8de2c815e11a1e03020f378ddd490d3c9a5c13b5.jpg",
+          "views": 1077612,
+          "danmaku": 9886,
+          "url": "https://www.bilibili.com/video/BV14R4y1q7wb"
+        },
+        {
+          "bvid": "BV1hv4y1e7Rj",
+          "title": "语言文字？压缩语段！不怕创新？缩写拿分！【学过石油的语文老师】",
+          "duration": 1552,
+          "pubdate": 1677240000,
+          "cover": "https://i2.hdslb.com/bfs/archive/df671a9ccb17e4834af59eecf255ea1f89aa948b.jpg",
+          "views": 459887,
+          "danmaku": 2309,
+          "url": "https://www.bilibili.com/video/BV1hv4y1e7Rj"
+        },
+        {
+          "bvid": "BV1TZ4y1S7mR",
+          "title": "新闻概括？缩写？彻底学会！压缩语段！【学过石油的语文老师】",
+          "duration": 2603,
+          "pubdate": 1641592801,
+          "cover": "https://i0.hdslb.com/bfs/archive/16957848c013e6e5da73e0fba7c3b76065a4319f.jpg",
+          "views": 492319,
+          "danmaku": 8003,
+          "url": "https://www.bilibili.com/video/BV1TZ4y1S7mR"
+        },
+        {
+          "bvid": "BV1wp42127DE",
+          "title": "新题预测？打预防针！偷师北大？认知语言学！【语文大合集41】",
+          "duration": 1043,
+          "pubdate": 1712318400,
+          "cover": "https://i0.hdslb.com/bfs/archive/ee166ebfd6501badf3173de6c3d30c452720b95c.jpg",
+          "views": 747316,
+          "danmaku": 5042,
+          "url": "https://www.bilibili.com/video/BV1wp42127DE"
+        },
+        {
+          "bvid": "BV1e84y1h7oe",
+          "title": "乡土中国？到底考不考！名著题？怎么快速得分！【学过石油的语文老师】",
+          "duration": 1960,
+          "pubdate": 1673611200,
+          "cover": "https://i2.hdslb.com/bfs/archive/76edf9eaa3f50dd62b093810a744e9f193d50754.jpg",
+          "views": 2515342,
+          "danmaku": 21000,
+          "url": "https://www.bilibili.com/video/BV1e84y1h7oe"
+        },
+        {
+          "bvid": "BV13R4y1F7zs",
+          "title": "没读过！红楼梦？高考要考！怎么办？【学过石油的语文老师】",
+          "duration": 697,
+          "pubdate": 1647000312,
+          "cover": "https://i0.hdslb.com/bfs/archive/391354af6ff7db3925450cdfee4dbbaacef52ade.jpg",
+          "views": 2831918,
+          "danmaku": 7799,
+          "url": "https://www.bilibili.com/video/BV13R4y1F7zs"
+        },
+        {
+          "bvid": "BV1o84y1n7XJ",
+          "title": "名著题！《红楼梦》？考什么！怎么备考？【学过石油的语文老师】",
+          "duration": 1398,
+          "pubdate": 1676635200,
+          "cover": "https://i1.hdslb.com/bfs/archive/d14493b7ae7b96f51056d325ada3784e2a87f4c2.jpg",
+          "views": 700535,
+          "danmaku": 6267,
+          "url": "https://www.bilibili.com/video/BV1o84y1n7XJ"
+        },
+        {
+          "bvid": "BV1NQ4y1o77x",
+          "title": "新高考？语言文字应用？标点和修辞！【学过石油的语文老师】",
+          "duration": 679,
+          "pubdate": 1620810012,
+          "cover": "https://i2.hdslb.com/bfs/archive/7c61580d43aa8623e5f0fd728661f76e3ad4ad0b.jpg",
+          "views": 706122,
+          "danmaku": 3087,
+          "url": "https://www.bilibili.com/video/BV1NQ4y1o77x"
+        },
+        {
+          "bvid": "BV13U4y1e7Yw",
+          "title": "借代！究竟是啥手法？和借喻有啥区别？【学过石油的语文老师】",
+          "duration": 1023,
+          "pubdate": 1660305600,
+          "cover": "https://i0.hdslb.com/bfs/archive/f72222d9dc5893b2184c275a350c30aee2209524.jpg",
+          "views": 921842,
+          "danmaku": 4834,
+          "url": "https://www.bilibili.com/video/BV13U4y1e7Yw"
+        },
+        {
+          "bvid": "BV1vB4y167k3",
+          "title": "修改病句？赏析修辞！全新题型？地狱难度！【学过石油的语文老师】",
+          "duration": 4900,
+          "pubdate": 1660431600,
+          "cover": "https://i0.hdslb.com/bfs/archive/e5b23778abb357394af0ff7532ed9c08df243d69.jpg",
+          "views": 941910,
+          "danmaku": 16241,
+          "url": "https://www.bilibili.com/video/BV1vB4y167k3"
+        },
+        {
+          "bvid": "BV1kY411F7vv",
+          "title": "语言文字应用？大题！考前冲刺？必会基础！【学过石油的语文老师】",
+          "duration": 2754,
+          "pubdate": 1653170400,
+          "cover": "https://i0.hdslb.com/bfs/archive/f4772d458263510d93de34fbd288a2e5e6003203.jpg",
+          "views": 636441,
+          "danmaku": 5994,
+          "url": "https://www.bilibili.com/video/BV1kY411F7vv"
+        },
+        {
+          "bvid": "BV1gi421f7D3",
+          "title": "语言文字？吃干抹净！2023新题型？终于搞定！【语文大合集42】",
+          "duration": 1505,
+          "pubdate": 1712923200,
+          "cover": "https://i0.hdslb.com/bfs/archive/a2f4810c9fbce3dbc5dfb7a1306581ef87c3c59f.jpg",
+          "views": 874213,
+          "danmaku": 3493,
+          "url": "https://www.bilibili.com/video/BV1gi421f7D3"
+        },
+        {
+          "bvid": "BV1Ni4y1o7xh",
+          "title": "语句连贯？语段衔接？补写？科学提分！【学过石油的语文老师】",
+          "duration": 2739,
+          "pubdate": 1639778409,
+          "cover": "https://i1.hdslb.com/bfs/archive/7ba53e84b3e94853acb0bdaad3197d4c97c694dd.jpg",
+          "views": 791510,
+          "danmaku": 12620,
+          "url": "https://www.bilibili.com/video/BV1Ni4y1o7xh"
+        },
+        {
+          "bvid": "BV1Yc411G7YC",
+          "title": "考前冲刺梳理！语言文字应用？【学过石油的语文老师】",
+          "duration": 4902,
+          "pubdate": 1685232000,
+          "cover": "https://i0.hdslb.com/bfs/archive/231d263524b8eba9071ab6b716e07e6f3f2098f4.jpg",
+          "views": 1155214,
+          "danmaku": 14964,
+          "url": "https://www.bilibili.com/video/BV1Yc411G7YC"
+        },
+        {
+          "bvid": "BV1SM4y1P7sW",
+          "title": "千万别让命题人看到！卡BUG秒杀？病句题！【学过石油的语文老师】",
+          "duration": 2732,
+          "pubdate": 1638569718,
+          "cover": "https://i2.hdslb.com/bfs/archive/dd7d00dc4c2f81d2acdf1bf6a59ef5bb1e4dc9e7.jpg",
+          "views": 998777,
+          "danmaku": 11699,
+          "url": "https://www.bilibili.com/video/BV1SM4y1P7sW"
+        },
+        {
+          "bvid": "BV1HL4y1e7k1",
+          "title": "高考成语不用背！语文考试直接会！【学过石油的语文老师】",
+          "duration": 3434,
+          "pubdate": 1628892008,
+          "cover": "https://i1.hdslb.com/bfs/archive/fa2c678a56a30b2f39b149b4b86f7ff3fdd0dd7d.jpg",
+          "views": 669054,
+          "danmaku": 8942,
+          "url": "https://www.bilibili.com/video/BV1HL4y1e7k1"
+        },
+        {
+          "bvid": "BV1Hg411f7K3",
+          "title": "不卖焦虑！真实有效！还剩一年？咋学语文！【学过石油的语文老师】",
+          "duration": 480,
+          "pubdate": 1657627872,
+          "cover": "https://i2.hdslb.com/bfs/archive/ac1b113530161d932546b7ef0c71cf7ce5acc5da.jpg",
+          "views": 2560178,
+          "danmaku": 15169,
+          "url": "https://www.bilibili.com/video/BV1Hg411f7K3"
+        },
+        {
+          "bvid": "BV1Li4y1y77t",
+          "title": "还剩100天？语文变神仙！【学过石油的语文老师】",
+          "duration": 546,
+          "pubdate": 1645790516,
+          "cover": "https://i2.hdslb.com/bfs/archive/32b2b8abe6f1c9d27a77e6056e48f66e4bd6fe85.jpg",
+          "views": 1337970,
+          "danmaku": 6141,
+          "url": "https://www.bilibili.com/video/BV1Li4y1y77t"
+        },
+        {
+          "bvid": "BV14t421K7R2",
+          "title": "选择题？快速得分！高考语文？头脑不昏！【语文大合集46】",
+          "duration": 1336,
+          "pubdate": 1717416000,
+          "cover": "https://i0.hdslb.com/bfs/archive/4c3c1b862076ba8db93c6904263fa1635b1beb3c.jpg",
+          "views": 3276798,
+          "danmaku": 57550,
+          "url": "https://www.bilibili.com/video/BV14t421K7R2"
+        },
+        {
+          "bvid": "BV17M4y1v7pZ",
+          "title": "语文选择？又快又准！高考冲刺？又稳又狠！【学过石油的语文老师】",
+          "duration": 2633,
+          "pubdate": 1685829600,
+          "cover": "https://i0.hdslb.com/bfs/archive/a7f30b66339835ff3f0d8aa6fe837b999b4cdc2e.jpg",
+          "views": 2720753,
+          "danmaku": 75024,
+          "url": "https://www.bilibili.com/video/BV17M4y1v7pZ"
+        },
+        {
+          "bvid": "BV1oh4y1s7Lb",
+          "title": "所有大题？答题模板！高考语文？必胜高分！【学过石油的语文老师】",
+          "duration": 3143,
+          "pubdate": 1685707200,
+          "cover": "https://i0.hdslb.com/bfs/archive/1fb2aa2bcc766112dc09f7f93a755a4fa971e530.jpg",
+          "views": 7353687,
+          "danmaku": 65296,
+          "url": "https://www.bilibili.com/video/BV1oh4y1s7Lb"
+        },
+        {
+          "bvid": "BV1uS411K7au",
+          "title": "高考语文？冲刺！答题模板？大题！【语文大合集45】",
+          "duration": 6151,
+          "pubdate": 1717243200,
+          "cover": "https://i2.hdslb.com/bfs/archive/32ba6eb90c7e21752570ce02813df160c7a458a2.jpg",
+          "views": 2519826,
+          "danmaku": 44549,
+          "url": "https://www.bilibili.com/video/BV1uS411K7au"
+        },
+        {
+          "bvid": "BV1oS4y1v7zX",
+          "title": "语文抱佛脚！答题模板？考完发给同桌！【学过石油的语文老师】",
+          "duration": 1920,
+          "pubdate": 1654259097,
+          "cover": "https://i0.hdslb.com/bfs/archive/4f83d0c1bd4878093e430bd112cfdcdd95987551.jpg",
+          "views": 6548243,
+          "danmaku": 80623,
+          "url": "https://www.bilibili.com/video/BV1oS4y1v7zX"
+        },
+        {
+          "bvid": "BV1fA41117H3",
+          "title": "高考趋势？教育部官方！四省联考？三套好作文！【学过石油的语文老师】",
+          "duration": 3841,
+          "pubdate": 1677369600,
+          "cover": "https://i2.hdslb.com/bfs/archive/c5496cd17d5140194541bca35b5d1b0c2f805df3.jpg",
+          "views": 704963,
+          "danmaku": 5323,
+          "url": "https://www.bilibili.com/video/BV1fA41117H3"
+        },
+        {
+          "bvid": "BV1LY411P7xn",
+          "title": "最难小说？鲁迅《铸剑》！深刻剖析？湛江二模！【学过石油的语文老师】",
+          "duration": 4267,
+          "pubdate": 1650751200,
+          "cover": "https://i0.hdslb.com/bfs/archive/b7b05f20ff4a061530cfc4dddf63bd523b672fc3.jpg",
+          "views": 579006,
+          "danmaku": 12660,
+          "url": "https://www.bilibili.com/video/BV1LY411P7xn"
+        },
+        {
+          "bvid": "BV17K411Y76F",
+          "title": "语文趋势？逐题精讲！教育部命题？九省联考！【语文大合集30】",
+          "duration": 6906,
+          "pubdate": 1706011200,
+          "cover": "https://i2.hdslb.com/bfs/archive/bbd98789bdde3c1bb25dc7cefa8154b2a8707988.jpg",
+          "views": 719167,
+          "danmaku": 6920,
+          "url": "https://www.bilibili.com/video/BV17K411Y76F"
+        },
+        {
+          "bvid": "BV18s4y1R7oN",
+          "title": "倒叙插叙？语言效果！深层含义？小说散文！【学过石油的语文老师】",
+          "duration": 3901,
+          "pubdate": 1682812800,
+          "cover": "https://i0.hdslb.com/bfs/archive/e077a0d6badf539feaeae609694b65c0cffe5632.jpg",
+          "views": 677855,
+          "danmaku": 6352,
+          "url": "https://www.bilibili.com/video/BV18s4y1R7oN"
+        },
+        {
+          "bvid": "BV1nN4y1B77R",
+          "title": "逐题拆解？深挖趋势！T8联考语文！？【语文大合集27】",
+          "duration": 6246,
+          "pubdate": 1704067200,
+          "cover": "https://i1.hdslb.com/bfs/archive/0547e9a17803b831729dbe7d64358a450d29f6d3.jpg",
+          "views": 853798,
+          "danmaku": 15272,
+          "url": "https://www.bilibili.com/video/BV1nN4y1B77R"
+        },
+        {
+          "bvid": "BV1RF411H71n",
+          "title": "T8联考？妈妈！我悟了！语文原来这么简单？【学过石油的语文老师】",
+          "duration": 2439,
+          "pubdate": 1642284017,
+          "cover": "https://i0.hdslb.com/bfs/archive/488ecdf44ba2f49cf3a90dbfbc16eb01c02d88e5.jpg",
+          "views": 382065,
+          "danmaku": 2024,
+          "url": "https://www.bilibili.com/video/BV1RF411H71n"
+        },
+        {
+          "bvid": "BV1W54y1f7yj",
+          "title": "高考冲刺？预测趋势！小说散文？考前刷题！【学过石油的语文老师】",
+          "duration": 3090,
+          "pubdate": 1651960800,
+          "cover": "https://i1.hdslb.com/bfs/archive/6504694e53c6a674cf1b6fc354f3ccbc3b384992.jpg",
+          "views": 558024,
+          "danmaku": 7696,
+          "url": "https://www.bilibili.com/video/BV1W54y1f7yj"
+        },
+        {
+          "bvid": "BV11L411U7Hq",
+          "title": "难得好题？福建质检！精讲现代文？还魂救“敏”！【学过石油的语文老师】",
+          "duration": 4211,
+          "pubdate": 1680998400,
+          "cover": "https://i2.hdslb.com/bfs/archive/6eaf5f2c7bc110924ee4884af154e8d53e1afe0c.jpg",
+          "views": 541775,
+          "danmaku": 5376,
+          "url": "https://www.bilibili.com/video/BV11L411U7Hq"
+        },
+        {
+          "bvid": "BV1Lk4y1j7Yf",
+          "title": "高考冲刺？古诗刷题！更有拓展知识点？！【学过石油的语文老师】",
+          "duration": 3615,
+          "pubdate": 1683417600,
+          "cover": "https://i2.hdslb.com/bfs/archive/aad9b25c23ab54d8cc0cc38646989a12a4912134.jpg",
+          "views": 638260,
+          "danmaku": 7097,
+          "url": "https://www.bilibili.com/video/BV1Lk4y1j7Yf"
+        },
+        {
+          "bvid": "BV1cv4y1o7bR",
+          "title": "高分逻辑？刷题！文言文+古诗？考试不愁！【学过石油的语文老师】",
+          "duration": 3424,
+          "pubdate": 1670112000,
+          "cover": "https://i0.hdslb.com/bfs/archive/06e8df757a4a7dc8b28b2eecbe1aa5339a299fa6.jpg",
+          "views": 725003,
+          "danmaku": 12078,
+          "url": "https://www.bilibili.com/video/BV1cv4y1o7bR"
+        },
+        {
+          "bvid": "BV1Vc411K7NN",
+          "title": "文学类考日记？诗歌问哲理！信息类文本特性？！【学过石油的语文老师】",
+          "duration": 1053,
+          "pubdate": 1683633600,
+          "cover": "https://i1.hdslb.com/bfs/archive/01dc7e642b2ccadba9fd138f3afa554198ca4e04.jpg",
+          "views": 390566,
+          "danmaku": 2008,
+          "url": "https://www.bilibili.com/video/BV1Vc411K7NN"
+        },
+        {
+          "bvid": "BV1eu411v7pz",
+          "title": "最难一模？好题集锦！更有？名著新题！【学过石油的语文老师】",
+          "duration": 783,
+          "pubdate": 1648645200,
+          "cover": "https://i1.hdslb.com/bfs/archive/68930f3030e26fdd3803674ae33b34dbce301a7e.jpg",
+          "views": 508165,
+          "danmaku": 3031,
+          "url": "https://www.bilibili.com/video/BV1eu411v7pz"
+        },
+        {
+          "bvid": "BV1kPCaYkEBz",
+          "title": "谁说这题新的？这题可太老了！高考语文？2024真题！【学过石油的语文老师】",
+          "duration": 4527,
+          "pubdate": 1735387200,
+          "cover": "https://i2.hdslb.com/bfs/archive/5be12b5f405b85e29c37a3a79cccbc3270a48e67.jpg",
+          "views": 1035770,
+          "danmaku": 5250,
+          "url": "https://www.bilibili.com/video/BV1kPCaYkEBz"
+        }
+      ]
+    },
+    {
+      "season_id": 1510168,
+      "title": "高考真题",
+      "intro": "覆盖2020-2024所有全国卷（新老高考）\n及2019、2020、2022、2023官方模拟题",
+      "cover": "https://archive.biliimg.com/bfs/archive/4eb6bc90df7a4325e335bcf39aeb662319bb1621.jpg",
+      "total": 4,
+      "fetched": 4,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1NM4m127y5",
+          "title": "高考语文2023新Ⅰ？官方答案！人话解析！逐题精讲？【学过石油的语文老师】",
+          "duration": 8322,
+          "pubdate": 1721239200,
+          "cover": "https://i0.hdslb.com/bfs/archive/b16a11f633bbba7915c178d206983cc0b5d4c548.jpg",
+          "views": 1259128,
+          "danmaku": 6409,
+          "url": "https://www.bilibili.com/video/BV1NM4m127y5"
+        },
+        {
+          "bvid": "BV1PCtGegEox",
+          "title": "高考语文2023新Ⅱ？官方答案！人话解析！逐题精讲？【学过石油的语文老师】",
+          "duration": 3769,
+          "pubdate": 1727632800,
+          "cover": "https://i2.hdslb.com/bfs/archive/78b483826037487a3fd212a1bc1ced9d4eb49e3d.jpg",
+          "views": 401780,
+          "danmaku": 1440,
+          "url": "https://www.bilibili.com/video/BV1PCtGegEox"
+        },
+        {
+          "bvid": "BV12M4m127ij",
+          "title": "高考语文2023甲卷？官方答案！人话解析！逐题精讲？【学过石油的语文老师】",
+          "duration": 4435,
+          "pubdate": 1721239500,
+          "cover": "https://i0.hdslb.com/bfs/archive/580bd07bbb85b4e25df40e558f13608d55d399a8.jpg",
+          "views": 203699,
+          "danmaku": 1568,
+          "url": "https://www.bilibili.com/video/BV12M4m127ij"
+        },
+        {
+          "bvid": "BV1GH4y1A78B",
+          "title": "高考语文2023乙卷？官方答案！人话解析！逐题精讲？【学过石油的语文老师】",
+          "duration": 4058,
+          "pubdate": 1721239800,
+          "cover": "https://i2.hdslb.com/bfs/archive/f2f47f07605b2164c30ef31cb466782f044b7672.jpg",
+          "views": 259635,
+          "danmaku": 1593,
+          "url": "https://www.bilibili.com/video/BV1GH4y1A78B"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 5,
+    "videos": 305,
+    "truncated_collections": []
+  }
+}

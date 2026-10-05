@@ -1,0 +1,605 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791184624362,
+  "source": {
+    "platform": "bilibili",
+    "author": "一政er",
+    "mid": 1783648697,
+    "space": "https://space.bilibili.com/1783648697"
+  },
+  "collections": [
+    {
+      "season_id": 8551178,
+      "title": "初高衔接（完）",
+      "intro": "初高衔接主要针对刚刚中考完\n想要提前了解“高中政治”的宝子！\n以兴趣激发为主、不会面面俱到~",
+      "cover": "https://archive.biliimg.com/bfs/archive/f6707984675c50c7d8baa732f1532dfcf3ed1654.jpg",
+      "total": 4,
+      "fetched": 4,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1PdNA6cEM8",
+          "title": "初高衔接 | 高中政治必修1提前学，准高一暑假不摆烂~",
+          "duration": 690,
+          "pubdate": 1783776286,
+          "cover": "https://i0.hdslb.com/bfs/archive/ba42a2f06f883ce1bc3e924632c5bdc3ce00f3c2.jpg",
+          "views": 130976,
+          "danmaku": 673,
+          "url": "https://www.bilibili.com/video/BV1PdNA6cEM8"
+        },
+        {
+          "bvid": "BV19gKJ6fEoy",
+          "title": "初高衔接 | 新高一速学必修一·资本主义经济危机",
+          "duration": 526,
+          "pubdate": 1784258209,
+          "cover": "https://i1.hdslb.com/bfs/archive/e9b8204888f9e2f20d855262db25605390f38bdb.jpg",
+          "views": 73074,
+          "danmaku": 531,
+          "url": "https://www.bilibili.com/video/BV19gKJ6fEoy"
+        },
+        {
+          "bvid": "BV1osge6JENZ",
+          "title": "初高衔接 | 准高一预习：科学社会主义理论与实践~高中政治提前学！",
+          "duration": 1270,
+          "pubdate": 1784905070,
+          "cover": "https://i0.hdslb.com/bfs/archive/432b079d39160f3b5039cea5e12d3b7731c4a87c.jpg",
+          "views": 49674,
+          "danmaku": 803,
+          "url": "https://www.bilibili.com/video/BV1osge6JENZ"
+        },
+        {
+          "bvid": "BV1zZGG6NEdC",
+          "title": "初高衔接 | 准高一暑假速通“百年党史”，20分钟拿下第2、3、4课~",
+          "duration": 1400,
+          "pubdate": 1785583522,
+          "cover": "https://i1.hdslb.com/bfs/archive/b0f6cd2aa33f31294de24be56bb650a796b339c4.jpg",
+          "views": 53687,
+          "danmaku": 401,
+          "url": "https://www.bilibili.com/video/BV1zZGG6NEdC"
+        }
+      ]
+    },
+    {
+      "season_id": 7552549,
+      "title": "速通",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/a4c2ba641bc85adc792787f24a1d43eceddf23ef.jpg",
+      "total": 7,
+      "fetched": 7,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1GiXKBqEi7",
+          "title": "速通 | 高中政治必修1·中特！考前抓一抓！",
+          "duration": 6927,
+          "pubdate": 1774612800,
+          "cover": "https://i0.hdslb.com/bfs/archive/008acb156d7a0ea3b07fef94fb6f8dd345ec4c05.jpg",
+          "views": 124109,
+          "danmaku": 651,
+          "url": "https://www.bilibili.com/video/BV1GiXKBqEi7"
+        },
+        {
+          "bvid": "BV1hLKM6dEMF",
+          "title": "速通 | 高中政治·必修2《经济与社会》拆解真题题肢易混易错~【ing】",
+          "duration": 2566,
+          "pubdate": 1784424600,
+          "cover": "https://i2.hdslb.com/bfs/archive/77114ebf4a46f0639d76bcbd2928e7663ce1eed9.jpg",
+          "views": 52445,
+          "danmaku": 24,
+          "url": "https://www.bilibili.com/video/BV1hLKM6dEMF"
+        },
+        {
+          "bvid": "BV1pqRMBaEZn",
+          "title": "速通｜必修3·政治与法治核心考点！抱佛脚！（高一、高三）",
+          "duration": 8471,
+          "pubdate": 1777615838,
+          "cover": "https://i0.hdslb.com/bfs/archive/897f781dd719da21b61a8e4f4dda7efca1571ec4.jpg",
+          "views": 108738,
+          "danmaku": 145,
+          "url": "https://www.bilibili.com/video/BV1pqRMBaEZn"
+        },
+        {
+          "bvid": "BV1gn6SBWEjg",
+          "title": "速通｜上大分！必修4·哲学部分！直通核心考点不走弯路",
+          "duration": 10776,
+          "pubdate": 1768048402,
+          "cover": "https://i1.hdslb.com/bfs/archive/7e034657d5f6681b82224331f76e3a329de20068.jpg",
+          "views": 200494,
+          "danmaku": 1235,
+          "url": "https://www.bilibili.com/video/BV1gn6SBWEjg"
+        },
+        {
+          "bvid": "BV1AVr1BiEed",
+          "title": "速通｜必修4·文化部分核心考点！救心丸！讲练结合高效学习！超多高考题~",
+          "duration": 2472,
+          "pubdate": 1768611600,
+          "cover": "https://i0.hdslb.com/bfs/archive/97b9c961b509b0eab1df403d0c4c76f523ec97a7.jpg",
+          "views": 109873,
+          "danmaku": 538,
+          "url": "https://www.bilibili.com/video/BV1AVr1BiEed"
+        },
+        {
+          "bvid": "BV1fqNwzYE5V",
+          "title": "速通｜选必1·国政经核心考点！抱佛脚！（高二、高三）",
+          "duration": 14214,
+          "pubdate": 1772886431,
+          "cover": "https://i2.hdslb.com/bfs/archive/78588f6d0dfc28a3d2c8ab2b70bb1990ca604c12.jpg",
+          "views": 91709,
+          "danmaku": 973,
+          "url": "https://www.bilibili.com/video/BV1fqNwzYE5V"
+        },
+        {
+          "bvid": "BV1QLbj6ME3J",
+          "title": "速通 | 《逻辑与思维》高中政治·选必3拆解真题题肢易混易错~【ing】",
+          "duration": 2740,
+          "pubdate": 1788608917,
+          "cover": "https://i0.hdslb.com/bfs/archive/06e39438b9b14ec779d9f821d752d91e55b2287d.jpg",
+          "views": 44162,
+          "danmaku": 3,
+          "url": "https://www.bilibili.com/video/BV1QLbj6ME3J"
+        }
+      ]
+    },
+    {
+      "season_id": 6338524,
+      "title": "高考系统课",
+      "intro": "复习可听\n不限于高三\n正在更新....",
+      "cover": "https://archive.biliimg.com/bfs/archive/700f4ceb9f2bc5af1e6e15425f1de6c8467118bb.jpg",
+      "total": 15,
+      "fetched": 15,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1d5p7zjEcG",
+          "title": "一轮！中特篇·第一课社会主义从空想到科学、从理论到实践的发展，超级好懂的～",
+          "duration": 4888,
+          "pubdate": 1757749929,
+          "cover": "https://i2.hdslb.com/bfs/archive/322e202e968e62565e6c0135f1ca01dffd92629b.jpg",
+          "views": 396988,
+          "danmaku": 1804,
+          "url": "https://www.bilibili.com/video/BV1d5p7zjEcG"
+        },
+        {
+          "bvid": "BV13LnvzQEti",
+          "title": "高三政治一轮复习·中特·只有社会主义才能救中国！（高一复习可看）",
+          "duration": 3676,
+          "pubdate": 1758891600,
+          "cover": "https://i0.hdslb.com/bfs/archive/4f267c926f84a0bca35f5a8fe8d046c1de134e65.jpg",
+          "views": 96852,
+          "danmaku": 498,
+          "url": "https://www.bilibili.com/video/BV13LnvzQEti"
+        },
+        {
+          "bvid": "BV1fdxhziERD",
+          "title": "高中政治一轮复习·中特篇完结！高一复习可听！只有中国特色社会主义才能发展中国&只有坚持和发展中国特色社会主义才能实现中华民族伟大复兴",
+          "duration": 6162,
+          "pubdate": 1759643977,
+          "cover": "https://i1.hdslb.com/bfs/archive/1e4531f4527d25fa47a30ffba38883acc5cbd9f9.jpg",
+          "views": 106694,
+          "danmaku": 675,
+          "url": "https://www.bilibili.com/video/BV1fdxhziERD"
+        },
+        {
+          "bvid": "BV1S7WhzyEBw",
+          "title": "一轮！必修2经济与社会之经济总论| 生产力、生产关系、新质生产力&经济四环节&消费、内需、内循环",
+          "duration": 2607,
+          "pubdate": 1760830200,
+          "cover": "https://i2.hdslb.com/bfs/archive/078e68e3e36bc457ba6a81fb2343030c706b328e.jpg",
+          "views": 146998,
+          "danmaku": 701,
+          "url": "https://www.bilibili.com/video/BV1S7WhzyEBw"
+        },
+        {
+          "bvid": "BV1et1mBBEfd",
+          "title": "[政治一轮] 公有制经济！那些书上没细讲但爱考的概念通通讲一遍！",
+          "duration": 4182,
+          "pubdate": 1762569000,
+          "cover": "https://i1.hdslb.com/bfs/archive/97c1dad5a5dbe66a45e25bfdee8097e6bb9d1d60.jpg",
+          "views": 63953,
+          "danmaku": 458,
+          "url": "https://www.bilibili.com/video/BV1et1mBBEfd"
+        },
+        {
+          "bvid": "BV1EqmmBJE9N",
+          "title": "[政治一轮] 非公有制经济！民营经济、营商环境、市场准入、融资",
+          "duration": 2373,
+          "pubdate": 1765543351,
+          "cover": "https://i2.hdslb.com/bfs/archive/5fca8ceeefc073965f2cffd6faf34d8174b307f3.jpg",
+          "views": 49922,
+          "danmaku": 246,
+          "url": "https://www.bilibili.com/video/BV1EqmmBJE9N"
+        },
+        {
+          "bvid": "BV1bV61BkEqS",
+          "title": "复习 | 社会主义市场经济、手拿把掐！",
+          "duration": 3727,
+          "pubdate": 1769864097,
+          "cover": "https://i2.hdslb.com/bfs/archive/402376281d1020d4bcad26d6683aa64fb121e242.jpg",
+          "views": 51023,
+          "danmaku": 268,
+          "url": "https://www.bilibili.com/video/BV1bV61BkEqS"
+        },
+        {
+          "bvid": "BV1qVsRzbEBs",
+          "title": "一轮哲学！彻底学会唯物辩证联系观·考法拆解~真题巩固！（高二高三可看）",
+          "duration": 3031,
+          "pubdate": 1761371172,
+          "cover": "https://i0.hdslb.com/bfs/archive/ea8bfc5825cba7034f82bda7fb2878aafb2bf0cc.jpg",
+          "views": 74657,
+          "danmaku": 297,
+          "url": "https://www.bilibili.com/video/BV1qVsRzbEBs"
+        },
+        {
+          "bvid": "BV1YcU7BxERP",
+          "title": "一轮！发展观就这么考！为啥有的选项不说量变达到一定程度也是对的？什么是否定之否定？",
+          "duration": 2969,
+          "pubdate": 1763778600,
+          "cover": "https://i0.hdslb.com/bfs/archive/3f928127f121391486e9bccebab68fa9cc01faa0.jpg",
+          "views": 31937,
+          "danmaku": 154,
+          "url": "https://www.bilibili.com/video/BV1YcU7BxERP"
+        },
+        {
+          "bvid": "BV16qBZBoEsx",
+          "title": "高考政治·认识论！大彻大悟！",
+          "duration": 3421,
+          "pubdate": 1766797200,
+          "cover": "https://i0.hdslb.com/bfs/archive/10204ae4cdd6c766cf86fc547614c1a40eb5792a.jpg",
+          "views": 32781,
+          "danmaku": 128,
+          "url": "https://www.bilibili.com/video/BV16qBZBoEsx"
+        },
+        {
+          "bvid": "BV1EA1jBsEsf",
+          "title": "[一轮·法律] 民法基础！看似简单，全是考点！都是坑！",
+          "duration": 4114,
+          "pubdate": 1761994787,
+          "cover": "https://i2.hdslb.com/bfs/archive/5469fa7fea7572ba0f8505eb9c44b730872d5f38.jpg",
+          "views": 75885,
+          "danmaku": 614,
+          "url": "https://www.bilibili.com/video/BV1EA1jBsEsf"
+        },
+        {
+          "bvid": "BV1gMSABEEQM",
+          "title": "人身权（人格权+身份权）高中政治法律一轮复习",
+          "duration": 3136,
+          "pubdate": 1764456732,
+          "cover": "https://i2.hdslb.com/bfs/archive/c0015b7a839dc3af942e67cb4954ee71253326a1.jpg",
+          "views": 47627,
+          "danmaku": 265,
+          "url": "https://www.bilibili.com/video/BV1gMSABEEQM"
+        },
+        {
+          "bvid": "BV1hmvdBhEf7",
+          "title": "政治复习·物权 | 所有权、用益物权、担保物权一网打尽，特殊动产所有权转移、善意取得重点讲解",
+          "duration": 4653,
+          "pubdate": 1767321468,
+          "cover": "https://i1.hdslb.com/bfs/archive/fbc0235651d50ccd45a8b4892be1f3164a0e8d2c.jpg",
+          "views": 51035,
+          "danmaku": 642,
+          "url": "https://www.bilibili.com/video/BV1hmvdBhEf7"
+        },
+        {
+          "bvid": "BV1QiZUBNEvE",
+          "title": "政治复习 | 知识产权、手拿把掐! （著作权、专利权、商标权）选必2法律、高二高三复习可听",
+          "duration": 3913,
+          "pubdate": 1771386276,
+          "cover": "https://i0.hdslb.com/bfs/archive/06be437a359fe2cf49eee8ed6210084dd75368b4.jpg",
+          "views": 55306,
+          "danmaku": 432,
+          "url": "https://www.bilibili.com/video/BV1QiZUBNEvE"
+        },
+        {
+          "bvid": "BV166h96YEyA",
+          "title": "系统课 | 合同 · 高中政治选必二法律复习·高二、高三复习",
+          "duration": 2203,
+          "pubdate": 1790424959,
+          "cover": "https://i1.hdslb.com/bfs/archive/a60e6fc70d1ac78d2823480fa4f3fc314a874c0e.jpg",
+          "views": 40921,
+          "danmaku": 18,
+          "url": "https://www.bilibili.com/video/BV166h96YEyA"
+        }
+      ]
+    },
+    {
+      "season_id": 6302452,
+      "title": "易错易混",
+      "intro": "易错易混知识点的学习很容易让人觉得枯燥还记不住！\n所以本专题会在保证专业性的同时尽量兼顾趣味性！\n让易混的知识变得有趣生动不犯困~\n欢迎大家投稿自己搞不清楚的问题哦~",
+      "cover": "https://archive.biliimg.com/bfs/archive/6a763d3b075deff413c08ef7fa922fae86c76b93.jpg",
+      "total": 8,
+      "fetched": 8,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1TE1dBmEiT",
+          "title": "初次分配、再分配、第三次分配！易混大区分！看完会做题",
+          "duration": 698,
+          "pubdate": 1762646400,
+          "cover": "https://i0.hdslb.com/bfs/archive/0a4909b94996313f328b05c209b5b903ef67fee7.jpg",
+          "views": 80865,
+          "danmaku": 135,
+          "url": "https://www.bilibili.com/video/BV1TE1dBmEiT"
+        },
+        {
+          "bvid": "BV1yqCSBpEAR",
+          "title": "高考就这样考！财政政策、货币政策满分拿到手",
+          "duration": 2157,
+          "pubdate": 1763256306,
+          "cover": "https://i1.hdslb.com/bfs/archive/71974ddf3f074600b4854a6ac153fcb93ca0711e.jpg",
+          "views": 132194,
+          "danmaku": 362,
+          "url": "https://www.bilibili.com/video/BV1yqCSBpEAR"
+        },
+        {
+          "bvid": "BV1JaHZzAEgH",
+          "title": "5年20考！自治组织形式、基层治理形式？盘点哪些形式能创新、丰富？高中政治必修三政法痛点分析",
+          "duration": 533,
+          "pubdate": 1757810326,
+          "cover": "https://i1.hdslb.com/bfs/archive/5b24b36ac78c7af46dec26d447908dbb1f6f47c2.jpg",
+          "views": 53289,
+          "danmaku": 143,
+          "url": "https://www.bilibili.com/video/BV1JaHZzAEgH"
+        },
+        {
+          "bvid": "BV15E2fBME5E",
+          "title": "政体区分“两步走”：君主立宪制、总统制、议会制、半总统制！",
+          "duration": 1659,
+          "pubdate": 1765066901,
+          "cover": "https://i1.hdslb.com/bfs/archive/481ba3c4ba5e77dd6fc82e4ea7ee493bdc69e521.jpg",
+          "views": 152847,
+          "danmaku": 444,
+          "url": "https://www.bilibili.com/video/BV15E2fBME5E"
+        },
+        {
+          "bvid": "BV1Z2hvzdEEV",
+          "title": "易混 | 高考3年7考！证据类型大区分！一哥“出镜”~物证&书证&电子数据&试听资料&证人证言&当事人陈述",
+          "duration": 1735,
+          "pubdate": 1757077200,
+          "cover": "https://i2.hdslb.com/bfs/archive/755b7acd8f08ff9907ba482f9d42c7051c3a4047.jpg",
+          "views": 178070,
+          "danmaku": 400,
+          "url": "https://www.bilibili.com/video/BV1Z2hvzdEEV"
+        },
+        {
+          "bvid": "BV1zF7W6GEL6",
+          "title": "政治易混 | 生命权、身体权、健康权区分（含做题方法）",
+          "duration": 309,
+          "pubdate": 1782548601,
+          "cover": "https://i0.hdslb.com/bfs/archive/2478f20ab45f405ae974656baeacdbf2141b873b.jpg",
+          "views": 12964,
+          "danmaku": 26,
+          "url": "https://www.bilibili.com/video/BV1zF7W6GEL6"
+        },
+        {
+          "bvid": "BV1dMzCB5EJR",
+          "title": "秒懂！生产关系VS上层建筑~超级细致！",
+          "duration": 478,
+          "pubdate": 1769248286,
+          "cover": "https://i2.hdslb.com/bfs/archive/3bcf80c6d74e32bf324d81a965093d4777ff70ae.jpg",
+          "views": 46771,
+          "danmaku": 151,
+          "url": "https://www.bilibili.com/video/BV1dMzCB5EJR"
+        },
+        {
+          "bvid": "BV1qxMc6XE17",
+          "title": "易错易混 | 主要矛盾vs矛盾的主要方面~",
+          "duration": 1199,
+          "pubdate": 1783142737,
+          "cover": "https://i0.hdslb.com/bfs/archive/746597398f579bb2423761ff522901eeef04c73b.jpg",
+          "views": 23568,
+          "danmaku": 50,
+          "url": "https://www.bilibili.com/video/BV1qxMc6XE17"
+        }
+      ]
+    },
+    {
+      "season_id": 6446286,
+      "title": "热词大白话",
+      "intro": "讲解那些考试会考，但是教材没有或者没讲透的高频热点词\n1.大白话讲解“高频热点词”的含义\n2.给出可落地的做题方法\n3.拆解背后的考点\n让你不仅“懂概念”，更会“做对题”",
+      "cover": "https://archive.biliimg.com/bfs/archive/0e73978f2eb78f13d6883003161d56dc421385de.jpg",
+      "total": 5,
+      "fetched": 5,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1VyWBzgEJg",
+          "title": "十五五重点！产业大串讲！[产业结构优化升级、产业链、产业融合、产业布局、产业集聚]全搞定~做题方法+大题术语直接喂嘴里~",
+          "duration": 1437,
+          "pubdate": 1760703425,
+          "cover": "https://i1.hdslb.com/bfs/archive/3c99c5bff2c19893e009b100802367390a9f12f0.jpg",
+          "views": 92208,
+          "danmaku": 437,
+          "url": "https://www.bilibili.com/video/BV1VyWBzgEJg"
+        },
+        {
+          "bvid": "BV1ZQnzzkEXg",
+          "title": "十五五重点 | \"农业社会化服务\"啥意思？咋做题？高中政治必修二高频热点词",
+          "duration": 517,
+          "pubdate": 1759312800,
+          "cover": "https://i0.hdslb.com/bfs/archive/ed09b58b7237c54bdcab49a3d0536560a1710082.jpg",
+          "views": 40939,
+          "danmaku": 190,
+          "url": "https://www.bilibili.com/video/BV1ZQnzzkEXg"
+        },
+        {
+          "bvid": "BV1FnqXBgEhp",
+          "title": "基本公共服务均等化啥意思？做题啥时候选？（含25山东浙江高考政治题）",
+          "duration": 393,
+          "pubdate": 1766147400,
+          "cover": "https://i2.hdslb.com/bfs/archive/d5fb9b6fdda11ac51abc6d0c205d558943528d0a.jpg",
+          "views": 22322,
+          "danmaku": 120,
+          "url": "https://www.bilibili.com/video/BV1FnqXBgEhp"
+        },
+        {
+          "bvid": "BV14drKBeER1",
+          "title": "逆周期、跨周期调节是什么意思？做题秒会！",
+          "duration": 687,
+          "pubdate": 1767963600,
+          "cover": "https://i1.hdslb.com/bfs/archive/cbf0e9334a1ecd635297ae72f2c1a37a9cd40bbe.jpg",
+          "views": 17286,
+          "danmaku": 163,
+          "url": "https://www.bilibili.com/video/BV14drKBeER1"
+        },
+        {
+          "bvid": "BV1ASMM6nETk",
+          "title": "制度型开放是啥？做题什么时候选？高中政治大白话讲术语",
+          "duration": 357,
+          "pubdate": 1783232572,
+          "cover": "https://i1.hdslb.com/bfs/archive/cd52ad402acf87cfdb878f8e722e75d1856604c5.jpg",
+          "views": 33928,
+          "danmaku": 10,
+          "url": "https://www.bilibili.com/video/BV1ASMM6nETk"
+        }
+      ]
+    },
+    {
+      "season_id": 6677859,
+      "title": "刷题",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/3bff3ff0ff01057208ae93b685b1a5e6b103b569.jpg",
+      "total": 4,
+      "fetched": 4,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1j4yXBDEGB",
+          "title": "[政治真题刷] 必修1·中国特色社会主义高考真题讲解！长期更新！",
+          "duration": 975,
+          "pubdate": 1762041600,
+          "cover": "https://i0.hdslb.com/bfs/archive/59d3b10f698cce31730f95eb2e4038b83c96fd18.jpg",
+          "views": 54980,
+          "danmaku": 126,
+          "url": "https://www.bilibili.com/video/BV1j4yXBDEGB"
+        },
+        {
+          "bvid": "BV1yRUwBPEty",
+          "title": "[政治真题刷] 必修2·经济与社会高考真题讲解！长期更新！",
+          "duration": 1056,
+          "pubdate": 1763856967,
+          "cover": "https://i1.hdslb.com/bfs/archive/f2294624f36116fcb06ab6ba6d451bbdc7fa12de.jpg",
+          "views": 46479,
+          "danmaku": 86,
+          "url": "https://www.bilibili.com/video/BV1yRUwBPEty"
+        },
+        {
+          "bvid": "BV1PGcGzoEwq",
+          "title": "真题刷 | 25年哲学漫画·高考政治*刷题不是目的，会做题才是！",
+          "duration": 1959,
+          "pubdate": 1771034400,
+          "cover": "https://i2.hdslb.com/bfs/archive/11194b19b58763e7b593b40a70e7c43cd7efed04.jpg",
+          "views": 37232,
+          "danmaku": 222,
+          "url": "https://www.bilibili.com/video/BV1PGcGzoEwq"
+        },
+        {
+          "bvid": "BV1nXBCBnEtb",
+          "title": "2026届T8联考政治试卷讲解！政治新风向～",
+          "duration": 2833,
+          "pubdate": 1766840014,
+          "cover": "https://i1.hdslb.com/bfs/archive/7a26e71a597aa14be2a2173b1d42dbf07c8032a1.jpg",
+          "views": 96241,
+          "danmaku": 321,
+          "url": "https://www.bilibili.com/video/BV1nXBCBnEtb"
+        }
+      ]
+    },
+    {
+      "season_id": 7588956,
+      "title": "大题",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/69a0e6f16079b1f2330652cc98da5721e48b9595.jpg",
+      "total": 6,
+      "fetched": 6,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1VBgP6FERb",
+          "title": "大题系统课 | 高中政治主观题：方法·必背得分点·真题刷！（按表更新中....）",
+          "duration": 16558,
+          "pubdate": 1786709100,
+          "cover": "https://i2.hdslb.com/bfs/archive/c41ad5d861967caf541c96238faed8bb58dc875a.jpg",
+          "views": 73198,
+          "danmaku": 243,
+          "url": "https://www.bilibili.com/video/BV1VBgP6FERb"
+        },
+        {
+          "bvid": "BV16JqrB3E7M",
+          "title": "2026浙江首考政治小论文攻略！",
+          "duration": 3640,
+          "pubdate": 1766239072,
+          "cover": "https://i2.hdslb.com/bfs/archive/78499c2204128355f93e08639f695f7f778eecfe.jpg",
+          "views": 53966,
+          "danmaku": 341,
+          "url": "https://www.bilibili.com/video/BV16JqrB3E7M"
+        },
+        {
+          "bvid": "BV1dtY96bEV9",
+          "title": "主观题 | 高考政治·中特大题攻略！山东中特小论文必看！",
+          "duration": 3694,
+          "pubdate": 1789200816,
+          "cover": "https://i0.hdslb.com/bfs/archive/0e3ecc319791a1776bc2904a3b5ae9e12c9802f6.jpg",
+          "views": 37920,
+          "danmaku": 5,
+          "url": "https://www.bilibili.com/video/BV1dtY96bEV9"
+        },
+        {
+          "bvid": "BV1BHY96YENd",
+          "title": "主观题 | 高考政治·经济大题攻略！",
+          "duration": 4676,
+          "pubdate": 1789210800,
+          "cover": "https://i0.hdslb.com/bfs/archive/edba008679aeab81f7e8d913c32679f1dd2265cd.jpg",
+          "views": 51585,
+          "danmaku": 25,
+          "url": "https://www.bilibili.com/video/BV1BHY96YENd"
+        },
+        {
+          "bvid": "BV1r9e26pEgg",
+          "title": "主观题 | 高考政治·必修三政法大题攻略！",
+          "duration": 4820,
+          "pubdate": 1789781400,
+          "cover": "https://i1.hdslb.com/bfs/archive/c89d4d37398b61811bf2a861fd2d7b6da46ee92f.jpg",
+          "views": 40055,
+          "danmaku": 16,
+          "url": "https://www.bilibili.com/video/BV1r9e26pEgg"
+        },
+        {
+          "bvid": "BV1MQah6DEtp",
+          "title": "主观题 | 高考政治·必修四哲学大题攻略！",
+          "duration": 3337,
+          "pubdate": 1790845500,
+          "cover": "https://i0.hdslb.com/bfs/archive/a54000e478532bd0c5bf0c2e884993c6f6498e6d.jpg",
+          "views": 31986,
+          "danmaku": 19,
+          "url": "https://www.bilibili.com/video/BV1MQah6DEtp"
+        }
+      ]
+    },
+    {
+      "season_id": 6650232,
+      "title": "时政拆解！备考快人一步~",
+      "intro": "拆解时政背后的政治考点",
+      "cover": "https://archive.biliimg.com/bfs/archive/233ac23e0a1c2fcf268272da9db3ea96d5f80e2a.jpg",
+      "total": 1,
+      "fetched": 1,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV17Vy2BKELn",
+          "title": "26届政治必考！深度解读十五五规划：建设强大国内市场考点全拆解~新需求引领新供给、新供给创造新需求；投资于人投资于物结合；内卷式竞争；市场准入负面清单",
+          "duration": 1874,
+          "pubdate": 1761913800,
+          "cover": "https://i0.hdslb.com/bfs/archive/b65b61bc9984f1f3ecd0650e846be79a333fafb7.jpg",
+          "views": 52010,
+          "danmaku": 152,
+          "url": "https://www.bilibili.com/video/BV17Vy2BKELn"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 8,
+    "videos": 50,
+    "truncated_collections": []
+  }
+}

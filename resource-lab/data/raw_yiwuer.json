@@ -1,0 +1,1160 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791183965181,
+  "source": {
+    "platform": "bilibili",
+    "author": "一物儿",
+    "mid": 3546695694551936,
+    "space": "https://space.bilibili.com/3546695694551936"
+  },
+  "collections": [
+    {
+      "season_id": 3749792,
+      "title": "高中物理知识大合集（持续更新中……）",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/fb9d21dc689016031864f0c4b424ec5e6d30da46.jpg",
+      "total": 79,
+      "fetched": 79,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1KE421c7Xz",
+          "title": "【新高一】高中物理第一课——质点",
+          "duration": 901,
+          "pubdate": 1724497500,
+          "cover": "https://i1.hdslb.com/bfs/archive/f5c000c083a35fb70810df2fdac956f53c23ca40.jpg",
+          "views": 1455836,
+          "danmaku": 5103,
+          "url": "https://www.bilibili.com/video/BV1KE421c7Xz"
+        },
+        {
+          "bvid": "BV1v4421f7ft",
+          "title": "【新高一】【零基础】必修一——参考系",
+          "duration": 614,
+          "pubdate": 1725069900,
+          "cover": "https://i2.hdslb.com/bfs/archive/f679ad9a042609e487da4c430856c631de64aa57.jpg",
+          "views": 335412,
+          "danmaku": 2672,
+          "url": "https://www.bilibili.com/video/BV1v4421f7ft"
+        },
+        {
+          "bvid": "BV1dw4m1k7mG",
+          "title": "【新高一】【零基础】必修一——时间 时刻",
+          "duration": 780,
+          "pubdate": 1725095100,
+          "cover": "https://i1.hdslb.com/bfs/archive/d39d4c58f55e4ff5f9f7952bb4ddf559beceb3f2.jpg",
+          "views": 273600,
+          "danmaku": 3890,
+          "url": "https://www.bilibili.com/video/BV1dw4m1k7mG"
+        },
+        {
+          "bvid": "BV1tppteGEqZ",
+          "title": "【新高一】【零基础】必修一——位移路程丨矢量标量",
+          "duration": 2028,
+          "pubdate": 1725694247,
+          "cover": "https://i0.hdslb.com/bfs/archive/dac62b3a396f73e39b334b4795c792a0d37b2860.jpg",
+          "views": 404963,
+          "danmaku": 8426,
+          "url": "https://www.bilibili.com/video/BV1tppteGEqZ"
+        },
+        {
+          "bvid": "BV1E4sCerEMK",
+          "title": "速度、速度变化量、加速度，一个视频全部串讲学到位！",
+          "duration": 5704,
+          "pubdate": 1727007153,
+          "cover": "https://i1.hdslb.com/bfs/archive/a32f9b689226cff155b132025ffa5c1b19d59fa7.jpg",
+          "views": 752320,
+          "danmaku": 20426,
+          "url": "https://www.bilibili.com/video/BV1E4sCerEMK"
+        },
+        {
+          "bvid": "BV1zK2zYNEQ7",
+          "title": "直线运动图像复杂？2h系统学习所有题型！",
+          "duration": 7225,
+          "pubdate": 1728818171,
+          "cover": "https://i1.hdslb.com/bfs/archive/4dcf1f2db07aeca1d38f042bc5b8b47d51e9f99a.jpg",
+          "views": 594293,
+          "danmaku": 16908,
+          "url": "https://www.bilibili.com/video/BV1zK2zYNEQ7"
+        },
+        {
+          "bvid": "BV1VEuAzgEQC",
+          "title": "【物理新高一】一口气搞定直线运动公式计算！",
+          "duration": 10506,
+          "pubdate": 1752402529,
+          "cover": "https://i0.hdslb.com/bfs/archive/293eb9bdf80dc040ccbfefff97e94fa34b947d87.jpg",
+          "views": 793992,
+          "danmaku": 11449,
+          "url": "https://www.bilibili.com/video/BV1VEuAzgEQC"
+        },
+        {
+          "bvid": "BV1VqxjzpEf2",
+          "title": "高一｜直线运动四类图像“刺客”，破题“通法”轻松搞定！",
+          "duration": 2790,
+          "pubdate": 1759748963,
+          "cover": "https://i2.hdslb.com/bfs/archive/7fd0eb196de948b656f24d0724bbcb352bd3bc2b.jpg",
+          "views": 384133,
+          "danmaku": 1829,
+          "url": "https://www.bilibili.com/video/BV1VqxjzpEf2"
+        },
+        {
+          "bvid": "BV16B3RzNEGG",
+          "title": "【公式法+图像法】两种方法彻底讲透，追及相遇！！！",
+          "duration": 3914,
+          "pubdate": 1751716689,
+          "cover": "https://i1.hdslb.com/bfs/archive/954b50704640c4ba8fbff385e417d833aa7a83fa.jpg",
+          "views": 736122,
+          "danmaku": 5571,
+          "url": "https://www.bilibili.com/video/BV16B3RzNEGG"
+        },
+        {
+          "bvid": "BV1DaCoY8EtC",
+          "title": "【合集】直线运动5个常用的比例推论+自由落体结论+竖直上抛对称性，一个视频全搞懂",
+          "duration": 4487,
+          "pubdate": 1729340400,
+          "cover": "https://i2.hdslb.com/bfs/archive/a0345e0ecf364d6120658a2ac7eb7006ec45245d.jpg",
+          "views": 629146,
+          "danmaku": 7223,
+          "url": "https://www.bilibili.com/video/BV1DaCoY8EtC"
+        },
+        {
+          "bvid": "BV1ZF14YoEiA",
+          "title": "受力分析总画错？彻底讲懂！重力、弹力、摩擦力，助你画对每个一力！",
+          "duration": 5128,
+          "pubdate": 1729945012,
+          "cover": "https://i1.hdslb.com/bfs/archive/15d321fb7602788de96db0d713739083f3e55ce8.jpg",
+          "views": 817055,
+          "danmaku": 7509,
+          "url": "https://www.bilibili.com/video/BV1ZF14YoEiA"
+        },
+        {
+          "bvid": "BV1RepEzHEzD",
+          "title": "【高一物理】弹簧受力算不清？一个视频彻底练会～",
+          "duration": 1854,
+          "pubdate": 1757773643,
+          "cover": "https://i1.hdslb.com/bfs/archive/3c9c6ac88f318f133f008bc6d47eff3c7694a6dd.jpg",
+          "views": 423420,
+          "danmaku": 1922,
+          "url": "https://www.bilibili.com/video/BV1RepEzHEzD"
+        },
+        {
+          "bvid": "BV1XezpYxE3c",
+          "title": "力的分解总出错？手把手零基础搞定正交分解 | 高中物理力的合成与分解",
+          "duration": 2517,
+          "pubdate": 1732968873,
+          "cover": "https://i2.hdslb.com/bfs/archive/4879be7d439b0a14ca9bd51538704322ada03e98.jpg",
+          "views": 1126843,
+          "danmaku": 8479,
+          "url": "https://www.bilibili.com/video/BV1XezpYxE3c"
+        },
+        {
+          "bvid": "BV1drSBYAENC",
+          "title": "【物理合集】彻底讲透：拉密定理＋动态、相似三角形+辅助圆+晾衣绳模型",
+          "duration": 7990,
+          "pubdate": 1730548742,
+          "cover": "https://i1.hdslb.com/bfs/archive/abe1d0a363308b5f5e37d58c68a3734e57a4bdd4.jpg",
+          "views": 1523458,
+          "danmaku": 11743,
+          "url": "https://www.bilibili.com/video/BV1drSBYAENC"
+        },
+        {
+          "bvid": "BV1L3DrY5EiU",
+          "title": "高中物理基础不牢？快来学牛顿第二定律！",
+          "duration": 3640,
+          "pubdate": 1731154317,
+          "cover": "https://i0.hdslb.com/bfs/archive/21ac965cdcb52ac94706de4c2cf42af8679df32d.jpg",
+          "views": 760074,
+          "danmaku": 5449,
+          "url": "https://www.bilibili.com/video/BV1L3DrY5EiU"
+        },
+        {
+          "bvid": "BV1ysUeYeE9v",
+          "title": "牛二题型太多学不懂？一个合集彻底搞懂牛顿第二定律！|高中物理",
+          "duration": 4100,
+          "pubdate": 1731762491,
+          "cover": "https://i0.hdslb.com/bfs/archive/91a5ae5a70a16f8c8d056200bf11362e8308889b.jpg",
+          "views": 599010,
+          "danmaku": 3457,
+          "url": "https://www.bilibili.com/video/BV1ysUeYeE9v"
+        },
+        {
+          "bvid": "BV1xsBmY1E37",
+          "title": "【合集】板块+传送带+等时圆+弹簧压缩+临界+弹簧突变 | 高中物理牛顿第二定律题型",
+          "duration": 21713,
+          "pubdate": 1732365151,
+          "cover": "https://i0.hdslb.com/bfs/archive/1a164ec2cec8f11a10b4361daecd7fee3ac56128.jpg",
+          "views": 1736117,
+          "danmaku": 11694,
+          "url": "https://www.bilibili.com/video/BV1xsBmY1E37"
+        },
+        {
+          "bvid": "BV1AEq5YmEd9",
+          "title": "高中物理曲线运动第一课！轻松入门曲线运动新章节",
+          "duration": 1053,
+          "pubdate": 1733575200,
+          "cover": "https://i1.hdslb.com/bfs/archive/bc1f2bd2e3bb40ed25be815b623e16249476cae1.jpg",
+          "views": 390783,
+          "danmaku": 2303,
+          "url": "https://www.bilibili.com/video/BV1AEq5YmEd9"
+        },
+        {
+          "bvid": "BV1cqcAeuEPb",
+          "title": "彻底搞懂运动合成！运动合成+小船过河+关联速度（高中物理）",
+          "duration": 4409,
+          "pubdate": 1736590755,
+          "cover": "https://i1.hdslb.com/bfs/archive/1a4ec1f30d4c44229107f99e0d0e2f0ae1fceef1.jpg",
+          "views": 674893,
+          "danmaku": 5739,
+          "url": "https://www.bilibili.com/video/BV1cqcAeuEPb"
+        },
+        {
+          "bvid": "BV1RTkhYoEhY",
+          "title": "物理平抛运动？你想知道的，这都讲！！！",
+          "duration": 6180,
+          "pubdate": 1734789052,
+          "cover": "https://i2.hdslb.com/bfs/archive/e46287eb66f2da4bbe51be93b0ccbb91262350e3.jpg",
+          "views": 984080,
+          "danmaku": 8207,
+          "url": "https://www.bilibili.com/video/BV1RTkhYoEhY"
+        },
+        {
+          "bvid": "BV1zVwKeLELq",
+          "title": "高中物理斜抛运动？2种思路横扫所有！",
+          "duration": 1266,
+          "pubdate": 1737196115,
+          "cover": "https://i1.hdslb.com/bfs/archive/02555d197a868b1ac92a0a3a2e3e8e0d2cd64b57.jpg",
+          "views": 505296,
+          "danmaku": 2080,
+          "url": "https://www.bilibili.com/video/BV1zVwKeLELq"
+        },
+        {
+          "bvid": "BV1JkAKeJESE",
+          "title": "高中物理向心力？角速度？线速度？彻底搞懂！圆周运动基础",
+          "duration": 6359,
+          "pubdate": 1739625362,
+          "cover": "https://i1.hdslb.com/bfs/archive/0444ebcd982d4518d96782a46486cf470edfb43d.jpg",
+          "views": 1008295,
+          "danmaku": 8516,
+          "url": "https://www.bilibili.com/video/BV1JkAKeJESE"
+        },
+        {
+          "bvid": "BV1vyPMeSE5H",
+          "title": "圆锥摆问题不会算？火车转弯分析不对？快点进这个视频！帮你解决圆周运动最常考的题型！",
+          "duration": 4270,
+          "pubdate": 1740236147,
+          "cover": "https://i2.hdslb.com/bfs/archive/772a3b520f17f201a0cf9a9c024b6f448e93b835.jpg",
+          "views": 384778,
+          "danmaku": 2339,
+          "url": "https://www.bilibili.com/video/BV1vyPMeSE5H"
+        },
+        {
+          "bvid": "BV1PGXXYcEBt",
+          "title": "圆周运动最难知识点！一个视频彻底讲明白平面圆盘向心力",
+          "duration": 2678,
+          "pubdate": 1740831866,
+          "cover": "https://i1.hdslb.com/bfs/archive/8562bc45e0a7791a6b82778bf8fa2efd64ab8338.jpg",
+          "views": 505697,
+          "danmaku": 2683,
+          "url": "https://www.bilibili.com/video/BV1PGXXYcEBt"
+        },
+        {
+          "bvid": "BV1PhzCBbEjZ",
+          "title": "竖直圆周算不对？搞不懂？一个视频轻松讲透！",
+          "duration": 3002,
+          "pubdate": 1769249796,
+          "cover": "https://i2.hdslb.com/bfs/archive/d761da9d2479cdd946e3f0c762656e2dce29ffd7.jpg",
+          "views": 363976,
+          "danmaku": 794,
+          "url": "https://www.bilibili.com/video/BV1PhzCBbEjZ"
+        },
+        {
+          "bvid": "BV1oi61BdEap",
+          "title": "倾斜圆周分析难？一个视频教会解题思路！",
+          "duration": 2323,
+          "pubdate": 1769860114,
+          "cover": "https://i1.hdslb.com/bfs/archive/8b41e67e1e651deefe9ca9d2219f928447f33485.jpg",
+          "views": 360286,
+          "danmaku": 934,
+          "url": "https://www.bilibili.com/video/BV1oi61BdEap"
+        },
+        {
+          "bvid": "BV1rmRsYJEjm",
+          "title": "万有引力不会列式？不会算？快点进来学！一个视频搞定所有常见题型！",
+          "duration": 4001,
+          "pubdate": 1741442102,
+          "cover": "https://i2.hdslb.com/bfs/archive/78ba0ce4a1031ab18ac19ddda213c0bee893655a.jpg",
+          "views": 822273,
+          "danmaku": 4925,
+          "url": "https://www.bilibili.com/video/BV1rmRsYJEjm"
+        },
+        {
+          "bvid": "BV141QyYrELE",
+          "title": "卫星题目总出错？一个视频讲清楚天体卫星所有题型！！！（高中物理万有引力）",
+          "duration": 3855,
+          "pubdate": 1742040300,
+          "cover": "https://i1.hdslb.com/bfs/archive/0c828854a20d29e3c102a8f6989f8a6385fa0d04.jpg",
+          "views": 534521,
+          "danmaku": 2842,
+          "url": "https://www.bilibili.com/video/BV141QyYrELE"
+        },
+        {
+          "bvid": "BV18GZAYyEtU",
+          "title": "做功算不准？功率算不对？点击进来包学会！",
+          "duration": 5777,
+          "pubdate": 1743258119,
+          "cover": "https://i0.hdslb.com/bfs/archive/3705aeaf17f7724dd5f6eb61316037ebea4340be.jpg",
+          "views": 538397,
+          "danmaku": 3308,
+          "url": "https://www.bilibili.com/video/BV18GZAYyEtU"
+        },
+        {
+          "bvid": "BV1PxZZYsEcC",
+          "title": "【高中物理】机车启动没思路？两个公式解决所有题目！",
+          "duration": 4745,
+          "pubdate": 1743772242,
+          "cover": "https://i2.hdslb.com/bfs/archive/4f1c2a2b141ab75fd0ff2371dea11be5d3707552.jpg",
+          "views": 532600,
+          "danmaku": 2907,
+          "url": "https://www.bilibili.com/video/BV1PxZZYsEcC"
+        },
+        {
+          "bvid": "BV19X8bzeEDf",
+          "title": "【开更】从头拯救物理最难章节！静电场基础串讲",
+          "duration": 8583,
+          "pubdate": 1753538598,
+          "cover": "https://i2.hdslb.com/bfs/archive/bbe2609debde2dcbe10b452e31b5cae1a5d417a1.jpg",
+          "views": 1683380,
+          "danmaku": 12023,
+          "url": "https://www.bilibili.com/video/BV19X8bzeEDf"
+        },
+        {
+          "bvid": "BV1Hmh8zDEDm",
+          "title": "一个视频彻底讲明白「最抽象」的物理量，电势能&电势",
+          "duration": 5345,
+          "pubdate": 1754128463,
+          "cover": "https://i0.hdslb.com/bfs/archive/8c1bba027fed24761eff821a1001973b65ba5222.jpg",
+          "views": 815669,
+          "danmaku": 5101,
+          "url": "https://www.bilibili.com/video/BV1Hmh8zDEDm"
+        },
+        {
+          "bvid": "BV1s5tbzCEHn",
+          "title": "一个视频彻底搞清楚：电势差、电场力做功、等势面",
+          "duration": 2533,
+          "pubdate": 1754735349,
+          "cover": "https://i1.hdslb.com/bfs/archive/bf79ad06ae08a6f407e619cba22bf73c03b20173.jpg",
+          "views": 509113,
+          "danmaku": 2115,
+          "url": "https://www.bilibili.com/video/BV1s5tbzCEHn"
+        },
+        {
+          "bvid": "BV1FGYYzFEbK",
+          "title": "静电场关系理不清？真正学会电势差与电场强度关系（附赠静电场物理量梳理）",
+          "duration": 3065,
+          "pubdate": 1755330534,
+          "cover": "https://i2.hdslb.com/bfs/archive/063bc5120d3ea63f794579ba28aff511392aa4bc.jpg",
+          "views": 476837,
+          "danmaku": 2338,
+          "url": "https://www.bilibili.com/video/BV1FGYYzFEbK"
+        },
+        {
+          "bvid": "BV1CCeqz7Ev8",
+          "title": "最常考的电场、及叠加，都在这了！！（等量同种、等量异种、及其叠加）",
+          "duration": 5768,
+          "pubdate": 1755948195,
+          "cover": "https://i1.hdslb.com/bfs/archive/9c8d4f1daa24658fb84a30bd0a06154338d78046.jpg",
+          "views": 475617,
+          "danmaku": 1567,
+          "url": "https://www.bilibili.com/video/BV1CCeqz7Ev8"
+        },
+        {
+          "bvid": "BV1zWhizhEry",
+          "title": "静电屏蔽题目总选错？记住结论轻松搞定！！！",
+          "duration": 1995,
+          "pubdate": 1756558390,
+          "cover": "https://i2.hdslb.com/bfs/archive/92c9c3a71998bde9d4e8079d44f78bfd0f8880ec.jpg",
+          "views": 488022,
+          "danmaku": 1365,
+          "url": "https://www.bilibili.com/video/BV1zWhizhEry"
+        },
+        {
+          "bvid": "BV17aYTznEFD",
+          "title": "【高中物理】80%同学搞不清的电容！一个视频彻底讲明白（包含静电计讲解）",
+          "duration": 5658,
+          "pubdate": 1757154941,
+          "cover": "https://i0.hdslb.com/bfs/archive/bafac5e0dcd3865f9ebac7fcf847a7f7d917a83a.jpg",
+          "views": 572416,
+          "danmaku": 2499,
+          "url": "https://www.bilibili.com/video/BV17aYTznEFD"
+        },
+        {
+          "bvid": "BV1FypJzeEde",
+          "title": "最根本的两个电场！细嚼慢咽～彻底讲透～",
+          "duration": 4207,
+          "pubdate": 1757761060,
+          "cover": "https://i1.hdslb.com/bfs/archive/d15c7566ec20f0ed9dcfc00fe4da52d8a25e3a40.jpg",
+          "views": 473383,
+          "danmaku": 1508,
+          "url": "https://www.bilibili.com/video/BV1FypJzeEde"
+        },
+        {
+          "bvid": "BV1nupdzPE1z",
+          "title": "【复合场】拼接电场+周期电场+叠加电场，全搞定！",
+          "duration": 7194,
+          "pubdate": 1758367645,
+          "cover": "https://i2.hdslb.com/bfs/archive/2ab2798e58d3e3f877cc520026375b79d331e8d3.jpg",
+          "views": 454396,
+          "danmaku": 1345,
+          "url": "https://www.bilibili.com/video/BV1nupdzPE1z"
+        },
+        {
+          "bvid": "BV1vun5zKEGQ",
+          "title": "【一小时学一章】电流+电阻+串并联+简化电路",
+          "duration": 3176,
+          "pubdate": 1758931500,
+          "cover": "https://i0.hdslb.com/bfs/archive/e2330551c8320efb5f2c8633c4cf567db65cdcbb.jpg",
+          "views": 518154,
+          "danmaku": 1542,
+          "url": "https://www.bilibili.com/video/BV1vun5zKEGQ"
+        },
+        {
+          "bvid": "BV13uHNzMEx3",
+          "title": "什么是非纯电阻？电动机功率算不对？从底层逻辑彻底讲清楚！！！",
+          "duration": 3489,
+          "pubdate": 1759401170,
+          "cover": "https://i2.hdslb.com/bfs/archive/08ed15b196f4a5ced464224c3f211580cd85c66e.jpg",
+          "views": 466274,
+          "danmaku": 1288,
+          "url": "https://www.bilibili.com/video/BV13uHNzMEx3"
+        },
+        {
+          "bvid": "BV1aJ4czkEXX",
+          "title": "电动势总是迷迷糊糊？一个视频彻底讲明白！",
+          "duration": 1832,
+          "pubdate": 1760183400,
+          "cover": "https://i2.hdslb.com/bfs/archive/e1505469952c9d8457b0e80b395be8e0c8d58f80.jpg",
+          "views": 395150,
+          "danmaku": 718,
+          "url": "https://www.bilibili.com/video/BV1aJ4czkEXX"
+        },
+        {
+          "bvid": "BV1BvWbzsEgZ",
+          "title": "一次性彻底学会闭合电路欧姆定律！（包含电源输出功率+动态电路分析",
+          "duration": 7337,
+          "pubdate": 1760790821,
+          "cover": "https://i1.hdslb.com/bfs/archive/09c6c601f36ce6f00b5e8aba3b42283c3821025f.jpg",
+          "views": 599188,
+          "danmaku": 2139,
+          "url": "https://www.bilibili.com/video/BV1BvWbzsEgZ"
+        },
+        {
+          "bvid": "BV1AhxFzpETe",
+          "title": "磁场基础一期打牢！（地磁+分子电流假说+电流磁效应+磁感应强度+磁通量）",
+          "duration": 6183,
+          "pubdate": 1761436800,
+          "cover": "https://i1.hdslb.com/bfs/archive/25a4255f7f31d2fd4cc7df4342ac730291e9a0ce.jpg",
+          "views": 633991,
+          "danmaku": 2979,
+          "url": "https://www.bilibili.com/video/BV1AhxFzpETe"
+        },
+        {
+          "bvid": "BV1Ek1jBZExo",
+          "title": "一个视频搞定安培力、及常见题型解题方法！",
+          "duration": 3456,
+          "pubdate": 1761991541,
+          "cover": "https://i2.hdslb.com/bfs/archive/5e1a4fc9528304a1fa6c4ebee121168cf3f3e0fa.jpg",
+          "views": 533672,
+          "danmaku": 1634,
+          "url": "https://www.bilibili.com/video/BV1Ek1jBZExo"
+        },
+        {
+          "bvid": "BV1EtyoBqE8h",
+          "title": "关于洛伦兹力的所有题型，都在这了！",
+          "duration": 8862,
+          "pubdate": 1762053924,
+          "cover": "https://i1.hdslb.com/bfs/archive/0a75a3c29f602256c3e27bc6d48bf56bff998288.jpg",
+          "views": 704028,
+          "danmaku": 2811,
+          "url": "https://www.bilibili.com/video/BV1EtyoBqE8h"
+        },
+        {
+          "bvid": "BV1c21RBzEo5",
+          "title": "【旋转圆×缩放圆】彻底学会！从简单到难题全解析！",
+          "duration": 5727,
+          "pubdate": 1762646700,
+          "cover": "https://i0.hdslb.com/bfs/archive/4550d0f70419bbd2ebdd6b9c4f04e5ca9a4e2185.jpg",
+          "views": 482553,
+          "danmaku": 1387,
+          "url": "https://www.bilibili.com/video/BV1c21RBzEo5"
+        },
+        {
+          "bvid": "BV1RgCmBAEno",
+          "title": "【磁场+电场+重力场】复合场、拼接场、叠加场全部搞定！",
+          "duration": 6601,
+          "pubdate": 1763215660,
+          "cover": "https://i2.hdslb.com/bfs/archive/d16a2fc1cf3554019288e114e590fb74abbb20d6.jpg",
+          "views": 499534,
+          "danmaku": 1714,
+          "url": "https://www.bilibili.com/video/BV1RgCmBAEno"
+        },
+        {
+          "bvid": "BV1hLUWBgEei",
+          "title": "磁场应用全搞定！！电磁流量计+磁流体发电机+霍尔元件+质谱仪+回旋加速器",
+          "duration": 4550,
+          "pubdate": 1763817371,
+          "cover": "https://i1.hdslb.com/bfs/archive/e896f693a585fd6a1d504b8db9ae60c121ec61c9.jpg",
+          "views": 525651,
+          "danmaku": 1143,
+          "url": "https://www.bilibili.com/video/BV1hLUWBgEei"
+        },
+        {
+          "bvid": "BV1rZUfBtE99",
+          "title": "楞次定律搞不懂？彻底讲透 增反减同、来拒去留、增缩减扩",
+          "duration": 3208,
+          "pubdate": 1764419030,
+          "cover": "https://i0.hdslb.com/bfs/archive/aab025c34c963416b848f3d5c04d37c031604b2f.jpg",
+          "views": 668567,
+          "danmaku": 2313,
+          "url": "https://www.bilibili.com/video/BV1rZUfBtE99"
+        },
+        {
+          "bvid": "BV14n2XBkEPo",
+          "title": "感应电动势满分攻略：从E=ΔΦ/Δt到Φ-t图像",
+          "duration": 3501,
+          "pubdate": 1765024441,
+          "cover": "https://i1.hdslb.com/bfs/archive/d22a7d77d66e7377571198b903346544de6103c8.jpg",
+          "views": 440067,
+          "danmaku": 1185,
+          "url": "https://www.bilibili.com/video/BV14n2XBkEPo"
+        },
+        {
+          "bvid": "BV1LomdBBE6j",
+          "title": "从E=BLv到旋转切割！彻底学会动生电动势",
+          "duration": 4824,
+          "pubdate": 1765624963,
+          "cover": "https://i0.hdslb.com/bfs/archive/54ebd36e4dc28c6cbc022f4067ea561ce05ca746.jpg",
+          "views": 380903,
+          "danmaku": 942,
+          "url": "https://www.bilibili.com/video/BV1LomdBBE6j"
+        },
+        {
+          "bvid": "BV1dTqkBMEyC",
+          "title": "电磁感应 + 动量 = 蒙圈？？？及其运动分析，今天彻底讲懂！",
+          "duration": 3846,
+          "pubdate": 1766231162,
+          "cover": "https://i2.hdslb.com/bfs/archive/0e327c275029a4d70a3e11c313d1c607b0f6172c.jpg",
+          "views": 494825,
+          "danmaku": 1322,
+          "url": "https://www.bilibili.com/video/BV1dTqkBMEyC"
+        },
+        {
+          "bvid": "BV11c9RYuEb8",
+          "title": "电磁感应双棒切割，四大模型，一个视频全讲清！！！",
+          "duration": 4074,
+          "pubdate": 1741428300,
+          "cover": "https://i0.hdslb.com/bfs/archive/19f910216d0831c26af5d204aedfb5e97d468a4f.jpg",
+          "views": 953892,
+          "danmaku": 3713,
+          "url": "https://www.bilibili.com/video/BV11c9RYuEb8"
+        },
+        {
+          "bvid": "BV1CxByBoEP1",
+          "title": "最难一节？三种情况彻底掌握涉及电容充放电的单棒切割",
+          "duration": 2845,
+          "pubdate": 1766835120,
+          "cover": "https://i1.hdslb.com/bfs/archive/0efa7410488e6ad2c1e2d1b3bf71c100ee3de61a.jpg",
+          "views": 409899,
+          "danmaku": 824,
+          "url": "https://www.bilibili.com/video/BV1CxByBoEP1"
+        },
+        {
+          "bvid": "BV1gMrQBPEot",
+          "title": "电磁感应杂项串讲！轻松搞定涡流、电磁阻尼、电磁驱动、自感、互感！",
+          "duration": 4045,
+          "pubdate": 1768662829,
+          "cover": "https://i1.hdslb.com/bfs/archive/b62fbeeb7ccabad606fafb7178e6c0706b51e60a.jpg",
+          "views": 549646,
+          "danmaku": 1622,
+          "url": "https://www.bilibili.com/video/BV1gMrQBPEot"
+        },
+        {
+          "bvid": "BV1yrFszhEvz",
+          "title": "交流电听不懂？有效值不会求？常见易错点一个视频讲清楚！",
+          "duration": 2827,
+          "pubdate": 1770458967,
+          "cover": "https://i0.hdslb.com/bfs/archive/f2caa1b611374714f4bbc6f28717b68bc633a2bf.jpg",
+          "views": 353700,
+          "danmaku": 964,
+          "url": "https://www.bilibili.com/video/BV1yrFszhEvz"
+        },
+        {
+          "bvid": "BV1a1cEztEWv",
+          "title": "电容vs电感，在交流电和直流电中的区别～",
+          "duration": 1277,
+          "pubdate": 1770981037,
+          "cover": "https://i0.hdslb.com/bfs/archive/ca71415aa80059f01a41d1143bb7ecd045d5fa0b.jpg",
+          "views": 316381,
+          "danmaku": 253,
+          "url": "https://www.bilibili.com/video/BV1a1cEztEWv"
+        },
+        {
+          "bvid": "BV1ByAUztE4J",
+          "title": "【高中物理】从零讲懂交流发电机原理！！！",
+          "duration": 2723,
+          "pubdate": 1772187188,
+          "cover": "https://i2.hdslb.com/bfs/archive/d1af47b29f711f5e205d60b181411240e1211c0b.jpg",
+          "views": 307582,
+          "danmaku": 503,
+          "url": "https://www.bilibili.com/video/BV1ByAUztE4J"
+        },
+        {
+          "bvid": "BV1X2Nwz4EzK",
+          "title": "一个视频汇总交流电图像问题，Φ-t，e-t，i-t……",
+          "duration": 2917,
+          "pubdate": 1772881757,
+          "cover": "https://i1.hdslb.com/bfs/archive/d6766a20302912f257ecc4ca3db97f3436b260f8.jpg",
+          "views": 276822,
+          "danmaku": 194,
+          "url": "https://www.bilibili.com/video/BV1X2Nwz4EzK"
+        },
+        {
+          "bvid": "BV1ahwtzXEGN",
+          "title": "变压器所有题型，都在这了！！！彻底讲透！！！",
+          "duration": 6528,
+          "pubdate": 1773491126,
+          "cover": "https://i0.hdslb.com/bfs/archive/d5eab1698413842cd22f504e801714bf6cd3f6bd.jpg",
+          "views": 496417,
+          "danmaku": 1149,
+          "url": "https://www.bilibili.com/video/BV1ahwtzXEGN"
+        },
+        {
+          "bvid": "BV1cAJJ6rEhJ",
+          "title": "势能究竟是怎么回事？彻底理解重力势能、弹性势能！",
+          "duration": 2342,
+          "pubdate": 1781348700,
+          "cover": "https://i1.hdslb.com/bfs/archive/0932a01ce9f87260e0a2be776c034010860f22b3.jpg",
+          "views": 282828,
+          "danmaku": 981,
+          "url": "https://www.bilibili.com/video/BV1cAJJ6rEhJ"
+        },
+        {
+          "bvid": "BV1Z1jJ6cE7u",
+          "title": "动能定理全解析！彻底学会！基础+题型+多过程",
+          "duration": 5304,
+          "pubdate": 1781945716,
+          "cover": "https://i1.hdslb.com/bfs/archive/d5c6f26eb75b20bd5c2e97f0d484b6a2238826a9.jpg",
+          "views": 349785,
+          "danmaku": 1810,
+          "url": "https://www.bilibili.com/video/BV1Z1jJ6cE7u"
+        },
+        {
+          "bvid": "BV1ZE7p6gErY",
+          "title": "一次彻底讲透机械能！！！判断方法 + 应用方法",
+          "duration": 4408,
+          "pubdate": 1782552598,
+          "cover": "https://i2.hdslb.com/bfs/archive/4b7ad9e6127b96d6285603f56ffa40b8ff5bb8e6.jpg",
+          "views": 279949,
+          "danmaku": 935,
+          "url": "https://www.bilibili.com/video/BV1ZE7p6gErY"
+        },
+        {
+          "bvid": "BV1pdMc6AEFF",
+          "title": "功能关系怎么解题？一个视频讲清楚它和动能定理、机械能守恒的区别",
+          "duration": 1835,
+          "pubdate": 1783139077,
+          "cover": "https://i1.hdslb.com/bfs/archive/d98f9211ca17e2a5c11ea1f5b8bb727ddbd07920.jpg",
+          "views": 253596,
+          "danmaku": 680,
+          "url": "https://www.bilibili.com/video/BV1pdMc6AEFF"
+        },
+        {
+          "bvid": "BV1MtN761Et3",
+          "title": "加上“摩擦热”就算不对？功能关系进阶，彻底搞清能量守恒摩擦热！",
+          "duration": 3012,
+          "pubdate": 1783681500,
+          "cover": "https://i0.hdslb.com/bfs/archive/9e8cbf6e45fd3d83789630f35e9601c8287e5a17.jpg",
+          "views": 212238,
+          "danmaku": 362,
+          "url": "https://www.bilibili.com/video/BV1MtN761Et3"
+        },
+        {
+          "bvid": "BV1BDKA64E8L",
+          "title": "用「时空累计」理解动量、冲量！多题型讲解动量定理！",
+          "duration": 6140,
+          "pubdate": 1784374653,
+          "cover": "https://i1.hdslb.com/bfs/archive/88c41c2486b47d2f4481362229661be67f22e14e.jpg",
+          "views": 337957,
+          "danmaku": 2247,
+          "url": "https://www.bilibili.com/video/BV1BDKA64E8L"
+        },
+        {
+          "bvid": "BV1KD3g6uEpM",
+          "title": "一个视频彻底搞定动量守恒判断！",
+          "duration": 2784,
+          "pubdate": 1784974500,
+          "cover": "https://i2.hdslb.com/bfs/archive/bee7971cd5e23832bfa526fbcc39535572369b81.jpg",
+          "views": 234554,
+          "danmaku": 902,
+          "url": "https://www.bilibili.com/video/BV1KD3g6uEpM"
+        },
+        {
+          "bvid": "BV14WGV67EPa",
+          "title": "【人船模型】彻底讲透！及其在各模型中的应用！",
+          "duration": 2046,
+          "pubdate": 1785578013,
+          "cover": "https://i2.hdslb.com/bfs/archive/09d8c89c7f49c7baecd9e807c6bb263e1e6cc4c5.jpg",
+          "views": 253448,
+          "danmaku": 730,
+          "url": "https://www.bilibili.com/video/BV14WGV67EPa"
+        },
+        {
+          "bvid": "BV1m5uV6kEd7",
+          "title": "【动量碰撞】彻底讲透！所有碰撞问题答案都在这了！",
+          "duration": 6436,
+          "pubdate": 1786240800,
+          "cover": "https://i1.hdslb.com/bfs/archive/e855c0affb0ffdb67cecb59d561c924c461cb063.jpg",
+          "views": 224609,
+          "danmaku": 865,
+          "url": "https://www.bilibili.com/video/BV1m5uV6kEd7"
+        },
+        {
+          "bvid": "BV1ge8y6XEAQ",
+          "title": "【动量】爆炸怎么算？反冲分几类？一个视频全搞定！",
+          "duration": 2283,
+          "pubdate": 1787365989,
+          "cover": "https://i2.hdslb.com/bfs/archive/50b87fd94785b1441bab245e85b459af01856745.jpg",
+          "views": 173693,
+          "danmaku": 265,
+          "url": "https://www.bilibili.com/video/BV1ge8y6XEAQ"
+        },
+        {
+          "bvid": "BV1pX826EEgc",
+          "title": "【动量】核心题型！彻底讲透'弹簧滑块'情况分析！",
+          "duration": 3719,
+          "pubdate": 1787407800,
+          "cover": "https://i2.hdslb.com/bfs/archive/69c5e440c1057f487d4dd52947a7e40c179dcbaf.jpg",
+          "views": 167551,
+          "danmaku": 274,
+          "url": "https://www.bilibili.com/video/BV1pX826EEgc"
+        },
+        {
+          "bvid": "BV1oV4y6xE4v",
+          "title": "【动量守恒】动量巧解板块摩擦问题（子弹木块问题）",
+          "duration": 1756,
+          "pubdate": 1787998185,
+          "cover": "https://i2.hdslb.com/bfs/archive/c3f9c9f1bb39fd52414485a4e7f5728c0539916b.jpg",
+          "views": 91940,
+          "danmaku": 97,
+          "url": "https://www.bilibili.com/video/BV1oV4y6xE4v"
+        },
+        {
+          "bvid": "BV1Vqtm6hEc9",
+          "title": "【动量综合题】动态圆周、可动滑块、飞摆模型（其实都是一个东西……",
+          "duration": 3116,
+          "pubdate": 1788594771,
+          "cover": "https://i1.hdslb.com/bfs/archive/62148c590e5d297d452d391d266776b1d7d6afb3.jpg",
+          "views": 142272,
+          "danmaku": 90,
+          "url": "https://www.bilibili.com/video/BV1Vqtm6hEc9"
+        },
+        {
+          "bvid": "BV15yYX6fExs",
+          "title": "【机械振动】简谐运动全解析 + 常见题型专练！（单摆下周更～）",
+          "duration": 6828,
+          "pubdate": 1789207498,
+          "cover": "https://i0.hdslb.com/bfs/archive/05c457276ada2cbc49cfefb44746d0bbe45e4bed.jpg",
+          "views": 141812,
+          "danmaku": 108,
+          "url": "https://www.bilibili.com/video/BV15yYX6fExs"
+        },
+        {
+          "bvid": "BV1UKeX6UEKG",
+          "title": "【振动】单摆、共振、受迫振动一起全搞懂！！！",
+          "duration": 3595,
+          "pubdate": 1789784118,
+          "cover": "https://i0.hdslb.com/bfs/archive/a2f9449bd3f1b04d7c55653988a62a7ead89d90a.jpg",
+          "views": 140487,
+          "danmaku": 135,
+          "url": "https://www.bilibili.com/video/BV1UKeX6UEKG"
+        },
+        {
+          "bvid": "BV1WMhX6iEcA",
+          "title": "【机械波】机械波最常考的基本题型，都在这了！！！（下周讲进阶题型～）",
+          "duration": 3664,
+          "pubdate": 1790407173,
+          "cover": "https://i1.hdslb.com/bfs/archive/f3292f1ce3834bc97bde4fa128a5829f833dfb5c.jpg",
+          "views": 107068,
+          "danmaku": 60,
+          "url": "https://www.bilibili.com/video/BV1WMhX6iEcA"
+        },
+        {
+          "bvid": "BV1caa26SEP6",
+          "title": "【机械波】两个图像问题，复杂综合问题详解！！！",
+          "duration": 2610,
+          "pubdate": 1790932079,
+          "cover": "https://i2.hdslb.com/bfs/archive/e31dc6eb6892f4360062c043858b742ae589934a.jpg",
+          "views": 68948,
+          "danmaku": 43,
+          "url": "https://www.bilibili.com/video/BV1caa26SEP6"
+        },
+        {
+          "bvid": "BV1HQHL6uErF",
+          "title": "【机械波】多解问题不会算？一个视频全搞定！",
+          "duration": 2078,
+          "pubdate": 1791111179,
+          "cover": "https://i1.hdslb.com/bfs/archive/bfe0c0d362ea343472468af16133fc4397cdc3ac.jpg",
+          "views": 42014,
+          "danmaku": 36,
+          "url": "https://www.bilibili.com/video/BV1HQHL6uErF"
+        }
+      ]
+    },
+    {
+      "season_id": 3672734,
+      "title": "高中物理重难点合集（持续更新中……）",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/da79384b1b155c5923a308a2226a6b5198c38d08.jpg",
+      "total": 25,
+      "fetched": 25,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1CZ421N7q4",
+          "title": "【高考物理重难点合集】动力学临界问题，一个视频学会！",
+          "duration": 2514,
+          "pubdate": 1723292772,
+          "cover": "https://i1.hdslb.com/bfs/archive/97e267a33897aac8dc40b12bf449be145bbe7aa9.jpg",
+          "views": 988672,
+          "danmaku": 3103,
+          "url": "https://www.bilibili.com/video/BV1CZ421N7q4"
+        },
+        {
+          "bvid": "BV1KWtsekEVV",
+          "title": "【高考物理重难点合集】连接体问题、内力公式",
+          "duration": 4772,
+          "pubdate": 1726490725,
+          "cover": "https://i1.hdslb.com/bfs/archive/4b345ec3f6b7591c7101a3969c922a0c699fa3b5.jpg",
+          "views": 531569,
+          "danmaku": 2897,
+          "url": "https://www.bilibili.com/video/BV1KWtsekEVV"
+        },
+        {
+          "bvid": "BV1Pup4ewEeF",
+          "title": "【高考物理重难点合集】弹簧突变、轻绳突变",
+          "duration": 2577,
+          "pubdate": 1725706508,
+          "cover": "https://i1.hdslb.com/bfs/archive/fcc34327b29fcb0b633256e134bc565568813f66.jpg",
+          "views": 269140,
+          "danmaku": 1085,
+          "url": "https://www.bilibili.com/video/BV1Pup4ewEeF"
+        },
+        {
+          "bvid": "BV1QE421w7T2",
+          "title": "【高考物理重难点合集】板块问题，彻底搞懂！",
+          "duration": 2042,
+          "pubdate": 1724153583,
+          "cover": "https://i0.hdslb.com/bfs/archive/c6645ca240edf857480f6e9764bf098c00be72ca.jpg",
+          "views": 842912,
+          "danmaku": 4354,
+          "url": "https://www.bilibili.com/video/BV1QE421w7T2"
+        },
+        {
+          "bvid": "BV1cr421T7Gt",
+          "title": "【高考物理重难点合集】板块问题（进阶）共速后运动分析",
+          "duration": 2422,
+          "pubdate": 1725105900,
+          "cover": "https://i2.hdslb.com/bfs/archive/0acbc9c06cbdf101b9f44d191f51b0d38725bbb2.jpg",
+          "views": 387767,
+          "danmaku": 1568,
+          "url": "https://www.bilibili.com/video/BV1cr421T7Gt"
+        },
+        {
+          "bvid": "BV1Az4weuEYX",
+          "title": "高考物理【水平传送带 】所有常见题型都在这！",
+          "duration": 3620,
+          "pubdate": 1728042869,
+          "cover": "https://i1.hdslb.com/bfs/archive/f6372389fc51f70c817c0e92f66f318eaeff353f.jpg",
+          "views": 227795,
+          "danmaku": 1226,
+          "url": "https://www.bilibili.com/video/BV1Az4weuEYX"
+        },
+        {
+          "bvid": "BV1832hYfEgZ",
+          "title": "高考物理斜面传送带！一个模版解决所有运动分析！",
+          "duration": 4789,
+          "pubdate": 1728733618,
+          "cover": "https://i1.hdslb.com/bfs/archive/37af0b63372f91c7fdbd7b636cfc0e0dded92a5f.jpg",
+          "views": 212541,
+          "danmaku": 1377,
+          "url": "https://www.bilibili.com/video/BV1832hYfEgZ"
+        },
+        {
+          "bvid": "BV1EYyDYbE4b",
+          "title": "高考物理重点！什么是黄金代换？怎么用黄金代换？一个视频彻底搞明白。",
+          "duration": 1180,
+          "pubdate": 1729860016,
+          "cover": "https://i2.hdslb.com/bfs/archive/d0b52c6cba8f23fe27546122a5f6f6e2bd233410.jpg",
+          "views": 156050,
+          "danmaku": 380,
+          "url": "https://www.bilibili.com/video/BV1EYyDYbE4b"
+        },
+        {
+          "bvid": "BV1jTDzYuEGy",
+          "title": "对地位移or相对位移？摩擦力做功究竟要用哪一个？一个视频讲通",
+          "duration": 1220,
+          "pubdate": 1731142464,
+          "cover": "https://i1.hdslb.com/bfs/archive/27e06b384d96bb380f4164130962c7871266cbc2.jpg",
+          "views": 166153,
+          "danmaku": 613,
+          "url": "https://www.bilibili.com/video/BV1jTDzYuEGy"
+        },
+        {
+          "bvid": "BV1k4UaYsEYk",
+          "title": "【动量碰撞总结】9种常考题型的解题思路，一个视频讲清楚。",
+          "duration": 2847,
+          "pubdate": 1731748006,
+          "cover": "https://i2.hdslb.com/bfs/archive/c0f6ecbad24930949cfaad9d0c5c472eb044078a.jpg",
+          "views": 1199014,
+          "danmaku": 4179,
+          "url": "https://www.bilibili.com/video/BV1k4UaYsEYk"
+        },
+        {
+          "bvid": "BV13YznYJEQz",
+          "title": "公式不会选？物理量太多理不清？一个视频讲清楚高中物理静电场公式总结",
+          "duration": 2568,
+          "pubdate": 1732956481,
+          "cover": "https://i1.hdslb.com/bfs/archive/c859a395a28d857cc99a02a52adfd947010321c7.jpg",
+          "views": 633716,
+          "danmaku": 2806,
+          "url": "https://www.bilibili.com/video/BV13YznYJEQz"
+        },
+        {
+          "bvid": "BV1KetkeZEhn",
+          "title": "高中物理抽象的电场中轨迹问题，半小时搞定！",
+          "duration": 1795,
+          "pubdate": 1726916700,
+          "cover": "https://i1.hdslb.com/bfs/archive/41bcef11a560845ec4ea3df5c38cfc73fea6b14b.jpg",
+          "views": 336485,
+          "danmaku": 1099,
+          "url": "https://www.bilibili.com/video/BV1KetkeZEhn"
+        },
+        {
+          "bvid": "BV1XKiyY5ERB",
+          "title": "高考物理重难点！「缩放圆」临界状态不会求？一个视频搞定！带电粒子在磁场中运动轨迹的临界问题！",
+          "duration": 1606,
+          "pubdate": 1733563500,
+          "cover": "https://i0.hdslb.com/bfs/archive/7848c5dc57142ba1df0bccb9ae42399935beb69c.jpg",
+          "views": 256658,
+          "danmaku": 795,
+          "url": "https://www.bilibili.com/video/BV1XKiyY5ERB"
+        },
+        {
+          "bvid": "BV1hMB1YUEzX",
+          "title": "摆线题目不会算？流经电荷量q不会求？轻松搞定动量定理+电磁学计算|高中物理",
+          "duration": 1819,
+          "pubdate": 1732351743,
+          "cover": "https://i0.hdslb.com/bfs/archive/c18e5f6834b28f57c74ab86c1c921cfe3846a277.jpg",
+          "views": 469693,
+          "danmaku": 3365,
+          "url": "https://www.bilibili.com/video/BV1hMB1YUEzX"
+        },
+        {
+          "bvid": "BV1MnQ3YSEQH",
+          "title": "大汇总！电学实验二级结论大总结！一个视频带你回顾整个电学实验！",
+          "duration": 2865,
+          "pubdate": 1741957500,
+          "cover": "https://i0.hdslb.com/bfs/archive/f6a763b46fb3d154cf906343d7d23c4a80e26403.jpg",
+          "views": 285341,
+          "danmaku": 496,
+          "url": "https://www.bilibili.com/video/BV1MnQ3YSEQH"
+        },
+        {
+          "bvid": "BV1HoBjYWEhX",
+          "title": "保姆级讲解高中物理「最难」的方法，让你一定能听懂的配速法！（带电粒子在复合场中复杂运动）",
+          "duration": 2828,
+          "pubdate": 1734168527,
+          "cover": "https://i1.hdslb.com/bfs/archive/6f78f7ad9487627c3eacb7bf88a1369ff20147e0.jpg",
+          "views": 1252650,
+          "danmaku": 6780,
+          "url": "https://www.bilibili.com/video/BV1HoBjYWEhX"
+        },
+        {
+          "bvid": "BV19KC2YqErc",
+          "title": "电学实验不会选表？一个视频帮你轻松搞定高考物理电表选择！",
+          "duration": 2065,
+          "pubdate": 1729253100,
+          "cover": "https://i2.hdslb.com/bfs/archive/6375d835dff195a49baa1c2a7f6294ea9c4c2a83.jpg",
+          "views": 536613,
+          "danmaku": 4732,
+          "url": "https://www.bilibili.com/video/BV19KC2YqErc"
+        },
+        {
+          "bvid": "BV1uZDAYbExC",
+          "title": "两种方法！彻底搞定高中物理电学实验的电表改装！",
+          "duration": 1592,
+          "pubdate": 1730538152,
+          "cover": "https://i2.hdslb.com/bfs/archive/b9fe1b7c976c84e1d40a1f7b89037bd0d19d6da0.jpg",
+          "views": 419538,
+          "danmaku": 1765,
+          "url": "https://www.bilibili.com/video/BV1uZDAYbExC"
+        },
+        {
+          "bvid": "BV1uDxMewEDm",
+          "title": "机械波，两个图像，一个视频全搞懂！",
+          "duration": 2276,
+          "pubdate": 1727520600,
+          "cover": "https://i2.hdslb.com/bfs/archive/88afa1c9ec471767eaf7b4c4eebe6ea8ec8d32b3.jpg",
+          "views": 843189,
+          "danmaku": 2883,
+          "url": "https://www.bilibili.com/video/BV1uDxMewEDm"
+        },
+        {
+          "bvid": "BV16LZPYaEGg",
+          "title": "气缸液柱还在丢分？？？一个视频搞定理想气体状态方程！",
+          "duration": 3999,
+          "pubdate": 1743243220,
+          "cover": "https://i0.hdslb.com/bfs/archive/191085e0ab2aa8c0ed0dcc66ee586cef835ec24c.jpg",
+          "views": 724859,
+          "danmaku": 3028,
+          "url": "https://www.bilibili.com/video/BV16LZPYaEGg"
+        },
+        {
+          "bvid": "BV1mnkbYgEte",
+          "title": "【物理】2025八省T8联考重难点详细解析",
+          "duration": 6039,
+          "pubdate": 1734777567,
+          "cover": "https://i1.hdslb.com/bfs/archive/beaa975f4ee7e2894e63489bd91fa05850823219.jpg",
+          "views": 535801,
+          "danmaku": 1359,
+          "url": "https://www.bilibili.com/video/BV1mnkbYgEte"
+        },
+        {
+          "bvid": "BV15srHYhEeY",
+          "title": "八省联考物理河南卷！难度不大？但读题得分毫不差！",
+          "duration": 387,
+          "pubdate": 1735980130,
+          "cover": "https://i0.hdslb.com/bfs/archive/09093cc62e67867f6f3343818286c32b0dbc66f1.jpg",
+          "views": 146778,
+          "danmaku": 63,
+          "url": "https://www.bilibili.com/video/BV15srHYhEeY"
+        },
+        {
+          "bvid": "BV1uaXWY9EMs",
+          "title": "【广州一模】逐题精讲2025年广州一模物理试卷",
+          "duration": 7314,
+          "pubdate": 1742644243,
+          "cover": "https://i0.hdslb.com/bfs/archive/9b2663ec7b8cb4b82f02279bacc21dbd1796715b.jpg",
+          "views": 189761,
+          "danmaku": 1025,
+          "url": "https://www.bilibili.com/video/BV1uaXWY9EMs"
+        },
+        {
+          "bvid": "BV1xDMtzhE9y",
+          "title": "【2025山东卷】高考物理逐题精讲",
+          "duration": 10773,
+          "pubdate": 1749986900,
+          "cover": "https://i0.hdslb.com/bfs/archive/73047edd6247ebe710278a0b6fe2ead659c9386f.jpg",
+          "views": 433415,
+          "danmaku": 1540,
+          "url": "https://www.bilibili.com/video/BV1xDMtzhE9y"
+        },
+        {
+          "bvid": "BV16gKrzEEh9",
+          "title": "【2025河南卷】高考物理逐题精讲",
+          "duration": 7834,
+          "pubdate": 1751110500,
+          "cover": "https://i2.hdslb.com/bfs/archive/7dee7c2b340cdcd35f1e72307cfd70e61e71380a.jpg",
+          "views": 367455,
+          "danmaku": 1250,
+          "url": "https://www.bilibili.com/video/BV16gKrzEEh9"
+        }
+      ]
+    },
+    {
+      "season_id": 4655795,
+      "title": "电学实验（已完结）",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/36875121c9bf04b237aac4eadbdc944615d54a55.jpg",
+      "total": 7,
+      "fetched": 7,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1Uaf6YJEZR",
+          "title": "【已完结】高中物理电学实验第一课——电表读数",
+          "duration": 978,
+          "pubdate": 1737884266,
+          "cover": "https://i2.hdslb.com/bfs/archive/deb586ab054962d9aafd45ccc1377aae011f12bd.jpg",
+          "views": 273198,
+          "danmaku": 779,
+          "url": "https://www.bilibili.com/video/BV1Uaf6YJEZR"
+        },
+        {
+          "bvid": "BV1akfzY9EXh",
+          "title": "【寒假物理救急！电学实验系统合集】伏安法测电阻，彻底搞懂底层逻辑，明明白白学会",
+          "duration": 5897,
+          "pubdate": 1737892664,
+          "cover": "https://i2.hdslb.com/bfs/archive/be9d3d0d8f2c9c86054cc1abe4beabaa7379102a.jpg",
+          "views": 400325,
+          "danmaku": 2538,
+          "url": "https://www.bilibili.com/video/BV1akfzY9EXh"
+        },
+        {
+          "bvid": "BV1hCFeerEXG",
+          "title": "【寒假提分特辑——电学实验】各种奇技淫巧测电阻，方法大汇总！（单电表法+电桥法+半偏法+替代法）",
+          "duration": 6968,
+          "pubdate": 1738415241,
+          "cover": "https://i1.hdslb.com/bfs/archive/91776f17d0edbf6283cd7a1c1fd8c1cb63710959.jpg",
+          "views": 212733,
+          "danmaku": 1222,
+          "url": "https://www.bilibili.com/video/BV1hCFeerEXG"
+        },
+        {
+          "bvid": "BV1JVNVegEw1",
+          "title": "救命课程！三种实验！测电源的精讲全解析！（UI法、IR法、UR法，测电源电动势和内阻）",
+          "duration": 8516,
+          "pubdate": 1739024762,
+          "cover": "https://i1.hdslb.com/bfs/archive/66c2f3a7aac2891b74049dc854784cd4ef1242d3.jpg",
+          "views": 196176,
+          "danmaku": 1717,
+          "url": "https://www.bilibili.com/video/BV1JVNVegEw1"
+        },
+        {
+          "bvid": "BV1BzAPeCEDt",
+          "title": "我总结了高中物理「电表改装」的所有知识点！都在这了！",
+          "duration": 3677,
+          "pubdate": 1739612732,
+          "cover": "https://i2.hdslb.com/bfs/archive/b64102c996fbfc5ccbb1708389852656bde8605f.jpg",
+          "views": 128295,
+          "danmaku": 753,
+          "url": "https://www.bilibili.com/video/BV1BzAPeCEDt"
+        },
+        {
+          "bvid": "BV1TdPKeeEQq",
+          "title": "关于电学实验多用电表的所有知识点！全在这！包看爽！",
+          "duration": 5967,
+          "pubdate": 1740226679,
+          "cover": "https://i0.hdslb.com/bfs/archive/e2ec0d8a0b2a0b0ba87a956f5c2ca3f7a34440a2.jpg",
+          "views": 236211,
+          "danmaku": 1449,
+          "url": "https://www.bilibili.com/video/BV1TdPKeeEQq"
+        },
+        {
+          "bvid": "BV1HZXXYbER8",
+          "title": "高考物理题型新宠！电容充放电实验，一个视频全解析",
+          "duration": 2328,
+          "pubdate": 1740823126,
+          "cover": "https://i0.hdslb.com/bfs/archive/15a6b1ff52b088da3729ed7977e76dc6b67b8c3f.jpg",
+          "views": 126264,
+          "danmaku": 393,
+          "url": "https://www.bilibili.com/video/BV1HZXXYbER8"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 3,
+    "videos": 111,
+    "truncated_collections": []
+  }
+}

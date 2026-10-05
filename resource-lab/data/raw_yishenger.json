@@ -1,0 +1,4530 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791183971982,
+  "source": {
+    "platform": "bilibili",
+    "author": "一生儿",
+    "mid": 2036187097,
+    "space": "https://space.bilibili.com/2036187097"
+  },
+  "collections": [
+    {
+      "season_id": 8537922,
+      "title": "一生教辅",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/2b0dfe124296e400e024c3e4dade584f77553aa2.jpg",
+      "total": 2,
+      "fetched": 2,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1uHzCBvEKt",
+          "title": "【高考生物】一轮复习大合集来啦 | 长期更新中 | 从基础到拔高！",
+          "duration": 204349,
+          "pubdate": 1769257200,
+          "cover": "https://i2.hdslb.com/bfs/archive/2aa7b737b43e7fda834e91eb4f3db63c62944085.jpg",
+          "views": 1966255,
+          "danmaku": 15010,
+          "url": "https://www.bilibili.com/video/BV1uHzCBvEKt"
+        },
+        {
+          "bvid": "BV1suiGBaEm8",
+          "title": "高中生物必修一最全大合集来啦【从基础到拔高】长期更新中~",
+          "duration": 88974,
+          "pubdate": 1767232800,
+          "cover": "https://i1.hdslb.com/bfs/archive/c9f12eb7477db1f4739d5fa09039b747fa017554.jpg",
+          "views": 2132282,
+          "danmaku": 46211,
+          "url": "https://www.bilibili.com/video/BV1suiGBaEm8"
+        }
+      ]
+    },
+    {
+      "season_id": 6344337,
+      "title": "高考系统课【复习使用】-大合集【26/27版100讲】",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/e84c002f313303c22ed7eb7494f0f349b9751e54.jpg",
+      "total": 65,
+      "fetched": 65,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1XhjN65EyG",
+          "title": "细胞学说及其建立过程【高考系统课】",
+          "duration": 1844,
+          "pubdate": 1781613000,
+          "cover": "https://i1.hdslb.com/bfs/archive/8e38a0a890c76d8a53962657df2166f71081901f.jpg",
+          "views": 237377,
+          "danmaku": 821,
+          "url": "https://www.bilibili.com/video/BV1XhjN65EyG"
+        },
+        {
+          "bvid": "BV1FjjN6RE7J",
+          "title": "真原核生物和病毒【高考系统课】",
+          "duration": 2631,
+          "pubdate": 1781694000,
+          "cover": "https://i0.hdslb.com/bfs/archive/af9dc3f2950f59a8dddc64b40960c9edda883185.jpg",
+          "views": 131847,
+          "danmaku": 1012,
+          "url": "https://www.bilibili.com/video/BV1FjjN6RE7J"
+        },
+        {
+          "bvid": "BV1FEjz6HEPK",
+          "title": "显微镜的使用【高考系统课】",
+          "duration": 1083,
+          "pubdate": 1781870400,
+          "cover": "https://i2.hdslb.com/bfs/archive/8f2a963e4774ada77e91dcee73992d0471671b0c.jpg",
+          "views": 72360,
+          "danmaku": 232,
+          "url": "https://www.bilibili.com/video/BV1FEjz6HEPK"
+        },
+        {
+          "bvid": "BV1zPjJ6FE6m",
+          "title": "构成细胞的元素和化合物【高考系统课】",
+          "duration": 2168,
+          "pubdate": 1781960400,
+          "cover": "https://i1.hdslb.com/bfs/archive/0300b53ed09d670b785c8c4dc800711a5e77824f.jpg",
+          "views": 105977,
+          "danmaku": 682,
+          "url": "https://www.bilibili.com/video/BV1zPjJ6FE6m"
+        },
+        {
+          "bvid": "BV1oujh6sEVs",
+          "title": "水和无机盐【高考系统课】",
+          "duration": 1446,
+          "pubdate": 1782042101,
+          "cover": "https://i1.hdslb.com/bfs/archive/4c2ede80b0842977435f8e249629ceba4e80eb4b.jpg",
+          "views": 82309,
+          "danmaku": 470,
+          "url": "https://www.bilibili.com/video/BV1oujh6sEVs"
+        },
+        {
+          "bvid": "BV1Zp7V61Eas",
+          "title": "糖类和脂质【高考系统课】",
+          "duration": 3070,
+          "pubdate": 1782477081,
+          "cover": "https://i1.hdslb.com/bfs/archive/ca0883cb65a1936940581eb31005077c05fb503c.jpg",
+          "views": 113377,
+          "danmaku": 649,
+          "url": "https://www.bilibili.com/video/BV1Zp7V61Eas"
+        },
+        {
+          "bvid": "BV1SxMw6kEYW",
+          "title": "核酸和蛋白质【高考系统课】",
+          "duration": 2995,
+          "pubdate": 1783162585,
+          "cover": "https://i2.hdslb.com/bfs/archive/0e487063a037a271fc33027ebe03cbc04f1f26e4.jpg",
+          "views": 112509,
+          "danmaku": 732,
+          "url": "https://www.bilibili.com/video/BV1SxMw6kEYW"
+        },
+        {
+          "bvid": "BV1gVM86sEAP",
+          "title": "难点透析 蛋白质的计算【高考系统课】",
+          "duration": 1263,
+          "pubdate": 1783422693,
+          "cover": "https://i0.hdslb.com/bfs/archive/63e300ba089bbd6d755fb1ec5b3378b6b3ade53f.jpg",
+          "views": 78718,
+          "danmaku": 223,
+          "url": "https://www.bilibili.com/video/BV1gVM86sEAP"
+        },
+        {
+          "bvid": "BV1tBMb6EExh",
+          "title": "细胞膜和细胞壁【高考系统课】",
+          "duration": 2064,
+          "pubdate": 1783508400,
+          "cover": "https://i2.hdslb.com/bfs/archive/728de42924764c94e139ab88bd6666df22de1ae8.jpg",
+          "views": 102815,
+          "danmaku": 334,
+          "url": "https://www.bilibili.com/video/BV1tBMb6EExh"
+        },
+        {
+          "bvid": "BV1DyNt6yERS",
+          "title": "细胞器【高考系统课】",
+          "duration": 3073,
+          "pubdate": 1784033313,
+          "cover": "https://i0.hdslb.com/bfs/archive/e8e7259248587d51a66ca1af4b3c7519d6a075f9.jpg",
+          "views": 93148,
+          "danmaku": 341,
+          "url": "https://www.bilibili.com/video/BV1DyNt6yERS"
+        },
+        {
+          "bvid": "BV1kcKG6QET7",
+          "title": "细胞核【高考系统课】",
+          "duration": 1360,
+          "pubdate": 1784199600,
+          "cover": "https://i0.hdslb.com/bfs/archive/6e37af9b7122860ff2e266b81eb0c48ccbc1b20f.jpg",
+          "views": 69250,
+          "danmaku": 269,
+          "url": "https://www.bilibili.com/video/BV1kcKG6QET7"
+        },
+        {
+          "bvid": "BV1diKm6yER2",
+          "title": "细胞的吸水和失水【高考系统课】",
+          "duration": 3428,
+          "pubdate": 1784545200,
+          "cover": "https://i2.hdslb.com/bfs/archive/2a95aadb2bec0617aa4b869e52b690db5f31047f.jpg",
+          "views": 90941,
+          "danmaku": 420,
+          "url": "https://www.bilibili.com/video/BV1diKm6yER2"
+        },
+        {
+          "bvid": "BV1dCgk6uET1",
+          "title": "物质进出细胞的方式【高考系统课】",
+          "duration": 2825,
+          "pubdate": 1784724532,
+          "cover": "https://i1.hdslb.com/bfs/archive/501d8e844e48466a589460d0a682e30a599502b4.jpg",
+          "views": 90606,
+          "danmaku": 332,
+          "url": "https://www.bilibili.com/video/BV1dCgk6uET1"
+        },
+        {
+          "bvid": "BV1id316QEAd",
+          "title": "酶【高考系统课】",
+          "duration": 3760,
+          "pubdate": 1785322659,
+          "cover": "https://i1.hdslb.com/bfs/archive/9c1534f7989b869b59dc138b88290f6c850f2248.jpg",
+          "views": 81739,
+          "danmaku": 369,
+          "url": "https://www.bilibili.com/video/BV1id316QEAd"
+        },
+        {
+          "bvid": "BV1HBMR65EAL",
+          "title": "ATP(拓展dNTP ddNTP)【高考系统课】",
+          "duration": 1829,
+          "pubdate": 1785762679,
+          "cover": "https://i0.hdslb.com/bfs/archive/0bde78ea738dba14fe8d562b858389d5743f0434.jpg",
+          "views": 86374,
+          "danmaku": 306,
+          "url": "https://www.bilibili.com/video/BV1HBMR65EAL"
+        },
+        {
+          "bvid": "BV1rPqWBtEkL",
+          "title": "呼吸作用过程【一轮复习】",
+          "duration": 3332,
+          "pubdate": 1766057400,
+          "cover": "https://i2.hdslb.com/bfs/archive/300b55f3c6c94a065b0e4f8ba57badde1db80378.jpg",
+          "views": 383729,
+          "danmaku": 1290,
+          "url": "https://www.bilibili.com/video/BV1rPqWBtEkL"
+        },
+        {
+          "bvid": "BV1QAB7BZEFp",
+          "title": "呼吸作用影响因素【一轮复习】",
+          "duration": 2732,
+          "pubdate": 1766579189,
+          "cover": "https://i0.hdslb.com/bfs/archive/7fc1feb4d414e6274e5b468977b5c2921082e07b.jpg",
+          "views": 153296,
+          "danmaku": 553,
+          "url": "https://www.bilibili.com/video/BV1QAB7BZEFp"
+        },
+        {
+          "bvid": "BV1ysvvBdEPb",
+          "title": "光合作用的过程【一轮复习】",
+          "duration": 3948,
+          "pubdate": 1767099500,
+          "cover": "https://i2.hdslb.com/bfs/archive/eda767923f658ef92e4ee7310673b3e5a6b8d9e1.jpg",
+          "views": 217979,
+          "danmaku": 1221,
+          "url": "https://www.bilibili.com/video/BV1ysvvBdEPb"
+        },
+        {
+          "bvid": "BV19QrHBHETs",
+          "title": "光合作用的影响因素【一轮复习】",
+          "duration": 3023,
+          "pubdate": 1768388082,
+          "cover": "https://i1.hdslb.com/bfs/archive/c521c7c160fc629467ac2ef7d0d63d09dc29e339.jpg",
+          "views": 154339,
+          "danmaku": 465,
+          "url": "https://www.bilibili.com/video/BV19QrHBHETs"
+        },
+        {
+          "bvid": "BV1PQkKBcEk3",
+          "title": "光合作用和呼吸作用的综合考查【一轮复习】",
+          "duration": 1833,
+          "pubdate": 1768561200,
+          "cover": "https://i2.hdslb.com/bfs/archive/2540fae47fb04532770759ab7e34ef592e5f8885.jpg",
+          "views": 261697,
+          "danmaku": 662,
+          "url": "https://www.bilibili.com/video/BV1PQkKBcEk3"
+        },
+        {
+          "bvid": "BV1FEBfBfEhV",
+          "title": "光呼吸 C4植物和CAM途径【一轮复习】",
+          "duration": 3228,
+          "pubdate": 1769087285,
+          "cover": "https://i0.hdslb.com/bfs/archive/0b886251de3c52948321ea8490501ef1ac03ae09.jpg",
+          "views": 151789,
+          "danmaku": 358,
+          "url": "https://www.bilibili.com/video/BV1FEBfBfEhV"
+        },
+        {
+          "bvid": "BV16K6JBHEuF",
+          "title": "有丝分裂【一轮复习】",
+          "duration": 4610,
+          "pubdate": 1769601600,
+          "cover": "https://i1.hdslb.com/bfs/archive/d0e17698263f73187d5434528d6d28c80c13d5a8.jpg",
+          "views": 213554,
+          "danmaku": 1280,
+          "url": "https://www.bilibili.com/video/BV16K6JBHEuF"
+        },
+        {
+          "bvid": "BV1Ei61BoExg",
+          "title": "减数分裂【一轮复习】",
+          "duration": 3948,
+          "pubdate": 1769860014,
+          "cover": "https://i2.hdslb.com/bfs/archive/e34c550fdfcd6df127563a98e7fa972762e91192.jpg",
+          "views": 193948,
+          "danmaku": 1147,
+          "url": "https://www.bilibili.com/video/BV1Ei61BoExg"
+        },
+        {
+          "bvid": "BV1ZufZBBEhW",
+          "title": "减数分裂与有丝分裂的综合考察【一轮复习】",
+          "duration": 2461,
+          "pubdate": 1770206400,
+          "cover": "https://i0.hdslb.com/bfs/archive/19be0c5a1b093c6c42f5a223527a4e566a4e7f99.jpg",
+          "views": 189498,
+          "danmaku": 482,
+          "url": "https://www.bilibili.com/video/BV1ZufZBBEhW"
+        },
+        {
+          "bvid": "BV1AJFkz6E8W",
+          "title": "减数分裂和可遗传变异【一轮复习】",
+          "duration": 1457,
+          "pubdate": 1770386287,
+          "cover": "https://i1.hdslb.com/bfs/archive/554a2776f171237edb487c065c5f45fdaa5e5c2c.jpg",
+          "views": 146745,
+          "danmaku": 388,
+          "url": "https://www.bilibili.com/video/BV1AJFkz6E8W"
+        },
+        {
+          "bvid": "BV1mKFQzgEii",
+          "title": "细胞分化与全能性【一轮复习】",
+          "duration": 2009,
+          "pubdate": 1770727606,
+          "cover": "https://i0.hdslb.com/bfs/archive/522149ac35ca4a51a1e14988022ffdefe7826168.jpg",
+          "views": 121089,
+          "danmaku": 273,
+          "url": "https://www.bilibili.com/video/BV1mKFQzgEii"
+        },
+        {
+          "bvid": "BV1d3cizyE4i",
+          "title": "细胞的衰老和死亡【一轮复习】",
+          "duration": 1867,
+          "pubdate": 1770892200,
+          "cover": "https://i1.hdslb.com/bfs/archive/76c28c527091f3ec557f484e08c7cdbda4c695e8.jpg",
+          "views": 109531,
+          "danmaku": 299,
+          "url": "https://www.bilibili.com/video/BV1d3cizyE4i"
+        },
+        {
+          "bvid": "BV1j5Y7zkEsY",
+          "title": "分离定律的发现及验证【一轮复习】",
+          "duration": 3291,
+          "pubdate": 1757254204,
+          "cover": "https://i1.hdslb.com/bfs/archive/b3525cade0334147dc1363a5580ddfadc63cb030.jpg",
+          "views": 323775,
+          "danmaku": 1308,
+          "url": "https://www.bilibili.com/video/BV1j5Y7zkEsY"
+        },
+        {
+          "bvid": "BV1kkHoziEdJ",
+          "title": "分离定律的常规考查【一轮复习】",
+          "duration": 2988,
+          "pubdate": 1757818657,
+          "cover": "https://i0.hdslb.com/bfs/archive/9a90c0f8281e53b810836da86ce247e492cef321.jpg",
+          "views": 190121,
+          "danmaku": 940,
+          "url": "https://www.bilibili.com/video/BV1kkHoziEdJ"
+        },
+        {
+          "bvid": "BV17Fp1z8ETR",
+          "title": "分离定律的遗传特例【一轮复习】",
+          "duration": 2799,
+          "pubdate": 1758027600,
+          "cover": "https://i0.hdslb.com/bfs/archive/e664efd7bab5c7954d498a5ae84c6f980262a21b.jpg",
+          "views": 179404,
+          "danmaku": 847,
+          "url": "https://www.bilibili.com/video/BV17Fp1z8ETR"
+        },
+        {
+          "bvid": "BV1nmJdz4EmM",
+          "title": "自由组合定律的发现和解题通法【一轮复习】",
+          "duration": 4902,
+          "pubdate": 1758464578,
+          "cover": "https://i2.hdslb.com/bfs/archive/f0225df23c17faef4c9fd0568ead909c8c12600e.jpg",
+          "views": 231147,
+          "danmaku": 1319,
+          "url": "https://www.bilibili.com/video/BV1nmJdz4EmM"
+        },
+        {
+          "bvid": "BV1KHHNzFEKP",
+          "title": "自由组合定律的特殊比例【一轮复习】",
+          "duration": 3635,
+          "pubdate": 1759403156,
+          "cover": "https://i1.hdslb.com/bfs/archive/a3b67924af9ec0e0ae490bcbfb424ef13ffef896.jpg",
+          "views": 166807,
+          "danmaku": 763,
+          "url": "https://www.bilibili.com/video/BV1KHHNzFEKP"
+        },
+        {
+          "bvid": "BV1MGxtzuEHK",
+          "title": "探究基因在常染色体上的位置关系【一轮复习】",
+          "duration": 5045,
+          "pubdate": 1759577082,
+          "cover": "https://i2.hdslb.com/bfs/archive/e52cf4ef940ca14c159c018954cb32b44616e2f3.jpg",
+          "views": 163642,
+          "danmaku": 583,
+          "url": "https://www.bilibili.com/video/BV1MGxtzuEHK"
+        },
+        {
+          "bvid": "BV1QtxQzLEEf",
+          "title": "基因在染色体上及伴性遗传【一轮复习】",
+          "duration": 5265,
+          "pubdate": 1759836010,
+          "cover": "https://i0.hdslb.com/bfs/archive/7128491388f9b2614c32c7a7a854fce90294dfaf.jpg",
+          "views": 185513,
+          "danmaku": 861,
+          "url": "https://www.bilibili.com/video/BV1QtxQzLEEf"
+        },
+        {
+          "bvid": "BV1dQWdztExT",
+          "title": "人类遗传病与电泳鉴定【一轮复习】",
+          "duration": 4965,
+          "pubdate": 1761051390,
+          "cover": "https://i2.hdslb.com/bfs/archive/f3d3f4ec38d4d6f4990dad8ab05f68014c449594.jpg",
+          "views": 160040,
+          "danmaku": 659,
+          "url": "https://www.bilibili.com/video/BV1dQWdztExT"
+        },
+        {
+          "bvid": "BV1Ksy6BeEGw",
+          "title": "性染色体上基因的位置判定【一轮复习】",
+          "duration": 3509,
+          "pubdate": 1761653326,
+          "cover": "https://i1.hdslb.com/bfs/archive/0a6f0a077072ee2ba1fc41aafeb288828bd19256.jpg",
+          "views": 120783,
+          "danmaku": 166,
+          "url": "https://www.bilibili.com/video/BV1Ksy6BeEGw"
+        },
+        {
+          "bvid": "BV1kbZeBCEyo",
+          "title": "DNA是主要的遗传物质【一轮复习】",
+          "duration": 2939,
+          "pubdate": 1771498794,
+          "cover": "https://i2.hdslb.com/bfs/archive/213c3c51db15466f0c755f6cd17e63e9db167143.jpg",
+          "views": 129306,
+          "danmaku": 485,
+          "url": "https://www.bilibili.com/video/BV1kbZeBCEyo"
+        },
+        {
+          "bvid": "BV1fQcQzaEXC",
+          "title": "DNA的结构与复制【一轮复习】",
+          "duration": 4288,
+          "pubdate": 1773153991,
+          "cover": "https://i2.hdslb.com/bfs/archive/82cf5ed876152a80d54ebe953795beae85e5c950.jpg",
+          "views": 144112,
+          "danmaku": 558,
+          "url": "https://www.bilibili.com/video/BV1fQcQzaEXC"
+        },
+        {
+          "bvid": "BV1t6cyzoEyT",
+          "title": "难点透析-DNA复制与同位素标记【高考系统课】",
+          "duration": 1450,
+          "pubdate": 1773325045,
+          "cover": "https://i2.hdslb.com/bfs/archive/bf9f5401fa77dfa46e54318a9f12117b4a34d379.jpg",
+          "views": 146079,
+          "danmaku": 195,
+          "url": "https://www.bilibili.com/video/BV1t6cyzoEyT"
+        },
+        {
+          "bvid": "BV1B1wJz3Evb",
+          "title": "基因的表达【高考系统课】",
+          "duration": 5215,
+          "pubdate": 1773404963,
+          "cover": "https://i2.hdslb.com/bfs/archive/51066ce68e095d070660c9b27365ae06c45a4faa.jpg",
+          "views": 139938,
+          "danmaku": 430,
+          "url": "https://www.bilibili.com/video/BV1B1wJz3Evb"
+        },
+        {
+          "bvid": "BV1kwAEzyEAK",
+          "title": "中心法则及基因对性状的控制【高考系统课】",
+          "duration": 2961,
+          "pubdate": 1774000800,
+          "cover": "https://i1.hdslb.com/bfs/archive/cb1b3335b2c59c837764d82d2f0f388988775f6a.jpg",
+          "views": 117394,
+          "danmaku": 259,
+          "url": "https://www.bilibili.com/video/BV1kwAEzyEAK"
+        },
+        {
+          "bvid": "BV1RkQSBbEvR",
+          "title": "基因突变和基因重组【高考系统课】",
+          "duration": 3247,
+          "pubdate": 1774439499,
+          "cover": "https://i1.hdslb.com/bfs/archive/305853a5ae5fd79e1c094b8921eebb44ab880091.jpg",
+          "views": 181983,
+          "danmaku": 620,
+          "url": "https://www.bilibili.com/video/BV1RkQSBbEvR"
+        },
+        {
+          "bvid": "BV1g39TBqELP",
+          "title": "染色体变异【高考系统课】",
+          "duration": 4335,
+          "pubdate": 1775217600,
+          "cover": "https://i0.hdslb.com/bfs/archive/9d0572fc188731d463b6b7e2bb11b6c68648608f.jpg",
+          "views": 148990,
+          "danmaku": 552,
+          "url": "https://www.bilibili.com/video/BV1g39TBqELP"
+        },
+        {
+          "bvid": "BV1smQEB9EcK",
+          "title": "育种（含三系杂交法）【高考系统课】",
+          "duration": 3824,
+          "pubdate": 1776254400,
+          "cover": "https://i1.hdslb.com/bfs/archive/674dc9974c30c9ded1c7597670e296b77c392cde.jpg",
+          "views": 104660,
+          "danmaku": 156,
+          "url": "https://www.bilibili.com/video/BV1smQEB9EcK"
+        },
+        {
+          "bvid": "BV1MCoMBLEvy",
+          "title": "达尔文的生物进化论【高考系统课】",
+          "duration": 1570,
+          "pubdate": 1776944990,
+          "cover": "https://i2.hdslb.com/bfs/archive/f5abc631d0a50584ff882b90596dae891b4a92cc.jpg",
+          "views": 97042,
+          "danmaku": 113,
+          "url": "https://www.bilibili.com/video/BV1MCoMBLEvy"
+        },
+        {
+          "bvid": "BV1KcZcBREt4",
+          "title": "物种形成与协同进化【高考系统课】",
+          "duration": 1290,
+          "pubdate": 1777204800,
+          "cover": "https://i0.hdslb.com/bfs/archive/9116ed67d2a7345c449486bb39001e18f8e8727f.jpg",
+          "views": 101382,
+          "danmaku": 72,
+          "url": "https://www.bilibili.com/video/BV1KcZcBREt4"
+        },
+        {
+          "bvid": "BV1ysojB8EXg",
+          "title": "种群基因频率与进化的本质【高考系统课】",
+          "duration": 3434,
+          "pubdate": 1777114800,
+          "cover": "https://i2.hdslb.com/bfs/archive/cde30d81f4f06c1a60ee703f273a39881cc3df7f.jpg",
+          "views": 105644,
+          "danmaku": 203,
+          "url": "https://www.bilibili.com/video/BV1ysojB8EXg"
+        },
+        {
+          "bvid": "BV1gDLz6iEFU",
+          "title": "传统发酵技术【高考系统课】",
+          "duration": 2035,
+          "pubdate": 1779194749,
+          "cover": "https://i1.hdslb.com/bfs/archive/3e4e0d37ee8fcb7ec3f397e230c682ba835e4786.jpg",
+          "views": 100657,
+          "danmaku": 184,
+          "url": "https://www.bilibili.com/video/BV1gDLz6iEFU"
+        },
+        {
+          "bvid": "BV19ZLs6eEj7",
+          "title": "微生物的培养技术及应用【高考系统课】",
+          "duration": 4433,
+          "pubdate": 1779364800,
+          "cover": "https://i0.hdslb.com/bfs/archive/1d5424b99b79aef53e855e8c82c8828c431f555e.jpg",
+          "views": 93042,
+          "danmaku": 136,
+          "url": "https://www.bilibili.com/video/BV19ZLs6eEj7"
+        },
+        {
+          "bvid": "BV1wPVA6LEJQ",
+          "title": "发酵工程及应用【高考系统课】",
+          "duration": 1881,
+          "pubdate": 1779796800,
+          "cover": "https://i2.hdslb.com/bfs/archive/a75bdf0e4e1bf633610a7bd09b1e9886a5139c0e.jpg",
+          "views": 88720,
+          "danmaku": 55,
+          "url": "https://www.bilibili.com/video/BV1wPVA6LEJQ"
+        },
+        {
+          "bvid": "BV1PJGX6WEf2",
+          "title": "植物细胞工程【高考系统课】",
+          "duration": 2709,
+          "pubdate": 1779967800,
+          "cover": "https://i2.hdslb.com/bfs/archive/4a902b7e4207cd13893c1deb890c291343288fda.jpg",
+          "views": 96139,
+          "danmaku": 119,
+          "url": "https://www.bilibili.com/video/BV1PJGX6WEf2"
+        },
+        {
+          "bvid": "BV1Wu1sBpEJx",
+          "title": "基因工程的基本工具【一轮复习】",
+          "duration": 3354,
+          "pubdate": 1762343766,
+          "cover": "https://i1.hdslb.com/bfs/archive/fcdbf512cf9d84ac0faed486d5f438d7aab4563e.jpg",
+          "views": 211927,
+          "danmaku": 637,
+          "url": "https://www.bilibili.com/video/BV1Wu1sBpEJx"
+        },
+        {
+          "bvid": "BV1afkrBGEBM",
+          "title": "基因工程的基本操作程序（一）-PCR【一轮复习】",
+          "duration": 3693,
+          "pubdate": 1762869279,
+          "cover": "https://i2.hdslb.com/bfs/archive/64dfcb84ca2a8b9fbec1306191370bec540939b6.jpg",
+          "views": 235617,
+          "danmaku": 872,
+          "url": "https://www.bilibili.com/video/BV1afkrBGEBM"
+        },
+        {
+          "bvid": "BV1JYyPBpE79",
+          "title": "基因工程的基本操作程序（二）【一轮复习】",
+          "duration": 3215,
+          "pubdate": 1763641023,
+          "cover": "https://i1.hdslb.com/bfs/archive/95ddbd15000e17120eadca008f9ddd55632d5899.jpg",
+          "views": 157444,
+          "danmaku": 429,
+          "url": "https://www.bilibili.com/video/BV1JYyPBpE79"
+        },
+        {
+          "bvid": "BV1ST2xBiE47",
+          "title": "PCR技术的热点考法【一轮复习】",
+          "duration": 4348,
+          "pubdate": 1764763548,
+          "cover": "https://i1.hdslb.com/bfs/archive/794a03990cd97bf77ab766bf9b4e394761971201.jpg",
+          "views": 243565,
+          "danmaku": 901,
+          "url": "https://www.bilibili.com/video/BV1ST2xBiE47"
+        },
+        {
+          "bvid": "BV1bWmbBjEZS",
+          "title": "基因工程的应用及蛋白质工程【一轮复习】",
+          "duration": 3304,
+          "pubdate": 1765366538,
+          "cover": "https://i0.hdslb.com/bfs/archive/071de6731fbe72d888da5b7fd61f779b55bb0d4a.jpg",
+          "views": 183042,
+          "danmaku": 401,
+          "url": "https://www.bilibili.com/video/BV1bWmbBjEZS"
+        },
+        {
+          "bvid": "BV1JhJn63EWt",
+          "title": "胚胎工程【高考系统课】",
+          "duration": 2802,
+          "pubdate": 1781343184,
+          "cover": "https://i2.hdslb.com/bfs/archive/479c241cb24aedaa3a542dc75eb57b0cd32849fb.jpg",
+          "views": 88498,
+          "danmaku": 186,
+          "url": "https://www.bilibili.com/video/BV1JhJn63EWt"
+        },
+        {
+          "bvid": "BV1kb7k6NE4N",
+          "title": "动物细胞工程【高考系统课】",
+          "duration": 4497,
+          "pubdate": 1780740000,
+          "cover": "https://i2.hdslb.com/bfs/archive/c22e4e4f2db865f0107e3a825bad42d497eac366.jpg",
+          "views": 96321,
+          "danmaku": 245,
+          "url": "https://www.bilibili.com/video/BV1kb7k6NE4N"
+        },
+        {
+          "bvid": "BV1Sbud6AEQU",
+          "title": "细胞生活的环境【高考系统课】",
+          "duration": 4272,
+          "pubdate": 1786359600,
+          "cover": "https://i1.hdslb.com/bfs/archive/5baa4da9887380dab5ddb1f743879001800ad8ba.jpg",
+          "views": 77849,
+          "danmaku": 398,
+          "url": "https://www.bilibili.com/video/BV1Sbud6AEQU"
+        },
+        {
+          "bvid": "BV1s1uq6zEix",
+          "title": "内环境的稳态【高考系统课】",
+          "duration": 2494,
+          "pubdate": 1786446000,
+          "cover": "https://i1.hdslb.com/bfs/archive/660ab1cbc84f8839286facf43e94909f10b3318f.jpg",
+          "views": 80472,
+          "danmaku": 237,
+          "url": "https://www.bilibili.com/video/BV1s1uq6zEix"
+        },
+        {
+          "bvid": "BV1NW8n6VEnf",
+          "title": "神经系统的结构与反射【高考复习】",
+          "duration": 3844,
+          "pubdate": 1787134698,
+          "cover": "https://i0.hdslb.com/bfs/archive/26194920992b8599cc446f9f074de047f3c75b8d.jpg",
+          "views": 76599,
+          "danmaku": 303,
+          "url": "https://www.bilibili.com/video/BV1NW8n6VEnf"
+        },
+        {
+          "bvid": "BV1J68w6UE26",
+          "title": "神经冲动的产生 传导和传递(含拓展通道类型和传导机制）【高考复习】",
+          "duration": 6063,
+          "pubdate": 1787218758,
+          "cover": "https://i0.hdslb.com/bfs/archive/58967ef5b326e532463a42571249c446adb77741.jpg",
+          "views": 87038,
+          "danmaku": 257,
+          "url": "https://www.bilibili.com/video/BV1J68w6UE26"
+        },
+        {
+          "bvid": "BV14x8s64ERB",
+          "title": "神经系统的分级调节和人脑的高级功能【高考复习】",
+          "duration": 2010,
+          "pubdate": 1787482800,
+          "cover": "https://i0.hdslb.com/bfs/archive/18c9b6005ca9f259ea1b82ea465748cbef1a0a10.jpg",
+          "views": 87333,
+          "danmaku": 168,
+          "url": "https://www.bilibili.com/video/BV14x8s64ERB"
+        },
+        {
+          "bvid": "BV1Qceu6AEXR",
+          "title": "激素调节【高考复习】",
+          "duration": 4034,
+          "pubdate": 1789729200,
+          "cover": "https://i0.hdslb.com/bfs/archive/03586243072b054acf10fbfe952d21aba3b3ae1b.jpg",
+          "views": 79515,
+          "danmaku": 134,
+          "url": "https://www.bilibili.com/video/BV1Qceu6AEXR"
+        },
+        {
+          "bvid": "BV1tvaR6SERH",
+          "title": "神经调节和体液调节的关系【高考复习】",
+          "duration": 4824,
+          "pubdate": 1790769600,
+          "cover": "https://i2.hdslb.com/bfs/archive/1cf72c3685bf134a50b6ee6184ee35c0b9178559.jpg",
+          "views": 61100,
+          "danmaku": 63,
+          "url": "https://www.bilibili.com/video/BV1tvaR6SERH"
+        }
+      ]
+    },
+    {
+      "season_id": 4904770,
+      "title": "高中生物基础+拔高大合集【新版】长期更新中",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/0206351f0f8c410b6c582e5436d5fdda7449e0ee.jpg",
+      "total": 54,
+      "fetched": 54,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1qXuH6UEXD",
+          "title": "【高中生物一本通-必修一】TA来啦！| 新书发布！",
+          "duration": 411,
+          "pubdate": 1786096800,
+          "cover": "https://i2.hdslb.com/bfs/archive/78aac62cf7c5da8e609d10d16569b7b3912d3bf9.jpg",
+          "views": 138972,
+          "danmaku": 78,
+          "url": "https://www.bilibili.com/video/BV1qXuH6UEXD"
+        },
+        {
+          "bvid": "BV1BLbLzbEPN",
+          "title": "【0基础 学生物】高中生物新基础大合集-走进细胞 开始更新啦！",
+          "duration": 1887,
+          "pubdate": 1754910241,
+          "cover": "https://i1.hdslb.com/bfs/archive/9a07402c2af8e02c10d2e90058a8dc700e2774a7.jpg",
+          "views": 795964,
+          "danmaku": 5309,
+          "url": "https://www.bilibili.com/video/BV1BLbLzbEPN"
+        },
+        {
+          "bvid": "BV1mcYyzKEBp",
+          "title": "【0基础 学生物】 细胞的多样性与统一性及显微镜的使用",
+          "duration": 2427,
+          "pubdate": 1755429900,
+          "cover": "https://i2.hdslb.com/bfs/archive/6d60cee556572b9b5c9cfb1d4ce4d1cffe7d8291.jpg",
+          "views": 310633,
+          "danmaku": 4947,
+          "url": "https://www.bilibili.com/video/BV1mcYyzKEBp"
+        },
+        {
+          "bvid": "BV1PJYTzbEiZ",
+          "title": "细胞中的元素和化合物与物质鉴定实验【0基础 学生物】",
+          "duration": 2689,
+          "pubdate": 1757159400,
+          "cover": "https://i0.hdslb.com/bfs/archive/9dceb1980c661d813eaac2e8fad3db7d6e63507d.jpg",
+          "views": 243268,
+          "danmaku": 3222,
+          "url": "https://www.bilibili.com/video/BV1PJYTzbEiZ"
+        },
+        {
+          "bvid": "BV1Kmge6vEEq",
+          "title": "细胞中的水和无机盐【新高一 | 必修一】",
+          "duration": 3314,
+          "pubdate": 1784901050,
+          "cover": "https://i0.hdslb.com/bfs/archive/87ed2fe3f508001e56111ea9e862c665c1e82462.jpg",
+          "views": 125773,
+          "danmaku": 1567,
+          "url": "https://www.bilibili.com/video/BV1Kmge6vEEq"
+        },
+        {
+          "bvid": "BV1Ek3E62EPe",
+          "title": "糖类和脂质【新高一 | 必修一】",
+          "duration": 4184,
+          "pubdate": 1785063600,
+          "cover": "https://i2.hdslb.com/bfs/archive/1a547ea688011a9b2537b7d68ea44818a887303c.jpg",
+          "views": 113237,
+          "danmaku": 2315,
+          "url": "https://www.bilibili.com/video/BV1Ek3E62EPe"
+        },
+        {
+          "bvid": "BV1fRgX6rEix",
+          "title": "高中生物第一个小难点-蛋白质来啦【新高一 | 必修一】",
+          "duration": 4089,
+          "pubdate": 1785117600,
+          "cover": "https://i1.hdslb.com/bfs/archive/47f22ece73d69c8ca1483e03fe54126f17740b2f.jpg",
+          "views": 142559,
+          "danmaku": 2510,
+          "url": "https://www.bilibili.com/video/BV1fRgX6rEix"
+        },
+        {
+          "bvid": "BV1JWGN6LEmH",
+          "title": "难度升级-蛋白质计算来啦！【新高一 | 必修一】",
+          "duration": 3044,
+          "pubdate": 1785499381,
+          "cover": "https://i2.hdslb.com/bfs/archive/7c59a0972b3dec15bf78ec81b7a60778092c0943.jpg",
+          "views": 124063,
+          "danmaku": 1432,
+          "url": "https://www.bilibili.com/video/BV1JWGN6LEmH"
+        },
+        {
+          "bvid": "BV1juuM6rE6W",
+          "title": "遗传信息携带者-核酸来啦【新高一 | 必修一】",
+          "duration": 4056,
+          "pubdate": 1786160721,
+          "cover": "https://i0.hdslb.com/bfs/archive/e4863316e08dbbf86e6cbb89d8e79260cdb1775d.jpg",
+          "views": 101496,
+          "danmaku": 1097,
+          "url": "https://www.bilibili.com/video/BV1juuM6rE6W"
+        },
+        {
+          "bvid": "BV1KDgs6rEnQ",
+          "title": "细胞膜的结构和功能【新高一 | 必修一】",
+          "duration": 4311,
+          "pubdate": 1786630146,
+          "cover": "https://i1.hdslb.com/bfs/archive/4c66d828c4288cac64bc0ceb456b910e7b6a8f77.jpg",
+          "views": 85223,
+          "danmaku": 620,
+          "url": "https://www.bilibili.com/video/BV1KDgs6rEnQ"
+        },
+        {
+          "bvid": "BV12dby6yEto",
+          "title": "八大细胞器来啦！【新高一 | 必修一】",
+          "duration": 4766,
+          "pubdate": 1786791936,
+          "cover": "https://i0.hdslb.com/bfs/archive/681caa8838b018857c6e7b897bb6c473b035f069.jpg",
+          "views": 79949,
+          "danmaku": 433,
+          "url": "https://www.bilibili.com/video/BV12dby6yEto"
+        },
+        {
+          "bvid": "BV1SrbQ6TE6V",
+          "title": "细胞器之间的分工合作来啦~【新高一 | 必修一】",
+          "duration": 3899,
+          "pubdate": 1786878000,
+          "cover": "https://i2.hdslb.com/bfs/archive/50605846588361d5c0182d6a6205907b53ce457c.jpg",
+          "views": 77865,
+          "danmaku": 279,
+          "url": "https://www.bilibili.com/video/BV1SrbQ6TE6V"
+        },
+        {
+          "bvid": "BV1LT8w63EdW",
+          "title": "细胞核的结构和功能~【新高一 | 必修一】",
+          "duration": 3168,
+          "pubdate": 1787306400,
+          "cover": "https://i0.hdslb.com/bfs/archive/8517d531a0fec86a1b71e2c1f1c7e38fbb7e4b7d.jpg",
+          "views": 91477,
+          "danmaku": 176,
+          "url": "https://www.bilibili.com/video/BV1LT8w63EdW"
+        },
+        {
+          "bvid": "BV1rGWEz8EGy",
+          "title": "渗透作用和质壁分离实验【0基础 学生物】",
+          "duration": 2967,
+          "pubdate": 1760702361,
+          "cover": "https://i2.hdslb.com/bfs/archive/fbb25aa39750a224a7f19e486d498f56a81aa480.jpg",
+          "views": 227907,
+          "danmaku": 2044,
+          "url": "https://www.bilibili.com/video/BV1rGWEz8EGy"
+        },
+        {
+          "bvid": "BV1Ft1MBKEz7",
+          "title": "物质进出细胞的方式【0基础 学生物】",
+          "duration": 2816,
+          "pubdate": 1761909854,
+          "cover": "https://i0.hdslb.com/bfs/archive/9b6d4fca72dd0d4eddcb4442782ada4c4ac3c24c.jpg",
+          "views": 186714,
+          "danmaku": 1106,
+          "url": "https://www.bilibili.com/video/BV1Ft1MBKEz7"
+        },
+        {
+          "bvid": "BV1JpUVBRE7a",
+          "title": "一节课搞定酶~【0基础 学生物】",
+          "duration": 2643,
+          "pubdate": 1763726400,
+          "cover": "https://i0.hdslb.com/bfs/archive/a2761d96b051e2e5a56559e0a7ed1bd3352d7227.jpg",
+          "views": 234839,
+          "danmaku": 3226,
+          "url": "https://www.bilibili.com/video/BV1JpUVBRE7a"
+        },
+        {
+          "bvid": "BV1bqSPB7E7p",
+          "title": "ATP来啦~【0基础 学生物】",
+          "duration": 1535,
+          "pubdate": 1764471400,
+          "cover": "https://i1.hdslb.com/bfs/archive/1c9289af16e187ccc82df2b258c1109c1f599734.jpg",
+          "views": 223393,
+          "danmaku": 1619,
+          "url": "https://www.bilibili.com/video/BV1bqSPB7E7p"
+        },
+        {
+          "bvid": "BV1xZmFB8ET2",
+          "title": "呼吸作用过程详解【0基础 学生物】",
+          "duration": 2518,
+          "pubdate": 1765084138,
+          "cover": "https://i1.hdslb.com/bfs/archive/1fa391d306eb9eaded0786d7cce50a43629f9444.jpg",
+          "views": 228086,
+          "danmaku": 1688,
+          "url": "https://www.bilibili.com/video/BV1xZmFB8ET2"
+        },
+        {
+          "bvid": "BV1m7miBYEoH",
+          "title": "呼吸作用计算及影响因素【0基础 学生物】",
+          "duration": 2554,
+          "pubdate": 1765689458,
+          "cover": "https://i0.hdslb.com/bfs/archive/238e1a1959cc1b707ce0dd1e56a04eeee305c3c9.jpg",
+          "views": 148708,
+          "danmaku": 825,
+          "url": "https://www.bilibili.com/video/BV1m7miBYEoH"
+        },
+        {
+          "bvid": "BV1HVqzBqEPo",
+          "title": "光合色素种类和功能【0基础 学生物】",
+          "duration": 2019,
+          "pubdate": 1766226153,
+          "cover": "https://i0.hdslb.com/bfs/archive/d7737d9d937785afcd5321a52351abcf35dcd223.jpg",
+          "views": 145271,
+          "danmaku": 797,
+          "url": "https://www.bilibili.com/video/BV1HVqzBqEPo"
+        },
+        {
+          "bvid": "BV1PQicBPEvc",
+          "title": "光合作用探索实验与过程【0基础 学生物】",
+          "duration": 2189,
+          "pubdate": 1767363756,
+          "cover": "https://i0.hdslb.com/bfs/archive/c426a8e31a40c8ce7e677b6f7decdcc875755ffe.jpg",
+          "views": 172545,
+          "danmaku": 938,
+          "url": "https://www.bilibili.com/video/BV1PQicBPEvc"
+        },
+        {
+          "bvid": "BV1CDPueeEVy",
+          "title": "【0基础 学遗传】必修二遗传怎么学？喵喵老师手把手教你学基因的分离定律！",
+          "duration": 3195,
+          "pubdate": 1740229099,
+          "cover": "https://i0.hdslb.com/bfs/archive/56aa88b318656b2c6ceed2fb0d77223b24f988a4.jpg",
+          "views": 916106,
+          "danmaku": 5760,
+          "url": "https://www.bilibili.com/video/BV1CDPueeEVy"
+        },
+        {
+          "bvid": "BV1DNXRYkENo",
+          "title": "【0基础 学遗传】自交和自由交配傻傻分不清楚？分离定律解题方法来啦！【上】",
+          "duration": 2449,
+          "pubdate": 1740880800,
+          "cover": "https://i2.hdslb.com/bfs/archive/651031fc6ac85e4afb92207a28a803ce89123c72.jpg",
+          "views": 609879,
+          "danmaku": 7635,
+          "url": "https://www.bilibili.com/video/BV1DNXRYkENo"
+        },
+        {
+          "bvid": "BV1mbRpY9Eoo",
+          "title": "【0基础 学遗传】分离定律不正常比例分析，致死问题解法来啦！【下】",
+          "duration": 2704,
+          "pubdate": 1741435200,
+          "cover": "https://i2.hdslb.com/bfs/archive/8fd79835f10d36be6aeb7176598418e083306d86.jpg",
+          "views": 337439,
+          "danmaku": 3749,
+          "url": "https://www.bilibili.com/video/BV1mbRpY9Eoo"
+        },
+        {
+          "bvid": "BV1M7RtYqE6E",
+          "title": "【0基础 学遗传】必修二遗传怎么学？喵喵老师手把手教你学基因的自由组合定律！",
+          "duration": 2578,
+          "pubdate": 1741485600,
+          "cover": "https://i2.hdslb.com/bfs/archive/e043ceb6c4625f83fa54f6a665d43ab853c08c6a.jpg",
+          "views": 375601,
+          "danmaku": 2764,
+          "url": "https://www.bilibili.com/video/BV1M7RtYqE6E"
+        },
+        {
+          "bvid": "BV1SoQrYiEV4",
+          "title": "【0基础 学遗传】超有用自由组合定律解题思路，9331变形来啦！【上】",
+          "duration": 3382,
+          "pubdate": 1742004000,
+          "cover": "https://i2.hdslb.com/bfs/archive/097ac9b45b90a22cfeb4e8f3720840eed5ed3a97.jpg",
+          "views": 400889,
+          "danmaku": 3665,
+          "url": "https://www.bilibili.com/video/BV1SoQrYiEV4"
+        },
+        {
+          "bvid": "BV1t7Q8YeEHB",
+          "title": "【0基础 学遗传】自由组合致死问题，多对等位基因自由组合来啦！【下】",
+          "duration": 2340,
+          "pubdate": 1742122538,
+          "cover": "https://i1.hdslb.com/bfs/archive/9a472b2924d22804ebb7ad7f5a6cfa7795c25279.jpg",
+          "views": 249187,
+          "danmaku": 1742,
+          "url": "https://www.bilibili.com/video/BV1t7Q8YeEHB"
+        },
+        {
+          "bvid": "BV17DXkYWEpK",
+          "title": "减数分裂搞不懂？喵喵老师手把手教你学减数分裂！",
+          "duration": 3099,
+          "pubdate": 1742565900,
+          "cover": "https://i2.hdslb.com/bfs/archive/d8d1844c99990cd574d4dd1a2afe473cb53b073d.jpg",
+          "views": 510858,
+          "danmaku": 7840,
+          "url": "https://www.bilibili.com/video/BV17DXkYWEpK"
+        },
+        {
+          "bvid": "BV1QF411x7vc",
+          "title": "【高中生物必修二】受精作用-知识点|从零开始学渣救星~",
+          "duration": 1127,
+          "pubdate": 1646472334,
+          "cover": "https://i0.hdslb.com/bfs/archive/b6b61d2c9db2e126a252647ec5ea1947e2dea7e2.jpg",
+          "views": 845419,
+          "danmaku": 6209,
+          "url": "https://www.bilibili.com/video/BV1QF411x7vc"
+        },
+        {
+          "bvid": "BV1RGodYhE2U",
+          "title": "减数分裂不会做题？图像傻傻分不清楚？快来一起学解题！",
+          "duration": 2632,
+          "pubdate": 1743170100,
+          "cover": "https://i0.hdslb.com/bfs/archive/74bd428b247a362221e267c032eaa2b792e4c308.jpg",
+          "views": 259342,
+          "danmaku": 2177,
+          "url": "https://www.bilibili.com/video/BV1RGodYhE2U"
+        },
+        {
+          "bvid": "BV1ioZaYTEC3",
+          "title": "有丝减数分裂曲线题型综合题型来啦~",
+          "duration": 2564,
+          "pubdate": 1743300000,
+          "cover": "https://i0.hdslb.com/bfs/archive/1d5c62d3a54104455c379bb523aa336c2b8e4f8f.jpg",
+          "views": 167515,
+          "danmaku": 972,
+          "url": "https://www.bilibili.com/video/BV1ioZaYTEC3"
+        },
+        {
+          "bvid": "BV1LHZoYMEmY",
+          "title": "遗传难出新高度？摩尔根带着果蝇走来啦~【伴性遗传 连锁互换】",
+          "duration": 3540,
+          "pubdate": 1743818400,
+          "cover": "https://i1.hdslb.com/bfs/archive/0d1da4dfa52ebdc8eaa2ef7fb54ef3d4a683986a.jpg",
+          "views": 310986,
+          "danmaku": 3741,
+          "url": "https://www.bilibili.com/video/BV1LHZoYMEmY"
+        },
+        {
+          "bvid": "BV1ai826FEmf",
+          "title": "【高中生物一本通-选择性必修1】TA来啦！| 新书发布！",
+          "duration": 295,
+          "pubdate": 1787457600,
+          "cover": "https://i1.hdslb.com/bfs/archive/83a6d320fe3abd2c7452d9af013657c75713ce1a.jpg",
+          "views": 93121,
+          "danmaku": 127,
+          "url": "https://www.bilibili.com/video/BV1ai826FEmf"
+        },
+        {
+          "bvid": "BV1baeAzZEkG",
+          "title": "【0基础 学生物】 选择性必修一开始更新啦！—细胞生活的环境",
+          "duration": 2017,
+          "pubdate": 1755604800,
+          "cover": "https://i2.hdslb.com/bfs/archive/d9215aabffd8f5ac8c56e50d05f71227c37480c1.jpg",
+          "views": 732524,
+          "danmaku": 7650,
+          "url": "https://www.bilibili.com/video/BV1baeAzZEkG"
+        },
+        {
+          "bvid": "BV1CfhizqETd",
+          "title": "内环境的稳态与失调｜ 选择性必修一【0基础 学生物】",
+          "duration": 1620,
+          "pubdate": 1756555503,
+          "cover": "https://i1.hdslb.com/bfs/archive/8881106c8c35f832fd30b20c3799ffb8ea0527c3.jpg",
+          "views": 321869,
+          "danmaku": 2245,
+          "url": "https://www.bilibili.com/video/BV1CfhizqETd"
+        },
+        {
+          "bvid": "BV1fnY96PEEw",
+          "title": "内环境题不会做？快进来学！【新高二 | 选必一】",
+          "duration": 2927,
+          "pubdate": 1789204726,
+          "cover": "https://i1.hdslb.com/bfs/archive/3be0745db6e36c1f0e752109da09b09b0f9ff9ad.jpg",
+          "views": 91061,
+          "danmaku": 187,
+          "url": "https://www.bilibili.com/video/BV1fnY96PEEw"
+        },
+        {
+          "bvid": "BV1T2et6LEK8",
+          "title": "内环境稳态考点总结来啦！【新高二 | 选必一】",
+          "duration": 1678,
+          "pubdate": 1789820308,
+          "cover": "https://i0.hdslb.com/bfs/archive/500934eee9b2c22ac528fe7b1fc279743c9a0396.jpg",
+          "views": 59490,
+          "danmaku": 147,
+          "url": "https://www.bilibili.com/video/BV1T2et6LEK8"
+        },
+        {
+          "bvid": "BV1ENa8z5EKR",
+          "title": "神经调节结构基础｜ 选择性必修一【0基础 学生物】",
+          "duration": 1603,
+          "pubdate": 1757067000,
+          "cover": "https://i1.hdslb.com/bfs/archive/cd9a06b1a4090c8702e6f6bedfa64ba2536808f8.jpg",
+          "views": 333422,
+          "danmaku": 5403,
+          "url": "https://www.bilibili.com/video/BV1ENa8z5EKR"
+        },
+        {
+          "bvid": "BV1xQpjzwEpE",
+          "title": "神经调节基本方式｜ 选择性必修一【0基础 学生物】",
+          "duration": 1441,
+          "pubdate": 1757756881,
+          "cover": "https://i1.hdslb.com/bfs/archive/f944742cadace0ddfb2de313e3716e88737f6f59.jpg",
+          "views": 285850,
+          "danmaku": 3524,
+          "url": "https://www.bilibili.com/video/BV1xQpjzwEpE"
+        },
+        {
+          "bvid": "BV1Arh26SE8a",
+          "title": "神经调节结构和反射的考点总结来啦！【新高二 | 选必一】",
+          "duration": 1457,
+          "pubdate": 1790335889,
+          "cover": "https://i2.hdslb.com/bfs/archive/065e8e8a9717862f11d1e08e74320c3809076e22.jpg",
+          "views": 51597,
+          "danmaku": 119,
+          "url": "https://www.bilibili.com/video/BV1Arh26SE8a"
+        },
+        {
+          "bvid": "BV1SMpXzTEn9",
+          "title": "兴奋在神经纤维上的传导｜ 选择性必修一【0基础 学生物】",
+          "duration": 2389,
+          "pubdate": 1758367800,
+          "cover": "https://i1.hdslb.com/bfs/archive/77ab6c2e25729d59b9f92bf50e1df63a4ccaa41a.jpg",
+          "views": 355756,
+          "danmaku": 5755,
+          "url": "https://www.bilibili.com/video/BV1SMpXzTEn9"
+        },
+        {
+          "bvid": "BV1x7J1zTEYd",
+          "title": "兴奋在神经元间的传递｜ 选择性必修一【0基础 学生物】",
+          "duration": 1662,
+          "pubdate": 1758632224,
+          "cover": "https://i1.hdslb.com/bfs/archive/3cc110b05f346905689f4164e93c7bbba4b02e15.jpg",
+          "views": 246312,
+          "danmaku": 2097,
+          "url": "https://www.bilibili.com/video/BV1x7J1zTEYd"
+        },
+        {
+          "bvid": "BV142n1z3EAn",
+          "title": "分级调节和人脑的高级功能｜ 选择性必修一【0基础 学生物】",
+          "duration": 1788,
+          "pubdate": 1759233000,
+          "cover": "https://i1.hdslb.com/bfs/archive/1591e7fec6216846fcd5af41d907e463f46a22e4.jpg",
+          "views": 238490,
+          "danmaku": 3618,
+          "url": "https://www.bilibili.com/video/BV142n1z3EAn"
+        },
+        {
+          "bvid": "BV1CpsczXEd6",
+          "title": "免疫系统组成和功能｜ 选择性必修一【0基础 学生物】",
+          "duration": 1844,
+          "pubdate": 1760841993,
+          "cover": "https://i2.hdslb.com/bfs/archive/3d28503e8da6090579647c23dcc33fbb21cc5cba.jpg",
+          "views": 239114,
+          "danmaku": 1802,
+          "url": "https://www.bilibili.com/video/BV1CpsczXEd6"
+        },
+        {
+          "bvid": "BV19ACXBVEeW",
+          "title": "特异性免疫｜ 选择性必修一【0基础 学生物】",
+          "duration": 1754,
+          "pubdate": 1763263788,
+          "cover": "https://i0.hdslb.com/bfs/archive/5bc5ac4f233d46cf52957c40000c3b398e2b41d1.jpg",
+          "views": 155855,
+          "danmaku": 800,
+          "url": "https://www.bilibili.com/video/BV19ACXBVEeW"
+        },
+        {
+          "bvid": "BV1KaygB7E3p",
+          "title": "免疫失调和免疫学应用｜ 选择性必修一【0基础 学生物】",
+          "duration": 1956,
+          "pubdate": 1763467200,
+          "cover": "https://i0.hdslb.com/bfs/archive/40f12c3f2997180f91b402e6b4ec4f03172e4ea1.jpg",
+          "views": 145052,
+          "danmaku": 953,
+          "url": "https://www.bilibili.com/video/BV1KaygB7E3p"
+        },
+        {
+          "bvid": "BV1GoUWBGEyv",
+          "title": "种群的数量特征和种群密度的调查方法｜ 选择性必修二【0基础 学生物】",
+          "duration": 2508,
+          "pubdate": 1763814324,
+          "cover": "https://i0.hdslb.com/bfs/archive/e9d0495bf66d3864710cc128a27873ad737e6a09.jpg",
+          "views": 153237,
+          "danmaku": 1106,
+          "url": "https://www.bilibili.com/video/BV1GoUWBGEyv"
+        },
+        {
+          "bvid": "BV1TYSFBvELL",
+          "title": "种群的数量变化及影响因素｜ 选择性必修二【0基础 学生物】",
+          "duration": 2771,
+          "pubdate": 1764417664,
+          "cover": "https://i2.hdslb.com/bfs/archive/fd19b782650c968e5151c73eaa193ecc436f7a17.jpg",
+          "views": 154401,
+          "danmaku": 813,
+          "url": "https://www.bilibili.com/video/BV1TYSFBvELL"
+        },
+        {
+          "bvid": "BV1rzm7BiEER",
+          "title": "群落的结构｜ 选择性必修二【0基础 学生物】",
+          "duration": 2072,
+          "pubdate": 1765539669,
+          "cover": "https://i2.hdslb.com/bfs/archive/868ec86814a8d24bf37a4c5ccd48848aa111d5c8.jpg",
+          "views": 128551,
+          "danmaku": 634,
+          "url": "https://www.bilibili.com/video/BV1rzm7BiEER"
+        },
+        {
+          "bvid": "BV1Shq2BMEgq",
+          "title": "群落的类型和演替｜ 选择性必修二【0基础 学生物】",
+          "duration": 1365,
+          "pubdate": 1766285187,
+          "cover": "https://i1.hdslb.com/bfs/archive/74c5506200fed30b8b4880f1c7f0bc2f06eeaa04.jpg",
+          "views": 127526,
+          "danmaku": 365,
+          "url": "https://www.bilibili.com/video/BV1Shq2BMEgq"
+        },
+        {
+          "bvid": "BV1gtNgzkEyY",
+          "title": "传统发酵技术 | 知识【0基础 学生物】",
+          "duration": 1642,
+          "pubdate": 1772967351,
+          "cover": "https://i1.hdslb.com/bfs/archive/235b56bf25496ce5685306fed836c87a65a45290.jpg",
+          "views": 139589,
+          "danmaku": 455,
+          "url": "https://www.bilibili.com/video/BV1gtNgzkEyY"
+        },
+        {
+          "bvid": "BV14qNgziEJA",
+          "title": "传统发酵技术 | 解题方法【0基础 学生物】",
+          "duration": 1544,
+          "pubdate": 1772966962,
+          "cover": "https://i2.hdslb.com/bfs/archive/08c0f3880cf47df6bc6e76c395e4458393ab1268.jpg",
+          "views": 114398,
+          "danmaku": 177,
+          "url": "https://www.bilibili.com/video/BV14qNgziEJA"
+        },
+        {
+          "bvid": "BV1EvXsYrEdj",
+          "title": "动物细胞工程重难点知识讲解来啦~",
+          "duration": 2251,
+          "pubdate": 1742650200,
+          "cover": "https://i1.hdslb.com/bfs/archive/03b5de31be43f6ed2cffb2731c0a44da05c27f9e.jpg",
+          "views": 238640,
+          "danmaku": 864,
+          "url": "https://www.bilibili.com/video/BV1EvXsYrEdj"
+        },
+        {
+          "bvid": "BV1V3dwYzEGZ",
+          "title": "【选必三】基因工程学不会怎么办？最详细基因工程讲解来啦~",
+          "duration": 3028,
+          "pubdate": 1743904548,
+          "cover": "https://i2.hdslb.com/bfs/archive/b8b2a6fa52435616cf9fb14ac83ae67a0faa082d.jpg",
+          "views": 331805,
+          "danmaku": 1293,
+          "url": "https://www.bilibili.com/video/BV1V3dwYzEGZ"
+        }
+      ]
+    },
+    {
+      "season_id": 2050826,
+      "title": "助力考试大合集",
+      "intro": "助力期中期末月考合格考试~",
+      "cover": "https://archive.biliimg.com/bfs/archive/d344e6bddd710e68ad9f60f545fdface4ac2ea64.jpg",
+      "total": 44,
+      "fetched": 44,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1ta411E7Jt",
+          "title": "助力高中生物合格性考试！必修一年年考的实验总结 |学考会考",
+          "duration": 1741,
+          "pubdate": 1653734475,
+          "cover": "https://i0.hdslb.com/bfs/archive/240eeab88bc7efa18d316816a758d24820079977.jpg",
+          "views": 514657,
+          "danmaku": 1108,
+          "url": "https://www.bilibili.com/video/BV1ta411E7Jt"
+        },
+        {
+          "bvid": "BV12g411z7uc",
+          "title": "【刷题儿题儿】助力期中考，考出新高度~ | 全国名校真题精选",
+          "duration": 2174,
+          "pubdate": 1667003400,
+          "cover": "https://i1.hdslb.com/bfs/archive/969ff20ea1f34297c5497cfb209015c9c7e53338.jpg",
+          "views": 276070,
+          "danmaku": 1574,
+          "url": "https://www.bilibili.com/video/BV12g411z7uc"
+        },
+        {
+          "bvid": "BV1kY411D771",
+          "title": "开学考来了，假期却带走了记忆~别怕！高一生物-助力开学考（上）",
+          "duration": 2033,
+          "pubdate": 1674867600,
+          "cover": "https://i1.hdslb.com/bfs/archive/9e599b52e398cc199a2830b9b44d05ae583b0bb7.jpg",
+          "views": 424696,
+          "danmaku": 4527,
+          "url": "https://www.bilibili.com/video/BV1kY411D771"
+        },
+        {
+          "bvid": "BV1BD4y1E78J",
+          "title": "不惧开学考，喵喵来帮忙！高一生物-助力开学考（下）",
+          "duration": 2425,
+          "pubdate": 1674952200,
+          "cover": "https://i1.hdslb.com/bfs/archive/7da1b5b575e075dd331461dd519225e8190ed945.jpg",
+          "views": 204835,
+          "danmaku": 2128,
+          "url": "https://www.bilibili.com/video/BV1BD4y1E78J"
+        },
+        {
+          "bvid": "BV1Dm4y1m716",
+          "title": "高一生物-助力期中考【期中真题演练-大题】",
+          "duration": 1856,
+          "pubdate": 1681516800,
+          "cover": "https://i2.hdslb.com/bfs/archive/17b9d950d3713a783695e7402eb326a47bcf821c.jpg",
+          "views": 378033,
+          "danmaku": 1360,
+          "url": "https://www.bilibili.com/video/BV1Dm4y1m716"
+        },
+        {
+          "bvid": "BV1aX4y1v78U",
+          "title": "助力合格性考试-必修一",
+          "duration": 1945,
+          "pubdate": 1688130568,
+          "cover": "https://i2.hdslb.com/bfs/archive/c18699fd4633bd1eabab5dc2c787911a3081a279.jpg",
+          "views": 836774,
+          "danmaku": 6241,
+          "url": "https://www.bilibili.com/video/BV1aX4y1v78U"
+        },
+        {
+          "bvid": "BV1Na4y1w7kM",
+          "title": "助力合格性考试-必修二",
+          "duration": 1953,
+          "pubdate": 1688134984,
+          "cover": "https://i1.hdslb.com/bfs/archive/184e0cc4c2f27968af0a1793facedef3f4484086.jpg",
+          "views": 435766,
+          "danmaku": 4076,
+          "url": "https://www.bilibili.com/video/BV1Na4y1w7kM"
+        },
+        {
+          "bvid": "BV1t34y1V7v4",
+          "title": "【助力高一月考】高中生物第一次考试来了怎么办？不慌！| 全国名校真题精选",
+          "duration": 1846,
+          "pubdate": 1696339638,
+          "cover": "https://i1.hdslb.com/bfs/archive/6e44a2e3ae497ce5c1d87f41f437883082fa1844.jpg",
+          "views": 340776,
+          "danmaku": 1828,
+          "url": "https://www.bilibili.com/video/BV1t34y1V7v4"
+        },
+        {
+          "bvid": "BV1rw411z7XU",
+          "title": "【助力高一期中考-选择题篇】高中生物第一次期中考来了怎么办？不慌！| 全国名校真题精选",
+          "duration": 2198,
+          "pubdate": 1698402508,
+          "cover": "https://i1.hdslb.com/bfs/archive/246cefa294e59f140f0d47560157aacdbeed45c2.jpg",
+          "views": 308096,
+          "danmaku": 1432,
+          "url": "https://www.bilibili.com/video/BV1rw411z7XU"
+        },
+        {
+          "bvid": "BV1qj411a7eq",
+          "title": "【助力高一期中考-大题篇】搞定期中考填空题实验题~| 全国名校真题精选",
+          "duration": 1900,
+          "pubdate": 1699002905,
+          "cover": "https://i1.hdslb.com/bfs/archive/1512306e99691e1bdd6b24a45ca12406c486345f.jpg",
+          "views": 124289,
+          "danmaku": 740,
+          "url": "https://www.bilibili.com/video/BV1qj411a7eq"
+        },
+        {
+          "bvid": "BV1zW4y1P784",
+          "title": "【助力高一上期末考-选择题篇】高中生物第一次期末考来了怎么办？不慌！| 全国名校真题精选",
+          "duration": 2975,
+          "pubdate": 1704459999,
+          "cover": "https://i1.hdslb.com/bfs/archive/07e35b952de8620c9adf9345a365d1c5134b3478.jpg",
+          "views": 242913,
+          "danmaku": 2084,
+          "url": "https://www.bilibili.com/video/BV1zW4y1P784"
+        },
+        {
+          "bvid": "BV13e411H73G",
+          "title": "【助力高一上期末考-大题篇】失分率最高-信息+实验大题怎么做？| 全国名校真题精选",
+          "duration": 1625,
+          "pubdate": 1705060800,
+          "cover": "https://i1.hdslb.com/bfs/archive/42e362576871be320d1bc94e57681bca3fa7b9d5.jpg",
+          "views": 167307,
+          "danmaku": 930,
+          "url": "https://www.bilibili.com/video/BV13e411H73G"
+        },
+        {
+          "bvid": "BV1nZ42127tb",
+          "title": "【助力高一下开学考】高一下学期开学收心卷 | 全国名校真题精选",
+          "duration": 2995,
+          "pubdate": 1708776000,
+          "cover": "https://i1.hdslb.com/bfs/archive/26c2876df09c2e8cc25018234da7896748b2bb55.jpg",
+          "views": 95158,
+          "danmaku": 423,
+          "url": "https://www.bilibili.com/video/BV1nZ42127tb"
+        },
+        {
+          "bvid": "BV19T4212744",
+          "title": "【助力高一下期中考】高一下学期期中考试来了怎么办？-选择题 | 全国名校真题精选",
+          "duration": 2442,
+          "pubdate": 1713614400,
+          "cover": "https://i2.hdslb.com/bfs/archive/613ba09eca084fd83737d36ed9d416082a01ae71.jpg",
+          "views": 388036,
+          "danmaku": 2618,
+          "url": "https://www.bilibili.com/video/BV19T4212744"
+        },
+        {
+          "bvid": "BV16C411E7Pi",
+          "title": "高一期中考试新题速递-大题 | 全国名校真题精选",
+          "duration": 2159,
+          "pubdate": 1714748657,
+          "cover": "https://i2.hdslb.com/bfs/archive/326866fcd9905eb1fac93377a5475206bdd5a96e.jpg",
+          "views": 97072,
+          "danmaku": 413,
+          "url": "https://www.bilibili.com/video/BV16C411E7Pi"
+        },
+        {
+          "bvid": "BV1s4421S7R3",
+          "title": "【助力高一下期末考】高一下学期期末考试来了怎么办？-选择题 | 全国名校真题精选",
+          "duration": 2651,
+          "pubdate": 1719580811,
+          "cover": "https://i1.hdslb.com/bfs/archive/ce2c82c3d6bcce3d5254f8b27fa6412e563692be.jpg",
+          "views": 196846,
+          "danmaku": 1656,
+          "url": "https://www.bilibili.com/video/BV1s4421S7R3"
+        },
+        {
+          "bvid": "BV1jS421d7Yc",
+          "title": "【助力高一下期末考】高一下学期期末考试来了怎么办？-大题 | 全国名校真题精选",
+          "duration": 2085,
+          "pubdate": 1719742543,
+          "cover": "https://i2.hdslb.com/bfs/archive/ae63879b2f8db09a2f2fc11820e71eedf33112e7.jpg",
+          "views": 161398,
+          "danmaku": 960,
+          "url": "https://www.bilibili.com/video/BV1jS421d7Yc"
+        },
+        {
+          "bvid": "BV1WMxRe7EgT",
+          "title": "【助力高一上月考】高中第一次生物考试来了怎么办？-选择题 | 全国名校真题精选",
+          "duration": 2328,
+          "pubdate": 1727957456,
+          "cover": "https://i2.hdslb.com/bfs/archive/c74d9242075f137e8785a7ed82d8dbf041626ede.jpg",
+          "views": 243977,
+          "danmaku": 2099,
+          "url": "https://www.bilibili.com/video/BV1WMxRe7EgT"
+        },
+        {
+          "bvid": "BV15m1iY2EDo",
+          "title": "【助力高一上月考】高中第一次生物考试来了怎么办？-大题 | 全国名校真题精选",
+          "duration": 2317,
+          "pubdate": 1728216000,
+          "cover": "https://i0.hdslb.com/bfs/archive/f8625f09b4aade886dd7844caf852d640a94188d.jpg",
+          "views": 199074,
+          "danmaku": 1341,
+          "url": "https://www.bilibili.com/video/BV15m1iY2EDo"
+        },
+        {
+          "bvid": "BV1oW1xYHEL7",
+          "title": "【助力高一上期中考】-选择题 | 全国名校真题精选",
+          "duration": 2607,
+          "pubdate": 1729946822,
+          "cover": "https://i2.hdslb.com/bfs/archive/b428a683b10848cd6a8afff0b24908b45cd52689.jpg",
+          "views": 143503,
+          "danmaku": 1042,
+          "url": "https://www.bilibili.com/video/BV1oW1xYHEL7"
+        },
+        {
+          "bvid": "BV1uJDAYsEpA",
+          "title": "【助力高一上期中考】-大题 | 全国名校真题精选",
+          "duration": 1698,
+          "pubdate": 1730541405,
+          "cover": "https://i0.hdslb.com/bfs/archive/bd90834ed529f8002cbca9b789529af9757250d7.jpg",
+          "views": 123922,
+          "danmaku": 722,
+          "url": "https://www.bilibili.com/video/BV1uJDAYsEpA"
+        },
+        {
+          "bvid": "BV1HyHVzjEdP",
+          "title": "助力高一上月考-选择题 | 全国名校真题精选",
+          "duration": 3228,
+          "pubdate": 1759491000,
+          "cover": "https://i0.hdslb.com/bfs/archive/a4d6255d2155dcfa8205fa13b203a38c1deed3ca.jpg",
+          "views": 154144,
+          "danmaku": 1415,
+          "url": "https://www.bilibili.com/video/BV1HyHVzjEdP"
+        },
+        {
+          "bvid": "BV1ew1YBFEBA",
+          "title": "助力高一上期中考-选择题 | 全国名校真题精选",
+          "duration": 2799,
+          "pubdate": 1762171200,
+          "cover": "https://i2.hdslb.com/bfs/archive/c650e43db254399400421daf22d8b54b7b00d25c.jpg",
+          "views": 143911,
+          "danmaku": 772,
+          "url": "https://www.bilibili.com/video/BV1ew1YBFEBA"
+        },
+        {
+          "bvid": "BV1zc23B5EYL",
+          "title": "助力高一上期中考-大题 | 全国名校真题精选",
+          "duration": 1780,
+          "pubdate": 1762516927,
+          "cover": "https://i1.hdslb.com/bfs/archive/3fa1145728fecda958cbe9e65f74147f93899b78.jpg",
+          "views": 112395,
+          "danmaku": 444,
+          "url": "https://www.bilibili.com/video/BV1zc23B5EYL"
+        },
+        {
+          "bvid": "BV1EPK2zZEeF",
+          "title": "助力生物学业水平测【合格性考试】| 全国真题精选",
+          "duration": 2498,
+          "pubdate": 1751102180,
+          "cover": "https://i1.hdslb.com/bfs/archive/84e31a657ea3e331d3fded174711ba2b322bef23.jpg",
+          "views": 289368,
+          "danmaku": 1459,
+          "url": "https://www.bilibili.com/video/BV1EPK2zZEeF"
+        },
+        {
+          "bvid": "BV1vPPEzTEQ6",
+          "title": "助力高一下开学考-选择 | 全国名校真题精选",
+          "duration": 4815,
+          "pubdate": 1772460558,
+          "cover": "https://i2.hdslb.com/bfs/archive/9acf843227e4cadac361d30249319f031507ee9a.jpg",
+          "views": 92501,
+          "danmaku": 144,
+          "url": "https://www.bilibili.com/video/BV1vPPEzTEQ6"
+        },
+        {
+          "bvid": "BV1ke4y147fc",
+          "title": "【刷题儿题儿】高二-助力期中考，考出新高度~ | 全国名校真题精选",
+          "duration": 2218,
+          "pubdate": 1667088000,
+          "cover": "https://i2.hdslb.com/bfs/archive/e7caaa71c0cc79f8713d8687596d33d61214c3bb.jpg",
+          "views": 246457,
+          "danmaku": 1072,
+          "url": "https://www.bilibili.com/video/BV1ke4y147fc"
+        },
+        {
+          "bvid": "BV1Je4y1N72D",
+          "title": "高二生物-助力开学考【植物激素 种群 群落】",
+          "duration": 1690,
+          "pubdate": 1675468800,
+          "cover": "https://i1.hdslb.com/bfs/archive/ebde9baf2c024e2dc932ebc250765e83e1caf3d2.jpg",
+          "views": 123325,
+          "danmaku": 662,
+          "url": "https://www.bilibili.com/video/BV1Je4y1N72D"
+        },
+        {
+          "bvid": "BV1rD4y1T79b",
+          "title": "高二生物-助力开学考-下【生态系统】",
+          "duration": 1316,
+          "pubdate": 1675488966,
+          "cover": "https://i1.hdslb.com/bfs/archive/21f54223b9bcbe4fc7973806e2e7edba9e74f238.jpg",
+          "views": 90858,
+          "danmaku": 357,
+          "url": "https://www.bilibili.com/video/BV1rD4y1T79b"
+        },
+        {
+          "bvid": "BV1ju411u7eU",
+          "title": "【新高二必看】助力月考，过节不忘刷题，高分来找你~| 全国名校真题精选",
+          "duration": 2103,
+          "pubdate": 1695979626,
+          "cover": "https://i0.hdslb.com/bfs/archive/0cbfa951024a2281a119175aebf8602d6d62045a.jpg",
+          "views": 243061,
+          "danmaku": 1218,
+          "url": "https://www.bilibili.com/video/BV1ju411u7eU"
+        },
+        {
+          "bvid": "BV1FQ4y1H7Ua",
+          "title": "【助力高二期中考-选择题篇】期中考试来了怎么办？不慌！| 全国名校真题精选",
+          "duration": 2150,
+          "pubdate": 1698486422,
+          "cover": "https://i0.hdslb.com/bfs/archive/b218cabdcebd3220a53bbbb3579aba98637acbaa.jpg",
+          "views": 237267,
+          "danmaku": 1095,
+          "url": "https://www.bilibili.com/video/BV1FQ4y1H7Ua"
+        },
+        {
+          "bvid": "BV1Ew411s7dV",
+          "title": "【助力高二期中考-大题篇】期中考试大题不会做？不慌！| 全国名校真题精选",
+          "duration": 1652,
+          "pubdate": 1699070400,
+          "cover": "https://i1.hdslb.com/bfs/archive/37da8da2acae6d28b5755a0c5f6e72cc90083281.jpg",
+          "views": 126258,
+          "danmaku": 504,
+          "url": "https://www.bilibili.com/video/BV1Ew411s7dV"
+        },
+        {
+          "bvid": "BV1Wc411t78C",
+          "title": "【助力高二上期末考-选择题篇】期末考来了怎么办？不慌！| 全国名校真题精选",
+          "duration": 3019,
+          "pubdate": 1704542783,
+          "cover": "https://i2.hdslb.com/bfs/archive/841b598e79abbf633b57d925556170e632ba4370.jpg",
+          "views": 233948,
+          "danmaku": 1418,
+          "url": "https://www.bilibili.com/video/BV1Wc411t78C"
+        },
+        {
+          "bvid": "BV1c64y1T7Nw",
+          "title": "【助力高二上期末考-大题篇】期末考来了怎么办？不慌！| 全国名校真题精选",
+          "duration": 2106,
+          "pubdate": 1705146592,
+          "cover": "https://i2.hdslb.com/bfs/archive/2ee20d6148d2694de52a8f303605d6bf24f31c7a.jpg",
+          "views": 173867,
+          "danmaku": 1077,
+          "url": "https://www.bilibili.com/video/BV1c64y1T7Nw"
+        },
+        {
+          "bvid": "BV1Bz421B7s8",
+          "title": "【助力高二下期末考】高二下学期期末考试来了怎么办？-选择题 | 全国名校真题精选",
+          "duration": 2017,
+          "pubdate": 1719666205,
+          "cover": "https://i1.hdslb.com/bfs/archive/9dae7baf90febaa2ecac88760ef40bc3d2562370.jpg",
+          "views": 166851,
+          "danmaku": 713,
+          "url": "https://www.bilibili.com/video/BV1Bz421B7s8"
+        },
+        {
+          "bvid": "BV1wi421Y7UK",
+          "title": "【助力高二下期末考】高二下学期期末考试来了怎么办？-大题 | 全国名校真题精选",
+          "duration": 2733,
+          "pubdate": 1719913484,
+          "cover": "https://i1.hdslb.com/bfs/archive/583e9538844a96425545020a8de3280f57f7975f.jpg",
+          "views": 114647,
+          "danmaku": 610,
+          "url": "https://www.bilibili.com/video/BV1wi421Y7UK"
+        },
+        {
+          "bvid": "BV1Sw4m167gE",
+          "title": "【助力高二上开学考】暑假结束了，开学考来啦-选择题 | 全国名校真题精选",
+          "duration": 2922,
+          "pubdate": 1724672216,
+          "cover": "https://i1.hdslb.com/bfs/archive/88bbee81ac60115c6c76d5f2e9e35470de86941c.jpg",
+          "views": 112763,
+          "danmaku": 1394,
+          "url": "https://www.bilibili.com/video/BV1Sw4m167gE"
+        },
+        {
+          "bvid": "BV1Ar421N7xH",
+          "title": "【助力高二上开学考】暑假结束了，开学考来啦-大题 | 全国名校真题精选",
+          "duration": 2439,
+          "pubdate": 1725019356,
+          "cover": "https://i1.hdslb.com/bfs/archive/8e2e434679b37403f541be21ac474c7aa8584a4c.jpg",
+          "views": 58828,
+          "danmaku": 429,
+          "url": "https://www.bilibili.com/video/BV1Ar421N7xH"
+        },
+        {
+          "bvid": "BV1fa1RYzEs6",
+          "title": "【助力高二上月考】高二上生物月考来了怎么办？-选择题 | 全国名校真题精选",
+          "duration": 2475,
+          "pubdate": 1728130007,
+          "cover": "https://i2.hdslb.com/bfs/archive/8c756f9fd6f1c75af567abd614b417597ba6f954.jpg",
+          "views": 203739,
+          "danmaku": 1296,
+          "url": "https://www.bilibili.com/video/BV1fa1RYzEs6"
+        },
+        {
+          "bvid": "BV1NTS8YsEyw",
+          "title": "【助力高二上期中考】高二上生物期中考来了怎么办？-选择题 | 全国名校真题精选",
+          "duration": 2041,
+          "pubdate": 1730208475,
+          "cover": "https://i2.hdslb.com/bfs/archive/e58883e3371b6bf2324d2e2631340828d38a8d2f.jpg",
+          "views": 164888,
+          "danmaku": 966,
+          "url": "https://www.bilibili.com/video/BV1NTS8YsEyw"
+        },
+        {
+          "bvid": "BV1g1S1YCEXw",
+          "title": "【助力高二上期中考】高二上生物期中考来了怎么办？-大题 | 全国名校真题精选",
+          "duration": 1704,
+          "pubdate": 1730620800,
+          "cover": "https://i1.hdslb.com/bfs/archive/49b81531e8142e2b39c9c67ce816e44a83443e02.jpg",
+          "views": 151449,
+          "danmaku": 807,
+          "url": "https://www.bilibili.com/video/BV1g1S1YCEXw"
+        },
+        {
+          "bvid": "BV1uM4FzwEbA",
+          "title": "助力高二上月考-选择题 | 全国名校真题精选",
+          "duration": 2796,
+          "pubdate": 1759894476,
+          "cover": "https://i1.hdslb.com/bfs/archive/1fc1499c1e59095ebe100bd38eec7cff9050192f.jpg",
+          "views": 148359,
+          "danmaku": 939,
+          "url": "https://www.bilibili.com/video/BV1uM4FzwEbA"
+        },
+        {
+          "bvid": "BV1M21LBTEJa",
+          "title": "助力高二上期中考-选择题 | 全国名校真题精选",
+          "duration": 2496,
+          "pubdate": 1761997498,
+          "cover": "https://i0.hdslb.com/bfs/archive/857a47a26fde09f3363e72faeb6ee29163be7d72.jpg",
+          "views": 144672,
+          "danmaku": 624,
+          "url": "https://www.bilibili.com/video/BV1M21LBTEJa"
+        },
+        {
+          "bvid": "BV1XhkSBYEHN",
+          "title": "助力高二上期中考-大题 | 全国名校真题精选",
+          "duration": 1579,
+          "pubdate": 1762657541,
+          "cover": "https://i2.hdslb.com/bfs/archive/98b131d4e5efd7c328e7af0f7cf9e2dc89d56152.jpg",
+          "views": 116405,
+          "danmaku": 474,
+          "url": "https://www.bilibili.com/video/BV1XhkSBYEHN"
+        }
+      ]
+    },
+    {
+      "season_id": 2125960,
+      "title": "套卷讲解",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/3997ed8557787650ff230008a58ccadb644e5828.jpg",
+      "total": 20,
+      "fetched": 20,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1si4y1X7Xc",
+          "title": "【一生】八省T8联考生物好题逐讲！高一到高三都能听~",
+          "duration": 1626,
+          "pubdate": 1641114846,
+          "cover": "https://i1.hdslb.com/bfs/archive/c391342f060840199b895bbd86546ed854b4f131.png",
+          "views": 342182,
+          "danmaku": 810,
+          "url": "https://www.bilibili.com/video/BV1si4y1X7Xc"
+        },
+        {
+          "bvid": "BV14Y4y1G7m8",
+          "title": "【2022年高考生物】【全国乙卷】分析讲解来喽！",
+          "duration": 1830,
+          "pubdate": 1654954628,
+          "cover": "https://i1.hdslb.com/bfs/archive/ba00cb82d11ab9276089afef48910c7e5634b140.jpg",
+          "views": 138196,
+          "danmaku": 848,
+          "url": "https://www.bilibili.com/video/BV14Y4y1G7m8"
+        },
+        {
+          "bvid": "BV1uv4y1g7Q6",
+          "title": "2022高考生物广东卷-逐题全解！",
+          "duration": 3048,
+          "pubdate": 1655517599,
+          "cover": "https://i1.hdslb.com/bfs/archive/810deb744618cf9e23e3ec4fa6a52404766193c3.jpg",
+          "views": 75939,
+          "danmaku": 552,
+          "url": "https://www.bilibili.com/video/BV1uv4y1g7Q6"
+        },
+        {
+          "bvid": "BV1LM411j7ih",
+          "title": "2023四省联考生物 — 题目详解【新教材 老高考】",
+          "duration": 2054,
+          "pubdate": 1677328971,
+          "cover": "https://i2.hdslb.com/bfs/archive/8bae1d748998050d87170ae0d6cfec5389b25648.jpg",
+          "views": 124572,
+          "danmaku": 776,
+          "url": "https://www.bilibili.com/video/BV1LM411j7ih"
+        },
+        {
+          "bvid": "BV1rP411i739",
+          "title": "【2023高考生物】全国乙卷精讲分析~看全国乙卷命题方向和趋势~",
+          "duration": 2585,
+          "pubdate": 1686960000,
+          "cover": "https://i1.hdslb.com/bfs/archive/d007a5b22e820dc05eec28e92f708b589f0a1d33.jpg",
+          "views": 113012,
+          "danmaku": 681,
+          "url": "https://www.bilibili.com/video/BV1rP411i739"
+        },
+        {
+          "bvid": "BV1Tz4y1H7xu",
+          "title": "【2023高考生物】新课标卷精讲分析~",
+          "duration": 2006,
+          "pubdate": 1687521720,
+          "cover": "https://i2.hdslb.com/bfs/archive/67dc611f2eb563c96f15bfc1d86663d8d3137913.jpg",
+          "views": 107871,
+          "danmaku": 386,
+          "url": "https://www.bilibili.com/video/BV1Tz4y1H7xu"
+        },
+        {
+          "bvid": "BV1tN41127DS",
+          "title": "【2023高考生物】一起品品新鲜出炉的高考遗传题吧~【全国甲卷 广东卷 山东卷】",
+          "duration": 2053,
+          "pubdate": 1689408553,
+          "cover": "https://i1.hdslb.com/bfs/archive/979ed7ab0236f8410652c3a98f63f4809c36aee8.jpg",
+          "views": 116438,
+          "danmaku": 435,
+          "url": "https://www.bilibili.com/video/BV1tN41127DS"
+        },
+        {
+          "bvid": "BV1dG411B71g",
+          "title": "2024届八省联考——生物卷，来挑战一下吧~",
+          "duration": 4034,
+          "pubdate": 1704010722,
+          "cover": "https://i0.hdslb.com/bfs/archive/88f76b1a633b1d51fc96d950a896de0eaa0f773b.jpg",
+          "views": 256590,
+          "danmaku": 966,
+          "url": "https://www.bilibili.com/video/BV1dG411B71g"
+        },
+        {
+          "bvid": "BV1ji4y1s7PP",
+          "title": "2024届九联考——生物卷【吉林+黑龙江】，来挑战一下吧~",
+          "duration": 4032,
+          "pubdate": 1706107756,
+          "cover": "https://i1.hdslb.com/bfs/archive/12e4443cad3d8f4979f3e510cd8fd36b8c492499.jpg",
+          "views": 85418,
+          "danmaku": 438,
+          "url": "https://www.bilibili.com/video/BV1ji4y1s7PP"
+        },
+        {
+          "bvid": "BV1xK411h7aY",
+          "title": "2024届九联考——生物卷【江西】，来挑战一下吧~",
+          "duration": 2981,
+          "pubdate": 1706266800,
+          "cover": "https://i0.hdslb.com/bfs/archive/4a89a63d7d465d97026c0d0191ac180c68508469.jpg",
+          "views": 136268,
+          "danmaku": 568,
+          "url": "https://www.bilibili.com/video/BV1xK411h7aY"
+        },
+        {
+          "bvid": "BV1HZ42187qK",
+          "title": "2024届广东一模——生物卷来啦！",
+          "duration": 2879,
+          "pubdate": 1711197000,
+          "cover": "https://i0.hdslb.com/bfs/archive/a7d990a5a2bc90415b1167f5a8ca59d6b8e3b7c7.jpg",
+          "views": 78958,
+          "danmaku": 406,
+          "url": "https://www.bilibili.com/video/BV1HZ42187qK"
+        },
+        {
+          "bvid": "BV1pp4211766",
+          "title": "2024届广州一模——生物卷来啦！",
+          "duration": 2621,
+          "pubdate": 1711796400,
+          "cover": "https://i2.hdslb.com/bfs/archive/2f28937fc1ceaa5c212b4fae5f4bbbec2e7bc724.jpg",
+          "views": 48860,
+          "danmaku": 285,
+          "url": "https://www.bilibili.com/video/BV1pp4211766"
+        },
+        {
+          "bvid": "BV1Vp421X7a8",
+          "title": "2024福建质检【9市联考】生物卷-选择题篇",
+          "duration": 1813,
+          "pubdate": 1713063600,
+          "cover": "https://i0.hdslb.com/bfs/archive/2d136839ccab38ace53ee635a71e081b72bf5a8e.jpg",
+          "views": 64241,
+          "danmaku": 325,
+          "url": "https://www.bilibili.com/video/BV1Vp421X7a8"
+        },
+        {
+          "bvid": "BV1br421V7jZ",
+          "title": "2024福建质检【9市联考】生物卷-大题篇",
+          "duration": 1748,
+          "pubdate": 1713094137,
+          "cover": "https://i0.hdslb.com/bfs/archive/f08671a2bd7cee5a8860ef21ada515ba87bcf87e.jpg",
+          "views": 69342,
+          "danmaku": 180,
+          "url": "https://www.bilibili.com/video/BV1br421V7jZ"
+        },
+        {
+          "bvid": "BV1Xw4m1Y7g5",
+          "title": "【2024高考生物】新课标卷精讲分析",
+          "duration": 2223,
+          "pubdate": 1718971200,
+          "cover": "https://i2.hdslb.com/bfs/archive/d6dc14da486064a8f8410f0c56b79ccbfca4da37.jpg",
+          "views": 138694,
+          "danmaku": 578,
+          "url": "https://www.bilibili.com/video/BV1Xw4m1Y7g5"
+        },
+        {
+          "bvid": "BV1wi421a7M3",
+          "title": "【2024高考生物】广东卷精讲分析",
+          "duration": 3834,
+          "pubdate": 1721471400,
+          "cover": "https://i1.hdslb.com/bfs/archive/bb01baf50ed9c7536072d2601559d23d16d464e2.jpg",
+          "views": 119198,
+          "danmaku": 646,
+          "url": "https://www.bilibili.com/video/BV1wi421a7M3"
+        },
+        {
+          "bvid": "BV1xACpYpEUQ",
+          "title": "2025届八省联考——生物卷来啦【选择题】",
+          "duration": 2080,
+          "pubdate": 1735303726,
+          "cover": "https://i2.hdslb.com/bfs/archive/c787b0f92f6fe90ee4343d33e6c1d73329f85dc2.jpg",
+          "views": 182967,
+          "danmaku": 487,
+          "url": "https://www.bilibili.com/video/BV1xACpYpEUQ"
+        },
+        {
+          "bvid": "BV1qe6HYhELr",
+          "title": "2025届八省联考——生物卷来啦【大题】",
+          "duration": 1342,
+          "pubdate": 1735647290,
+          "cover": "https://i0.hdslb.com/bfs/archive/cb6a7b566173d5fe8935c5247f557aa56a606c39.jpg",
+          "views": 129233,
+          "danmaku": 311,
+          "url": "https://www.bilibili.com/video/BV1qe6HYhELr"
+        },
+        {
+          "bvid": "BV1ytZAYeELf",
+          "title": "2025广州一模——生物卷来啦~",
+          "duration": 3882,
+          "pubdate": 1743257100,
+          "cover": "https://i0.hdslb.com/bfs/archive/953587a796e1a2e2f1d0c8bb49fd3d68e2573e28.jpg",
+          "views": 85294,
+          "danmaku": 399,
+          "url": "https://www.bilibili.com/video/BV1ytZAYeELf"
+        },
+        {
+          "bvid": "BV1Xg3Xz1Emp",
+          "title": "【2025高考生物】广东卷-选择 精讲分析",
+          "duration": 2659,
+          "pubdate": 1751708254,
+          "cover": "https://i1.hdslb.com/bfs/archive/95a9d6cdf976b275f38beb7f66bca92bfd889f09.jpg",
+          "views": 154945,
+          "danmaku": 407,
+          "url": "https://www.bilibili.com/video/BV1Xg3Xz1Emp"
+        }
+      ]
+    },
+    {
+      "season_id": 1555434,
+      "title": "【一轮复习】大合集-长期更新【新教材】",
+      "intro": "【一轮复习】大合集-长期更新【人教版新教材】\n分为【方法】和【练习】两个模块，\n【方法】讲知识+题型+例题\n【练习】含有经典题目+最新高考题模拟题\n赶紧订阅大合集，一轮复习一起加油吧！",
+      "cover": "https://archive.biliimg.com/bfs/archive/de579a0c92ad6a46cf8d0434e7d0e6f747508914.jpg",
+      "total": 91,
+      "fetched": 91,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1g14y1X7eB",
+          "title": "高考生物【一轮复习】该怎么学？",
+          "duration": 420,
+          "pubdate": 1690038768,
+          "cover": "https://i1.hdslb.com/bfs/archive/dfdc3d31c78c84a8fcdb20c805ae66412342d14e.jpg",
+          "views": 1886646,
+          "danmaku": 4576,
+          "url": "https://www.bilibili.com/video/BV1g14y1X7eB"
+        },
+        {
+          "bvid": "BV1hu4y1U7W4",
+          "title": "【细胞基础】1-1细胞学说及其建立过程~【一轮复习】开更啦~",
+          "duration": 510,
+          "pubdate": 1690121555,
+          "cover": "https://i0.hdslb.com/bfs/archive/040ccf63bfbf4428595123bafd96111ef675de7b.jpg",
+          "views": 955525,
+          "danmaku": 3070,
+          "url": "https://www.bilibili.com/video/BV1hu4y1U7W4"
+        },
+        {
+          "bvid": "BV1Vc411w7Dm",
+          "title": "【细胞基础】1-2 细胞是基本的生命系统~【一轮复习】开更啦~",
+          "duration": 707,
+          "pubdate": 1690121931,
+          "cover": "https://i1.hdslb.com/bfs/archive/c28f49ffc490ee6866c1590a8c8935045c381aca.jpg",
+          "views": 644563,
+          "danmaku": 2772,
+          "url": "https://www.bilibili.com/video/BV1Vc411w7Dm"
+        },
+        {
+          "bvid": "BV1jX4y1J7cE",
+          "title": "【细胞基础】1- 3 生物的分类【一轮复习】开更啦~",
+          "duration": 1877,
+          "pubdate": 1690643056,
+          "cover": "https://i1.hdslb.com/bfs/archive/4dfdad49daa591c2d3ae8ec7e088c23f9ec69514.jpg",
+          "views": 674579,
+          "danmaku": 5075,
+          "url": "https://www.bilibili.com/video/BV1jX4y1J7cE"
+        },
+        {
+          "bvid": "BV1F14y1B7iN",
+          "title": "【刷题题】第一章 走进细胞【一轮复习-细胞基础】",
+          "duration": 1365,
+          "pubdate": 1691838577,
+          "cover": "https://i2.hdslb.com/bfs/archive/6c7c1bc9a6814d764c1971e0694e09b89fb61419.jpg",
+          "views": 396729,
+          "danmaku": 2686,
+          "url": "https://www.bilibili.com/video/BV1F14y1B7iN"
+        },
+        {
+          "bvid": "BV18V411G7Ym",
+          "title": "【细胞基础】2-1 元素和化合物【一轮复习】开更啦~",
+          "duration": 832,
+          "pubdate": 1691240424,
+          "cover": "https://i2.hdslb.com/bfs/archive/11e5df942dcf18bd640b62761e926b630e1ad441.jpg",
+          "views": 389230,
+          "danmaku": 1431,
+          "url": "https://www.bilibili.com/video/BV18V411G7Ym"
+        },
+        {
+          "bvid": "BV1MN41187ra",
+          "title": "【细胞基础】2-2 水和无机盐【一轮复习】开更啦~",
+          "duration": 1106,
+          "pubdate": 1691248922,
+          "cover": "https://i2.hdslb.com/bfs/archive/ea77ba092f9a6c8b261f4fbcdb6bbc8aa7ce408c.jpg",
+          "views": 343698,
+          "danmaku": 1876,
+          "url": "https://www.bilibili.com/video/BV1MN41187ra"
+        },
+        {
+          "bvid": "BV1Jp4y1g7fD",
+          "title": "【刷题题】第二章 元素 化合物 水和无机盐【一轮复习-细胞基础】",
+          "duration": 967,
+          "pubdate": 1691904395,
+          "cover": "https://i2.hdslb.com/bfs/archive/bcb78bff30253d482ea7798183afee4f19129fe2.jpg",
+          "views": 260947,
+          "danmaku": 1236,
+          "url": "https://www.bilibili.com/video/BV1Jp4y1g7fD"
+        },
+        {
+          "bvid": "BV1pF411o7B5",
+          "title": "【细胞基础】2-3 糖类和脂质【一轮复习】开更啦~",
+          "duration": 1392,
+          "pubdate": 1691314744,
+          "cover": "https://i0.hdslb.com/bfs/archive/8f5cd75ce1202cda8b5f42c71de9469ca5a079f9.jpg",
+          "views": 373840,
+          "danmaku": 2549,
+          "url": "https://www.bilibili.com/video/BV1pF411o7B5"
+        },
+        {
+          "bvid": "BV1ch4y1D7Na",
+          "title": "【细胞基础】2-4 核酸和蛋白质-知识考点一网打尽~【一轮复习】",
+          "duration": 2522,
+          "pubdate": 1692273060,
+          "cover": "https://i2.hdslb.com/bfs/archive/6a25560cc34db6111bad628515d26cabd50dc0ea.jpg",
+          "views": 488552,
+          "danmaku": 3461,
+          "url": "https://www.bilibili.com/video/BV1ch4y1D7Na"
+        },
+        {
+          "bvid": "BV13u41177dE",
+          "title": "【刷题题】第二章 糖类 脂质 核酸 蛋白质【一轮复习-细胞基础】",
+          "duration": 1593,
+          "pubdate": 1692441680,
+          "cover": "https://i2.hdslb.com/bfs/archive/385e893b28408d62ec0d0a319a5f76a7089b21f7.jpg",
+          "views": 257969,
+          "danmaku": 1372,
+          "url": "https://www.bilibili.com/video/BV13u41177dE"
+        },
+        {
+          "bvid": "BV1tp4y1n7yw",
+          "title": "【细胞基础】3-1细胞结构-细胞膜和细胞核【一轮复习】",
+          "duration": 2176,
+          "pubdate": 1692530972,
+          "cover": "https://i1.hdslb.com/bfs/archive/4c97c3c48ae9827aeaa2885b087e58543e1f7812.jpg",
+          "views": 446997,
+          "danmaku": 2587,
+          "url": "https://www.bilibili.com/video/BV1tp4y1n7yw"
+        },
+        {
+          "bvid": "BV1ap4y1E7Nw",
+          "title": "【细胞基础】3-2细胞结构-细胞器知识考点全攻略【一轮复习】",
+          "duration": 1684,
+          "pubdate": 1692783932,
+          "cover": "https://i1.hdslb.com/bfs/archive/17c8a43ad1419d3e1f0f2d5779a8d3b2b11ba2ac.jpg",
+          "views": 346808,
+          "danmaku": 1800,
+          "url": "https://www.bilibili.com/video/BV1ap4y1E7Nw"
+        },
+        {
+          "bvid": "BV1m14y117wK",
+          "title": "【刷题题】第三章 细胞膜 细胞器和细胞核【一轮复习-细胞基础】",
+          "duration": 1789,
+          "pubdate": 1692965095,
+          "cover": "https://i1.hdslb.com/bfs/archive/0d0862b42214f726db84d729c1cfe5149ecea85c.jpg",
+          "views": 215076,
+          "danmaku": 1394,
+          "url": "https://www.bilibili.com/video/BV1m14y117wK"
+        },
+        {
+          "bvid": "BV1114y1C7Vh",
+          "title": "【细胞基础】4-1细胞的吸水和失水【一轮复习】",
+          "duration": 1692,
+          "pubdate": 1693218547,
+          "cover": "https://i0.hdslb.com/bfs/archive/5fcb8f786503d6d35e9c9dccde84e6570eaaee43.jpg",
+          "views": 368494,
+          "danmaku": 2375,
+          "url": "https://www.bilibili.com/video/BV1114y1C7Vh"
+        },
+        {
+          "bvid": "BV11w411Q7B6",
+          "title": "【细胞基础】4-2 物质进出细胞方式【一轮复习】",
+          "duration": 1365,
+          "pubdate": 1693393200,
+          "cover": "https://i0.hdslb.com/bfs/archive/5a568f6666e98128ef4d89f7028029f2d99912a7.jpg",
+          "views": 316896,
+          "danmaku": 1398,
+          "url": "https://www.bilibili.com/video/BV11w411Q7B6"
+        },
+        {
+          "bvid": "BV1ju4y1Q7CH",
+          "title": "【刷题题】第四章 物质进出细胞的方式【一轮复习-细胞基础】",
+          "duration": 1977,
+          "pubdate": 1693569604,
+          "cover": "https://i1.hdslb.com/bfs/archive/f367931494222072964f5d4ef7c8649e38cc7e34.jpg",
+          "views": 191803,
+          "danmaku": 1350,
+          "url": "https://www.bilibili.com/video/BV1ju4y1Q7CH"
+        },
+        {
+          "bvid": "BV1pP411a7jv",
+          "title": "【细胞基础】5 酶和ATP 【一轮复习】",
+          "duration": 2162,
+          "pubdate": 1693920483,
+          "cover": "https://i0.hdslb.com/bfs/archive/938b40a0fe052b8993ec30daa0c6d91e5392819c.jpg",
+          "views": 405216,
+          "danmaku": 2753,
+          "url": "https://www.bilibili.com/video/BV1pP411a7jv"
+        },
+        {
+          "bvid": "BV1Yh4y1K7qP",
+          "title": "【刷题题】第五章 酶 和 ATP【一轮复习-细胞基础】",
+          "duration": 1340,
+          "pubdate": 1694167679,
+          "cover": "https://i2.hdslb.com/bfs/archive/00498f74e81f8960ac4dff84e4856fa0f6a3f48a.jpg",
+          "views": 194402,
+          "danmaku": 885,
+          "url": "https://www.bilibili.com/video/BV1Yh4y1K7qP"
+        },
+        {
+          "bvid": "BV1Um4y1K7Vu",
+          "title": "【细胞基础】6-1 细胞呼吸过程及相关考点 【一轮复习】",
+          "duration": 1540,
+          "pubdate": 1694255830,
+          "cover": "https://i0.hdslb.com/bfs/archive/a7fa829f35d8ebff48597ccf61bef4c824e5e218.jpg",
+          "views": 488299,
+          "danmaku": 2164,
+          "url": "https://www.bilibili.com/video/BV1Um4y1K7Vu"
+        },
+        {
+          "bvid": "BV1uV411P7CQ",
+          "title": "【细胞基础】6-2 细胞呼吸的影响因素知识考点 【一轮复习】",
+          "duration": 1078,
+          "pubdate": 1694310298,
+          "cover": "https://i0.hdslb.com/bfs/archive/ab2118659ef179d2c0bd44ede74cd6425d651050.jpg",
+          "views": 312272,
+          "danmaku": 1179,
+          "url": "https://www.bilibili.com/video/BV1uV411P7CQ"
+        },
+        {
+          "bvid": "BV1DP411t7QD",
+          "title": "【刷题题】高考呼吸作用怎么考？快来挑战一下吧【一轮复习-细胞基础】",
+          "duration": 1805,
+          "pubdate": 1694786222,
+          "cover": "https://i1.hdslb.com/bfs/archive/312a018627b74351f1d4b6447191eeea9e81599b.jpg",
+          "views": 260542,
+          "danmaku": 2064,
+          "url": "https://www.bilibili.com/video/BV1DP411t7QD"
+        },
+        {
+          "bvid": "BV1mE421N7ui",
+          "title": "【细胞基础】7-1光合色素及过程【一轮复习】",
+          "duration": 1792,
+          "pubdate": 1718448045,
+          "cover": "https://i2.hdslb.com/bfs/archive/15073146ed41f345286cd67b58404c453c6f8d8a.jpg",
+          "views": 384142,
+          "danmaku": 2482,
+          "url": "https://www.bilibili.com/video/BV1mE421N7ui"
+        },
+        {
+          "bvid": "BV1Bs421T7Us",
+          "title": "【细胞基础】7-2光合作用影响因素【一轮复习】",
+          "duration": 2065,
+          "pubdate": 1719054786,
+          "cover": "https://i0.hdslb.com/bfs/archive/c36fc1e98c0365285701c1702866729a59ab896c.jpg",
+          "views": 336520,
+          "danmaku": 1552,
+          "url": "https://www.bilibili.com/video/BV1Bs421T7Us"
+        },
+        {
+          "bvid": "BV1RJ4m1T7Gz",
+          "title": "【细胞基础】7-3光合呼吸综合及知识拓展【一轮复习】",
+          "duration": 2283,
+          "pubdate": 1720867833,
+          "cover": "https://i1.hdslb.com/bfs/archive/4e9825389693be7fa5cd8ea132ef5b445133dc51.jpg",
+          "views": 404710,
+          "danmaku": 1832,
+          "url": "https://www.bilibili.com/video/BV1RJ4m1T7Gz"
+        },
+        {
+          "bvid": "BV15i421a7rY",
+          "title": "【刷真题】光合作用及影响因素真题带练【一轮复习】",
+          "duration": 2192,
+          "pubdate": 1722072930,
+          "cover": "https://i0.hdslb.com/bfs/archive/7af01290a645fa3fffa222ecaed4c0e11e21b4a9.jpg",
+          "views": 189156,
+          "danmaku": 849,
+          "url": "https://www.bilibili.com/video/BV15i421a7rY"
+        },
+        {
+          "bvid": "BV1CM4m1y7Cq",
+          "title": "【刷真题】光合呼吸综合及光呼吸C4植物拓展【一轮复习】",
+          "duration": 1667,
+          "pubdate": 1723283026,
+          "cover": "https://i0.hdslb.com/bfs/archive/873d8d00ef7de5f5f8b99a65e62ef590b1063bc1.jpg",
+          "views": 157074,
+          "danmaku": 478,
+          "url": "https://www.bilibili.com/video/BV1CM4m1y7Cq"
+        },
+        {
+          "bvid": "BV1pW42197ui",
+          "title": "【细胞基础】8-1 有丝分裂【一轮复习】",
+          "duration": 2093,
+          "pubdate": 1723552141,
+          "cover": "https://i1.hdslb.com/bfs/archive/c4ac7f1a69d4537a12cabe4b4bd47cf8594042b8.jpg",
+          "views": 488886,
+          "danmaku": 2229,
+          "url": "https://www.bilibili.com/video/BV1pW42197ui"
+        },
+        {
+          "bvid": "BV1Tx4y1s7Ps",
+          "title": "【细胞基础】8-2 减数分裂与受精作用【一轮复习】",
+          "duration": 2409,
+          "pubdate": 1723890626,
+          "cover": "https://i2.hdslb.com/bfs/archive/27b7b263110ec3c85616a7c732139d44f20827c2.jpg",
+          "views": 457507,
+          "danmaku": 2612,
+          "url": "https://www.bilibili.com/video/BV1Tx4y1s7Ps"
+        },
+        {
+          "bvid": "BV1aM4m1y7H7",
+          "title": "【细胞基础】8-3 减数分裂有丝分裂综合【一轮复习】",
+          "duration": 1083,
+          "pubdate": 1724243209,
+          "cover": "https://i1.hdslb.com/bfs/archive/ff5fabfbc63ad6a34bce5fc5a34f7441a935a0ed.jpg",
+          "views": 370280,
+          "danmaku": 1057,
+          "url": "https://www.bilibili.com/video/BV1aM4m1y7H7"
+        },
+        {
+          "bvid": "BV1hr421T7tV",
+          "title": "【刷真题】有丝分裂真题带练【一轮复习】",
+          "duration": 1205,
+          "pubdate": 1724502065,
+          "cover": "https://i1.hdslb.com/bfs/archive/b4a61bec7069ced61055f373e71dcc37cc1ae341.jpg",
+          "views": 130279,
+          "danmaku": 442,
+          "url": "https://www.bilibili.com/video/BV1hr421T7tV"
+        },
+        {
+          "bvid": "BV1FS421X7HC",
+          "title": "【刷真题】有丝分裂减数分裂综合【一轮复习】",
+          "duration": 1687,
+          "pubdate": 1724935635,
+          "cover": "https://i2.hdslb.com/bfs/archive/8deb3760c8082c4f4837bb93f78a51e6d7f4604d.jpg",
+          "views": 138783,
+          "danmaku": 602,
+          "url": "https://www.bilibili.com/video/BV1FS421X7HC"
+        },
+        {
+          "bvid": "BV1CZpbeKEFX",
+          "title": "【细胞基础】9 细胞分化 衰老和死亡【一轮复习】",
+          "duration": 2034,
+          "pubdate": 1725712185,
+          "cover": "https://i2.hdslb.com/bfs/archive/e0dbfd8e9471e3fc37ce713a970533f6ffd39cfa.jpg",
+          "views": 138550,
+          "danmaku": 739,
+          "url": "https://www.bilibili.com/video/BV1CZpbeKEFX"
+        },
+        {
+          "bvid": "BV1iEpeeMEZU",
+          "title": "【刷真题】细胞分化 衰老和死亡【一轮复习】",
+          "duration": 1416,
+          "pubdate": 1725769922,
+          "cover": "https://i0.hdslb.com/bfs/archive/be2524fe7b710da44cf812bb34b98c14bb2fa35c.jpg",
+          "views": 76641,
+          "danmaku": 259,
+          "url": "https://www.bilibili.com/video/BV1iEpeeMEZU"
+        },
+        {
+          "bvid": "BV1Az4y1L7pY",
+          "title": "【遗传学】1-1 分离定律的发现及验证 知识点考点总结【一轮复习】",
+          "duration": 2278,
+          "pubdate": 1694869529,
+          "cover": "https://i2.hdslb.com/bfs/archive/0a58fc0d51415d548994e5f5750096baf560c6a1.jpg",
+          "views": 815379,
+          "danmaku": 4204,
+          "url": "https://www.bilibili.com/video/BV1Az4y1L7pY"
+        },
+        {
+          "bvid": "BV14k4y1c7gq",
+          "title": "【遗传学】1-2 分离定律高考题型全面总结【一轮复习】",
+          "duration": 1719,
+          "pubdate": 1695373720,
+          "cover": "https://i1.hdslb.com/bfs/archive/b4c3ad4cef1bf4a5ce581e03eab0dab8afba709f.jpg",
+          "views": 485309,
+          "danmaku": 2510,
+          "url": "https://www.bilibili.com/video/BV14k4y1c7gq"
+        },
+        {
+          "bvid": "BV1m34y1G76C",
+          "title": "【遗传学】1-3 分离定律的遗传特例【一轮复习】",
+          "duration": 1934,
+          "pubdate": 1695906281,
+          "cover": "https://i0.hdslb.com/bfs/archive/8a4376abc961c01218b74372c943b3adbaed6f1b.jpg",
+          "views": 478201,
+          "danmaku": 2921,
+          "url": "https://www.bilibili.com/video/BV1m34y1G76C"
+        },
+        {
+          "bvid": "BV1Z94y1p7Rz",
+          "title": "【遗传学】分离定律题型-高考实战演练！",
+          "duration": 2329,
+          "pubdate": 1695471994,
+          "cover": "https://i2.hdslb.com/bfs/archive/bafe1391e55200ff3c30c6de62221dad0efabba1.jpg",
+          "views": 268130,
+          "danmaku": 1904,
+          "url": "https://www.bilibili.com/video/BV1Z94y1p7Rz"
+        },
+        {
+          "bvid": "BV1Xz4y137Qp",
+          "title": "【遗传学】2-1自由组合定律发现和解题方法【一轮复习】",
+          "duration": 2415,
+          "pubdate": 1696083030,
+          "cover": "https://i1.hdslb.com/bfs/archive/60ef419d37079074dc25de7bafea490d01fc4c4b.jpg",
+          "views": 403529,
+          "danmaku": 2183,
+          "url": "https://www.bilibili.com/video/BV1Xz4y137Qp"
+        },
+        {
+          "bvid": "BV1Ej411x7Lc",
+          "title": "【遗传学】来刷遗传题啦——自由组合定律题型（一）-高考实战演练！",
+          "duration": 1610,
+          "pubdate": 1697265916,
+          "cover": "https://i1.hdslb.com/bfs/archive/39582eff43a71c923f506412ba0f9335fd17b75b.jpg",
+          "views": 257919,
+          "danmaku": 886,
+          "url": "https://www.bilibili.com/video/BV1Ej411x7Lc"
+        },
+        {
+          "bvid": "BV1oH4y1Z7tY",
+          "title": "【遗传学】2-2自由组合定律的特殊比例【一轮复习】",
+          "duration": 2454,
+          "pubdate": 1696583844,
+          "cover": "https://i2.hdslb.com/bfs/archive/958c086b070e810865fd0d29feca4114d5c08ad8.jpg",
+          "views": 291611,
+          "danmaku": 1846,
+          "url": "https://www.bilibili.com/video/BV1oH4y1Z7tY"
+        },
+        {
+          "bvid": "BV1EC4y1G7Kk",
+          "title": "【遗传学】来刷遗传题啦——自由组合定律题型（二）-高考实战演练！",
+          "duration": 1896,
+          "pubdate": 1697288400,
+          "cover": "https://i0.hdslb.com/bfs/archive/7cc307807230801f12cb2adda0aea1a1445c023c.jpg",
+          "views": 174680,
+          "danmaku": 795,
+          "url": "https://www.bilibili.com/video/BV1EC4y1G7Kk"
+        },
+        {
+          "bvid": "BV1uB4y1f77R",
+          "title": "【遗传学】高考难点—如何判断基因在常染色体位置？【一轮复习】",
+          "duration": 1355,
+          "pubdate": 1697365171,
+          "cover": "https://i1.hdslb.com/bfs/archive/ca772c48c8c469dfc567a701eacaf52571efe1d2.jpg",
+          "views": 487762,
+          "danmaku": 1493,
+          "url": "https://www.bilibili.com/video/BV1uB4y1f77R"
+        },
+        {
+          "bvid": "BV1FVcRe2ENE",
+          "title": "【刷真题】基因在常染色体上位置关系【一轮复习】",
+          "duration": 1113,
+          "pubdate": 1737117600,
+          "cover": "https://i1.hdslb.com/bfs/archive/2da1b15e113255f140c9630ccee8098f18c64d3c.jpg",
+          "views": 92516,
+          "danmaku": 273,
+          "url": "https://www.bilibili.com/video/BV1FVcRe2ENE"
+        },
+        {
+          "bvid": "BV1W94y1V7wR",
+          "title": "【遗传学】伴性遗传解题最关键的3个实验来啦！【一轮复习】",
+          "duration": 1758,
+          "pubdate": 1699146000,
+          "cover": "https://i2.hdslb.com/bfs/archive/19562b6fc644e002249a78af9708e2de13433067.jpg",
+          "views": 106484,
+          "danmaku": 390,
+          "url": "https://www.bilibili.com/video/BV1W94y1V7wR"
+        },
+        {
+          "bvid": "BV1Bc411677n",
+          "title": "【遗传学】【刷真题】伴性遗传高考这么考！【一轮复习】",
+          "duration": 1720,
+          "pubdate": 1700312716,
+          "cover": "https://i2.hdslb.com/bfs/archive/02f4936d3faeb354b547e40f44f7d688eddc16ce.jpg",
+          "views": 149558,
+          "danmaku": 525,
+          "url": "https://www.bilibili.com/video/BV1Bc411677n"
+        },
+        {
+          "bvid": "BV1iG411Q7ru",
+          "title": "【遗传学】伴性遗传与遗传系谱图解题方法来啦~【一轮复习】",
+          "duration": 2753,
+          "pubdate": 1699707909,
+          "cover": "https://i0.hdslb.com/bfs/archive/11e850ec53951b68a7f930372dd3d7a3fec2b848.jpg",
+          "views": 221585,
+          "danmaku": 1930,
+          "url": "https://www.bilibili.com/video/BV1iG411Q7ru"
+        },
+        {
+          "bvid": "BV1qj41177SV",
+          "title": "【遗传学】【刷真题】伴性遗传+系谱图题型从易到难全攻克~【一轮复习】",
+          "duration": 2543,
+          "pubdate": 1700908211,
+          "cover": "https://i0.hdslb.com/bfs/archive/d5457e51ec1357f6581523a6ef96d3cee78caa52.jpg",
+          "views": 109438,
+          "danmaku": 581,
+          "url": "https://www.bilibili.com/video/BV1qj41177SV"
+        },
+        {
+          "bvid": "BV1MqmfYzEpX",
+          "title": "【遗传学】遗传实验设计难点——性染色体上基因的位置判断【一轮复习】",
+          "duration": 2625,
+          "pubdate": 1731677691,
+          "cover": "https://i0.hdslb.com/bfs/archive/1e711fe080a420d7001fa7f1a9ac443c24771562.jpg",
+          "views": 133886,
+          "danmaku": 478,
+          "url": "https://www.bilibili.com/video/BV1MqmfYzEpX"
+        },
+        {
+          "bvid": "BV1SYUkYcEkU",
+          "title": "【刷真题】性染色体上基因的位置判断【一轮复习】",
+          "duration": 1836,
+          "pubdate": 1731843450,
+          "cover": "https://i2.hdslb.com/bfs/archive/b3d9bee0577d80f27ec2f97329bd2e3800604e08.jpg",
+          "views": 82900,
+          "danmaku": 158,
+          "url": "https://www.bilibili.com/video/BV1SYUkYcEkU"
+        },
+        {
+          "bvid": "BV1NB4meqEXR",
+          "title": "【遗传的分子机制】DNA是主要的遗传物质【一轮复习】",
+          "duration": 1698,
+          "pubdate": 1726394186,
+          "cover": "https://i1.hdslb.com/bfs/archive/23e3b962a944b262bd9016b8d5272387aa42a9f7.jpg",
+          "views": 189486,
+          "danmaku": 743,
+          "url": "https://www.bilibili.com/video/BV1NB4meqEXR"
+        },
+        {
+          "bvid": "BV1cjtxeKELZ",
+          "title": "【刷真题】DNA是主要的遗传物质【一轮复习】",
+          "duration": 1153,
+          "pubdate": 1726480822,
+          "cover": "https://i2.hdslb.com/bfs/archive/6d3c0c7b638ce58eeb2b3fdae86e5b74b711cd9a.jpg",
+          "views": 97944,
+          "danmaku": 223,
+          "url": "https://www.bilibili.com/video/BV1cjtxeKELZ"
+        },
+        {
+          "bvid": "BV1JMtke1EbS",
+          "title": "【遗传的分子机制】DNA的结构和计算【一轮复习】",
+          "duration": 1258,
+          "pubdate": 1726911742,
+          "cover": "https://i0.hdslb.com/bfs/archive/294441396c2e31726c2a753e4c5b419b1e9e2d61.jpg",
+          "views": 170573,
+          "danmaku": 708,
+          "url": "https://www.bilibili.com/video/BV1JMtke1EbS"
+        },
+        {
+          "bvid": "BV1bosfeKE2c",
+          "title": "【刷真题】DNA的结构及相关计算【一轮复习】",
+          "duration": 965,
+          "pubdate": 1727442697,
+          "cover": "https://i0.hdslb.com/bfs/archive/a2d45a57eb06954bcb96b8fc33933d29457ee48f.jpg",
+          "views": 97905,
+          "danmaku": 241,
+          "url": "https://www.bilibili.com/video/BV1bosfeKE2c"
+        },
+        {
+          "bvid": "BV1af4ueBE4C",
+          "title": "【遗传的分子机制】DNA的复制【一轮复习】",
+          "duration": 2647,
+          "pubdate": 1727870179,
+          "cover": "https://i2.hdslb.com/bfs/archive/600bbca586f5b4b5e393c36deb41651e9c2eb268.jpg",
+          "views": 211775,
+          "danmaku": 922,
+          "url": "https://www.bilibili.com/video/BV1af4ueBE4C"
+        },
+        {
+          "bvid": "BV1H82hY2E1r",
+          "title": "【刷真题】DNA的复制【一轮复习】",
+          "duration": 1882,
+          "pubdate": 1728734400,
+          "cover": "https://i1.hdslb.com/bfs/archive/a1750fcd7e2aaede8f93293254e0a2647ad8a06e.jpg",
+          "views": 103471,
+          "danmaku": 234,
+          "url": "https://www.bilibili.com/video/BV1H82hY2E1r"
+        },
+        {
+          "bvid": "BV16a4y1Z7rS",
+          "title": "【高考难点】基因的表达【一轮复习】",
+          "duration": 1967,
+          "pubdate": 1700960400,
+          "cover": "https://i1.hdslb.com/bfs/archive/02390d0cb40ff8914d2dc9e4a94bf1478f99f393.jpg",
+          "views": 327523,
+          "danmaku": 1009,
+          "url": "https://www.bilibili.com/video/BV16a4y1Z7rS"
+        },
+        {
+          "bvid": "BV1ZG411e7F2",
+          "title": "【高考难点】中心法则 表观遗传【一轮复习】",
+          "duration": 1418,
+          "pubdate": 1701567000,
+          "cover": "https://i0.hdslb.com/bfs/archive/daf15a7f324e5f41a0609336fc3b7f15bf81d14c.jpg",
+          "views": 241885,
+          "danmaku": 751,
+          "url": "https://www.bilibili.com/video/BV1ZG411e7F2"
+        },
+        {
+          "bvid": "BV1rc411U78x",
+          "title": "【刷真题】基因表达+中心法则真题带练~【一轮复习】",
+          "duration": 2585,
+          "pubdate": 1702117581,
+          "cover": "https://i0.hdslb.com/bfs/archive/63bb09a66e0438c5a70d7537068bbb79f84f7480.jpg",
+          "views": 108246,
+          "danmaku": 435,
+          "url": "https://www.bilibili.com/video/BV1rc411U78x"
+        },
+        {
+          "bvid": "BV15b4y1j7CR",
+          "title": "【高考重点】基因突变和基因重组【一轮复习】",
+          "duration": 1801,
+          "pubdate": 1702171800,
+          "cover": "https://i0.hdslb.com/bfs/archive/c17a3fc78c694f836aace382add368bcc7a48555.jpg",
+          "views": 278351,
+          "danmaku": 1076,
+          "url": "https://www.bilibili.com/video/BV15b4y1j7CR"
+        },
+        {
+          "bvid": "BV1eu4y1T7a3",
+          "title": "【刷真题】基因突变和基因重组真题带练~【一轮复习】",
+          "duration": 1794,
+          "pubdate": 1702708200,
+          "cover": "https://i0.hdslb.com/bfs/archive/81b020cb5b2219213205a5d27e5483260012443f.jpg",
+          "views": 124242,
+          "danmaku": 465,
+          "url": "https://www.bilibili.com/video/BV1eu4y1T7a3"
+        },
+        {
+          "bvid": "BV1aG411a7ru",
+          "title": "【高考重点】染色体变异和育种【一轮复习】",
+          "duration": 2689,
+          "pubdate": 1702777128,
+          "cover": "https://i0.hdslb.com/bfs/archive/e97947237577d32dfff871280cbd60698aa0e52f.jpg",
+          "views": 261725,
+          "danmaku": 1134,
+          "url": "https://www.bilibili.com/video/BV1aG411a7ru"
+        },
+        {
+          "bvid": "BV1j5DrYGEbK",
+          "title": "【刷真题】染色体变异和育种【一轮复习】",
+          "duration": 2914,
+          "pubdate": 1731154651,
+          "cover": "https://i0.hdslb.com/bfs/archive/8304ec536df5014be910aba1367de512616ec6cb.jpg",
+          "views": 75096,
+          "danmaku": 251,
+          "url": "https://www.bilibili.com/video/BV1j5DrYGEbK"
+        },
+        {
+          "bvid": "BV1NTznYTENp",
+          "title": "【遗传知识】人类遗传病【一轮复习】",
+          "duration": 1583,
+          "pubdate": 1732968000,
+          "cover": "https://i0.hdslb.com/bfs/archive/60d7876fc1f750a376982dac06d9ae791d531518.jpg",
+          "views": 85016,
+          "danmaku": 334,
+          "url": "https://www.bilibili.com/video/BV1NTznYTENp"
+        },
+        {
+          "bvid": "BV151yDYnEnb",
+          "title": "【刷真题】人类遗传病【一轮复习】",
+          "duration": 1262,
+          "pubdate": 1729862038,
+          "cover": "https://i2.hdslb.com/bfs/archive/eb399aee039ead16ab8825490b5d03fe799ea4d6.jpg",
+          "views": 61628,
+          "danmaku": 161,
+          "url": "https://www.bilibili.com/video/BV151yDYnEnb"
+        },
+        {
+          "bvid": "BV1pJBTYoEby",
+          "title": "【进化】达尔文生物进化论【一轮复习】",
+          "duration": 1092,
+          "pubdate": 1734096680,
+          "cover": "https://i2.hdslb.com/bfs/archive/7e0db3d5bcabb69abcfbdaaa5fd94431898ff965.jpg",
+          "views": 67652,
+          "danmaku": 268,
+          "url": "https://www.bilibili.com/video/BV1pJBTYoEby"
+        },
+        {
+          "bvid": "BV1vSBLYuEz6",
+          "title": "【进化】种群基因组成变化【一轮复习】",
+          "duration": 2364,
+          "pubdate": 1734179437,
+          "cover": "https://i0.hdslb.com/bfs/archive/50bde9e569f4f361d51f996889149ecec276b348.jpg",
+          "views": 106431,
+          "danmaku": 556,
+          "url": "https://www.bilibili.com/video/BV1vSBLYuEz6"
+        },
+        {
+          "bvid": "BV1Rnk2YPEBi",
+          "title": "【进化】物种形成与协同进化【一轮复习】",
+          "duration": 1088,
+          "pubdate": 1734702125,
+          "cover": "https://i2.hdslb.com/bfs/archive/256796cc35f5aa1f2fe58bdfd45e5a5c45b33641.jpg",
+          "views": 62694,
+          "danmaku": 172,
+          "url": "https://www.bilibili.com/video/BV1Rnk2YPEBi"
+        },
+        {
+          "bvid": "BV14JwNepEzc",
+          "title": "【选必一知识】内环境的稳态【一轮复习】",
+          "duration": 2657,
+          "pubdate": 1737205274,
+          "cover": "https://i1.hdslb.com/bfs/archive/9032f4b50165c8ca8af242a6cc52a327272678a2.jpg",
+          "views": 208664,
+          "danmaku": 1217,
+          "url": "https://www.bilibili.com/video/BV14JwNepEzc"
+        },
+        {
+          "bvid": "BV1SK411a7qS",
+          "title": "【高考重难点】神经调节（一）【一轮复习】",
+          "duration": 1463,
+          "pubdate": 1705752423,
+          "cover": "https://i0.hdslb.com/bfs/archive/d8ed24b574c096b6cf4a5c470fec5f256b5121d9.jpg",
+          "views": 297356,
+          "danmaku": 1361,
+          "url": "https://www.bilibili.com/video/BV1SK411a7qS"
+        },
+        {
+          "bvid": "BV13eCoYFEpi",
+          "title": "【刷真题】神经调节（一）【一轮复习】",
+          "duration": 1661,
+          "pubdate": 1729332880,
+          "cover": "https://i0.hdslb.com/bfs/archive/d8665908b543d0449fae67d97280da8b3a4a3fcb.jpg",
+          "views": 129920,
+          "danmaku": 423,
+          "url": "https://www.bilibili.com/video/BV13eCoYFEpi"
+        },
+        {
+          "bvid": "BV1Lb4y1N7yU",
+          "title": "【高考重难点】神经调节（二）【一轮复习】",
+          "duration": 2545,
+          "pubdate": 1705802400,
+          "cover": "https://i2.hdslb.com/bfs/archive/1d8b386b6011fe2637609c26eb2b32fb0cadaa19.jpg",
+          "views": 238442,
+          "danmaku": 1592,
+          "url": "https://www.bilibili.com/video/BV1Lb4y1N7yU"
+        },
+        {
+          "bvid": "BV1UJmzYJEyg",
+          "title": "【刷真题】神经调节（二）【一轮复习】",
+          "duration": 2087,
+          "pubdate": 1731244271,
+          "cover": "https://i1.hdslb.com/bfs/archive/31ab1cfbcf99a0f672bd68af62289cb36d9cca34.jpg",
+          "views": 84227,
+          "danmaku": 315,
+          "url": "https://www.bilibili.com/video/BV1UJmzYJEyg"
+        },
+        {
+          "bvid": "BV1Ut421a7Kq",
+          "title": "【高考难点】体液调节【一轮复习】",
+          "duration": 1866,
+          "pubdate": 1708083600,
+          "cover": "https://i2.hdslb.com/bfs/archive/07c5993eef3a91880b265e14c733d1155478041e.jpg",
+          "views": 235171,
+          "danmaku": 1178,
+          "url": "https://www.bilibili.com/video/BV1Ut421a7Kq"
+        },
+        {
+          "bvid": "BV1LXiqYfEcp",
+          "title": "【刷真题】激素调节【一轮复习】",
+          "duration": 1401,
+          "pubdate": 1733490890,
+          "cover": "https://i1.hdslb.com/bfs/archive/60fb3315dfd699f2d9d8801fcac7bc7f22667cb0.jpg",
+          "views": 79159,
+          "danmaku": 230,
+          "url": "https://www.bilibili.com/video/BV1LXiqYfEcp"
+        },
+        {
+          "bvid": "BV1Dj421X7tG",
+          "title": "【高考难点】神经-体液调节【一轮复习】",
+          "duration": 2126,
+          "pubdate": 1708169433,
+          "cover": "https://i2.hdslb.com/bfs/archive/a5a9bd7f907d27d4db600ce022d9dede04dd5370.jpg",
+          "views": 190669,
+          "danmaku": 1240,
+          "url": "https://www.bilibili.com/video/BV1Dj421X7tG"
+        },
+        {
+          "bvid": "BV1nKqsYiE62",
+          "title": "【刷真题】神经调节和体液调节综合【一轮复习】",
+          "duration": 1609,
+          "pubdate": 1733657681,
+          "cover": "https://i2.hdslb.com/bfs/archive/891afc09a4f1f79b4f6ce42eec8eda6b8a8436a8.jpg",
+          "views": 77207,
+          "danmaku": 277,
+          "url": "https://www.bilibili.com/video/BV1nKqsYiE62"
+        },
+        {
+          "bvid": "BV1vJ4m1Y7Zu",
+          "title": "【高考难点】一节课搞定免疫调节【一轮复习】",
+          "duration": 3803,
+          "pubdate": 1709384400,
+          "cover": "https://i0.hdslb.com/bfs/archive/ba1019d4ea81fecb163afe2bee2bba1187840ce3.jpg",
+          "views": 282478,
+          "danmaku": 2048,
+          "url": "https://www.bilibili.com/video/BV1vJ4m1Y7Zu"
+        },
+        {
+          "bvid": "BV1dDfpYVEcN",
+          "title": "【选必一知识】植物生命活动的调节-1【一轮复习】",
+          "duration": 2242,
+          "pubdate": 1737724860,
+          "cover": "https://i0.hdslb.com/bfs/archive/fd96bed4eeb3eeb730d5e0ce328fa6ccf7d21f00.jpg",
+          "views": 147936,
+          "danmaku": 867,
+          "url": "https://www.bilibili.com/video/BV1dDfpYVEcN"
+        },
+        {
+          "bvid": "BV1NuPRecEmm",
+          "title": "【选必一知识】植物生命活动的调节-2【一轮复习】",
+          "duration": 2004,
+          "pubdate": 1738583975,
+          "cover": "https://i0.hdslb.com/bfs/archive/1682ab881abaaa8e7ab7e641320a69470298af0e.jpg",
+          "views": 93985,
+          "danmaku": 380,
+          "url": "https://www.bilibili.com/video/BV1NuPRecEmm"
+        },
+        {
+          "bvid": "BV1BTP2ebEQq",
+          "title": "【选必二知识】种群【一轮复习】",
+          "duration": 2135,
+          "pubdate": 1738757618,
+          "cover": "https://i0.hdslb.com/bfs/archive/7b68e36159e85bf38de704379c585af83d567d35.jpg",
+          "views": 125817,
+          "danmaku": 646,
+          "url": "https://www.bilibili.com/video/BV1BTP2ebEQq"
+        },
+        {
+          "bvid": "BV1MYN3eUE6W",
+          "title": "【选必二知识】群落【一轮复习】",
+          "duration": 2286,
+          "pubdate": 1739016000,
+          "cover": "https://i2.hdslb.com/bfs/archive/300591443415c4dbdfe51d868bf956a674d00b01.jpg",
+          "views": 99025,
+          "danmaku": 403,
+          "url": "https://www.bilibili.com/video/BV1MYN3eUE6W"
+        },
+        {
+          "bvid": "BV1M6AZekEZY",
+          "title": "【选必二知识】生态系统组成与能量流动【一轮复习】",
+          "duration": 2582,
+          "pubdate": 1740141392,
+          "cover": "https://i1.hdslb.com/bfs/archive/a1d1667af994337331847b2b20146d8908d057e1.jpg",
+          "views": 152576,
+          "danmaku": 669,
+          "url": "https://www.bilibili.com/video/BV1M6AZekEZY"
+        },
+        {
+          "bvid": "BV1GQ9gY4EFq",
+          "title": "【选必二知识】生态系统物质循环 信息传递与稳定性【一轮复习】",
+          "duration": 1958,
+          "pubdate": 1740747991,
+          "cover": "https://i1.hdslb.com/bfs/archive/ea8c7905cc75b805aac8cf614a63c9e524133dbb.jpg",
+          "views": 106416,
+          "danmaku": 452,
+          "url": "https://www.bilibili.com/video/BV1GQ9gY4EFq"
+        },
+        {
+          "bvid": "BV1pB9UYSEHj",
+          "title": "【选必二知识】人与环境【一轮复习】",
+          "duration": 1995,
+          "pubdate": 1741399200,
+          "cover": "https://i1.hdslb.com/bfs/archive/8f268534fa84ff1f437fca4f77faa65431714c0c.jpg",
+          "views": 87838,
+          "danmaku": 287,
+          "url": "https://www.bilibili.com/video/BV1pB9UYSEHj"
+        },
+        {
+          "bvid": "BV1H2421T7Wc",
+          "title": "【选必三】传统发酵技术 微生物培养 发酵工程一网打尽！【一轮复习】",
+          "duration": 4150,
+          "pubdate": 1709987400,
+          "cover": "https://i1.hdslb.com/bfs/archive/7a305816045b9623bd23532e356f5e2b99ea7e8d.jpg",
+          "views": 698251,
+          "danmaku": 3429,
+          "url": "https://www.bilibili.com/video/BV1H2421T7Wc"
+        },
+        {
+          "bvid": "BV1mu4m1g7PN",
+          "title": "【选必三】动物/植物细胞工程和胚胎工程 知识考点一网打尽！【一轮复习】",
+          "duration": 5005,
+          "pubdate": 1710505800,
+          "cover": "https://i1.hdslb.com/bfs/archive/ef1307ec6b666f3a0a6bcaad80a518c4603dc7a5.jpg",
+          "views": 630008,
+          "danmaku": 3863,
+          "url": "https://www.bilibili.com/video/BV1mu4m1g7PN"
+        },
+        {
+          "bvid": "BV1nu4m1T7b5",
+          "title": "【选必三】基因工程 知识考点一网打尽！【一轮复习】",
+          "duration": 4783,
+          "pubdate": 1711110600,
+          "cover": "https://i0.hdslb.com/bfs/archive/60fb5fee35b82a83b99ebda7c564cd8679b1170a.jpg",
+          "views": 1114745,
+          "danmaku": 5792,
+          "url": "https://www.bilibili.com/video/BV1nu4m1T7b5"
+        },
+        {
+          "bvid": "BV1vm421j7Bk",
+          "title": "【选必三】基因工程工具和操作程序（一）【刷题题】",
+          "duration": 2202,
+          "pubdate": 1712929899,
+          "cover": "https://i2.hdslb.com/bfs/archive/7ac399b2e3cee3d40160877e86c1268027dbf350.jpg",
+          "views": 288435,
+          "danmaku": 896,
+          "url": "https://www.bilibili.com/video/BV1vm421j7Bk"
+        },
+        {
+          "bvid": "BV1yC411G7Ug",
+          "title": "【选必三】基因工程操作程序和应用（二）【刷题题】",
+          "duration": 3014,
+          "pubdate": 1713002400,
+          "cover": "https://i2.hdslb.com/bfs/archive/f93254f446290f3b402988760b0cff83233cabfc.jpg",
+          "views": 173568,
+          "danmaku": 493,
+          "url": "https://www.bilibili.com/video/BV1yC411G7Ug"
+        },
+        {
+          "bvid": "BV1EC411L7av",
+          "title": "【高考高频考点】实验专题一网打尽！",
+          "duration": 3492,
+          "pubdate": 1712228400,
+          "cover": "https://i0.hdslb.com/bfs/archive/38e5bc028f45e63cf353fe919d74c33147c68ccb.jpg",
+          "views": 283623,
+          "danmaku": 1001,
+          "url": "https://www.bilibili.com/video/BV1EC411L7av"
+        }
+      ]
+    },
+    {
+      "season_id": 2852695,
+      "title": "2024高考生物最后6课",
+      "intro": "助力高三小可爱冲刺高考！",
+      "cover": "https://archive.biliimg.com/bfs/archive/74e1e7c5dfe4238d4ddc8e34f68b1670216e25a7.jpg",
+      "total": 7,
+      "fetched": 7,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1x1421R7EY",
+          "title": "【最后6课】细胞代谢专题-2024高考生物冲刺！第1课",
+          "duration": 2147,
+          "pubdate": 1714132800,
+          "cover": "https://i0.hdslb.com/bfs/archive/efc7aa23c09b9407da4c9df475fcdb550f44df31.jpg",
+          "views": 556024,
+          "danmaku": 2473,
+          "url": "https://www.bilibili.com/video/BV1x1421R7EY"
+        },
+        {
+          "bvid": "BV15m41117GC",
+          "title": "【最后6课】生态调节专题-2024高考生物冲刺！第2课",
+          "duration": 2226,
+          "pubdate": 1714564800,
+          "cover": "https://i0.hdslb.com/bfs/archive/b4a06d21a054679810781aa018a135e1911c6215.jpg",
+          "views": 229827,
+          "danmaku": 2539,
+          "url": "https://www.bilibili.com/video/BV15m41117GC"
+        },
+        {
+          "bvid": "BV1ir421E7AA",
+          "title": "【最后6课】遗传实验设计专题-2024高考生物冲刺！第3课",
+          "duration": 3629,
+          "pubdate": 1714900028,
+          "cover": "https://i1.hdslb.com/bfs/archive/848e993db1493d05f1e0a4bda9c03f8e9de40d1c.jpg",
+          "views": 190328,
+          "danmaku": 1133,
+          "url": "https://www.bilibili.com/video/BV1ir421E7AA"
+        },
+        {
+          "bvid": "BV1mx4y1v7R7",
+          "title": "【最后6课】神经体液调节专题-2024高考生物冲刺！第4课",
+          "duration": 3048,
+          "pubdate": 1715432593,
+          "cover": "https://i0.hdslb.com/bfs/archive/19ebab99a23208b06916995665671738e3bfb361.jpg",
+          "views": 177393,
+          "danmaku": 1733,
+          "url": "https://www.bilibili.com/video/BV1mx4y1v7R7"
+        },
+        {
+          "bvid": "BV1ZU411f7PL",
+          "title": "【最后6课】免疫及植物激素专题-2024高考生物冲刺！第5课",
+          "duration": 2613,
+          "pubdate": 1715949000,
+          "cover": "https://i2.hdslb.com/bfs/archive/e7ffbef4e054b865988980178c53cc7dd9e68600.jpg",
+          "views": 133951,
+          "danmaku": 1038,
+          "url": "https://www.bilibili.com/video/BV1ZU411f7PL"
+        },
+        {
+          "bvid": "BV1L7421Z7ao",
+          "title": "【最后6课】基因工程专题-2024高考生物冲刺！第6课",
+          "duration": 2120,
+          "pubdate": 1716552000,
+          "cover": "https://i1.hdslb.com/bfs/archive/c482719bbd1f65556f718050fe48abf40cf60d48.jpg",
+          "views": 381403,
+          "danmaku": 1743,
+          "url": "https://www.bilibili.com/video/BV1L7421Z7ao"
+        },
+        {
+          "bvid": "BV1E7421R7RT",
+          "title": "【直播回放】高考生物最后一卷-时事热点专题",
+          "duration": 4112,
+          "pubdate": 1717475904,
+          "cover": "https://i0.hdslb.com/bfs/archive/8aeefdd779d85668386f5166476cdcc00ebbb847.jpg",
+          "views": 234434,
+          "danmaku": 3971,
+          "url": "https://www.bilibili.com/video/BV1E7421R7RT"
+        }
+      ]
+    },
+    {
+      "season_id": 1383309,
+      "title": "2023高考生物最后5课",
+      "intro": "帮助高三的小可爱们进行高考最后冲刺！加油加油！",
+      "cover": "https://archive.biliimg.com/bfs/archive/2d79d5a616a0836ef1a630c138f1be144ca22da4.jpg",
+      "total": 6,
+      "fetched": 6,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV19M4y147rq",
+          "title": "【最后五课】实验大题答题模板-2023高考生物冲刺！第1课",
+          "duration": 1952,
+          "pubdate": 1684022400,
+          "cover": "https://i0.hdslb.com/bfs/archive/dc9e9d9bdde19f22932e16c0ad9e5e0b7c0ef97a.jpg",
+          "views": 673443,
+          "danmaku": 2472,
+          "url": "https://www.bilibili.com/video/BV19M4y147rq"
+        },
+        {
+          "bvid": "BV1Uk4y1L7bG",
+          "title": "【最后五课】实验大题类型及解法-2023高考生物冲刺！第2课",
+          "duration": 2345,
+          "pubdate": 1684540800,
+          "cover": "https://i1.hdslb.com/bfs/archive/8329b832b65c1a30d30751d1207333f63c534b65.jpg",
+          "views": 185220,
+          "danmaku": 920,
+          "url": "https://www.bilibili.com/video/BV1Uk4y1L7bG"
+        },
+        {
+          "bvid": "BV1UX4y1C71o",
+          "title": "【最后五课】必修一 核心概念查漏补缺-2023高考生物冲刺！第3课",
+          "duration": 3277,
+          "pubdate": 1684627200,
+          "cover": "https://i0.hdslb.com/bfs/archive/e3f84e9a260def9d94ca9387159b8be87d7a4e28.jpg",
+          "views": 358640,
+          "danmaku": 3224,
+          "url": "https://www.bilibili.com/video/BV1UX4y1C71o"
+        },
+        {
+          "bvid": "BV1yX4y1h74o",
+          "title": "【最后五课】必修二 核心概念查漏补缺-2023高考生物冲刺！第4课",
+          "duration": 3525,
+          "pubdate": 1685145600,
+          "cover": "https://i2.hdslb.com/bfs/archive/2e01cba2a10e3753aa29cc222f734ab688b86986.jpg",
+          "views": 231985,
+          "danmaku": 1578,
+          "url": "https://www.bilibili.com/video/BV1yX4y1h74o"
+        },
+        {
+          "bvid": "BV12z4y1B7w9",
+          "title": "【最后五课】选择性必修1-3 核心概念查漏补缺-2023高考生物冲刺！第5课",
+          "duration": 3124,
+          "pubdate": 1685232000,
+          "cover": "https://i2.hdslb.com/bfs/archive/53ece740b0553d37887a3a1c5f14317a04efcfbd.jpg",
+          "views": 260469,
+          "danmaku": 2572,
+          "url": "https://www.bilibili.com/video/BV12z4y1B7w9"
+        },
+        {
+          "bvid": "BV1t14y1D7LB",
+          "title": "【高考生物】最后一卷 精选近期热点，重点！",
+          "duration": 2324,
+          "pubdate": 1685805026,
+          "cover": "https://i2.hdslb.com/bfs/archive/aaed687cc11796aa1b46e06e37732474ec9b0c4e.jpg",
+          "views": 287761,
+          "danmaku": 3744,
+          "url": "https://www.bilibili.com/video/BV1t14y1D7LB"
+        }
+      ]
+    },
+    {
+      "season_id": 615886,
+      "title": "高中生物必修一【旧版】",
+      "intro": "你的生物随身助手！\n【知识】系列视频从零开始讲解知识；\n【考点】系列视频从基础到拔高讲解题型与方法。",
+      "cover": "https://archive.biliimg.com/bfs/archive/96f3337423dcdc9b324a81d5626ec2e2084bcd41.jpg",
+      "total": 35,
+      "fetched": 35,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1TS4y147k5",
+          "title": "高中生物必修一开更啦！第1章:走进细胞（知识）|0基础救星！",
+          "duration": 1737,
+          "pubdate": 1659835800,
+          "cover": "https://i1.hdslb.com/bfs/archive/51e05b7916957a535b957714c49f1a9802be73a0.jpg",
+          "views": 6080994,
+          "danmaku": 33975,
+          "url": "https://www.bilibili.com/video/BV1TS4y147k5"
+        },
+        {
+          "bvid": "BV1vV4y1p7L1",
+          "title": "【高中生物必修1】走进细胞 题型总结！",
+          "duration": 1354,
+          "pubdate": 1662168600,
+          "cover": "https://i0.hdslb.com/bfs/archive/70b3ae35c6bb065e449bff1a816620b60768feb0.jpg",
+          "views": 1418493,
+          "danmaku": 17292,
+          "url": "https://www.bilibili.com/video/BV1vV4y1p7L1"
+        },
+        {
+          "bvid": "BV1QK411f76s",
+          "title": "【高中生物必修1】显微镜 考点全面攻克！",
+          "duration": 1103,
+          "pubdate": 1662771600,
+          "cover": "https://i0.hdslb.com/bfs/archive/f2a28f0a6a2e8115595fc0b0f29eb54bc33a9136.jpg",
+          "views": 1050832,
+          "danmaku": 14118,
+          "url": "https://www.bilibili.com/video/BV1QK411f76s"
+        },
+        {
+          "bvid": "BV18F411w71i",
+          "title": "【高中生物必修1】细胞中的元素和化合物（知识）|0基础救星！",
+          "duration": 1170,
+          "pubdate": 1660354200,
+          "cover": "https://i0.hdslb.com/bfs/archive/dec018d77985f63d6d7882486ebd30292c2a2a70.jpg",
+          "views": 1381887,
+          "danmaku": 23285,
+          "url": "https://www.bilibili.com/video/BV18F411w71i"
+        },
+        {
+          "bvid": "BV1it4y1J7Tj",
+          "title": "【高中生物必修1】细胞中的无机物（知识）|0基础救星！",
+          "duration": 1813,
+          "pubdate": 1660979742,
+          "cover": "https://i1.hdslb.com/bfs/archive/730e18aa6835c4375a6ea18bf37f7308c9bd49c5.jpg",
+          "views": 1104562,
+          "danmaku": 41169,
+          "url": "https://www.bilibili.com/video/BV1it4y1J7Tj"
+        },
+        {
+          "bvid": "BV1nW4y1t7Ln",
+          "title": "【高中生物必修1】细胞中糖类和脂质（知识）|0基础救星！",
+          "duration": 1464,
+          "pubdate": 1661563800,
+          "cover": "https://i0.hdslb.com/bfs/archive/e365e7e390f6523cb56fd9325f42459f1c7f9f91.jpg",
+          "views": 1252519,
+          "danmaku": 19450,
+          "url": "https://www.bilibili.com/video/BV1nW4y1t7Ln"
+        },
+        {
+          "bvid": "BV1FY4y1T7JN",
+          "title": "【高中生物必修1】 物质鉴定实验专题 | 题型总结",
+          "duration": 1238,
+          "pubdate": 1663376400,
+          "cover": "https://i0.hdslb.com/bfs/archive/b1288a5415b1b210c42f5f2919f965c8fbc16345.jpg",
+          "views": 876028,
+          "danmaku": 13766,
+          "url": "https://www.bilibili.com/video/BV1FY4y1T7JN"
+        },
+        {
+          "bvid": "BV1F8411b7ns",
+          "title": "【高中生物必修1】蛋白质是生命活动的承担者（知识）|0基础救星！",
+          "duration": 1583,
+          "pubdate": 1663979400,
+          "cover": "https://i0.hdslb.com/bfs/archive/40643d138a10bde4bbcd11f4871856a2c8522122.jpg",
+          "views": 1999441,
+          "danmaku": 36527,
+          "url": "https://www.bilibili.com/video/BV1F8411b7ns"
+        },
+        {
+          "bvid": "BV1i14y1h7oh",
+          "title": "20分钟搞定蛋白质计算!  | 题型总结【高中生物必修1】",
+          "duration": 1497,
+          "pubdate": 1664065800,
+          "cover": "https://i2.hdslb.com/bfs/archive/d596cec93aeef8b3d8670430e1924333f3961c35.jpg",
+          "views": 2440440,
+          "danmaku": 26616,
+          "url": "https://www.bilibili.com/video/BV1i14y1h7oh"
+        },
+        {
+          "bvid": "BV1Le4y1B7zb",
+          "title": "核酸重难点详解，你的DNA动了么？  | 知识【高中生物必修1】",
+          "duration": 1522,
+          "pubdate": 1664584200,
+          "cover": "https://i2.hdslb.com/bfs/archive/f91cab5b1fb0308c59535544b57d0be066ccfc52.jpg",
+          "views": 1389458,
+          "danmaku": 19473,
+          "url": "https://www.bilibili.com/video/BV1Le4y1B7zb"
+        },
+        {
+          "bvid": "BV1wg411v7sD",
+          "title": "快来捡漏！一个视频搞定元素化合物高频考点题型  | 题型总结【高中生物必修1】",
+          "duration": 1651,
+          "pubdate": 1664757000,
+          "cover": "https://i1.hdslb.com/bfs/archive/fc12c8e98e1d407d7c8ba87bc233dc739ae96470.jpg",
+          "views": 644116,
+          "danmaku": 7024,
+          "url": "https://www.bilibili.com/video/BV1wg411v7sD"
+        },
+        {
+          "bvid": "BV1Gt4y1A7Aq",
+          "title": "你的细胞膜啥样啊，不来了解一下吗？  | 知识【高中生物必修1】",
+          "duration": 1002,
+          "pubdate": 1664843400,
+          "cover": "https://i0.hdslb.com/bfs/archive/7db5b33e1f6f449d9c70dbcf7724b6266e6016d6.jpg",
+          "views": 1054628,
+          "danmaku": 10012,
+          "url": "https://www.bilibili.com/video/BV1Gt4y1A7Aq"
+        },
+        {
+          "bvid": "BV1me4y1E74N",
+          "title": "高一必考-细胞膜题型总结  | 题型总结【高中生物必修1】",
+          "duration": 870,
+          "pubdate": 1665880200,
+          "cover": "https://i2.hdslb.com/bfs/archive/e00165020f13a229387acbdc4b9a86e3b4e61234.jpg",
+          "views": 723243,
+          "danmaku": 5576,
+          "url": "https://www.bilibili.com/video/BV1me4y1E74N"
+        },
+        {
+          "bvid": "BV1UP411P7Gy",
+          "title": "八大细胞器来袭，准备好接招了吗？  | 知识【高中生物必修1】",
+          "duration": 2002,
+          "pubdate": 1665793800,
+          "cover": "https://i0.hdslb.com/bfs/archive/96fe5d939047715b4cb403cd3d02b392fffebd94.jpg",
+          "views": 1287599,
+          "danmaku": 20045,
+          "url": "https://www.bilibili.com/video/BV1UP411P7Gy"
+        },
+        {
+          "bvid": "BV16G4y1p7fP",
+          "title": "高一必考-细胞器与细胞核题型总结  | 题型总结【高中生物必修1】",
+          "duration": 835,
+          "pubdate": 1665839588,
+          "cover": "https://i0.hdslb.com/bfs/archive/7a1f80d770c205189bd9f410fcee2ff6c44e901c.jpg",
+          "views": 705405,
+          "danmaku": 4908,
+          "url": "https://www.bilibili.com/video/BV16G4y1p7fP"
+        },
+        {
+          "bvid": "BV1KR4y1Q7Xf",
+          "title": "物质运输难？一起盘它！ | 知识【高中生物必修1】",
+          "duration": 1985,
+          "pubdate": 1666398600,
+          "cover": "https://i0.hdslb.com/bfs/archive/ec1ebed51615d8d54e937de9c2576b9496bece94.jpg",
+          "views": 1757494,
+          "danmaku": 31996,
+          "url": "https://www.bilibili.com/video/BV1KR4y1Q7Xf"
+        },
+        {
+          "bvid": "BV1xd4y1w71m",
+          "title": "令人头秃的 质壁分离实验和 渗透装置分析来啦！  | 题型总结【高中生物必修1】",
+          "duration": 1534,
+          "pubdate": 1667552071,
+          "cover": "https://i1.hdslb.com/bfs/archive/859d22dd5cc14ba68dbf1e0cbdaa6ece0088afeb.jpg",
+          "views": 810901,
+          "danmaku": 13983,
+          "url": "https://www.bilibili.com/video/BV1xd4y1w71m"
+        },
+        {
+          "bvid": "BV13g411q7Lr",
+          "title": "物质该何去何从？物质运输考点总结来啦！ | 题型总结【高中生物必修1】",
+          "duration": 1470,
+          "pubdate": 1668211200,
+          "cover": "https://i0.hdslb.com/bfs/archive/3715473a059653c45e22299b22b4c9c520912655.jpg",
+          "views": 590978,
+          "danmaku": 6090,
+          "url": "https://www.bilibili.com/video/BV13g411q7Lr"
+        },
+        {
+          "bvid": "BV1k94y137Vv",
+          "title": "【必修一】物质输入输出题不会做？一节课拿下它！",
+          "duration": 1601,
+          "pubdate": 1699621410,
+          "cover": "https://i2.hdslb.com/bfs/archive/a460431c7cdb589f737d29cbe125f9d0787c8cfe.jpg",
+          "views": 262255,
+          "danmaku": 1570,
+          "url": "https://www.bilibili.com/video/BV1k94y137Vv"
+        },
+        {
+          "bvid": "BV1n841187NN",
+          "title": "实验题重灾区——酶，它来啦！ | 知识【高中生物必修1】",
+          "duration": 1754,
+          "pubdate": 1668297600,
+          "cover": "https://i1.hdslb.com/bfs/archive/039c46ca19a6fb554f2981779cc7dfcb27a1aa57.jpg",
+          "views": 1029418,
+          "danmaku": 15547,
+          "url": "https://www.bilibili.com/video/BV1n841187NN"
+        },
+        {
+          "bvid": "BV1pY411o73t",
+          "title": "酶酶~曲线题和实验题来啦！ | 题型总结【高中生物必修1】",
+          "duration": 1393,
+          "pubdate": 1668765600,
+          "cover": "https://i0.hdslb.com/bfs/archive/1fd230e9795e618be486d7e4d67dd99fd959ab2e.jpg",
+          "views": 597291,
+          "danmaku": 5726,
+          "url": "https://www.bilibili.com/video/BV1pY411o73t"
+        },
+        {
+          "bvid": "BV1uN4y1U7hM",
+          "title": "遇到实验就头疼？喵喵老师带你攻克【酶】实验考点题型！",
+          "duration": 2269,
+          "pubdate": 1700824447,
+          "cover": "https://i1.hdslb.com/bfs/archive/a94302a73110e7bfaabd540bdd1a0e0741deddea.jpg",
+          "views": 254057,
+          "danmaku": 1982,
+          "url": "https://www.bilibili.com/video/BV1uN4y1U7hM"
+        },
+        {
+          "bvid": "BV1484y117Mv",
+          "title": "喜欢放p的ATP来喽~ | 知识【高中生物必修1】",
+          "duration": 1014,
+          "pubdate": 1668848055,
+          "cover": "https://i2.hdslb.com/bfs/archive/66340c401f0be0299d10fd3d4ffa3723e5cc838a.jpg",
+          "views": 907768,
+          "danmaku": 9841,
+          "url": "https://www.bilibili.com/video/BV1484y117Mv"
+        },
+        {
+          "bvid": "BV12d4y1t7F2",
+          "title": "你的细胞如何呼吸，不来了解一下么？ | 知识【高中生物必修1】",
+          "duration": 1622,
+          "pubdate": 1669507200,
+          "cover": "https://i0.hdslb.com/bfs/archive/4c1290cb582efdd99674235de2ac6c246ba4ae69.jpg",
+          "views": 1728023,
+          "danmaku": 12655,
+          "url": "https://www.bilibili.com/video/BV12d4y1t7F2"
+        },
+        {
+          "bvid": "BV1b24y1k71e",
+          "title": "细胞呼吸 基础题型就这么考！ | 题型总结【高中生物必修1】",
+          "duration": 1504,
+          "pubdate": 1669972117,
+          "cover": "https://i0.hdslb.com/bfs/archive/7170e2adcf1193bb755fd1d316f8f788e5aa074b.jpg",
+          "views": 723479,
+          "danmaku": 7060,
+          "url": "https://www.bilibili.com/video/BV1b24y1k71e"
+        },
+        {
+          "bvid": "BV1JP4y1Q7zt",
+          "title": "细胞呼吸 进阶题型就这么考！ | 题型总结【高中生物必修1】",
+          "duration": 1581,
+          "pubdate": 1670112000,
+          "cover": "https://i2.hdslb.com/bfs/archive/e12d7b9002cf40f07a0ac4c4753e710d99f05161.jpg",
+          "views": 643301,
+          "danmaku": 6082,
+          "url": "https://www.bilibili.com/video/BV1JP4y1Q7zt"
+        },
+        {
+          "bvid": "BV1q44y1m7sW",
+          "title": "光合作用知识详解 | 知识【高中生物必修1】",
+          "duration": 1476,
+          "pubdate": 1670630400,
+          "cover": "https://i0.hdslb.com/bfs/archive/cb92815df82bc6bda2ab4a19a6ad0ee279641a30.jpg",
+          "views": 2676263,
+          "danmaku": 19418,
+          "url": "https://www.bilibili.com/video/BV1q44y1m7sW"
+        },
+        {
+          "bvid": "BV1G24y1D7Lp",
+          "title": "光合作用基础题及色素提取和分离实验 | 题型总结【高中生物必修1】",
+          "duration": 1368,
+          "pubdate": 1671098400,
+          "cover": "https://i0.hdslb.com/bfs/archive/eba1efd8ae97e94823e914e633dead036538ccc9.jpg",
+          "views": 914230,
+          "danmaku": 5609,
+          "url": "https://www.bilibili.com/video/BV1G24y1D7Lp"
+        },
+        {
+          "bvid": "BV1UD4y187n2",
+          "title": "一个视频帮你搞定总光合和净光合！ | 题型总结【高中生物必修1】",
+          "duration": 1460,
+          "pubdate": 1671235200,
+          "cover": "https://i2.hdslb.com/bfs/archive/30cc65642219e347020c49dbd51b7fe387cf927d.jpg",
+          "views": 1021752,
+          "danmaku": 9162,
+          "url": "https://www.bilibili.com/video/BV1UD4y187n2"
+        },
+        {
+          "bvid": "BV1JM41127pZ",
+          "title": "光合呼吸曲线分析及生物基本代谢类型 | 题型总结【高中生物必修1】",
+          "duration": 1724,
+          "pubdate": 1672444800,
+          "cover": "https://i1.hdslb.com/bfs/archive/20f78487144ae54dcad149a5157375963c2a8438.jpg",
+          "views": 626619,
+          "danmaku": 4627,
+          "url": "https://www.bilibili.com/video/BV1JM41127pZ"
+        },
+        {
+          "bvid": "BV1tK411t75w",
+          "title": "光合作用高中就这么考！-保姆式教学【必修一重难点】",
+          "duration": 1775,
+          "pubdate": 1703248200,
+          "cover": "https://i1.hdslb.com/bfs/archive/f2ec062e2941708af2745ca2e949aa0de1fce4cb.jpg",
+          "views": 321048,
+          "danmaku": 1465,
+          "url": "https://www.bilibili.com/video/BV1tK411t75w"
+        },
+        {
+          "bvid": "BV1jK411q746",
+          "title": "20分钟搞定有丝分裂！| 知识【高中生物必修1】",
+          "duration": 1383,
+          "pubdate": 1672531200,
+          "cover": "https://i0.hdslb.com/bfs/archive/4a9bb3ed4cac435af502021fe46cb13636e6c9bf.jpg",
+          "views": 2014308,
+          "danmaku": 13186,
+          "url": "https://www.bilibili.com/video/BV1jK411q746"
+        },
+        {
+          "bvid": "BV1t8411E7Ks",
+          "title": "有丝分裂数量变化分析题型 | 题型总结【高中生物必修1】",
+          "duration": 1199,
+          "pubdate": 1672617600,
+          "cover": "https://i2.hdslb.com/bfs/archive/599d8eb2127f826b9219db0cbb924073c58640f6.jpg",
+          "views": 1067814,
+          "danmaku": 7659,
+          "url": "https://www.bilibili.com/video/BV1t8411E7Ks"
+        },
+        {
+          "bvid": "BV1JK41127yP",
+          "title": "细胞的分化 衰老和死亡 | 知识【高中生物必修1】",
+          "duration": 1333,
+          "pubdate": 1673001000,
+          "cover": "https://i1.hdslb.com/bfs/archive/19758d875e8e7f031fb9cd510d97f5052c443bfe.jpg",
+          "views": 772176,
+          "danmaku": 6230,
+          "url": "https://www.bilibili.com/video/BV1JK41127yP"
+        },
+        {
+          "bvid": "BV1oY41117mC",
+          "title": "细胞生命历程题型总结 | 题型总结【高中生物必修1】",
+          "duration": 758,
+          "pubdate": 1673086874,
+          "cover": "https://i2.hdslb.com/bfs/archive/8f7845543169734c26d4790e42f87bb8e2952bd7.jpg",
+          "views": 372056,
+          "danmaku": 3120,
+          "url": "https://www.bilibili.com/video/BV1oY41117mC"
+        }
+      ]
+    },
+    {
+      "season_id": 174782,
+      "title": "高中生物必修二合集【旧版】",
+      "intro": "必修二基础知识与方法合集，难度从零基础到高考难度！\n加油~",
+      "cover": "https://archive.biliimg.com/bfs/archive/0206351f0f8c410b6c582e5436d5fdda7449e0ee.jpg",
+      "total": 51,
+      "fetched": 51,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1DP4y1A7s3",
+          "title": "【高中生物必修二】1.分离定律（知识）孟德尔的豌豆实验",
+          "duration": 920,
+          "pubdate": 1644139738,
+          "cover": "https://i0.hdslb.com/bfs/archive/ec371a4d048ecbcd2bdd050ad04872d637007c6e.jpg",
+          "views": 5480031,
+          "danmaku": 37240,
+          "url": "https://www.bilibili.com/video/BV1DP4y1A7s3"
+        },
+        {
+          "bvid": "BV1HZ4y1o7P1",
+          "title": "【高中生物必修二】2.分离定律（知识）杂交、测交、假说演绎法",
+          "duration": 1052,
+          "pubdate": 1644145233,
+          "cover": "https://i1.hdslb.com/bfs/archive/ac5011fd6ea0add7b13b403386adfad7700a663c.jpg",
+          "views": 2474322,
+          "danmaku": 14822,
+          "url": "https://www.bilibili.com/video/BV1HZ4y1o7P1"
+        },
+        {
+          "bvid": "BV1oP4y1A7xz",
+          "title": "【高中生物必修二】分离定律重难点题型总结|上（考点）",
+          "duration": 1208,
+          "pubdate": 1644225610,
+          "cover": "https://i2.hdslb.com/bfs/archive/171a23d94e99d705dcd008b2878751d01fae1b34.jpg",
+          "views": 3803747,
+          "danmaku": 37892,
+          "url": "https://www.bilibili.com/video/BV1oP4y1A7xz"
+        },
+        {
+          "bvid": "BV1WF411n72U",
+          "title": "【分离定律】自由交配、不正常比例题型，包教包会！|高中生物必修二（考点）",
+          "duration": 1528,
+          "pubdate": 1644319329,
+          "cover": "https://i1.hdslb.com/bfs/archive/3bd57bc7b52ac1f0ee6e154ac15a7f0b925ce88f.jpg",
+          "views": 2463191,
+          "danmaku": 22270,
+          "url": "https://www.bilibili.com/video/BV1WF411n72U"
+        },
+        {
+          "bvid": "BV1DR4y1e7Rc",
+          "title": "分离定律刷题儿题儿—高考真题 | 考点精华【高中生物必修2】",
+          "duration": 1751,
+          "pubdate": 1676714400,
+          "cover": "https://i0.hdslb.com/bfs/archive/9b9607576682f3383d8a9f387b5f372152a7baae.jpg",
+          "views": 1220303,
+          "danmaku": 9084,
+          "url": "https://www.bilibili.com/video/BV1DR4y1e7Rc"
+        },
+        {
+          "bvid": "BV1cS4y1k7f4",
+          "title": "【高中生物必修二】自由组合定律（知识）|邻家姐姐般细致~",
+          "duration": 1074,
+          "pubdate": 1645105150,
+          "cover": "https://i1.hdslb.com/bfs/archive/02bf00e2f3b92461df83b6b741753fb597f2a3e6.jpg",
+          "views": 1878691,
+          "danmaku": 13929,
+          "url": "https://www.bilibili.com/video/BV1cS4y1k7f4"
+        },
+        {
+          "bvid": "BV1dR4y1L7G7",
+          "title": "【自由组合定律】亲子代互推题型全解！包教包会",
+          "duration": 1166,
+          "pubdate": 1645187842,
+          "cover": "https://i0.hdslb.com/bfs/archive/2fc8a3ab86dacdabff426b438028d476cf0d7cc4.jpg",
+          "views": 1815205,
+          "danmaku": 12747,
+          "url": "https://www.bilibili.com/video/BV1dR4y1L7G7"
+        },
+        {
+          "bvid": "BV1AT4y197nt",
+          "title": "自由组合定律9331、7311……昏了吧，一生来救命~",
+          "duration": 1508,
+          "pubdate": 1645322404,
+          "cover": "https://i0.hdslb.com/bfs/archive/122d215d3b5e32870414cf7bdcdfe95db02ed6a1.jpg",
+          "views": 2264490,
+          "danmaku": 15796,
+          "url": "https://www.bilibili.com/video/BV1AT4y197nt"
+        },
+        {
+          "bvid": "BV1454y1c7Ri",
+          "title": "自由组合定律刷题儿题儿 — 高一到高三都能看的高考真题 ~",
+          "duration": 2077,
+          "pubdate": 1677228673,
+          "cover": "https://i0.hdslb.com/bfs/archive/dfa0c41c31c9a7ddc151e574426b564ac7e887a0.jpg",
+          "views": 824295,
+          "danmaku": 7381,
+          "url": "https://www.bilibili.com/video/BV1454y1c7Ri"
+        },
+        {
+          "bvid": "BV14s4y1L7nb",
+          "title": "自由组合定律【大题】刷题儿题儿 — 高一到高三都能看的高考真题 ~",
+          "duration": 1792,
+          "pubdate": 1677888000,
+          "cover": "https://i1.hdslb.com/bfs/archive/9f556a948be3403457b06bd930215f4705fadbbe.jpg",
+          "views": 445917,
+          "danmaku": 2208,
+          "url": "https://www.bilibili.com/video/BV14s4y1L7nb"
+        },
+        {
+          "bvid": "BV1bb411f7XT",
+          "title": "自由组合定律【实验设计 遗传图解】刷题儿题儿 — 高一到高三都能看的高考真题 ~",
+          "duration": 1789,
+          "pubdate": 1678492800,
+          "cover": "https://i2.hdslb.com/bfs/archive/45e2929f3bdf379ee8aef855e662e7a61b655799.jpg",
+          "views": 301858,
+          "danmaku": 1262,
+          "url": "https://www.bilibili.com/video/BV1bb411f7XT"
+        },
+        {
+          "bvid": "BV1Gx4y1C7ih",
+          "title": "遗传高中就这么考！-保姆式教学【必修二重难点】",
+          "duration": 3191,
+          "pubdate": 1709298264,
+          "cover": "https://i2.hdslb.com/bfs/archive/7650a032e92eaef3847f7dbffe89b60ffa586064.jpg",
+          "views": 336397,
+          "danmaku": 1162,
+          "url": "https://www.bilibili.com/video/BV1Gx4y1C7ih"
+        },
+        {
+          "bvid": "BV1XS4y1z7hG",
+          "title": "【高中生物必修二】减数分裂知识点|从零开始学渣救星~",
+          "duration": 1531,
+          "pubdate": 1645790825,
+          "cover": "https://i2.hdslb.com/bfs/archive/27341c5bc2169a8d48e565e264bf94f04963e662.jpg",
+          "views": 4717199,
+          "danmaku": 47591,
+          "url": "https://www.bilibili.com/video/BV1XS4y1z7hG"
+        },
+        {
+          "bvid": "BV1gY411G7GJ",
+          "title": "【高中生物必修二】减数分裂 基础题型，巩固知识点~",
+          "duration": 651,
+          "pubdate": 1645867604,
+          "cover": "https://i2.hdslb.com/bfs/archive/d3f6c6fead5e6a0adc06fd2ab5acaf83f35ebd48.jpg",
+          "views": 1521882,
+          "danmaku": 17500,
+          "url": "https://www.bilibili.com/video/BV1gY411G7GJ"
+        },
+        {
+          "bvid": "BV1XS4y1F7eV",
+          "title": "头秃）减数+有丝分裂曲线分析-高中生物重难点！",
+          "duration": 2320,
+          "pubdate": 1645927210,
+          "cover": "https://i0.hdslb.com/bfs/archive/3d544a82a7e29c21eb14c3cfd9d61d8c9258d09e.jpg",
+          "views": 2525640,
+          "danmaku": 35735,
+          "url": "https://www.bilibili.com/video/BV1XS4y1F7eV"
+        },
+        {
+          "bvid": "BV1v3411j7hA",
+          "title": "【高中生物必修二】细胞分裂图像分不清？剧情识图大法！",
+          "duration": 1128,
+          "pubdate": 1646398938,
+          "cover": "https://i0.hdslb.com/bfs/archive/0f13cc2d31281bdee28b4ceb0762c3949a2dbf1d.jpg",
+          "views": 1067182,
+          "danmaku": 8038,
+          "url": "https://www.bilibili.com/video/BV1v3411j7hA"
+        },
+        {
+          "bvid": "BV1g34y187xM",
+          "title": "【高中生物必修二】减数分裂重难点：柱状图+同位素标记（考点）",
+          "duration": 1481,
+          "pubdate": 1647082429,
+          "cover": "https://i1.hdslb.com/bfs/archive/dd3f9b9279efe314f559d2e8aa10e73aabefa428.jpg",
+          "views": 801552,
+          "danmaku": 5231,
+          "url": "https://www.bilibili.com/video/BV1g34y187xM"
+        },
+        {
+          "bvid": "BV1wc411E7vS",
+          "title": "减数分裂【选择题】刷题儿题儿 — 高一到高三都能看的高考真题 ~",
+          "duration": 2000,
+          "pubdate": 1679097600,
+          "cover": "https://i1.hdslb.com/bfs/archive/91f9ed759e500ddfe77f25b2a3d60d68401b1e28.jpg",
+          "views": 430199,
+          "danmaku": 2533,
+          "url": "https://www.bilibili.com/video/BV1wc411E7vS"
+        },
+        {
+          "bvid": "BV1nV4y1X7jM",
+          "title": "减数分裂【大题】刷题儿题儿 — 期中期末真题",
+          "duration": 1959,
+          "pubdate": 1679737563,
+          "cover": "https://i1.hdslb.com/bfs/archive/5723632dafd7da14e728ee5a5fa7c32c47c9ca8d.jpg",
+          "views": 362498,
+          "danmaku": 1297,
+          "url": "https://www.bilibili.com/video/BV1nV4y1X7jM"
+        },
+        {
+          "bvid": "BV1ei421d7m4",
+          "title": "有丝分裂和减数分裂高中就这么考！-保姆式教学【高一至高三适用】",
+          "duration": 2236,
+          "pubdate": 1709901000,
+          "cover": "https://i0.hdslb.com/bfs/archive/d650c9e62c695fd4fabada24fc1a5eaf7aeef76b.jpg",
+          "views": 239876,
+          "danmaku": 787,
+          "url": "https://www.bilibili.com/video/BV1ei421d7m4"
+        },
+        {
+          "bvid": "BV1sS4y1u7on",
+          "title": "【高中生物必修二】基因在染色体上（知识）|0基础救星~",
+          "duration": 1495,
+          "pubdate": 1647135001,
+          "cover": "https://i2.hdslb.com/bfs/archive/93923a7e1f0edeffc47474dfe423532fcee02ec8.jpg",
+          "views": 1470324,
+          "danmaku": 13008,
+          "url": "https://www.bilibili.com/video/BV1sS4y1u7on"
+        },
+        {
+          "bvid": "BV1DS4y1u7vv",
+          "title": "【高中生物必修二】伴性遗传（知识）|0基础救星~",
+          "duration": 1149,
+          "pubdate": 1647607725,
+          "cover": "https://i0.hdslb.com/bfs/archive/e46f26b699e08119f1d4f6786cf7b70fd0359e6c.jpg",
+          "views": 1274406,
+          "danmaku": 26504,
+          "url": "https://www.bilibili.com/video/BV1DS4y1u7vv"
+        },
+        {
+          "bvid": "BV1Bb4y1p7jC",
+          "title": "【高中生物必修二】伴性遗传重难点题型总结",
+          "duration": 1683,
+          "pubdate": 1647683759,
+          "cover": "https://i2.hdslb.com/bfs/archive/76b54f389ef5ed64247154f2d9c5b1cdda52bd33.jpg",
+          "views": 1560144,
+          "danmaku": 11313,
+          "url": "https://www.bilibili.com/video/BV1Bb4y1p7jC"
+        },
+        {
+          "bvid": "BV1534y1477Q",
+          "title": "【高中生物必修二】伴性遗传之遗传系谱图分析（考点）",
+          "duration": 2354,
+          "pubdate": 1648215883,
+          "cover": "https://i0.hdslb.com/bfs/archive/6a0b3786a7c7550f163f8bef200e8d6f3dce724d.jpg",
+          "views": 1246360,
+          "danmaku": 13058,
+          "url": "https://www.bilibili.com/video/BV1534y1477Q"
+        },
+        {
+          "bvid": "BV1UX4y167tC",
+          "title": "伴性遗传【选择题】刷题儿题儿 — 高一到高三都能看的高考真题 ~",
+          "duration": 2068,
+          "pubdate": 1680948000,
+          "cover": "https://i0.hdslb.com/bfs/archive/8f0374c6ec9dbedc5fbbe8531a35747e39d41d63.jpg",
+          "views": 363651,
+          "danmaku": 2114,
+          "url": "https://www.bilibili.com/video/BV1UX4y167tC"
+        },
+        {
+          "bvid": "BV1EV4y1d7Mo",
+          "title": "伴性遗传【大题 第一弹】刷题儿题儿 ——假期跟刷题更配哦~",
+          "duration": 1346,
+          "pubdate": 1682726400,
+          "cover": "https://i2.hdslb.com/bfs/archive/3285f31e6fed2a5de2440d5e054b4445c34ec8ca.jpg",
+          "views": 189319,
+          "danmaku": 907,
+          "url": "https://www.bilibili.com/video/BV1EV4y1d7Mo"
+        },
+        {
+          "bvid": "BV1PM4y1h7dB",
+          "title": "伴性遗传【大题 第二弹】刷题儿题儿 ——假期跟刷题更配哦~",
+          "duration": 1854,
+          "pubdate": 1682899200,
+          "cover": "https://i0.hdslb.com/bfs/archive/d9b0d6c9144c24e2b911d53fc8b9835483af5c9f.jpg",
+          "views": 175532,
+          "danmaku": 634,
+          "url": "https://www.bilibili.com/video/BV1PM4y1h7dB"
+        },
+        {
+          "bvid": "BV1jk4y177ZQ",
+          "title": "伴性遗传【大题 第三弹】刷题儿题儿 ——高一到高三都能做的高考题",
+          "duration": 1685,
+          "pubdate": 1683971139,
+          "cover": "https://i1.hdslb.com/bfs/archive/d2a6896e8e0e9ca98d73271d182869f76f775a5d.jpg",
+          "views": 136489,
+          "danmaku": 354,
+          "url": "https://www.bilibili.com/video/BV1jk4y177ZQ"
+        },
+        {
+          "bvid": "BV13m411C7g7",
+          "title": "伴性遗传高中就这么考！-保姆式教学【高一至高三适用】",
+          "duration": 3010,
+          "pubdate": 1711854300,
+          "cover": "https://i2.hdslb.com/bfs/archive/dbe810a3b1d7084ae877726c4c92755352f538da.jpg",
+          "views": 224754,
+          "danmaku": 694,
+          "url": "https://www.bilibili.com/video/BV13m411C7g7"
+        },
+        {
+          "bvid": "BV1vY4y1s7Y9",
+          "title": "【高中生物必修二】DNA是主要遗传物质知识点|0基础救星~",
+          "duration": 1519,
+          "pubdate": 1648295400,
+          "cover": "https://i0.hdslb.com/bfs/archive/c8c489ed9a3be324a49cc8ad7aac15aec13ad858.jpg",
+          "views": 1474608,
+          "danmaku": 11975,
+          "url": "https://www.bilibili.com/video/BV1vY4y1s7Y9"
+        },
+        {
+          "bvid": "BV14Z4y1m7Bv",
+          "title": "【高中生物必修二】DNA的结构和复制（知识）|0基础救星~",
+          "duration": 1679,
+          "pubdate": 1648947600,
+          "cover": "https://i2.hdslb.com/bfs/archive/faf8e8f5d9bc02de9f07a4d019dd75083551434a.jpg",
+          "views": 2138039,
+          "danmaku": 14870,
+          "url": "https://www.bilibili.com/video/BV14Z4y1m7Bv"
+        },
+        {
+          "bvid": "BV1R5411S7rT",
+          "title": "【高中生物必修二】DNA结构重难点题型（考点）",
+          "duration": 1421,
+          "pubdate": 1648983600,
+          "cover": "https://i1.hdslb.com/bfs/archive/8910fd51ba0cc676a2819cbb74b02c997ee20752.jpg",
+          "views": 1537549,
+          "danmaku": 11225,
+          "url": "https://www.bilibili.com/video/BV1R5411S7rT"
+        },
+        {
+          "bvid": "BV1a5411U7Ey",
+          "title": "【高中生物必修二】DNA复制计算-重难点题型总结",
+          "duration": 1463,
+          "pubdate": 1649422492,
+          "cover": "https://i0.hdslb.com/bfs/archive/9489a5587f314d67dd93eef78426476a439f2a34.jpg",
+          "views": 1164359,
+          "danmaku": 7503,
+          "url": "https://www.bilibili.com/video/BV1a5411U7Ey"
+        },
+        {
+          "bvid": "BV1Fa411q7iz",
+          "title": "【高中生物必修二】基因的表达（知识)|0基础救星~",
+          "duration": 1544,
+          "pubdate": 1649500110,
+          "cover": "https://i1.hdslb.com/bfs/archive/ca0818d53db51635b3da18b78b672d9424d135db.jpg",
+          "views": 1923122,
+          "danmaku": 12614,
+          "url": "https://www.bilibili.com/video/BV1Fa411q7iz"
+        },
+        {
+          "bvid": "BV1VF411G7fU",
+          "title": "【高中生物必修二】基因的表达重难点题型总结（考点)",
+          "duration": 1438,
+          "pubdate": 1649553300,
+          "cover": "https://i1.hdslb.com/bfs/archive/73ad5109195457dc1846c0ef45bae3fba7c16f37.jpg",
+          "views": 931195,
+          "danmaku": 6102,
+          "url": "https://www.bilibili.com/video/BV1VF411G7fU"
+        },
+        {
+          "bvid": "BV1uL4y1L7eJ",
+          "title": "【高中生物必修二】基因表达与性状关系（知识+考点）|0基础救星~",
+          "duration": 1208,
+          "pubdate": 1650029249,
+          "cover": "https://i2.hdslb.com/bfs/archive/39b91ceb85f14cfe880cd043df1c3a741db1dbec.jpg",
+          "views": 809142,
+          "danmaku": 5792,
+          "url": "https://www.bilibili.com/video/BV1uL4y1L7eJ"
+        },
+        {
+          "bvid": "BV1Tf421277L",
+          "title": "基因的表达高中就这么考！-保姆式教学【高一至高三适用】",
+          "duration": 1723,
+          "pubdate": 1716037464,
+          "cover": "https://i2.hdslb.com/bfs/archive/ba1e53f4bbb7ad8429263e94df20f2be8de8531f.jpg",
+          "views": 255170,
+          "danmaku": 1155,
+          "url": "https://www.bilibili.com/video/BV1Tf421277L"
+        },
+        {
+          "bvid": "BV16u411C7jD",
+          "title": "【高中生物必修二】基因突变与重组（知识）|0基础救星~",
+          "duration": 1350,
+          "pubdate": 1650111764,
+          "cover": "https://i0.hdslb.com/bfs/archive/059b6f48d24a19628c3e277eb71000137c061dc5.jpg",
+          "views": 1286715,
+          "danmaku": 8112,
+          "url": "https://www.bilibili.com/video/BV16u411C7jD"
+        },
+        {
+          "bvid": "BV1K3411M7mu",
+          "title": "【高中生物必修二】基因突变与重组 重难点题型总结",
+          "duration": 1389,
+          "pubdate": 1650630718,
+          "cover": "https://i2.hdslb.com/bfs/archive/a8b6f628e89b08d413a563b79b694293b05f5863.jpg",
+          "views": 776497,
+          "danmaku": 5651,
+          "url": "https://www.bilibili.com/video/BV1K3411M7mu"
+        },
+        {
+          "bvid": "BV1fi4y127rG",
+          "title": "【高中生物必修二】染色体变异（知识）|0基础救星~",
+          "duration": 1928,
+          "pubdate": 1650675600,
+          "cover": "https://i2.hdslb.com/bfs/archive/cd6865cb40609d7a273dfc34862ca528dd91be7f.jpg",
+          "views": 1214524,
+          "danmaku": 15841,
+          "url": "https://www.bilibili.com/video/BV1fi4y127rG"
+        },
+        {
+          "bvid": "BV1hF411T7Gh",
+          "title": "【高中生物必修二】染色体结构变异考点专题",
+          "duration": 1051,
+          "pubdate": 1651323600,
+          "cover": "https://i0.hdslb.com/bfs/archive/64aa3ee638d0ea9036e292e1a75f21fa5b396567.jpg",
+          "views": 596983,
+          "danmaku": 2239,
+          "url": "https://www.bilibili.com/video/BV1hF411T7Gh"
+        },
+        {
+          "bvid": "BV1R34y1a7dH",
+          "title": "【高中生物必修二】染色体数目变异 题型专题",
+          "duration": 1435,
+          "pubdate": 1651374109,
+          "cover": "https://i0.hdslb.com/bfs/archive/a1adf4bff5809ea1089456294905c7d6231b6855.jpg",
+          "views": 413977,
+          "danmaku": 2912,
+          "url": "https://www.bilibili.com/video/BV1R34y1a7dH"
+        },
+        {
+          "bvid": "BV1kY411w7yN",
+          "title": "【高中生物必修二】人类遗传病（知识）|0基础救星~",
+          "duration": 1131,
+          "pubdate": 1651411452,
+          "cover": "https://i2.hdslb.com/bfs/archive/ce9f9e44ed6e04cda95d9849a3bc87825d2e5679.jpg",
+          "views": 508872,
+          "danmaku": 4623,
+          "url": "https://www.bilibili.com/video/BV1kY411w7yN"
+        },
+        {
+          "bvid": "BV1M34y1Y7qA",
+          "title": "【高中生物必修二】人类遗传病 重难点题型总结！",
+          "duration": 1452,
+          "pubdate": 1651919220,
+          "cover": "https://i1.hdslb.com/bfs/archive/182ec845acaf0bdb045715127ca9700c0b669d16.jpg",
+          "views": 405078,
+          "danmaku": 2741,
+          "url": "https://www.bilibili.com/video/BV1M34y1Y7qA"
+        },
+        {
+          "bvid": "BV1Kk4y1s7rU",
+          "title": "【可遗传变异】刷题儿题儿 ——高一到高三都能做的高考题",
+          "duration": 2211,
+          "pubdate": 1685750400,
+          "cover": "https://i2.hdslb.com/bfs/archive/7598f4b1d3d61d865163d0ff865ae7e680f10790.jpg",
+          "views": 225742,
+          "danmaku": 1479,
+          "url": "https://www.bilibili.com/video/BV1Kk4y1s7rU"
+        },
+        {
+          "bvid": "BV1Xr421w7n3",
+          "title": "可遗传变异【含遗传系谱图】高中就这么考！-保姆式教学【高一至高三适用】",
+          "duration": 2370,
+          "pubdate": 1716635110,
+          "cover": "https://i1.hdslb.com/bfs/archive/262aba074e61a102ab8cf85c078f2982cc966311.jpg",
+          "views": 157392,
+          "danmaku": 785,
+          "url": "https://www.bilibili.com/video/BV1Xr421w7n3"
+        },
+        {
+          "bvid": "BV1yU4y1U7SE",
+          "title": "【高中生物必修二】生物的进化（知识）上 |0基础救星~",
+          "duration": 1232,
+          "pubdate": 1651971600,
+          "cover": "https://i0.hdslb.com/bfs/archive/e6e04d6a65b3e85049b0c03406fbeb5faf91f878.jpg",
+          "views": 552473,
+          "danmaku": 5379,
+          "url": "https://www.bilibili.com/video/BV1yU4y1U7SE"
+        },
+        {
+          "bvid": "BV16A4y1f7Gm",
+          "title": "【高中生物必修二】生物的进化（知识）下 |0基础救星~",
+          "duration": 1123,
+          "pubdate": 1653045815,
+          "cover": "https://i1.hdslb.com/bfs/archive/1957853ce8e38c8f4ab34a53edfe69a178970280.jpg",
+          "views": 419706,
+          "danmaku": 7616,
+          "url": "https://www.bilibili.com/video/BV16A4y1f7Gm"
+        },
+        {
+          "bvid": "BV1Zg411d7dW",
+          "title": "【高中生物必修二】基因频率计算 重难点题型总结！",
+          "duration": 1685,
+          "pubdate": 1653138607,
+          "cover": "https://i2.hdslb.com/bfs/archive/a543d73f4fce98dda292fae86318558477977c0d.jpg",
+          "views": 1062787,
+          "danmaku": 7873,
+          "url": "https://www.bilibili.com/video/BV1Zg411d7dW"
+        },
+        {
+          "bvid": "BV1Q34y1j7NL",
+          "title": "【高中生物必修二】生物的进化 重难点题型总结！",
+          "duration": 1099,
+          "pubdate": 1653701400,
+          "cover": "https://i1.hdslb.com/bfs/archive/7ccdc46e0abacca55ba928d72759ba6e71a27d07.jpg",
+          "views": 343731,
+          "danmaku": 1708,
+          "url": "https://www.bilibili.com/video/BV1Q34y1j7NL"
+        },
+        {
+          "bvid": "BV1Jk4y1p72M",
+          "title": "【生物的进化】刷题儿题儿 ——高一到高三都能做的高考题",
+          "duration": 1972,
+          "pubdate": 1686355200,
+          "cover": "https://i1.hdslb.com/bfs/archive/56122d5ecef2357c75c7efc13b4c625b09009afd.jpg",
+          "views": 182097,
+          "danmaku": 941,
+          "url": "https://www.bilibili.com/video/BV1Jk4y1p72M"
+        }
+      ]
+    },
+    {
+      "season_id": 526237,
+      "title": "高中生物选择性必修一",
+      "intro": "选必一基础知识与方法合集，难度从零基础到高考难度！\n加油~",
+      "cover": "https://archive.biliimg.com/bfs/archive/b49818a6cf3961bb83acbbc1c9e50d3fe4060e3b.jpg",
+      "total": 26,
+      "fetched": 26,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1DZ4y1e7jb",
+          "title": "高中生物选必1来啦！细胞生活的环境（知识）|0基础救星~",
+          "duration": 1410,
+          "pubdate": 1656727199,
+          "cover": "https://i0.hdslb.com/bfs/archive/b819be40580e73c7e469ef02c8c8b53ee31a9e4a.jpg",
+          "views": 4618082,
+          "danmaku": 36404,
+          "url": "https://www.bilibili.com/video/BV1DZ4y1e7jb"
+        },
+        {
+          "bvid": "BV1Wa411X76G",
+          "title": "【高中生物选必1】内环境成分判断 题型总结",
+          "duration": 1526,
+          "pubdate": 1656811800,
+          "cover": "https://i2.hdslb.com/bfs/archive/e892935415d64ca96b1d9a8d0ceb5359c311bcb2.jpg",
+          "views": 1567453,
+          "danmaku": 16952,
+          "url": "https://www.bilibili.com/video/BV1Wa411X76G"
+        },
+        {
+          "bvid": "BV1pN4y1M745",
+          "title": "【高中生物选必1】内环境的稳态（知识）|0基础救星~",
+          "duration": 971,
+          "pubdate": 1657330500,
+          "cover": "https://i1.hdslb.com/bfs/archive/3f1c3dba387086205f12a106bac25f5e54d058fb.jpg",
+          "views": 1431440,
+          "danmaku": 13808,
+          "url": "https://www.bilibili.com/video/BV1pN4y1M745"
+        },
+        {
+          "bvid": "BV1oV4y1n7ru",
+          "title": "【高中生物选必1】内环境稳态题型总结！",
+          "duration": 1334,
+          "pubdate": 1657416600,
+          "cover": "https://i2.hdslb.com/bfs/archive/834302019583754a2114fb6dad6403ebe6db0a08.jpg",
+          "views": 1187699,
+          "danmaku": 12007,
+          "url": "https://www.bilibili.com/video/BV1oV4y1n7ru"
+        },
+        {
+          "bvid": "BV1JT411J754",
+          "title": "【高中生物选必1】神经调节基础与方式（知识）|0基础救星~",
+          "duration": 1825,
+          "pubdate": 1657934100,
+          "cover": "https://i1.hdslb.com/bfs/archive/508bc11c67a1fcc532c3960f88acd7930302e433.jpg",
+          "views": 1667651,
+          "danmaku": 26883,
+          "url": "https://www.bilibili.com/video/BV1JT411J754"
+        },
+        {
+          "bvid": "BV1AU4y1i7Ax",
+          "title": "【高中生物选必1】神经冲动的产生和传导（知识）|0基础救星~",
+          "duration": 1919,
+          "pubdate": 1658021400,
+          "cover": "https://i1.hdslb.com/bfs/archive/78214ab9bef04d6f6ea28f29e2f9afef2397bde2.jpg",
+          "views": 2028784,
+          "danmaku": 23560,
+          "url": "https://www.bilibili.com/video/BV1AU4y1i7Ax"
+        },
+        {
+          "bvid": "BV1T14y1e7T9",
+          "title": "【高中生物选必1】神经调节 膜电位机理及曲线分析 |题型总结",
+          "duration": 1628,
+          "pubdate": 1662858000,
+          "cover": "https://i0.hdslb.com/bfs/archive/f5494a6dbe7bc852cd72a07c9d25e9cc4afac8d4.jpg",
+          "views": 1371247,
+          "danmaku": 14668,
+          "url": "https://www.bilibili.com/video/BV1T14y1e7T9"
+        },
+        {
+          "bvid": "BV1Zg411m7MF",
+          "title": "【高中生物选必1】神经调节 电流计指针偏转问题 |题型总结",
+          "duration": 1005,
+          "pubdate": 1663461000,
+          "cover": "https://i1.hdslb.com/bfs/archive/2cca5552be5f2205561f85196f39a4870d745c3c.jpg",
+          "views": 887482,
+          "danmaku": 7535,
+          "url": "https://www.bilibili.com/video/BV1Zg411m7MF"
+        },
+        {
+          "bvid": "BV12e4y1k7AV",
+          "title": "高考热门考点—兴奋在突触间传递材料题总结 【高中生物选必1】",
+          "duration": 1491,
+          "pubdate": 1664015400,
+          "cover": "https://i2.hdslb.com/bfs/archive/14c285ca23ba05328ecbcaca7db2428f8909b158.jpg",
+          "views": 693395,
+          "danmaku": 6709,
+          "url": "https://www.bilibili.com/video/BV12e4y1k7AV"
+        },
+        {
+          "bvid": "BV1td4y1S7Lu",
+          "title": "【高中生物选必1】神经系统分级调节和人脑高级功能 （知识）",
+          "duration": 1337,
+          "pubdate": 1658541600,
+          "cover": "https://i0.hdslb.com/bfs/archive/243206ed1db198f33d5ea0a6f2f5528a1f2524d0.jpg",
+          "views": 898231,
+          "danmaku": 14913,
+          "url": "https://www.bilibili.com/video/BV1td4y1S7Lu"
+        },
+        {
+          "bvid": "BV1K94y187tW",
+          "title": "神经调节难点攻克-高考怎么考？【高二高三都能刷的高考题】",
+          "duration": 1554,
+          "pubdate": 1697205702,
+          "cover": "https://i0.hdslb.com/bfs/archive/63d72b9af689e7972638e96f74f241b479fb7815.jpg",
+          "views": 342629,
+          "danmaku": 2863,
+          "url": "https://www.bilibili.com/video/BV1K94y187tW"
+        },
+        {
+          "bvid": "BV1TS4y1E7Lq",
+          "title": "【高中生物选必1】激素与内分泌系统（知识）",
+          "duration": 1438,
+          "pubdate": 1658626200,
+          "cover": "https://i0.hdslb.com/bfs/archive/01cdcbbca6f0aeef824f15372f3dc3e4bb945fd2.jpg",
+          "views": 1330883,
+          "danmaku": 16377,
+          "url": "https://www.bilibili.com/video/BV1TS4y1E7Lq"
+        },
+        {
+          "bvid": "BV1pB4y1b7Pk",
+          "title": "【高中生物选必1】激素调节的过程（知识）|0基础救星！",
+          "duration": 1738,
+          "pubdate": 1659144600,
+          "cover": "https://i2.hdslb.com/bfs/archive/75a3cd99e2780b2de1dc14a3ef7717e79649b8ef.jpg",
+          "views": 1178235,
+          "danmaku": 11833,
+          "url": "https://www.bilibili.com/video/BV1pB4y1b7Pk"
+        },
+        {
+          "bvid": "BV1QP411n7rT",
+          "title": "必看！体液调节-激素重难点考点突破 | 题型总结 【高中生物选必1】",
+          "duration": 1241,
+          "pubdate": 1664670600,
+          "cover": "https://i0.hdslb.com/bfs/archive/c332b85374ccb7cb261e692cc8794c90785a5841.jpg",
+          "views": 768903,
+          "danmaku": 5225,
+          "url": "https://www.bilibili.com/video/BV1QP411n7rT"
+        },
+        {
+          "bvid": "BV1ka411T7Po",
+          "title": "【高中生物选必1】体液与神经调节的关系（知识）|0基础救星！",
+          "duration": 1454,
+          "pubdate": 1659231000,
+          "cover": "https://i0.hdslb.com/bfs/archive/3be747f2cd0e5a2ad7573f4b0aa5e2f3a528c48d.jpg",
+          "views": 880258,
+          "danmaku": 8962,
+          "url": "https://www.bilibili.com/video/BV1ka411T7Po"
+        },
+        {
+          "bvid": "BV1PN4y1A79E",
+          "title": "痛，太痛了！神经-体液调节重难点攻克 | 题型总结 【高中生物选必1】",
+          "duration": 1673,
+          "pubdate": 1665059865,
+          "cover": "https://i0.hdslb.com/bfs/archive/479989c3f58f5b716b45cb2fc68c745fa1281c93.jpg",
+          "views": 688597,
+          "danmaku": 16648,
+          "url": "https://www.bilibili.com/video/BV1PN4y1A79E"
+        },
+        {
+          "bvid": "BV1PB4y1k7RB",
+          "title": "【高中生物选必1】免疫系统的组成、功能（知识）|0基础救星！",
+          "duration": 1260,
+          "pubdate": 1659769900,
+          "cover": "https://i2.hdslb.com/bfs/archive/04d901a5804fcc25a198f5db4d8cf1eb09c28284.jpg",
+          "views": 977268,
+          "danmaku": 8695,
+          "url": "https://www.bilibili.com/video/BV1PB4y1k7RB"
+        },
+        {
+          "bvid": "BV1C14y1b7DN",
+          "title": "【高中生物选必1】特异性免疫（知识）|0基础救星！",
+          "duration": 1328,
+          "pubdate": 1660440600,
+          "cover": "https://i2.hdslb.com/bfs/archive/ff5d5e4985acd560d73a16a5943769d26e2cab51.jpg",
+          "views": 1004424,
+          "danmaku": 7026,
+          "url": "https://www.bilibili.com/video/BV1C14y1b7DN"
+        },
+        {
+          "bvid": "BV1f14y177cc",
+          "title": "高考高频考点来啦！特异性免疫重难点攻克 | 题型总结 【高中生物选必1】",
+          "duration": 1474,
+          "pubdate": 1665828000,
+          "cover": "https://i0.hdslb.com/bfs/archive/a095809ca5f82c646edb81ba5499340261a3d4d2.jpg",
+          "views": 557060,
+          "danmaku": 3868,
+          "url": "https://www.bilibili.com/video/BV1f14y177cc"
+        },
+        {
+          "bvid": "BV1Eg411r7MV",
+          "title": "【高中生物选必1】免疫失调+免疫学应用（知识）|0基础救星！",
+          "duration": 1444,
+          "pubdate": 1661045576,
+          "cover": "https://i1.hdslb.com/bfs/archive/f624fac338099ae9ba7551b1a11ae08ffceb210a.jpg",
+          "views": 575321,
+          "danmaku": 8147,
+          "url": "https://www.bilibili.com/video/BV1Eg411r7MV"
+        },
+        {
+          "bvid": "BV1H8411e7ni",
+          "title": "免疫大题总失分？来瞅瞅免疫大题如何出~ | 题型总结 【高中生物选必1】",
+          "duration": 1544,
+          "pubdate": 1666485000,
+          "cover": "https://i0.hdslb.com/bfs/archive/4c3c975c4eeaf043fd63b01fcfbf41b9395c4abc.jpg",
+          "views": 404676,
+          "danmaku": 2223,
+          "url": "https://www.bilibili.com/video/BV1H8411e7ni"
+        },
+        {
+          "bvid": "BV1ND4y167GC",
+          "title": "【高中生物选必1】5-1植物生长素（知识）|0基础救星！",
+          "duration": 1472,
+          "pubdate": 1661650200,
+          "cover": "https://i2.hdslb.com/bfs/archive/a8fd0ce8cd7479fc9bf48119d152342df615fef0.jpg",
+          "views": 982950,
+          "danmaku": 8271,
+          "url": "https://www.bilibili.com/video/BV1ND4y167GC"
+        },
+        {
+          "bvid": "BV1AD4y1t78Z",
+          "title": "【高中生物选必1】5-2其他植物激素（知识）|0基础救星！",
+          "duration": 982,
+          "pubdate": 1667606400,
+          "cover": "https://i0.hdslb.com/bfs/archive/dc37b6ce7454b35911cd9303cd8d92868f81e5ea.jpg",
+          "views": 749076,
+          "danmaku": 4039,
+          "url": "https://www.bilibili.com/video/BV1AD4y1t78Z"
+        },
+        {
+          "bvid": "BV1jd4y1w7oY",
+          "title": "崩溃题型-植物向性分析 和 生长素运输题型总结来啦！| 题型总结 【高中生物选必1】",
+          "duration": 1347,
+          "pubdate": 1667641688,
+          "cover": "https://i0.hdslb.com/bfs/archive/296dbdc612dfb817c162cbfca3058b67ce9a2ab4.jpg",
+          "views": 527782,
+          "danmaku": 3705,
+          "url": "https://www.bilibili.com/video/BV1jd4y1w7oY"
+        },
+        {
+          "bvid": "BV1fD4y1x7Dy",
+          "title": "植物激素重难点—生长素两重性重磅袭来！| 题型总结 【高中生物选必1】",
+          "duration": 1744,
+          "pubdate": 1668157424,
+          "cover": "https://i0.hdslb.com/bfs/archive/896ec52bbd919d117e5499ff470cb2fea691bc84.jpg",
+          "views": 416374,
+          "danmaku": 4101,
+          "url": "https://www.bilibili.com/video/BV1fD4y1x7Dy"
+        },
+        {
+          "bvid": "BV1tz4y1A7G4",
+          "title": "植物激素难点攻克-高考怎么考？【高二高三都能刷的高考题】",
+          "duration": 1733,
+          "pubdate": 1700216995,
+          "cover": "https://i2.hdslb.com/bfs/archive/fc1921de2b8a6e46a0c0330de234f54017fe3056.jpg",
+          "views": 181273,
+          "danmaku": 1089,
+          "url": "https://www.bilibili.com/video/BV1tz4y1A7G4"
+        }
+      ]
+    },
+    {
+      "season_id": 849385,
+      "title": "高中生物选择性必修二",
+      "intro": "选必二基础知识与方法合集，难度从零基础到高考难度！\n加油~",
+      "cover": "https://archive.biliimg.com/bfs/archive/f792567986f553d4ce8246500b023a0ef9ef2737.jpg",
+      "total": 16,
+      "fetched": 16,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1g8411875h",
+          "title": "【高中生物选择性必修二】开更啦！种群来喽！ |0基础救星！",
+          "duration": 1241,
+          "pubdate": 1668246228,
+          "cover": "https://i1.hdslb.com/bfs/archive/607a348fe8a1ef7120184e16c1e8255f4dbf8bf0.jpg",
+          "views": 2009813,
+          "danmaku": 6348,
+          "url": "https://www.bilibili.com/video/BV1g8411875h"
+        },
+        {
+          "bvid": "BV14R4y1f79C",
+          "title": "种群密度调查方法专题来喽！【选择性必修二开更啦！】 |0基础救星！",
+          "duration": 1125,
+          "pubdate": 1668816000,
+          "cover": "https://i0.hdslb.com/bfs/archive/acd351f1976013dc60d9c10f484f5d4a3c54d815.jpg",
+          "views": 615617,
+          "danmaku": 4147,
+          "url": "https://www.bilibili.com/video/BV14R4y1f79C"
+        },
+        {
+          "bvid": "BV1N3411f71p",
+          "title": "增长率和增长速率分析来喽~种群重难点题型攻克！【选择性必修二开更啦！】 |0基础救星！",
+          "duration": 1269,
+          "pubdate": 1668902400,
+          "cover": "https://i0.hdslb.com/bfs/archive/41932242f1ea6a0ddfbf1762f025a6fc1006ff48.jpg",
+          "views": 647312,
+          "danmaku": 3752,
+          "url": "https://www.bilibili.com/video/BV1N3411f71p"
+        },
+        {
+          "bvid": "BV1Bu4y1c7zB",
+          "title": "【选必二】种群 难点攻克-高中怎么考？【高二高三都能刷的高考题】",
+          "duration": 1849,
+          "pubdate": 1701436023,
+          "cover": "https://i0.hdslb.com/bfs/archive/e975227754739b2dfc3fb5acd8711993a74c244d.jpg",
+          "views": 257515,
+          "danmaku": 1312,
+          "url": "https://www.bilibili.com/video/BV1Bu4y1c7zB"
+        },
+        {
+          "bvid": "BV1R3411f7Zf",
+          "title": "群落重难点知识一网打尽！【选必二】| 0基础救星",
+          "duration": 1955,
+          "pubdate": 1669420800,
+          "cover": "https://i0.hdslb.com/bfs/archive/de3633b31c0b8ec64b705ee0f8193872c680dfa9.jpg",
+          "views": 691298,
+          "danmaku": 7915,
+          "url": "https://www.bilibili.com/video/BV1R3411f7Zf"
+        },
+        {
+          "bvid": "BV1He411N7oT",
+          "title": "群落 超全考点题型总结【选必二】",
+          "duration": 1304,
+          "pubdate": 1670025600,
+          "cover": "https://i0.hdslb.com/bfs/archive/e0a11daf1d28cbcf2509ac1e0e94c83183116f8e.jpg",
+          "views": 431183,
+          "danmaku": 5733,
+          "url": "https://www.bilibili.com/video/BV1He411N7oT"
+        },
+        {
+          "bvid": "BV1VN411V7Kx",
+          "title": "【选必二】群落重难点攻克-高中怎么考？【高二高三都能刷的高考题】",
+          "duration": 1925,
+          "pubdate": 1702643400,
+          "cover": "https://i0.hdslb.com/bfs/archive/dd4c48ee5f42b07c64d5dac9de5eeda70700c0fd.jpg",
+          "views": 174733,
+          "danmaku": 908,
+          "url": "https://www.bilibili.com/video/BV1VN411V7Kx"
+        },
+        {
+          "bvid": "BV1h24y1Q7Wu",
+          "title": "生态系统开更啦~【选必二】| 0基础救星",
+          "duration": 1250,
+          "pubdate": 1670716800,
+          "cover": "https://i1.hdslb.com/bfs/archive/e5458546116dc564134aa51e8b0e95a4d17a4b62.jpg",
+          "views": 549193,
+          "danmaku": 4342,
+          "url": "https://www.bilibili.com/video/BV1h24y1Q7Wu"
+        },
+        {
+          "bvid": "BV1mG411P7Nt",
+          "title": "食物网数量变化分析题型详解 |【选必二】",
+          "duration": 736,
+          "pubdate": 1671321600,
+          "cover": "https://i1.hdslb.com/bfs/archive/01fbf103798203ff6de9cf9d10ca15482c957701.jpg",
+          "views": 436677,
+          "danmaku": 2019,
+          "url": "https://www.bilibili.com/video/BV1mG411P7Nt"
+        },
+        {
+          "bvid": "BV1NG4y1g75M",
+          "title": "10分钟搞定生态系统能量流动【选必二知识】| 0基础救星",
+          "duration": 821,
+          "pubdate": 1671186600,
+          "cover": "https://i0.hdslb.com/bfs/archive/574c43c08f4a44409ede6f40c047323f2cd1b2d4.jpg",
+          "views": 1089042,
+          "danmaku": 9116,
+          "url": "https://www.bilibili.com/video/BV1NG4y1g75M"
+        },
+        {
+          "bvid": "BV19R4y1S7r8",
+          "title": "不容错过的 生态系统能量流动题型精讲 来啦！ |【选必二】",
+          "duration": 1291,
+          "pubdate": 1671840000,
+          "cover": "https://i2.hdslb.com/bfs/archive/9af91398afc1ac7fccfa92bd5505d9143316ed7e.jpg",
+          "views": 991122,
+          "danmaku": 5431,
+          "url": "https://www.bilibili.com/video/BV19R4y1S7r8"
+        },
+        {
+          "bvid": "BV1rY41127Na",
+          "title": "生态系统物质循环 信息传递 及稳定性【选必二知识】| 0基础救星",
+          "duration": 1294,
+          "pubdate": 1672565201,
+          "cover": "https://i0.hdslb.com/bfs/archive/f70c56f42a39400749dcc5d41949e53d8b047f58.jpg",
+          "views": 602806,
+          "danmaku": 4613,
+          "url": "https://www.bilibili.com/video/BV1rY41127Na"
+        },
+        {
+          "bvid": "BV16M41187si",
+          "title": "生态系统题型总结来啦！ |【选必二】",
+          "duration": 1374,
+          "pubdate": 1673049600,
+          "cover": "https://i2.hdslb.com/bfs/archive/bb2435f6d31d8b804fef6011dd32f53f0e30cb18.jpg",
+          "views": 360924,
+          "danmaku": 1666,
+          "url": "https://www.bilibili.com/video/BV16M41187si"
+        },
+        {
+          "bvid": "BV1BG411k7mo",
+          "title": "【选必二】生态系统 重难点攻克-高中怎么考？【高二高三都能刷的高考题】",
+          "duration": 1628,
+          "pubdate": 1703315287,
+          "cover": "https://i1.hdslb.com/bfs/archive/b1820d4864fd41605943918b0696ec1cd6481f4b.jpg",
+          "views": 285925,
+          "danmaku": 1288,
+          "url": "https://www.bilibili.com/video/BV1BG411k7mo"
+        },
+        {
+          "bvid": "BV1ix4y1G7MY",
+          "title": "人与环境来啦！【选必二知识】| 0基础救星",
+          "duration": 1314,
+          "pubdate": 1673136000,
+          "cover": "https://i2.hdslb.com/bfs/archive/a588c7f862ab005e567a4ca821fdf4eaa5c79cc5.jpg",
+          "views": 381240,
+          "danmaku": 3571,
+          "url": "https://www.bilibili.com/video/BV1ix4y1G7MY"
+        },
+        {
+          "bvid": "BV1r8411K7DA",
+          "title": "人与环境题型总结 |【选必二】",
+          "duration": 723,
+          "pubdate": 1673172000,
+          "cover": "https://i0.hdslb.com/bfs/archive/34e4103378a2b050429695d161fd23fdae740206.jpg",
+          "views": 236226,
+          "danmaku": 998,
+          "url": "https://www.bilibili.com/video/BV1r8411K7DA"
+        }
+      ]
+    },
+    {
+      "season_id": 240018,
+      "title": "高中生物选必三",
+      "intro": "选择性必修三基础知识与方法合集，难度从零基础到高考难度！ 加油~",
+      "cover": "https://archive.biliimg.com/bfs/archive/f27d9437c725585f6ecb93ce52c01856e4ecc1d4.jpg",
+      "total": 20,
+      "fetched": 20,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1iP4y1g7tG",
+          "title": "【高中生物选必三】传统发酵技术（知识）|0基础也能学会！",
+          "duration": 1638,
+          "pubdate": 1646484012,
+          "cover": "https://i2.hdslb.com/bfs/archive/4fc6bb61a19e760424f3914861a101fdef8eb97f.jpg",
+          "views": 2028714,
+          "danmaku": 6937,
+          "url": "https://www.bilibili.com/video/BV1iP4y1g7tG"
+        },
+        {
+          "bvid": "BV1rU4y1o7VM",
+          "title": "【高中生物选必三】微生物的培养(知识)|学渣救星！培养基与无菌技术",
+          "duration": 1362,
+          "pubdate": 1647000403,
+          "cover": "https://i0.hdslb.com/bfs/archive/c06459a0cdb33b4cc9923ef836597a1abfe39831.jpg",
+          "views": 978765,
+          "danmaku": 5246,
+          "url": "https://www.bilibili.com/video/BV1rU4y1o7VM"
+        },
+        {
+          "bvid": "BV1XL4y1u7LL",
+          "title": "【高中生物选必三】微生物的纯培养与计数（知识）|0基础也能学会！",
+          "duration": 1555,
+          "pubdate": 1647050404,
+          "cover": "https://i1.hdslb.com/bfs/archive/40a6e3c88fa20b3b7e78fe8178abf32147b38190.jpg",
+          "views": 794839,
+          "danmaku": 7137,
+          "url": "https://www.bilibili.com/video/BV1XL4y1u7LL"
+        },
+        {
+          "bvid": "BV1sY411v73N",
+          "title": "发酵工程考点题型总结—高考选择题这么出~ 【选必三】|考点精华",
+          "duration": 1334,
+          "pubdate": 1676624035,
+          "cover": "https://i0.hdslb.com/bfs/archive/47dd84b24fb3886c23a93cfcb2331fa285749563.jpg",
+          "views": 593227,
+          "danmaku": 2611,
+          "url": "https://www.bilibili.com/video/BV1sY411v73N"
+        },
+        {
+          "bvid": "BV1Fj41137nf",
+          "title": "发酵工程考点题型总结—高考大题这么出~ 【选必三】|考点精华",
+          "duration": 1503,
+          "pubdate": 1677833362,
+          "cover": "https://i0.hdslb.com/bfs/archive/9991d4a63c3e3d1fe0c02d435efca8ae48fbde32.jpg",
+          "views": 388903,
+          "danmaku": 1756,
+          "url": "https://www.bilibili.com/video/BV1Fj41137nf"
+        },
+        {
+          "bvid": "BV1Wx4y1k7oK",
+          "title": "【选必三】发酵工程 最新高考方向-高考怎么考？【高二高三都能刷的高考题】",
+          "duration": 1300,
+          "pubdate": 1708691773,
+          "cover": "https://i2.hdslb.com/bfs/archive/d2d6585b04e9336c50951fbd44fc7c4e8feeb360.jpg",
+          "views": 188639,
+          "danmaku": 612,
+          "url": "https://www.bilibili.com/video/BV1Wx4y1k7oK"
+        },
+        {
+          "bvid": "BV1tG4y1c7Tc",
+          "title": "【高中生物选择性必修三】继续更新喽！植物细胞工程（上）- 植物组织培养来喽~ |0基础救星！",
+          "duration": 1185,
+          "pubdate": 1673654400,
+          "cover": "https://i1.hdslb.com/bfs/archive/a29a492ec257ca2bdb9c359f076b1933903441f5.jpg",
+          "views": 1016908,
+          "danmaku": 3988,
+          "url": "https://www.bilibili.com/video/BV1tG4y1c7Tc"
+        },
+        {
+          "bvid": "BV1H24y1Y7T6",
+          "title": "【高中生物选择性必修三】继续更新喽！植物细胞工程（下）- 植物细胞杂交及植物细胞工程的应用~ |0基础救星！",
+          "duration": 1100,
+          "pubdate": 1673740800,
+          "cover": "https://i2.hdslb.com/bfs/archive/f9121920d29533fab9813c5aab101cd51922d214.jpg",
+          "views": 614406,
+          "danmaku": 2940,
+          "url": "https://www.bilibili.com/video/BV1H24y1Y7T6"
+        },
+        {
+          "bvid": "BV1wo4y1x7s7",
+          "title": "植物细胞工程考点题型总结—高考就这么出~ 【选必三】|考点精华",
+          "duration": 1375,
+          "pubdate": 1679663275,
+          "cover": "https://i1.hdslb.com/bfs/archive/2f614b220009b206d1345278771e37a8e61bf128.jpg",
+          "views": 443287,
+          "danmaku": 2227,
+          "url": "https://www.bilibili.com/video/BV1wo4y1x7s7"
+        },
+        {
+          "bvid": "BV1rv4y147Gk",
+          "title": "动物细胞培养 【选必三】|0基础救星！",
+          "duration": 1367,
+          "pubdate": 1676073600,
+          "cover": "https://i0.hdslb.com/bfs/archive/85fcab4819ff5b97bc5b8f21624752c5267b8594.jpg",
+          "views": 617182,
+          "danmaku": 4415,
+          "url": "https://www.bilibili.com/video/BV1rv4y147Gk"
+        },
+        {
+          "bvid": "BV1tT411Y7c5",
+          "title": "单克隆抗体和动物体细胞核移植技术来喽~ 【选必三】|0基础救星！",
+          "duration": 1534,
+          "pubdate": 1677974400,
+          "cover": "https://i2.hdslb.com/bfs/archive/5e9ad5da0802455122f6ff056b36040f8093b66b.jpg",
+          "views": 666189,
+          "danmaku": 4032,
+          "url": "https://www.bilibili.com/video/BV1tT411Y7c5"
+        },
+        {
+          "bvid": "BV1sT411s7rC",
+          "title": "单克隆抗体考点题型总结—高考就这么出~ 【选必三】|考点精华",
+          "duration": 1411,
+          "pubdate": 1680393600,
+          "cover": "https://i0.hdslb.com/bfs/archive/797d2e303b9b8dd01481bc7159943635555ecff8.jpg",
+          "views": 395264,
+          "danmaku": 1457,
+          "url": "https://www.bilibili.com/video/BV1sT411s7rC"
+        },
+        {
+          "bvid": "BV1Eg4y1b7MW",
+          "title": "胚胎工程~来学学如何体外孕育小生命吧~ 【选必三】|0基础救星！",
+          "duration": 1297,
+          "pubdate": 1678579200,
+          "cover": "https://i1.hdslb.com/bfs/archive/8fa896b10f44bfbab78cb03edd5a4cf70f547848.jpg",
+          "views": 653707,
+          "danmaku": 2992,
+          "url": "https://www.bilibili.com/video/BV1Eg4y1b7MW"
+        },
+        {
+          "bvid": "BV1R24y1x7K7",
+          "title": "从工具就开始埋下高考考点的【基因工程-1】来喽~【选必三】|0基础救星！",
+          "duration": 1794,
+          "pubdate": 1679184000,
+          "cover": "https://i2.hdslb.com/bfs/archive/264e99cc72e14073a053c15be793f5d7da1c08de.jpg",
+          "views": 2352460,
+          "danmaku": 9473,
+          "url": "https://www.bilibili.com/video/BV1R24y1x7K7"
+        },
+        {
+          "bvid": "BV1JV4y1Q7DE",
+          "title": "基因工程—PCR技术~有点难？【选必三】|0基础救星！",
+          "duration": 1778,
+          "pubdate": 1680307200,
+          "cover": "https://i1.hdslb.com/bfs/archive/049fbb9b2a7535c33bcaec51788f4fb2a01b09ec.jpg",
+          "views": 2150352,
+          "danmaku": 14321,
+          "url": "https://www.bilibili.com/video/BV1JV4y1Q7DE"
+        },
+        {
+          "bvid": "BV1TX4y1C7sw",
+          "title": "基因工程—目的基因的筛选与获取【选必三】|0基础救星！",
+          "duration": 1587,
+          "pubdate": 1680861336,
+          "cover": "https://i0.hdslb.com/bfs/archive/90b12b1d1fee409db50decd1d0e16efe0ea72fc8.jpg",
+          "views": 1035372,
+          "danmaku": 4700,
+          "url": "https://www.bilibili.com/video/BV1TX4y1C7sw"
+        },
+        {
+          "bvid": "BV1Ws4y1N7qd",
+          "title": "基因工程—表达载体构建【选必三】|0基础救星！",
+          "duration": 1416,
+          "pubdate": 1680998400,
+          "cover": "https://i0.hdslb.com/bfs/archive/0fb4abed4474e73531302ab8f6399f38d6062109.jpg",
+          "views": 866902,
+          "danmaku": 2621,
+          "url": "https://www.bilibili.com/video/BV1Ws4y1N7qd"
+        },
+        {
+          "bvid": "BV1JM411L7jV",
+          "title": "基因工程题型专题（一）【选必三】|考点精华",
+          "duration": 1937,
+          "pubdate": 1681603200,
+          "cover": "https://i2.hdslb.com/bfs/archive/2f13088e1699e4bdb6580dbf0338e60cee797dc1.jpg",
+          "views": 1131190,
+          "danmaku": 5786,
+          "url": "https://www.bilibili.com/video/BV1JM411L7jV"
+        },
+        {
+          "bvid": "BV1pT411h7gf",
+          "title": "基因工程题型专题（二）【选必三】|考点精华",
+          "duration": 1165,
+          "pubdate": 1682812800,
+          "cover": "https://i1.hdslb.com/bfs/archive/38b7f4d26d2e232e544abb1ef0bd7cda22c57fc9.jpg",
+          "views": 467735,
+          "danmaku": 2352,
+          "url": "https://www.bilibili.com/video/BV1pT411h7gf"
+        },
+        {
+          "bvid": "BV1Lk4y177ep",
+          "title": "PCR高考考点题型专题【选必三】|考点精华",
+          "duration": 2256,
+          "pubdate": 1683887700,
+          "cover": "https://i1.hdslb.com/bfs/archive/479b7f6cccbc138288e1a4d46c03644c2facbf16.jpg",
+          "views": 571900,
+          "danmaku": 2789,
+          "url": "https://www.bilibili.com/video/BV1Lk4y177ep"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 13,
+    "videos": 437,
+    "truncated_collections": []
+  }
+}

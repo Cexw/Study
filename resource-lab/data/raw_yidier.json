@@ -1,0 +1,2777 @@
+{
+  "schema": "resource-lab/bilibili-collections/v1",
+  "crawled_at": 1791183989121,
+  "source": {
+    "platform": "bilibili",
+    "author": "一地er",
+    "mid": 1231108399,
+    "space": "https://space.bilibili.com/1231108399"
+  },
+  "collections": [
+    {
+      "season_id": 1612906,
+      "title": "高中地理·考试刷题",
+      "intro": "各种题刷刷！助力考试顶呱呱！",
+      "cover": "https://archive.biliimg.com/bfs/archive/fdff4e703cf5d5fd96f8b7ba76d21ca1ce6cf626.jpg",
+      "total": 70,
+      "fetched": 70,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1S14y1d7EU",
+          "title": "高二期末考试复习|百强名校卷精选！选择题篇",
+          "duration": 2118,
+          "pubdate": 1688392800,
+          "cover": "https://i2.hdslb.com/bfs/archive/e7a17ac710fc27faf5c04b264ae0b6e4e578e49f.jpg",
+          "views": 555576,
+          "danmaku": 1450,
+          "url": "https://www.bilibili.com/video/BV1S14y1d7EU"
+        },
+        {
+          "bvid": "BV1uV411M7Wz",
+          "title": "地理大题写不会？新模式！手把手带你写综合题",
+          "duration": 1252,
+          "pubdate": 1688220447,
+          "cover": "https://i1.hdslb.com/bfs/archive/f83e2b0b0265ed9f1d1be7e83c9f1c5f0e6390eb.jpg",
+          "views": 407018,
+          "danmaku": 910,
+          "url": "https://www.bilibili.com/video/BV1uV411M7Wz"
+        },
+        {
+          "bvid": "BV1ih411P7BC",
+          "title": "高一期末考试复习|百强名校卷精选！综合题篇",
+          "duration": 1086,
+          "pubdate": 1687788000,
+          "cover": "https://i1.hdslb.com/bfs/archive/e70c6de9e5b606c91d470c6febe53d2b3f61d60f.jpg",
+          "views": 184458,
+          "danmaku": 768,
+          "url": "https://www.bilibili.com/video/BV1ih411P7BC"
+        },
+        {
+          "bvid": "BV1Qu41187yu",
+          "title": "高一期末考试复习|百强名校卷精选！选择题篇",
+          "duration": 2942,
+          "pubdate": 1687701600,
+          "cover": "https://i1.hdslb.com/bfs/archive/bf8bd37fd02f5a67987cf9e2123bdc5912cd1682.jpg",
+          "views": 225197,
+          "danmaku": 1728,
+          "url": "https://www.bilibili.com/video/BV1Qu41187yu"
+        },
+        {
+          "bvid": "BV1gh411T7T3",
+          "title": "高一会考超详细满分宝典| 最后一课第二集！",
+          "duration": 1483,
+          "pubdate": 1686401890,
+          "cover": "https://i2.hdslb.com/bfs/archive/c0a22f421a55fcf19f6ad47a1e78fee0e9dd1618.jpg",
+          "views": 240465,
+          "danmaku": 1364,
+          "url": "https://www.bilibili.com/video/BV1gh411T7T3"
+        },
+        {
+          "bvid": "BV1po4y1g7bo",
+          "title": "【最后一课】120分钟高考地理高频考点串讲-下！",
+          "duration": 7115,
+          "pubdate": 1685862895,
+          "cover": "https://i2.hdslb.com/bfs/archive/57ced669a5932c91aed196216c8fd34bee15f824.jpg",
+          "views": 254482,
+          "danmaku": 3032,
+          "url": "https://www.bilibili.com/video/BV1po4y1g7bo"
+        },
+        {
+          "bvid": "BV1as4y1B71G",
+          "title": "【最后一课】80分钟高考地理高频考点串讲-上！",
+          "duration": 4578,
+          "pubdate": 1685281858,
+          "cover": "https://i2.hdslb.com/bfs/archive/a2cbf00281a39d3d66fd23538f090d0783a97073.jpg",
+          "views": 651444,
+          "danmaku": 5368,
+          "url": "https://www.bilibili.com/video/BV1as4y1B71G"
+        },
+        {
+          "bvid": "BV1Wh411w7TJ",
+          "title": "高考冲刺-2023届最新大题精选+速刷|第二集",
+          "duration": 1982,
+          "pubdate": 1684591200,
+          "cover": "https://i1.hdslb.com/bfs/archive/e7649c7e7f216f3e42e4646e12a0f004858bae3b.jpg",
+          "views": 104101,
+          "danmaku": 463,
+          "url": "https://www.bilibili.com/video/BV1Wh411w7TJ"
+        },
+        {
+          "bvid": "BV1N24y1T7wr",
+          "title": "高一会考超详细满分宝典| 最后四课第一集！",
+          "duration": 2671,
+          "pubdate": 1684587600,
+          "cover": "https://i2.hdslb.com/bfs/archive/62f445381f70738a9b8acb22961c503499ace62f.jpg",
+          "views": 641401,
+          "danmaku": 3592,
+          "url": "https://www.bilibili.com/video/BV1N24y1T7wr"
+        },
+        {
+          "bvid": "BV1nk4y177df",
+          "title": "高考冲刺-2023届最新选择题精选+速刷|第一集",
+          "duration": 2190,
+          "pubdate": 1683986400,
+          "cover": "https://i2.hdslb.com/bfs/archive/ca0e042ae54901c5c48e14b2cebde5f14cde25b0.jpg",
+          "views": 157125,
+          "danmaku": 1156,
+          "url": "https://www.bilibili.com/video/BV1nk4y177df"
+        },
+        {
+          "bvid": "BV1ha4y1G7sD",
+          "title": "题刷刷！选择题找不到方法？带你做最新选择题！",
+          "duration": 1868,
+          "pubdate": 1683381600,
+          "cover": "https://i1.hdslb.com/bfs/archive/33c24f2b352dbbca6ac803a2184cb1b15e21a245.jpg",
+          "views": 111053,
+          "danmaku": 1017,
+          "url": "https://www.bilibili.com/video/BV1ha4y1G7sD"
+        },
+        {
+          "bvid": "BV1eo4y1L7kt",
+          "title": "广州二模！超级详细讲解，一个视频给你讲透",
+          "duration": 2867,
+          "pubdate": 1682758800,
+          "cover": "https://i2.hdslb.com/bfs/archive/905508b7ad3d5531b2b66d0da7364b67779d73a7.jpg",
+          "views": 56820,
+          "danmaku": 419,
+          "url": "https://www.bilibili.com/video/BV1eo4y1L7kt"
+        },
+        {
+          "bvid": "BV1no4y1E7DG",
+          "title": "福建质检地理！超详细讲解，高二也能看！",
+          "duration": 2423,
+          "pubdate": 1681567200,
+          "cover": "https://i1.hdslb.com/bfs/archive/e0b96a1d5d55861ce7e930321067d0f60c982567.jpg",
+          "views": 58102,
+          "danmaku": 292,
+          "url": "https://www.bilibili.com/video/BV1no4y1E7DG"
+        },
+        {
+          "bvid": "BV1Ah411u7wF",
+          "title": "高二期中考试复习！考点题刷刷，考试顶呱呱！",
+          "duration": 2754,
+          "pubdate": 1681481700,
+          "cover": "https://i0.hdslb.com/bfs/archive/eb91cacdc92eb2faa7a4fc3ebfc7a9fedcb10afa.jpg",
+          "views": 158114,
+          "danmaku": 669,
+          "url": "https://www.bilibili.com/video/BV1Ah411u7wF"
+        },
+        {
+          "bvid": "BV1Lh4y1W7ba",
+          "title": "高一期中考试复习！考点全覆盖，考试得分快！",
+          "duration": 3435,
+          "pubdate": 1681395359,
+          "cover": "https://i2.hdslb.com/bfs/archive/7128d68d935fc4193e3253fb6d64272838a7cff6.jpg",
+          "views": 314257,
+          "danmaku": 3170,
+          "url": "https://www.bilibili.com/video/BV1Lh4y1W7ba"
+        },
+        {
+          "bvid": "BV1tv4y1L7EN",
+          "title": "题刷刷！高二高三名校卷，月考出分必惊艳！【选择题篇】",
+          "duration": 1991,
+          "pubdate": 1679196704,
+          "cover": "https://i1.hdslb.com/bfs/archive/32b9be827529df48c60a1c3e5d1d159618b7aaa9.jpg",
+          "views": 75617,
+          "danmaku": 345,
+          "url": "https://www.bilibili.com/video/BV1tv4y1L7EN"
+        },
+        {
+          "bvid": "BV17k4y1872o",
+          "title": "题刷刷|必看！高一地理月考复习，大题带你上高分",
+          "duration": 1639,
+          "pubdate": 1679112000,
+          "cover": "https://i1.hdslb.com/bfs/archive/6426c6498bffb0f4bcc2aa26ce4da6e459412a90.jpg",
+          "views": 125819,
+          "danmaku": 651,
+          "url": "https://www.bilibili.com/video/BV17k4y1872o"
+        },
+        {
+          "bvid": "BV12L411k7Mk",
+          "title": "题刷刷|高一地理月考复习，助力选择题满分",
+          "duration": 2314,
+          "pubdate": 1679059800,
+          "cover": "https://i0.hdslb.com/bfs/archive/ac627a8f6a237e4b8277b737c7c88677be1a1c08.jpg",
+          "views": 168736,
+          "danmaku": 1624,
+          "url": "https://www.bilibili.com/video/BV12L411k7Mk"
+        },
+        {
+          "bvid": "BV1MM4y1d7UR",
+          "title": "【题刷刷】四省联考地理！超级详细考点解读！",
+          "duration": 2428,
+          "pubdate": 1677916800,
+          "cover": "https://i2.hdslb.com/bfs/archive/2bc699c055692b6c53e493b37d92a69dda6a3e0f.jpg",
+          "views": 67971,
+          "danmaku": 450,
+          "url": "https://www.bilibili.com/video/BV1MM4y1d7UR"
+        },
+        {
+          "bvid": "BV1d8411u7rB",
+          "title": "助力开学考！高一地理题刷刷，帮你上分！",
+          "duration": 2839,
+          "pubdate": 1675069200,
+          "cover": "https://i1.hdslb.com/bfs/archive/66c75bb27f1388c2da1efdfd7ee826b6d9bde0df.jpg",
+          "views": 190805,
+          "danmaku": 3198,
+          "url": "https://www.bilibili.com/video/BV1d8411u7rB"
+        },
+        {
+          "bvid": "BV1e24y1v7VV",
+          "title": "高二地理期末考！真题讲解，全是重难点！必看",
+          "duration": 5148,
+          "pubdate": 1672623000,
+          "cover": "https://i0.hdslb.com/bfs/archive/cac29e90cfea08418e4a29d12c7be5b37e452f9a.jpg",
+          "views": 272999,
+          "danmaku": 1769,
+          "url": "https://www.bilibili.com/video/BV1e24y1v7VV"
+        },
+        {
+          "bvid": "BV14Y41127U3",
+          "title": "【直播回放】题刷刷|高一地理期末考试复习",
+          "duration": 5505,
+          "pubdate": 1672489800,
+          "cover": "https://i2.hdslb.com/bfs/archive/ca614acca38cf254b65bd0f26b2d4569816c944b.jpg",
+          "views": 339111,
+          "danmaku": 5136,
+          "url": "https://www.bilibili.com/video/BV14Y41127U3"
+        },
+        {
+          "bvid": "BV1f84y1e7EF",
+          "title": "高二地理期中考试复习！都是重难点！一网打尽",
+          "duration": 2616,
+          "pubdate": 1667655600,
+          "cover": "https://i2.hdslb.com/bfs/archive/1ec5f40e8376a4d01a7cbaa152f6cb082d2cccc6.jpg",
+          "views": 673439,
+          "danmaku": 3175,
+          "url": "https://www.bilibili.com/video/BV1f84y1e7EF"
+        },
+        {
+          "bvid": "BV1K84y1v7ms",
+          "title": "高一地理期中考试！无死角复习！全考点开挂",
+          "duration": 5632,
+          "pubdate": 1667646000,
+          "cover": "https://i1.hdslb.com/bfs/archive/27ca6cc663393e41a9c49473dee665d3e9b7e0eb.jpg",
+          "views": 1005700,
+          "danmaku": 13057,
+          "url": "https://www.bilibili.com/video/BV1K84y1v7ms"
+        },
+        {
+          "bvid": "BV1r24y1X7bN",
+          "title": "高一地理月考复习！考点全覆盖，做题如切菜！",
+          "duration": 1540,
+          "pubdate": 1664883000,
+          "cover": "https://i0.hdslb.com/bfs/archive/8a2a9a2c84f12f53b75afd37444d932a6d8498af.jpg",
+          "views": 1244200,
+          "danmaku": 8328,
+          "url": "https://www.bilibili.com/video/BV1r24y1X7bN"
+        },
+        {
+          "bvid": "BV17N411v7gB",
+          "title": "高二高三开学考试题刷刷！想冲高分必看！",
+          "duration": 1884,
+          "pubdate": 1693662304,
+          "cover": "https://i0.hdslb.com/bfs/archive/5ae08a6a6fc3a144c13998ec98610586739a7283.jpg",
+          "views": 104266,
+          "danmaku": 452,
+          "url": "https://www.bilibili.com/video/BV17N411v7gB"
+        },
+        {
+          "bvid": "BV1Kz4y1G7i2",
+          "title": "高一地理月考复习！考点全覆盖，考试如切菜！",
+          "duration": 1151,
+          "pubdate": 1696078800,
+          "cover": "https://i0.hdslb.com/bfs/archive/dd0f1221f03eaf045b17ab53c53034fc7fdbecde.jpg",
+          "views": 170184,
+          "danmaku": 869,
+          "url": "https://www.bilibili.com/video/BV1Kz4y1G7i2"
+        },
+        {
+          "bvid": "BV1YH4y1Z7AG",
+          "title": "题刷刷|高二高三月考选择题篇！",
+          "duration": 1819,
+          "pubdate": 1696213988,
+          "cover": "https://i1.hdslb.com/bfs/archive/aea19087b6b2a30f2aa78e723560d6ae4e58c5aa.jpg",
+          "views": 81922,
+          "danmaku": 288,
+          "url": "https://www.bilibili.com/video/BV1YH4y1Z7AG"
+        },
+        {
+          "bvid": "BV1xC4y1o7gp",
+          "title": "大题不会？手把手教你！高二高三月考综合题！",
+          "duration": 1334,
+          "pubdate": 1696341682,
+          "cover": "https://i2.hdslb.com/bfs/archive/18b7e2728295a77d71b3afe2508d514945e8689a.jpg",
+          "views": 74139,
+          "danmaku": 237,
+          "url": "https://www.bilibili.com/video/BV1xC4y1o7gp"
+        },
+        {
+          "bvid": "BV1gQ4y1H7D7",
+          "title": "题刷刷！高二地理期中考名校卷！选择题篇",
+          "duration": 2181,
+          "pubdate": 1698458400,
+          "cover": "https://i2.hdslb.com/bfs/archive/ce3076244eb5a465b1d415860b0d460ae3d17e9a.jpg",
+          "views": 188044,
+          "danmaku": 1333,
+          "url": "https://www.bilibili.com/video/BV1gQ4y1H7D7"
+        },
+        {
+          "bvid": "BV1AN411s7Mp",
+          "title": "高二地理期中考名校卷！手把手教你写大题！",
+          "duration": 1356,
+          "pubdate": 1698498000,
+          "cover": "https://i1.hdslb.com/bfs/archive/4daea0fd50d7776be14ab8c93ed9ac192341a5db.jpg",
+          "views": 158676,
+          "danmaku": 669,
+          "url": "https://www.bilibili.com/video/BV1AN411s7Mp"
+        },
+        {
+          "bvid": "BV1n84y1Q7hY",
+          "title": "题刷刷！高一地理期中考名校卷！选择题篇",
+          "duration": 1529,
+          "pubdate": 1699102800,
+          "cover": "https://i2.hdslb.com/bfs/archive/1de00732873ce5630be975cecd7edbaa9c807961.jpg",
+          "views": 154365,
+          "danmaku": 776,
+          "url": "https://www.bilibili.com/video/BV1n84y1Q7hY"
+        },
+        {
+          "bvid": "BV1iC4y1J7NQ",
+          "title": "题刷刷！高一地理期中考名校卷！综合题篇",
+          "duration": 619,
+          "pubdate": 1699155329,
+          "cover": "https://i0.hdslb.com/bfs/archive/a59049af6b02bc5a6ca3f8b87b26882d62022cdc.jpg",
+          "views": 83977,
+          "danmaku": 209,
+          "url": "https://www.bilibili.com/video/BV1iC4y1J7NQ"
+        },
+        {
+          "bvid": "BV17K411472Y",
+          "title": "T8联考！高考地理选择题技巧！满分必看！",
+          "duration": 2328,
+          "pubdate": 1704006000,
+          "cover": "https://i2.hdslb.com/bfs/archive/9877de6359adf8e7c394a2c97675f90be2797ddf.jpg",
+          "views": 224142,
+          "danmaku": 1464,
+          "url": "https://www.bilibili.com/video/BV17K411472Y"
+        },
+        {
+          "bvid": "BV1cg4y1r7p7",
+          "title": "T8联考！地理大题！大题没上40+必看方法！",
+          "duration": 2918,
+          "pubdate": 1704072138,
+          "cover": "https://i2.hdslb.com/bfs/archive/6dff5ab434f97eef816bf76e4a3bcd334c1040ac.jpg",
+          "views": 154102,
+          "danmaku": 753,
+          "url": "https://www.bilibili.com/video/BV1cg4y1r7p7"
+        },
+        {
+          "bvid": "BV1QN4y1i7Fm",
+          "title": "助力！高中地理期末考-综合题篇！别怕|全国名校真题精选",
+          "duration": 1569,
+          "pubdate": 1704592800,
+          "cover": "https://i1.hdslb.com/bfs/archive/c24ed09bb111020beb2067d407a5516902a8df10.jpg",
+          "views": 161664,
+          "danmaku": 956,
+          "url": "https://www.bilibili.com/video/BV1QN4y1i7Fm"
+        },
+        {
+          "bvid": "BV1EK4y167Hk",
+          "title": "助力！高中地理期末考-选择题篇！别怕|全国名校真题精选",
+          "duration": 2121,
+          "pubdate": 1704546000,
+          "cover": "https://i0.hdslb.com/bfs/archive/899eb63dcdc00891e8d9d739ed423c2abd48e8ec.jpg",
+          "views": 232521,
+          "danmaku": 1960,
+          "url": "https://www.bilibili.com/video/BV1EK4y167Hk"
+        },
+        {
+          "bvid": "BV17C4y1e7CQ",
+          "title": "高二高三地理期末考-选择题篇！全国名校卷！",
+          "duration": 2976,
+          "pubdate": 1705149000,
+          "cover": "https://i2.hdslb.com/bfs/archive/816bc9d61400b62f024b2fded19945c80a57c53e.jpg",
+          "views": 133961,
+          "danmaku": 1061,
+          "url": "https://www.bilibili.com/video/BV17C4y1e7CQ"
+        },
+        {
+          "bvid": "BV1eg4y1S78z",
+          "title": "高二高三地理期末考！地理大题0基础到50+！",
+          "duration": 2195,
+          "pubdate": 1705197421,
+          "cover": "https://i2.hdslb.com/bfs/archive/e14e4cf2af0f33e4d8506b20dc8e732507d8f763.jpg",
+          "views": 194765,
+          "danmaku": 699,
+          "url": "https://www.bilibili.com/video/BV1eg4y1S78z"
+        },
+        {
+          "bvid": "BV1wa4y1C762",
+          "title": "2024地理九省联考！各省最精华选择题详解！",
+          "duration": 2997,
+          "pubdate": 1706446800,
+          "cover": "https://i0.hdslb.com/bfs/archive/4dfbf71be7a7d9061fb46141a295a12d2d713386.jpg",
+          "views": 239918,
+          "danmaku": 1407,
+          "url": "https://www.bilibili.com/video/BV1wa4y1C762"
+        },
+        {
+          "bvid": "BV1t7421K767",
+          "title": "2024地理九省联考！精华选择题-第二季！",
+          "duration": 2178,
+          "pubdate": 1706965200,
+          "cover": "https://i2.hdslb.com/bfs/archive/4244cf174edbd4b1a2e4c3bb504d06b5f47f38f8.jpg",
+          "views": 283687,
+          "danmaku": 492,
+          "url": "https://www.bilibili.com/video/BV1t7421K767"
+        },
+        {
+          "bvid": "BV1hJ4m1a7XU",
+          "title": "【题刷刷】龙年春节高一地理收心卷|必修一内容",
+          "duration": 2906,
+          "pubdate": 1708779600,
+          "cover": "https://i1.hdslb.com/bfs/archive/20f589192c1292edd78adfb2395bdd3d00ce6d86.jpg",
+          "views": 58038,
+          "danmaku": 224,
+          "url": "https://www.bilibili.com/video/BV1hJ4m1a7XU"
+        },
+        {
+          "bvid": "BV1Rt421L7PW",
+          "title": "选择题技巧学不会？深圳一模给你讲到位！",
+          "duration": 1864,
+          "pubdate": 1709989200,
+          "cover": "https://i1.hdslb.com/bfs/archive/087f7e782e85d307b0650309a06b7de90fa1601e.jpg",
+          "views": 82391,
+          "danmaku": 695,
+          "url": "https://www.bilibili.com/video/BV1Rt421L7PW"
+        },
+        {
+          "bvid": "BV1dm411d7A9",
+          "title": "综合题没思路？深圳一模！手把手教你！",
+          "duration": 2322,
+          "pubdate": 1710038000,
+          "cover": "https://i1.hdslb.com/bfs/archive/9d645bd863919bf447829ebf39ac2adc78021dd4.jpg",
+          "views": 79585,
+          "danmaku": 570,
+          "url": "https://www.bilibili.com/video/BV1dm411d7A9"
+        },
+        {
+          "bvid": "BV1mz421Z7HW",
+          "title": "选择题技巧学不会？广东一模给你讲到位！",
+          "duration": 3057,
+          "pubdate": 1711198800,
+          "cover": "https://i0.hdslb.com/bfs/archive/e09a9a318d3c66b7c3877de881c15d3ae2dbcdf9.jpg",
+          "views": 69103,
+          "danmaku": 896,
+          "url": "https://www.bilibili.com/video/BV1mz421Z7HW"
+        },
+        {
+          "bvid": "BV1xr421h7Ls",
+          "title": "综合题没思路？广东一模！手把手教你！",
+          "duration": 2727,
+          "pubdate": 1711243800,
+          "cover": "https://i0.hdslb.com/bfs/archive/c8964153a33b27a21918a916e1ecf8f949fbd478.jpg",
+          "views": 63924,
+          "danmaku": 560,
+          "url": "https://www.bilibili.com/video/BV1xr421h7Ls"
+        },
+        {
+          "bvid": "BV1uf421f7Uq",
+          "title": "选择题想全对？广州一模给你讲到全会！",
+          "duration": 1876,
+          "pubdate": 1711719212,
+          "cover": "https://i2.hdslb.com/bfs/archive/ee6de6cf980b7181e2fe5d235d1068da04251f5c.jpg",
+          "views": 73377,
+          "danmaku": 609,
+          "url": "https://www.bilibili.com/video/BV1uf421f7Uq"
+        },
+        {
+          "bvid": "BV1qq421A7Zw",
+          "title": "回归课本？地理！广州一模！综合题来袭！",
+          "duration": 2442,
+          "pubdate": 1711849889,
+          "cover": "https://i1.hdslb.com/bfs/archive/3ac3488c4f4b14f886d92008f5a8dc31066d5d7c.jpg",
+          "views": 85381,
+          "danmaku": 447,
+          "url": "https://www.bilibili.com/video/BV1qq421A7Zw"
+        },
+        {
+          "bvid": "BV1EC411V7fp",
+          "title": "2024福建质检地理卷 — 选择题篇！",
+          "duration": 2589,
+          "pubdate": 1713013200,
+          "cover": "https://i0.hdslb.com/bfs/archive/d251369842b0e0fff6d0166d0ee8157e9ad8aac9.jpg",
+          "views": 83917,
+          "danmaku": 578,
+          "url": "https://www.bilibili.com/video/BV1EC411V7fp"
+        },
+        {
+          "bvid": "BV1HE421j7DJ",
+          "title": "选择题技巧！用大湾区二模给你讲透",
+          "duration": 2562,
+          "pubdate": 1714485804,
+          "cover": "https://i1.hdslb.com/bfs/archive/32b99020bacb20975ab36e7337e5790e74a75191.jpg",
+          "views": 89297,
+          "danmaku": 959,
+          "url": "https://www.bilibili.com/video/BV1HE421j7DJ"
+        },
+        {
+          "bvid": "BV1D7xveBEDa",
+          "title": "【题刷刷】高一月考地理复习视频！考高分必看！",
+          "duration": 2333,
+          "pubdate": 1727786811,
+          "cover": "https://i0.hdslb.com/bfs/archive/6f9a8f0786b1d1ccad141803a88f0b5741671169.jpg",
+          "views": 128306,
+          "danmaku": 1383,
+          "url": "https://www.bilibili.com/video/BV1D7xveBEDa"
+        },
+        {
+          "bvid": "BV13eUcYJE9a",
+          "title": "【助力高二高三上期中考】高二高三地理期中考怎么办？-选择题|全国名校真题精选",
+          "duration": 3276,
+          "pubdate": 1731762000,
+          "cover": "https://i1.hdslb.com/bfs/archive/d5170e19a234aa3c2961d0b08fe995744905d1da.jpg",
+          "views": 60251,
+          "danmaku": 384,
+          "url": "https://www.bilibili.com/video/BV13eUcYJE9a"
+        },
+        {
+          "bvid": "BV1sGBzYXE57",
+          "title": "【助力高一上期中考】高一地理期中考怎么办？-选择题|全国名校真题精选",
+          "duration": 3575,
+          "pubdate": 1732327200,
+          "cover": "https://i1.hdslb.com/bfs/archive/5cfe339295c9fb46dda14181195c702d3ec2a84c.jpg",
+          "views": 37166,
+          "danmaku": 228,
+          "url": "https://www.bilibili.com/video/BV1sGBzYXE57"
+        },
+        {
+          "bvid": "BV1HTByYhESc",
+          "title": "【助力高二高三上期中考】大彩蛋！用新书教你做综合题！",
+          "duration": 2709,
+          "pubdate": 1732366800,
+          "cover": "https://i0.hdslb.com/bfs/archive/1273f91b46502a708ab9416db827c0cc298e023e.jpg",
+          "views": 55158,
+          "danmaku": 218,
+          "url": "https://www.bilibili.com/video/BV1HTByYhESc"
+        },
+        {
+          "bvid": "BV1TbBbYcExv",
+          "title": "【助力高一上期中考】高一地理期中考怎么办？-综合题|全国名校真题精选",
+          "duration": 1918,
+          "pubdate": 1732456800,
+          "cover": "https://i0.hdslb.com/bfs/archive/27ac91e6b6e3d37dc8c458cdba840b726d9de43d.jpg",
+          "views": 44928,
+          "danmaku": 158,
+          "url": "https://www.bilibili.com/video/BV1TbBbYcExv"
+        },
+        {
+          "bvid": "BV1qHktYDE8q",
+          "title": "【地理】2025T8联考重难点超详细解析！",
+          "duration": 4368,
+          "pubdate": 1734783603,
+          "cover": "https://i1.hdslb.com/bfs/archive/b42bb3b4c29f98492f1937d1328c38ab2b7f76c7.jpg",
+          "views": 188001,
+          "danmaku": 611,
+          "url": "https://www.bilibili.com/video/BV1qHktYDE8q"
+        },
+        {
+          "bvid": "BV1iwN5eiEnW",
+          "title": "浙江1月地理首考|选择题篇！题目精讲！",
+          "duration": 6260,
+          "pubdate": 1739016582,
+          "cover": "https://i2.hdslb.com/bfs/archive/98fd0bd75fbc7968133eef1f69c2f2c1b2106127.jpg",
+          "views": 113655,
+          "danmaku": 1178,
+          "url": "https://www.bilibili.com/video/BV1iwN5eiEnW"
+        },
+        {
+          "bvid": "BV1Wm9XYFE3d",
+          "title": "深圳一模地理！Ta来了！重点题目精讲！",
+          "duration": 2391,
+          "pubdate": 1741438800,
+          "cover": "https://i1.hdslb.com/bfs/archive/ba08eebfd1831a50de9723f568e1343d93879fdf.jpg",
+          "views": 69395,
+          "danmaku": 379,
+          "url": "https://www.bilibili.com/video/BV1Wm9XYFE3d"
+        },
+        {
+          "bvid": "BV1z9XWYzE8w",
+          "title": "【广州一模地理】来啦！选择题精华详解！保姆级解答！",
+          "duration": 2054,
+          "pubdate": 1742648400,
+          "cover": "https://i2.hdslb.com/bfs/archive/800be85e84e5e0f44032bc2fae9fc4f6f6197f39.jpg",
+          "views": 69989,
+          "danmaku": 550,
+          "url": "https://www.bilibili.com/video/BV1z9XWYzE8w"
+        },
+        {
+          "bvid": "BV1uFZPYkET8",
+          "title": "人均错六道？爆难的广东一模选择题！来啦！",
+          "duration": 2700,
+          "pubdate": 1743255600,
+          "cover": "https://i0.hdslb.com/bfs/archive/9619872af25954e193a0e62ced03c4a3077d162e.jpg",
+          "views": 104849,
+          "danmaku": 1003,
+          "url": "https://www.bilibili.com/video/BV1uFZPYkET8"
+        },
+        {
+          "bvid": "BV1JiZvYEEKD",
+          "title": "平均才20分？难到哭的广东一模综合题！来啦！",
+          "duration": 3729,
+          "pubdate": 1743299634,
+          "cover": "https://i2.hdslb.com/bfs/archive/25201b36d0e92eccf7fc9ed65078f4d45da32601.jpg",
+          "views": 103255,
+          "danmaku": 590,
+          "url": "https://www.bilibili.com/video/BV1JiZvYEEKD"
+        },
+        {
+          "bvid": "BV1mMbHztEMi",
+          "title": "【2025高考卷】手把手教你解地貌类题目！",
+          "duration": 3877,
+          "pubdate": 1755262800,
+          "cover": "https://i1.hdslb.com/bfs/archive/d2b2ad5319acd1763af51533fee58650b7ac25fb.jpg",
+          "views": 130571,
+          "danmaku": 579,
+          "url": "https://www.bilibili.com/video/BV1mMbHztEMi"
+        },
+        {
+          "bvid": "BV1JqHtz7E3Y",
+          "title": "高一月考复习大串讲！考点全覆盖！考试如切菜！",
+          "duration": 3303,
+          "pubdate": 1759406400,
+          "cover": "https://i1.hdslb.com/bfs/archive/213c854a00fa9e6ce15ecfae2fa084d344cf73e8.jpg",
+          "views": 194156,
+          "danmaku": 2195,
+          "url": "https://www.bilibili.com/video/BV1JqHtz7E3Y"
+        },
+        {
+          "bvid": "BV1TqHPzcEyi",
+          "title": "高二月考复习名校卷！跟着学思路！",
+          "duration": 4617,
+          "pubdate": 1759492800,
+          "cover": "https://i2.hdslb.com/bfs/archive/3e437d85b00448b7feee832c4edc51ba242c32e0.jpg",
+          "views": 171869,
+          "danmaku": 1191,
+          "url": "https://www.bilibili.com/video/BV1TqHPzcEyi"
+        },
+        {
+          "bvid": "BV1qa1QBHEsM",
+          "title": "【题刷刷】高二期中考复习名校卷",
+          "duration": 3929,
+          "pubdate": 1762606800,
+          "cover": "https://i0.hdslb.com/bfs/archive/307bfe20f8a4e44bf17403b9c0d01aa82d45ede9.jpg",
+          "views": 111809,
+          "danmaku": 856,
+          "url": "https://www.bilibili.com/video/BV1qa1QBHEsM"
+        },
+        {
+          "bvid": "BV1Mc2gBxEZG",
+          "title": "【题刷刷】高一期中考复习名校卷",
+          "duration": 4155,
+          "pubdate": 1762523258,
+          "cover": "https://i1.hdslb.com/bfs/archive/26610355c6d165e1ca8cb11c91da09bfae6e5c6d.jpg",
+          "views": 103200,
+          "danmaku": 460,
+          "url": "https://www.bilibili.com/video/BV1Mc2gBxEZG"
+        },
+        {
+          "bvid": "BV1yGv6BgEaB",
+          "title": "2026地理T8联考！选择题精讲！",
+          "duration": 3482,
+          "pubdate": 1766886699,
+          "cover": "https://i2.hdslb.com/bfs/archive/66279c5783936b2b79f104ea557d19d80b67eaf5.jpg",
+          "views": 135413,
+          "danmaku": 372,
+          "url": "https://www.bilibili.com/video/BV1yGv6BgEaB"
+        },
+        {
+          "bvid": "BV11AigBZErs",
+          "title": "2026地理T8联考！综合题精讲！",
+          "duration": 3264,
+          "pubdate": 1767184403,
+          "cover": "https://i2.hdslb.com/bfs/archive/d265a46e8db118f4e1fe2ccc32d8a7d9ec1549d1.jpg",
+          "views": 105248,
+          "danmaku": 194,
+          "url": "https://www.bilibili.com/video/BV11AigBZErs"
+        },
+        {
+          "bvid": "BV11x7G6REUv",
+          "title": "【高中会考】2026高中地理！会考大串讲！",
+          "duration": 12276,
+          "pubdate": 1782478800,
+          "cover": "https://i1.hdslb.com/bfs/archive/4cb9308e0a8bc895ddf8d77ddeb97378176f3df6.jpg",
+          "views": 159191,
+          "danmaku": 650,
+          "url": "https://www.bilibili.com/video/BV11x7G6REUv"
+        },
+        {
+          "bvid": "BV17PHj6cEjr",
+          "title": "【高一地理月考】考点全覆盖！得分如切菜！",
+          "duration": 1540,
+          "pubdate": 1791115200,
+          "cover": "https://i2.hdslb.com/bfs/archive/ffa1ee81afe9d69b79617efc99c614427cbc5ca0.jpg",
+          "views": 19596,
+          "danmaku": 241,
+          "url": "https://www.bilibili.com/video/BV17PHj6cEjr"
+        }
+      ]
+    },
+    {
+      "season_id": 3632448,
+      "title": "高考地理系统课（高考地理核心方法+一轮复习）",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/159e8aa5e925deee8804c4a6be66b73e25804109.jpg",
+      "total": 65,
+      "fetched": 65,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1p1421t7kD",
+          "title": "高中地理「最全」大合集预告！",
+          "duration": 855,
+          "pubdate": 1724418000,
+          "cover": "https://i2.hdslb.com/bfs/archive/7aee7f88412d46cf4999e8ae75a1726bbbd021e2.jpg",
+          "views": 1164868,
+          "danmaku": 4084,
+          "url": "https://www.bilibili.com/video/BV1p1421t7kD"
+        },
+        {
+          "bvid": "BV14oChY7Evv",
+          "title": "TA 来了！高中『地理』必刷 100 讲！",
+          "duration": 936,
+          "pubdate": 1735385400,
+          "cover": "https://i2.hdslb.com/bfs/archive/b7dd5219016d8c218a27631ed9a59f1ec989d899.jpg",
+          "views": 961382,
+          "danmaku": 2261,
+          "url": "https://www.bilibili.com/video/BV14oChY7Evv"
+        },
+        {
+          "bvid": "BV1JjqzBvEme",
+          "title": "必刷100讲·指南！阿凡达都想读的好书！",
+          "duration": 205,
+          "pubdate": 1766233800,
+          "cover": "https://i0.hdslb.com/bfs/archive/869b574e5c6681f73d78aaed0c142ed36f3bb992.jpg",
+          "views": 193850,
+          "danmaku": 150,
+          "url": "https://www.bilibili.com/video/BV1JjqzBvEme"
+        },
+        {
+          "bvid": "BV1g4421f7K8",
+          "title": "【高考系统课】第一课：《经纬网》知识点梳理",
+          "duration": 3928,
+          "pubdate": 1725023306,
+          "cover": "https://i2.hdslb.com/bfs/archive/f82eed1396f251b0947bda7f322f9688f863a273.jpg",
+          "views": 809751,
+          "danmaku": 14200,
+          "url": "https://www.bilibili.com/video/BV1g4421f7K8"
+        },
+        {
+          "bvid": "BV1FVHDeXEgn",
+          "title": "【高考系统课】《经纬网》考点题型（上）",
+          "duration": 3129,
+          "pubdate": 1725714000,
+          "cover": "https://i0.hdslb.com/bfs/archive/e2835c96186ca4a1af864a80e2d693aab5fe7f56.jpg",
+          "views": 427798,
+          "danmaku": 5302,
+          "url": "https://www.bilibili.com/video/BV1FVHDeXEgn"
+        },
+        {
+          "bvid": "BV1rn4yeHEBC",
+          "title": "【高考系统课】经纬网计算 | 最短航线超详细版本！一网打尽！",
+          "duration": 3791,
+          "pubdate": 1726405200,
+          "cover": "https://i2.hdslb.com/bfs/archive/4991624bf6afbe8a38fec8b8fa4ec96f545353d8.jpg",
+          "views": 302284,
+          "danmaku": 3895,
+          "url": "https://www.bilibili.com/video/BV1rn4yeHEBC"
+        },
+        {
+          "bvid": "BV1DytzeWE3A",
+          "title": "【高考系统课】地图三要素！手把手教你如何看地图！",
+          "duration": 2192,
+          "pubdate": 1726923600,
+          "cover": "https://i1.hdslb.com/bfs/archive/4b2f18c4315e5d941ddcf8cec761f6db7d0e3ded.jpg",
+          "views": 198973,
+          "danmaku": 1999,
+          "url": "https://www.bilibili.com/video/BV1DytzeWE3A"
+        },
+        {
+          "bvid": "BV1RhabziExo",
+          "title": "【高考系统课】等高线的计算！技巧全在这！",
+          "duration": 3695,
+          "pubdate": 1757077200,
+          "cover": "https://i2.hdslb.com/bfs/archive/7e5ab05f163387a2e92eeffbe4bbc2dc113c6eb1.jpg",
+          "views": 223451,
+          "danmaku": 2325,
+          "url": "https://www.bilibili.com/video/BV1RhabziExo"
+        },
+        {
+          "bvid": "BV1wrp7zZEKQ",
+          "title": "【高考系统课】等高线大串讲！1个视频带你搞懂！",
+          "duration": 4405,
+          "pubdate": 1757768400,
+          "cover": "https://i0.hdslb.com/bfs/archive/3111fdda1f1664a8b4b58c2b1438b620b8f0fdff.jpg",
+          "views": 191448,
+          "danmaku": 2280,
+          "url": "https://www.bilibili.com/video/BV1wrp7zZEKQ"
+        },
+        {
+          "bvid": "BV1SkW3zdEfr",
+          "title": "【高考系统课】地形剖面图不会画？冷冷教你全拿下！",
+          "duration": 1608,
+          "pubdate": 1758286800,
+          "cover": "https://i0.hdslb.com/bfs/archive/030b06086fb472b9223de045b061f6696fdbd9cb.jpg",
+          "views": 148186,
+          "danmaku": 545,
+          "url": "https://www.bilibili.com/video/BV1SkW3zdEfr"
+        },
+        {
+          "bvid": "BV17HWEzsELW",
+          "title": "【高考系统课】3S判断学不会？必会技巧带你飞！",
+          "duration": 2621,
+          "pubdate": 1760706000,
+          "cover": "https://i2.hdslb.com/bfs/archive/3dd55ef25750d84c52ef3544ff8cbe0dc9165ea0.jpg",
+          "views": 157578,
+          "danmaku": 1141,
+          "url": "https://www.bilibili.com/video/BV17HWEzsELW"
+        },
+        {
+          "bvid": "BV1xo4GeqEiK",
+          "title": "【高考系统课】地球的自转！从0基础开始讲起！",
+          "duration": 1804,
+          "pubdate": 1727873617,
+          "cover": "https://i0.hdslb.com/bfs/archive/ff05d68eb7bafb0868a6cf106282492e9187bbff.jpg",
+          "views": 275953,
+          "danmaku": 2504,
+          "url": "https://www.bilibili.com/video/BV1xo4GeqEiK"
+        },
+        {
+          "bvid": "BV1vNDZYpEnR",
+          "title": "【高考系统课】晨昏线傻傻分不清楚？各种视图！详细到爆",
+          "duration": 2973,
+          "pubdate": 1731070800,
+          "cover": "https://i2.hdslb.com/bfs/archive/b223ed0a646034fac89b8cd492fb4c42671776c9.jpg",
+          "views": 199663,
+          "danmaku": 2606,
+          "url": "https://www.bilibili.com/video/BV1vNDZYpEnR"
+        },
+        {
+          "bvid": "BV1nY2hYyELX",
+          "title": "【高考系统课】时间计算大梳理！保姆级讲解",
+          "duration": 5797,
+          "pubdate": 1728738000,
+          "cover": "https://i2.hdslb.com/bfs/archive/d8aeb34f58ca7f7ac1b72768ae7a54f904f66c28.jpg",
+          "views": 285626,
+          "danmaku": 6053,
+          "url": "https://www.bilibili.com/video/BV1nY2hYyELX"
+        },
+        {
+          "bvid": "BV1vpybYdEjd",
+          "title": "日期范围计算学懵了？20分钟带你打通！【高考系统课】",
+          "duration": 1575,
+          "pubdate": 1729388397,
+          "cover": "https://i0.hdslb.com/bfs/archive/7b3f5b3e6db760dd72d9524f4fe14d12c125e8c5.jpg",
+          "views": 219636,
+          "danmaku": 2112,
+          "url": "https://www.bilibili.com/video/BV1vpybYdEjd"
+        },
+        {
+          "bvid": "BV1gjDAY4EXW",
+          "title": "光照图相关时间计算！太难？这是解药【高考系统课】",
+          "duration": 2729,
+          "pubdate": 1730552400,
+          "cover": "https://i0.hdslb.com/bfs/archive/dded0ba9f16c4842d0f9eb2a42fcf5f9407cd13c.jpg",
+          "views": 186687,
+          "danmaku": 1938,
+          "url": "https://www.bilibili.com/video/BV1gjDAY4EXW"
+        },
+        {
+          "bvid": "BV12qzjYFEbs",
+          "title": "【高考系统课】地球的公转开更啦！零基础开讲！",
+          "duration": 1453,
+          "pubdate": 1732971600,
+          "cover": "https://i0.hdslb.com/bfs/archive/f895bf8bb55411a5080e24e9323739d57d48b837.jpg",
+          "views": 143400,
+          "danmaku": 1244,
+          "url": "https://www.bilibili.com/video/BV12qzjYFEbs"
+        },
+        {
+          "bvid": "BV1WinxzjEFk",
+          "title": "【高考系统课】超难！黄赤交角与太阳直射点！姥姥级讲解！",
+          "duration": 3784,
+          "pubdate": 1758761803,
+          "cover": "https://i2.hdslb.com/bfs/archive/060b09771a2343dc90315f50ec4e29d5b9ad498e.jpg",
+          "views": 165593,
+          "danmaku": 1032,
+          "url": "https://www.bilibili.com/video/BV1WinxzjEFk"
+        },
+        {
+          "bvid": "BV1x3n4zpEZf",
+          "title": "【高考系统课】1小时串讲！昼夜长短所有问题！姥爷级讲解！",
+          "duration": 4181,
+          "pubdate": 1758761010,
+          "cover": "https://i0.hdslb.com/bfs/archive/efe912ec65a61f2b5cef266c500be491a8c9bd48.jpg",
+          "views": 152085,
+          "danmaku": 1096,
+          "url": "https://www.bilibili.com/video/BV1x3n4zpEZf"
+        },
+        {
+          "bvid": "BV1zDCQBHESF",
+          "title": "【高考系统课】正午太阳高度角！2小时详细到爆！",
+          "duration": 8436,
+          "pubdate": 1763298000,
+          "cover": "https://i2.hdslb.com/bfs/archive/535c5e70a21e4e548bde725a0331abc7c7012159.jpg",
+          "views": 154147,
+          "danmaku": 1317,
+          "url": "https://www.bilibili.com/video/BV1zDCQBHESF"
+        },
+        {
+          "bvid": "BV1kgcFeFE2N",
+          "title": "【高考系统课】高考必考「太阳方位和视运动」方法大总结！2小时爆肝！",
+          "duration": 6363,
+          "pubdate": 1738411200,
+          "cover": "https://i0.hdslb.com/bfs/archive/ed91cd2664332c58d18d03f6fcb98f53b54948a4.jpg",
+          "views": 208262,
+          "danmaku": 3202,
+          "url": "https://www.bilibili.com/video/BV1kgcFeFE2N"
+        },
+        {
+          "bvid": "BV1HXkfBgEwn",
+          "title": "【高考系统课】地球公转大总结！四季交替和五带划分！",
+          "duration": 1788,
+          "pubdate": 1762765475,
+          "cover": "https://i0.hdslb.com/bfs/archive/602cad7e937dd10388c74eff8254a3ac195bd940.jpg",
+          "views": 115556,
+          "danmaku": 293,
+          "url": "https://www.bilibili.com/video/BV1HXkfBgEwn"
+        },
+        {
+          "bvid": "BV1RzsHzaE7z",
+          "title": "【高考系统课】大气篇Ta来啦！大气组成和垂直分层！详细到爆！",
+          "duration": 2218,
+          "pubdate": 1761310800,
+          "cover": "https://i1.hdslb.com/bfs/archive/b1c3701f9eb3423de83878bb0d8cec7f2ffd5c25.jpg",
+          "views": 239709,
+          "danmaku": 1419,
+          "url": "https://www.bilibili.com/video/BV1RzsHzaE7z"
+        },
+        {
+          "bvid": "BV1Z9CMB8E9c",
+          "title": "大气的受热过程！从基础到最新真题！【高考系统课】",
+          "duration": 8268,
+          "pubdate": 1763129293,
+          "cover": "https://i1.hdslb.com/bfs/archive/d6e3ed64edb7ae9898a59c829b6cda21e7f195c1.jpg",
+          "views": 222957,
+          "danmaku": 3126,
+          "url": "https://www.bilibili.com/video/BV1Z9CMB8E9c"
+        },
+        {
+          "bvid": "BV19JUjBWE6p",
+          "title": "【高考系统课】逆温！理论+考点！一个视频讲懂！",
+          "duration": 2192,
+          "pubdate": 1763730000,
+          "cover": "https://i1.hdslb.com/bfs/archive/ee888e3e0c52fbe6d0d848523f3f85f814029f47.jpg",
+          "views": 162428,
+          "danmaku": 1046,
+          "url": "https://www.bilibili.com/video/BV19JUjBWE6p"
+        },
+        {
+          "bvid": "BV1tMmEB2Eca",
+          "title": "【高考系统课】热力环流！保姆级讲解！",
+          "duration": 3874,
+          "pubdate": 1765544400,
+          "cover": "https://i0.hdslb.com/bfs/archive/5c17163f0a93e5546070753067a8ec2757c2e146.jpg",
+          "views": 176187,
+          "danmaku": 1605,
+          "url": "https://www.bilibili.com/video/BV1tMmEB2Eca"
+        },
+        {
+          "bvid": "BV12jmeBxEbY",
+          "title": "【高考系统课】热力环流！重难点题型串讲！",
+          "duration": 5685,
+          "pubdate": 1765678517,
+          "cover": "https://i0.hdslb.com/bfs/archive/5fc7081a24ab1938b86bcc82b4c61bf3094ff79f.jpg",
+          "views": 152588,
+          "danmaku": 1079,
+          "url": "https://www.bilibili.com/video/BV12jmeBxEbY"
+        },
+        {
+          "bvid": "BV1zu2LBsEcC",
+          "title": "【高考系统课】等压线与风！太姥爷级讲解！",
+          "duration": 6246,
+          "pubdate": 1764939600,
+          "cover": "https://i1.hdslb.com/bfs/archive/647896499adcc0b376f9982652408aafe7dce939.jpg",
+          "views": 156565,
+          "danmaku": 1331,
+          "url": "https://www.bilibili.com/video/BV1zu2LBsEcC"
+        },
+        {
+          "bvid": "BV1iwBWBXEZm",
+          "title": "【高考系统课】三圈环流！从基础到进阶！",
+          "duration": 2664,
+          "pubdate": 1766671200,
+          "cover": "https://i1.hdslb.com/bfs/archive/379706517738e354c07b1078c7c4cae54d49d3ea.jpg",
+          "views": 167135,
+          "danmaku": 1141,
+          "url": "https://www.bilibili.com/video/BV1iwBWBXEZm"
+        },
+        {
+          "bvid": "BV1ncisBxEPS",
+          "title": "【高考系统课】季风环流！太姥姥级讲解！",
+          "duration": 4458,
+          "pubdate": 1767880800,
+          "cover": "https://i1.hdslb.com/bfs/archive/33880238d322ad7407d9467e3399310185d0bcce.jpg",
+          "views": 182733,
+          "danmaku": 1392,
+          "url": "https://www.bilibili.com/video/BV1ncisBxEPS"
+        },
+        {
+          "bvid": "BV1rVrnBbEnm",
+          "title": "【高考系统课】大气环流考点题型! 从基础到进阶",
+          "duration": 3853,
+          "pubdate": 1768651200,
+          "cover": "https://i1.hdslb.com/bfs/archive/12c973c10b711f930baeddb43fae9229e5e50379.jpg",
+          "views": 158262,
+          "danmaku": 733,
+          "url": "https://www.bilibili.com/video/BV1rVrnBbEnm"
+        },
+        {
+          "bvid": "BV1xQKAe4EpE",
+          "title": "【高考系统课】90分钟讲透「气温」，保姆式讲完！",
+          "duration": 5462,
+          "pubdate": 1739538000,
+          "cover": "https://i0.hdslb.com/bfs/archive/6c4bce2b206e2baca983273c58f48a39458d24ba.jpg",
+          "views": 173236,
+          "danmaku": 1590,
+          "url": "https://www.bilibili.com/video/BV1xQKAe4EpE"
+        },
+        {
+          "bvid": "BV1uzAZeVEV6",
+          "title": "【高考系统课】关于「温差」！高考考点都在这里！",
+          "duration": 2926,
+          "pubdate": 1740141691,
+          "cover": "https://i2.hdslb.com/bfs/archive/47ce9a2412a372c38bf9a0657ab97cf05936854a.jpg",
+          "views": 76044,
+          "danmaku": 583,
+          "url": "https://www.bilibili.com/video/BV1uzAZeVEV6"
+        },
+        {
+          "bvid": "BV1wV6qB6Exh",
+          "title": "【高考系统课】降水！高考重点！一个视频吃透",
+          "duration": 3425,
+          "pubdate": 1769860800,
+          "cover": "https://i2.hdslb.com/bfs/archive/cda920b68617f54202aba960cf55c1b353859c7c.jpg",
+          "views": 115406,
+          "danmaku": 325,
+          "url": "https://www.bilibili.com/video/BV1wV6qB6Exh"
+        },
+        {
+          "bvid": "BV1cV6qB6EZp",
+          "title": "【高考系统课】要学积雪别害怕！一个视频包全会！",
+          "duration": 2379,
+          "pubdate": 1769911200,
+          "cover": "https://i0.hdslb.com/bfs/archive/53c1a10ae50cf87db026cb2e47170f869e5c1584.jpg",
+          "views": 104454,
+          "danmaku": 349,
+          "url": "https://www.bilibili.com/video/BV1cV6qB6EZp"
+        },
+        {
+          "bvid": "BV1hRzrBNEZT",
+          "title": "【高考系统课】高考热点！全球气候类型！保姆级零基础讲解！",
+          "duration": 4613,
+          "pubdate": 1769256000,
+          "cover": "https://i0.hdslb.com/bfs/archive/7300e017fa07795b11e00f134a9a0bb248037fb3.jpg",
+          "views": 173756,
+          "danmaku": 1533,
+          "url": "https://www.bilibili.com/video/BV1hRzrBNEZT"
+        },
+        {
+          "bvid": "BV1GnzmBQEXp",
+          "title": "【高考系统课】非地带性气候！太姥姥级讲解！",
+          "duration": 4719,
+          "pubdate": 1769304589,
+          "cover": "https://i2.hdslb.com/bfs/archive/e580fd2327645a4e61207461e2b68b99bd3e5ef8.jpg",
+          "views": 132717,
+          "danmaku": 678,
+          "url": "https://www.bilibili.com/video/BV1GnzmBQEXp"
+        },
+        {
+          "bvid": "BV1wyh26mEsd",
+          "title": "【高考系统课】气候！考点题型篇！从基础到进阶！",
+          "duration": 4272,
+          "pubdate": 1790337600,
+          "cover": "https://i2.hdslb.com/bfs/archive/a21d3db98a1cd8523d6256e340f86778e3bba723.jpg",
+          "views": 71083,
+          "danmaku": 243,
+          "url": "https://www.bilibili.com/video/BV1wyh26mEsd"
+        },
+        {
+          "bvid": "BV1FmFCzgEhR",
+          "title": "【高考系统课】冷暖锋！用一哥杰哥干仗给你讲透！",
+          "duration": 2774,
+          "pubdate": 1770465600,
+          "cover": "https://i2.hdslb.com/bfs/archive/bca76f7f8c7287bd54c4fb07ffc04846477415af.jpg",
+          "views": 162629,
+          "danmaku": 1402,
+          "url": "https://www.bilibili.com/video/BV1FmFCzgEhR"
+        },
+        {
+          "bvid": "BV1GtFsz3E9D",
+          "title": "【高考系统课】准静止锋！一个视频彻底吃透！",
+          "duration": 1443,
+          "pubdate": 1770516000,
+          "cover": "https://i0.hdslb.com/bfs/archive/83df2be6b3b028eb0b8fc30b68c22b84199b7a37.jpg",
+          "views": 128848,
+          "danmaku": 708,
+          "url": "https://www.bilibili.com/video/BV1GtFsz3E9D"
+        },
+        {
+          "bvid": "BV1ZacjzbEKn",
+          "title": "【高考系统课】气旋与反气旋！一课搞定！",
+          "duration": 1500,
+          "pubdate": 1771070400,
+          "cover": "https://i0.hdslb.com/bfs/archive/b7ada793c070237f67a3099ca073bfbbc2d52fc4.jpg",
+          "views": 150343,
+          "danmaku": 835,
+          "url": "https://www.bilibili.com/video/BV1ZacjzbEKn"
+        },
+        {
+          "bvid": "BV1q9ADzFE8f",
+          "title": "【高考系统课】热带气旋学不会？明天我就站着睡！",
+          "duration": 1436,
+          "pubdate": 1772280000,
+          "cover": "https://i2.hdslb.com/bfs/archive/b0285df2b0293a057081d6019214fbad2ab09836.jpg",
+          "views": 131963,
+          "danmaku": 846,
+          "url": "https://www.bilibili.com/video/BV1q9ADzFE8f"
+        },
+        {
+          "bvid": "BV1VqPyz6EcJ",
+          "title": "【高考系统课】锋面气旋！用一哥和杰哥夺嫡帮你讲懂！",
+          "duration": 1969,
+          "pubdate": 1772802000,
+          "cover": "https://i2.hdslb.com/bfs/archive/9a4bb736f6e68c1a6b8fe6f0a76edea90c31fcab.jpg",
+          "views": 131961,
+          "danmaku": 894,
+          "url": "https://www.bilibili.com/video/BV1VqPyz6EcJ"
+        },
+        {
+          "bvid": "BV1vhPyzyEf8",
+          "title": "【高考系统课】锋面雨带移动难！冷冷出手不再烦！",
+          "duration": 1973,
+          "pubdate": 1772888400,
+          "cover": "https://i0.hdslb.com/bfs/archive/9026ac3de390bb8041ed865a331aa5b6750e1c65.jpg",
+          "views": 149269,
+          "danmaku": 760,
+          "url": "https://www.bilibili.com/video/BV1vhPyzyEf8"
+        },
+        {
+          "bvid": "BV1q9CQBJERK",
+          "title": "【高考系统课】内力与外力！零基础讲起！",
+          "duration": 1388,
+          "pubdate": 1763557200,
+          "cover": "https://i0.hdslb.com/bfs/archive/781fc0fecf3adb6ba10c856b65299c66739bd564.jpg",
+          "views": 162398,
+          "danmaku": 802,
+          "url": "https://www.bilibili.com/video/BV1q9CQBJERK"
+        },
+        {
+          "bvid": "BV1Hj2yBVEdD",
+          "title": "【高考系统课】岩石圈物质循环！姥姥级串讲！",
+          "duration": 2344,
+          "pubdate": 1765461600,
+          "cover": "https://i2.hdslb.com/bfs/archive/989e268eba95fa5bc3af7ce1ba1812d808f01e17.jpg",
+          "views": 150078,
+          "danmaku": 812,
+          "url": "https://www.bilibili.com/video/BV1Hj2yBVEdD"
+        },
+        {
+          "bvid": "BV1v8SMBBEoH",
+          "title": "【高考系统课】板块运动！从基础到通关！",
+          "duration": 3401,
+          "pubdate": 1764252000,
+          "cover": "https://i1.hdslb.com/bfs/archive/531a68d5c420fbb73625e8ff8d9ba0d0e7bc71df.jpg",
+          "views": 130385,
+          "danmaku": 574,
+          "url": "https://www.bilibili.com/video/BV1v8SMBBEoH"
+        },
+        {
+          "bvid": "BV1mkSKBQEVD",
+          "title": "【高考系统课】难点！地质构造！一网打尽",
+          "duration": 3694,
+          "pubdate": 1764856800,
+          "cover": "https://i1.hdslb.com/bfs/archive/375739f3c8074181890f553b164d0cba6e3d75ba.jpg",
+          "views": 157469,
+          "danmaku": 780,
+          "url": "https://www.bilibili.com/video/BV1mkSKBQEVD"
+        },
+        {
+          "bvid": "BV13m7J69EZo",
+          "title": "【高考系统课】植被核心考点！一次性讲透！上集！",
+          "duration": 2386,
+          "pubdate": 1782561600,
+          "cover": "https://i0.hdslb.com/bfs/archive/256522c2faf114ea7110f6046028c9da3f5979bd.jpg",
+          "views": 92417,
+          "danmaku": 581,
+          "url": "https://www.bilibili.com/video/BV13m7J69EZo"
+        },
+        {
+          "bvid": "BV1BuTE6eE3Q",
+          "title": "【高考系统课】植被核心考点！一次性讲透！下集！",
+          "duration": 3051,
+          "pubdate": 1783166400,
+          "cover": "https://i1.hdslb.com/bfs/archive/a8f133e2491c8ebdc77f2be3f57d8eb696d65faa.jpg",
+          "views": 86253,
+          "danmaku": 611,
+          "url": "https://www.bilibili.com/video/BV1BuTE6eE3Q"
+        },
+        {
+          "bvid": "BV1r9Nc6XEBG",
+          "title": "【高考系统课】史上最干！成土因素与过程考点！1小时全覆盖",
+          "duration": 3799,
+          "pubdate": 1783771200,
+          "cover": "https://i0.hdslb.com/bfs/archive/c20803c8378ec2ceba0aa20eb395e219513006f3.jpg",
+          "views": 91308,
+          "danmaku": 782,
+          "url": "https://www.bilibili.com/video/BV1r9Nc6XEBG"
+        },
+        {
+          "bvid": "BV1aAKw66ENK",
+          "title": "【高考系统课】土壤剖面！保姆级讲解",
+          "duration": 2165,
+          "pubdate": 1784376000,
+          "cover": "https://i2.hdslb.com/bfs/archive/87fd49b5b9f2ceadfd1101fd00d88d0a17f01a42.jpg",
+          "views": 85290,
+          "danmaku": 650,
+          "url": "https://www.bilibili.com/video/BV1aAKw66ENK"
+        },
+        {
+          "bvid": "BV1PG3M64EgL",
+          "title": "【高考系统课】高考热门！土壤的理化性质！1小时讲透！",
+          "duration": 3269,
+          "pubdate": 1784980800,
+          "cover": "https://i2.hdslb.com/bfs/archive/691f57b4ae41f75571281fc4eec3bc3be4cd055f.jpg",
+          "views": 78798,
+          "danmaku": 591,
+          "url": "https://www.bilibili.com/video/BV1PG3M64EgL"
+        },
+        {
+          "bvid": "BV1wDGg6AEG8",
+          "title": "【高考系统课】土壤的功能与养护！史诗级讲解！",
+          "duration": 3149,
+          "pubdate": 1785585600,
+          "cover": "https://i0.hdslb.com/bfs/archive/b56e6a3ac92e58df1e9086a2eb673d2307d099df.jpg",
+          "views": 76047,
+          "danmaku": 529,
+          "url": "https://www.bilibili.com/video/BV1wDGg6AEG8"
+        },
+        {
+          "bvid": "BV1Z2uM6LEfe",
+          "title": "【高考系统课】地域分异规律！一口气串讲！",
+          "duration": 2762,
+          "pubdate": 1786190400,
+          "cover": "https://i2.hdslb.com/bfs/archive/7dfa88d0396889b17273f50f41a8957bb6f07313.jpg",
+          "views": 77137,
+          "danmaku": 548,
+          "url": "https://www.bilibili.com/video/BV1Z2uM6LEfe"
+        },
+        {
+          "bvid": "BV1Epgw6aEfU",
+          "title": "【高考系统课】垂直地域分异规律！封神级讲解",
+          "duration": 3640,
+          "pubdate": 1786795200,
+          "cover": "https://i0.hdslb.com/bfs/archive/59ce3c097a3ffd9c894ec995dbb0edcc2ce19506.jpg",
+          "views": 75884,
+          "danmaku": 460,
+          "url": "https://www.bilibili.com/video/BV1Epgw6aEfU"
+        },
+        {
+          "bvid": "BV1UA826QEcF",
+          "title": "【高考系统课】林线与雪线！零基础串讲",
+          "duration": 2199,
+          "pubdate": 1787400000,
+          "cover": "https://i1.hdslb.com/bfs/archive/89fe3d3a8c89ac5293ba3dbc0c2a34b1ceb305df.jpg",
+          "views": 71086,
+          "danmaku": 380,
+          "url": "https://www.bilibili.com/video/BV1UA826QEcF"
+        },
+        {
+          "bvid": "BV1X4PTeGEDK",
+          "title": "【高考系统课】人文地理正式开更啦！人口分布方法大总结！",
+          "duration": 4024,
+          "pubdate": 1740229200,
+          "cover": "https://i2.hdslb.com/bfs/archive/f78c9325ff3f04ee4251815d19849a1e03d4e492.jpg",
+          "views": 141098,
+          "danmaku": 1694,
+          "url": "https://www.bilibili.com/video/BV1X4PTeGEDK"
+        },
+        {
+          "bvid": "BV1Sn9GYxEyZ",
+          "title": "必看！人口数量和人口结构全剖析【高考系统课】",
+          "duration": 3767,
+          "pubdate": 1740747600,
+          "cover": "https://i1.hdslb.com/bfs/archive/5b7dbbe07774a082a7ca916b554f2d1b81b3b692.jpg",
+          "views": 64002,
+          "danmaku": 965,
+          "url": "https://www.bilibili.com/video/BV1Sn9GYxEyZ"
+        },
+        {
+          "bvid": "BV1KM9mYHEmp",
+          "title": "【高考系统课】人口统计图的判读！满分大全！",
+          "duration": 1904,
+          "pubdate": 1741352400,
+          "cover": "https://i1.hdslb.com/bfs/archive/cbda66d2f1c55052b309dc01f34de79c96db9597.jpg",
+          "views": 55349,
+          "danmaku": 440,
+          "url": "https://www.bilibili.com/video/BV1KM9mYHEmp"
+        },
+        {
+          "bvid": "BV1HKQSYCEgh",
+          "title": "【0基础 学人文】1小时人口迁移大串讲！来啦！",
+          "duration": 3419,
+          "pubdate": 1742043600,
+          "cover": "https://i2.hdslb.com/bfs/archive/46321036fb09be3d7fc17c39cea4038c56f3ad3f.jpg",
+          "views": 103278,
+          "danmaku": 1203,
+          "url": "https://www.bilibili.com/video/BV1HKQSYCEgh"
+        },
+        {
+          "bvid": "BV1GHuGzFEHS",
+          "title": "【高考系统课】2小时农业大串讲！一口气带你学透农业！",
+          "duration": 8627,
+          "pubdate": 1752325200,
+          "cover": "https://i2.hdslb.com/bfs/archive/e1449975ca089cb9c2ef0d2995ca5f82f2a32e62.jpg",
+          "views": 220419,
+          "danmaku": 3171,
+          "url": "https://www.bilibili.com/video/BV1GHuGzFEHS"
+        },
+        {
+          "bvid": "BV1uebSzVEWT",
+          "title": "【高考系统课】2小时工业大串讲！保姆级梳理",
+          "duration": 7871,
+          "pubdate": 1753448400,
+          "cover": "https://i0.hdslb.com/bfs/archive/19111940159ba571b43c9fa4c7cf7923db51e9da.jpg",
+          "views": 168190,
+          "danmaku": 2156,
+          "url": "https://www.bilibili.com/video/BV1uebSzVEWT"
+        },
+        {
+          "bvid": "BV1jwhhz3Enx",
+          "title": "【高考系统课】1小时服务业大串讲！一站式讲懂！",
+          "duration": 2963,
+          "pubdate": 1754139600,
+          "cover": "https://i2.hdslb.com/bfs/archive/a51a3c6b4a512c2d2924b38bb3f3848efc2a7131.jpg",
+          "views": 159029,
+          "danmaku": 1453,
+          "url": "https://www.bilibili.com/video/BV1jwhhz3Enx"
+        },
+        {
+          "bvid": "BV17Uaz6RE6W",
+          "title": "【高中地理】产业大串讲！高考超高频！详细到爆！上集！",
+          "duration": 3762,
+          "pubdate": 1790856000,
+          "cover": "https://i2.hdslb.com/bfs/archive/a842d86788879d52d2de9f99e5dbb6b3694e7e6a.jpg",
+          "views": 54537,
+          "danmaku": 178,
+          "url": "https://www.bilibili.com/video/BV17Uaz6RE6W"
+        }
+      ]
+    },
+    {
+      "season_id": 1612888,
+      "title": "冷冷老师生活·Vlog",
+      "intro": "冷冷老师的无聊生活~",
+      "cover": "https://archive.biliimg.com/bfs/archive/f81ed1fb251f3798e6bae23cf10095c936220055.jpg",
+      "total": 14,
+      "fetched": 14,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1r34y1Z76c",
+          "title": "惊！某校园区up竟然当众表白粉丝！",
+          "duration": 406,
+          "pubdate": 1674723600,
+          "cover": "https://i1.hdslb.com/bfs/archive/e5ee2cb4947563f3d6bcbbeef3458f705a6457ee.jpg",
+          "views": 243067,
+          "danmaku": 682,
+          "url": "https://www.bilibili.com/video/BV1r34y1Z76c"
+        },
+        {
+          "bvid": "BV14D4y1y7S1",
+          "title": "一地er揭面！为啥叫冷冷？【第一次读评论】",
+          "duration": 669,
+          "pubdate": 1664975100,
+          "cover": "https://i2.hdslb.com/bfs/archive/cb3a986c0fe41c8f5749df1ddfbf3a33dad6c4e3.jpg",
+          "views": 652141,
+          "danmaku": 1366,
+          "url": "https://www.bilibili.com/video/BV14D4y1y7S1"
+        },
+        {
+          "bvid": "BV1rW4y1p7hH",
+          "title": "当地理老师用塞尔达教学！地貌的观察【必修一】",
+          "duration": 5766,
+          "pubdate": 1669986300,
+          "cover": "https://i1.hdslb.com/bfs/archive/6df58763871d7428e15baf55d0b219bc55e1efb2.jpg",
+          "views": 233371,
+          "danmaku": 1034,
+          "url": "https://www.bilibili.com/video/BV1rW4y1p7hH"
+        },
+        {
+          "bvid": "BV1uN411z7Mi",
+          "title": "字不好看？设备升级啦！快来看看看不看得清？",
+          "duration": 168,
+          "pubdate": 1691758800,
+          "cover": "https://i2.hdslb.com/bfs/archive/bdf8652d858f4423acfc927cb312003afadc04b5.jpg",
+          "views": 78397,
+          "danmaku": 607,
+          "url": "https://www.bilibili.com/video/BV1uN411z7Mi"
+        },
+        {
+          "bvid": "BV1gu4y1i7Hj",
+          "title": "寻夏之旅!七夕和地理老师出游是什么体验？",
+          "duration": 119,
+          "pubdate": 1692709200,
+          "cover": "https://i0.hdslb.com/bfs/archive/536cc91ee98a2535b5fece16237e3fca43f02519.jpg",
+          "views": 87953,
+          "danmaku": 97,
+          "url": "https://www.bilibili.com/video/BV1gu4y1i7Hj"
+        },
+        {
+          "bvid": "BV1de411r7BT",
+          "title": "真心话？悄悄告诉你一系列老师的小秘密！",
+          "duration": 502,
+          "pubdate": 1703426400,
+          "cover": "https://i2.hdslb.com/bfs/archive/dedbc94877f978234a85f97c58df8fe6e3b5e775.jpg",
+          "views": 103478,
+          "danmaku": 582,
+          "url": "https://www.bilibili.com/video/BV1de411r7BT"
+        },
+        {
+          "bvid": "BV11fC9Y5EZz",
+          "title": "上地理课带学生唱歌？是教材逼我这么干的！",
+          "duration": 183,
+          "pubdate": 1729342800,
+          "cover": "https://i2.hdslb.com/bfs/archive/20fcc8272119511279a8b876152e3b1730145194.jpg",
+          "views": 214246,
+          "danmaku": 167,
+          "url": "https://www.bilibili.com/video/BV11fC9Y5EZz"
+        },
+        {
+          "bvid": "BV1H6DzY2ECo",
+          "title": "热力环流真存在？一个实验带你证明！",
+          "duration": 88,
+          "pubdate": 1731157200,
+          "cover": "https://i0.hdslb.com/bfs/archive/c486295d12e18756614facc74d269568d5915423.jpg",
+          "views": 56965,
+          "danmaku": 67,
+          "url": "https://www.bilibili.com/video/BV1H6DzY2ECo"
+        },
+        {
+          "bvid": "BV1tdmZYqEUh",
+          "title": "上课带学生玩玩具？只能怪等压面知识太抽象！【实体演示】",
+          "duration": 181,
+          "pubdate": 1731722400,
+          "cover": "https://i0.hdslb.com/bfs/archive/171f801a15ad38268260b67df7de63d198355171.jpg",
+          "views": 39872,
+          "danmaku": 90,
+          "url": "https://www.bilibili.com/video/BV1tdmZYqEUh"
+        },
+        {
+          "bvid": "BV19vF8ehEhF",
+          "title": "冷冷老师跳舞？只为送地瓜们...",
+          "duration": 15,
+          "pubdate": 1738137600,
+          "cover": "https://i1.hdslb.com/bfs/archive/ce337cedb7c0e594010908dc7cf18756504e818f.jpg",
+          "views": 51782,
+          "danmaku": 35,
+          "url": "https://www.bilibili.com/video/BV19vF8ehEhF"
+        },
+        {
+          "bvid": "BV1obi5BxED4",
+          "title": "我被采访啦！",
+          "duration": 1129,
+          "pubdate": 1767267000,
+          "cover": "https://i2.hdslb.com/bfs/archive/eadf4170dba14584a11c380f90c642402f783bc5.jpg",
+          "views": 227347,
+          "danmaku": 680,
+          "url": "https://www.bilibili.com/video/BV1obi5BxED4"
+        },
+        {
+          "bvid": "BV1bJZVBFEi2",
+          "title": "我！放！假！啦！",
+          "duration": 325,
+          "pubdate": 1771329600,
+          "cover": "https://i0.hdslb.com/bfs/archive/02416db616b0b25ecdf1197385e68f562e1e8f1c.jpg",
+          "views": 116077,
+          "danmaku": 121,
+          "url": "https://www.bilibili.com/video/BV1bJZVBFEi2"
+        },
+        {
+          "bvid": "BV1W8fJB6EFa",
+          "title": "2025年度挚爱读信 | 深情版！送给我最亲爱的小地瓜！",
+          "duration": 301,
+          "pubdate": 1771677364,
+          "cover": "https://i2.hdslb.com/bfs/archive/4832d54229d50f8c8a8706f2e9ce1efdea416b33.jpg",
+          "views": 101533,
+          "danmaku": 56,
+          "url": "https://www.bilibili.com/video/BV1W8fJB6EFa"
+        },
+        {
+          "bvid": "BV1W4ac6xE2x",
+          "title": "我！被！拍！成！英！文！片！啦！",
+          "duration": 268,
+          "pubdate": 1790254800,
+          "cover": "https://i0.hdslb.com/bfs/archive/58bf2b7040291338ce85bd84db14d0264660a9b9.jpg",
+          "views": 63609,
+          "danmaku": 220,
+          "url": "https://www.bilibili.com/video/BV1W4ac6xE2x"
+        }
+      ]
+    },
+    {
+      "season_id": 815046,
+      "title": "高中地理选必一（人教版）",
+      "intro": "地理选择性必修一（人教版），其他版本完全可以看，只有顺序差异。\n适用对象：选必一同步，高三一轮复习。",
+      "cover": "https://archive.biliimg.com/bfs/archive/3cd82ddccd363b7154a60db8ba6d944af47bfe71.jpg",
+      "total": 33,
+      "fetched": 33,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1kuetzSEgN",
+          "title": "Ta来啦！选必一2026版！正式更新啦！地球的自转！保姆级讲解！",
+          "duration": 2278,
+          "pubdate": 1755867600,
+          "cover": "https://i2.hdslb.com/bfs/archive/3f86714d9319d4b4ccdfa35260dacb113e034678.jpg",
+          "views": 1258320,
+          "danmaku": 7040,
+          "url": "https://www.bilibili.com/video/BV1kuetzSEgN"
+        },
+        {
+          "bvid": "BV15z4C6SEy8",
+          "title": "Ta来了！选必一2026版！地球的自转！考点题型篇！开更啦！手把手教你做题！",
+          "duration": 2099,
+          "pubdate": 1788008400,
+          "cover": "https://i0.hdslb.com/bfs/archive/8a584b878edb230657c2f2fa266677c43f02accf.jpg",
+          "views": 130829,
+          "danmaku": 747,
+          "url": "https://www.bilibili.com/video/BV15z4C6SEy8"
+        },
+        {
+          "bvid": "BV1BeavzfE6e",
+          "title": "【选必一】地球的公转！零基础直接入门！",
+          "duration": 2012,
+          "pubdate": 1757163600,
+          "cover": "https://i0.hdslb.com/bfs/archive/061f9be12db766ff0643edfdf7b644f8cb0fa400.jpg",
+          "views": 461580,
+          "danmaku": 4747,
+          "url": "https://www.bilibili.com/video/BV1BeavzfE6e"
+        },
+        {
+          "bvid": "BV18Atm69EDK",
+          "title": "【选必一】地球的公转！考点题型篇！一网打尽！",
+          "duration": 1127,
+          "pubdate": 1788609600,
+          "cover": "https://i1.hdslb.com/bfs/archive/c450b776229348588045059c21b9bb343f5de553.jpg",
+          "views": 81101,
+          "danmaku": 328,
+          "url": "https://www.bilibili.com/video/BV18Atm69EDK"
+        },
+        {
+          "bvid": "BV1YKp3ztED4",
+          "title": "【选必一】超难！黄赤交角与太阳直射点！姥姥级讲解！",
+          "duration": 3785,
+          "pubdate": 1757680723,
+          "cover": "https://i1.hdslb.com/bfs/archive/9115600b673ed4bbcc7256482bf0d30815e82bdb.jpg",
+          "views": 460488,
+          "danmaku": 4447,
+          "url": "https://www.bilibili.com/video/BV1YKp3ztED4"
+        },
+        {
+          "bvid": "BV1JThqzwEPZ",
+          "title": "【选必一】晨昏线学不懂？一个视频带你拿下！",
+          "duration": 2781,
+          "pubdate": 1756558800,
+          "cover": "https://i1.hdslb.com/bfs/archive/14ba1c3d942a4de0ccc30c2a86cff0107aeac68f.jpg",
+          "views": 431782,
+          "danmaku": 3896,
+          "url": "https://www.bilibili.com/video/BV1JThqzwEPZ"
+        },
+        {
+          "bvid": "BV19iHHz9EEq",
+          "title": "【选必一】时间计算大电影！3小时带你从入门到精通！",
+          "duration": 10557,
+          "pubdate": 1759320000,
+          "cover": "https://i2.hdslb.com/bfs/archive/111ae925e67066bb6c415a0d66c4d9dcec2839c5.jpg",
+          "views": 508662,
+          "danmaku": 12107,
+          "url": "https://www.bilibili.com/video/BV19iHHz9EEq"
+        },
+        {
+          "bvid": "BV1dSeb6cErE",
+          "title": "【选必一】日期计算！考点题型篇！全是技巧！",
+          "duration": 3430,
+          "pubdate": 1789819200,
+          "cover": "https://i0.hdslb.com/bfs/archive/09776c08692253922ec2e7c1dc28e4378482acf5.jpg",
+          "views": 81074,
+          "danmaku": 397,
+          "url": "https://www.bilibili.com/video/BV1dSeb6cErE"
+        },
+        {
+          "bvid": "BV1ivpXzUEmm",
+          "title": "【选必一】1小时串讲！昼夜长短所有问题！姥爷级讲解！",
+          "duration": 4178,
+          "pubdate": 1758373200,
+          "cover": "https://i2.hdslb.com/bfs/archive/b339250b348cd2940735acb82677f4d23adb416f.jpg",
+          "views": 275487,
+          "danmaku": 2624,
+          "url": "https://www.bilibili.com/video/BV1ivpXzUEmm"
+        },
+        {
+          "bvid": "BV11Z1MByEAb",
+          "title": "【选必一】2小时！正午太阳高度角！史诗级讲解！",
+          "duration": 8436,
+          "pubdate": 1761915600,
+          "cover": "https://i1.hdslb.com/bfs/archive/296b2c7035f86064f150cfc0e55404273c5f1291.jpg",
+          "views": 246585,
+          "danmaku": 2628,
+          "url": "https://www.bilibili.com/video/BV11Z1MByEAb"
+        },
+        {
+          "bvid": "BV1u7HTz6E9N",
+          "title": "【选必一】超高频考点！太阳方位与太阳视运动！太奶级讲解！",
+          "duration": 5533,
+          "pubdate": 1759579200,
+          "cover": "https://i0.hdslb.com/bfs/archive/c8042299ea95e6d4b7b38c31f61b00fc62f77388.jpg",
+          "views": 267938,
+          "danmaku": 2260,
+          "url": "https://www.bilibili.com/video/BV1u7HTz6E9N"
+        },
+        {
+          "bvid": "BV1Jc1jBdEDy",
+          "title": "【选必一】地球公转大总结！四季交替和五带划分！",
+          "duration": 1788,
+          "pubdate": 1762002000,
+          "cover": "https://i2.hdslb.com/bfs/archive/867faa520723b951370272ccc591e7919fa188ff.jpg",
+          "views": 140467,
+          "danmaku": 544,
+          "url": "https://www.bilibili.com/video/BV1Jc1jBdEDy"
+        },
+        {
+          "bvid": "BV1qkC1BYErT",
+          "title": "【选必一】地貌一章！Ta来啦！内力与外力！一个视频搞懂！",
+          "duration": 1387,
+          "pubdate": 1763211600,
+          "cover": "https://i1.hdslb.com/bfs/archive/cb738ebf7ff0f5e288b3c046ef2fc97f1d3e938d.jpg",
+          "views": 233483,
+          "danmaku": 1783,
+          "url": "https://www.bilibili.com/video/BV1qkC1BYErT"
+        },
+        {
+          "bvid": "BV14h2sBwE1V",
+          "title": "【选必一】岩石圈物质循环！重点难点全梳理！",
+          "duration": 2345,
+          "pubdate": 1765022400,
+          "cover": "https://i2.hdslb.com/bfs/archive/b1f7c4a59280d2a6a4dcfeb31f63d67c074e282c.jpg",
+          "views": 213352,
+          "danmaku": 1727,
+          "url": "https://www.bilibili.com/video/BV14h2sBwE1V"
+        },
+        {
+          "bvid": "BV1eZSFB7E8b",
+          "title": "【选必一】难点！地质构造！用火腿肠和饼干给你讲透！",
+          "duration": 3695,
+          "pubdate": 1764420000,
+          "cover": "https://i0.hdslb.com/bfs/archive/5297069e5352609b57301fb90437f4dab903a5ee.jpg",
+          "views": 214234,
+          "danmaku": 1601,
+          "url": "https://www.bilibili.com/video/BV1eZSFB7E8b"
+        },
+        {
+          "bvid": "BV1SyUsBuEBA",
+          "title": "【选必一】板块运动！超详细！一课搞定！",
+          "duration": 3395,
+          "pubdate": 1763812800,
+          "cover": "https://i2.hdslb.com/bfs/archive/b9294f22261cdef3ff0bcab06424fb7a8d88cf01.jpg",
+          "views": 163842,
+          "danmaku": 1094,
+          "url": "https://www.bilibili.com/video/BV1SyUsBuEBA"
+        },
+        {
+          "bvid": "BV1Sv4y157pL",
+          "title": "地质过程看到就懵？神奇解法20分钟让你顿悟！【重难点小专题】",
+          "duration": 1671,
+          "pubdate": 1679716800,
+          "cover": "https://i1.hdslb.com/bfs/archive/9ea65f77d64058d1c4dfb40a4160e2c8b10962f4.jpg",
+          "views": 870073,
+          "danmaku": 7815,
+          "url": "https://www.bilibili.com/video/BV1Sv4y157pL"
+        },
+        {
+          "bvid": "BV1Qb4y1M7HJ",
+          "title": "【选必一】外力作用！超高频考点！彻底讲透！",
+          "duration": 2192,
+          "pubdate": 1700312400,
+          "cover": "https://i0.hdslb.com/bfs/archive/f1e14b65dd9c4f1ce1c654747f263fa9d8796ea0.jpg",
+          "views": 408641,
+          "danmaku": 4840,
+          "url": "https://www.bilibili.com/video/BV1Qb4y1M7HJ"
+        },
+        {
+          "bvid": "BV1m94y1P7ex",
+          "title": "【高考难点】冰川地貌最详细版！30分钟速通",
+          "duration": 1653,
+          "pubdate": 1702173600,
+          "cover": "https://i1.hdslb.com/bfs/archive/77b74ad5b59b173346d26b2f356779c80d494f33.jpg",
+          "views": 380491,
+          "danmaku": 2457,
+          "url": "https://www.bilibili.com/video/BV1m94y1P7ex"
+        },
+        {
+          "bvid": "BV1Cb4y157F9",
+          "title": "河流袭夺！最最详细版！20分钟从基础到满分！",
+          "duration": 1433,
+          "pubdate": 1702778400,
+          "cover": "https://i0.hdslb.com/bfs/archive/81154fb2353c2e80f0d97901ac459de97558d39a.jpg",
+          "views": 332759,
+          "danmaku": 1993,
+          "url": "https://www.bilibili.com/video/BV1Cb4y157F9"
+        },
+        {
+          "bvid": "BV1sC4y1D7vu",
+          "title": "河漫滩|河流阶地|侵蚀基准面|全网最透彻版本！",
+          "duration": 1989,
+          "pubdate": 1703384734,
+          "cover": "https://i0.hdslb.com/bfs/archive/395f5cc554d8872fcef1e8da584e0c2766d99a89.jpg",
+          "views": 341949,
+          "danmaku": 4254,
+          "url": "https://www.bilibili.com/video/BV1sC4y1D7vu"
+        },
+        {
+          "bvid": "BV1Yr421W7sb",
+          "title": "【高考冲刺】冲积扇！全部考点！一网打尽|高二高三",
+          "duration": 2280,
+          "pubdate": 1709384400,
+          "cover": "https://i2.hdslb.com/bfs/archive/98a9014b8020a5ac240f3c3b936186f88f080625.jpg",
+          "views": 230372,
+          "danmaku": 1578,
+          "url": "https://www.bilibili.com/video/BV1Yr421W7sb"
+        },
+        {
+          "bvid": "BV1Ny421i7nt",
+          "title": "堆积地貌大题不会做？用三角洲给你讲透！【高考冲刺】",
+          "duration": 2096,
+          "pubdate": 1710594000,
+          "cover": "https://i0.hdslb.com/bfs/archive/b3c6499f7c1bc6a1da5e57766158483e68cbc20e.jpg",
+          "views": 196522,
+          "danmaku": 1438,
+          "url": "https://www.bilibili.com/video/BV1Ny421i7nt"
+        },
+        {
+          "bvid": "BV16R4y167X2",
+          "title": "【高二高三】气旋反气旋！一地er牌学渣救星",
+          "duration": 2070,
+          "pubdate": 1671715800,
+          "cover": "https://i0.hdslb.com/bfs/archive/a7cab9381688d948fdc6a5f42ecc8e5548abfabf.jpg",
+          "views": 1108199,
+          "danmaku": 9974,
+          "url": "https://www.bilibili.com/video/BV16R4y167X2"
+        },
+        {
+          "bvid": "BV1D24y1m7Qs",
+          "title": "冷暖锋，高考大热点！用一哥和杰哥干仗比喻！",
+          "duration": 2379,
+          "pubdate": 1672320600,
+          "cover": "https://i2.hdslb.com/bfs/archive/6c5d2b64214e2874a38c5bbe71768ebedcd8a330.jpg",
+          "views": 735637,
+          "danmaku": 8264,
+          "url": "https://www.bilibili.com/video/BV1D24y1m7Qs"
+        },
+        {
+          "bvid": "BV1WR4y1m7z2",
+          "title": "准静止锋难？一哥杰哥再干一架搞懂【高二高三】",
+          "duration": 1782,
+          "pubdate": 1673010000,
+          "cover": "https://i1.hdslb.com/bfs/archive/9665cebcd71f56ff40220cddec56b1288c65d0d8.jpg",
+          "views": 416090,
+          "danmaku": 4269,
+          "url": "https://www.bilibili.com/video/BV1WR4y1m7z2"
+        },
+        {
+          "bvid": "BV1Cv4y1y7h2",
+          "title": "锋面气旋，高考大热门！20分钟讲透【高二高三】",
+          "duration": 1270,
+          "pubdate": 1673697600,
+          "cover": "https://i0.hdslb.com/bfs/archive/4b0fa0b945b6aa45e9803d916d82673e87eec869.jpg",
+          "views": 818739,
+          "danmaku": 3553,
+          "url": "https://www.bilibili.com/video/BV1Cv4y1y7h2"
+        },
+        {
+          "bvid": "BV1Zyq6BNEiE",
+          "title": "【选必一】三圈环流！用一哥上天给你讲服！",
+          "duration": 2664,
+          "pubdate": 1766282400,
+          "cover": "https://i2.hdslb.com/bfs/archive/4516f658d510a46f7230ee88dcc22e7a07d7f6df.jpg",
+          "views": 183431,
+          "danmaku": 1139,
+          "url": "https://www.bilibili.com/video/BV1Zyq6BNEiE"
+        },
+        {
+          "bvid": "BV1qpBiBoEmv",
+          "title": "【选必一】季风环流！一条逻辑线给你讲透！",
+          "duration": 4458,
+          "pubdate": 1766756307,
+          "cover": "https://i1.hdslb.com/bfs/archive/5face34e08401542af28053ff684a625e8c91833.jpg",
+          "views": 174629,
+          "danmaku": 1050,
+          "url": "https://www.bilibili.com/video/BV1qpBiBoEmv"
+        },
+        {
+          "bvid": "BV1dD4y1A7GK",
+          "title": "陆地水体关系混乱？15分钟带你彻底捋清逻辑",
+          "duration": 982,
+          "pubdate": 1676171990,
+          "cover": "https://i1.hdslb.com/bfs/archive/d62455a456fce967915ad94ff3fbea3cd4c0fbad.jpg",
+          "views": 399712,
+          "danmaku": 1599,
+          "url": "https://www.bilibili.com/video/BV1dD4y1A7GK"
+        },
+        {
+          "bvid": "BV1eo4y1h7v9",
+          "title": "要学洋流别害怕！一个视频包学会！【重难点小专题】",
+          "duration": 2910,
+          "pubdate": 1677382547,
+          "cover": "https://i1.hdslb.com/bfs/archive/ff59f9739fee71bc9692450a4412566540c3adc3.jpg",
+          "views": 917467,
+          "danmaku": 7649,
+          "url": "https://www.bilibili.com/video/BV1eo4y1h7v9"
+        },
+        {
+          "bvid": "BV1QB4y1Z7EJ",
+          "title": "【选必一】高考新宠！海气相互作用！学完就会",
+          "duration": 1558,
+          "pubdate": 1697288400,
+          "cover": "https://i1.hdslb.com/bfs/archive/f374e9faeb6d6fe031b00fe8e8a8831523ee2e14.jpg",
+          "views": 454313,
+          "danmaku": 2084,
+          "url": "https://www.bilibili.com/video/BV1QB4y1Z7EJ"
+        },
+        {
+          "bvid": "BV17C4y137Ht",
+          "title": "新高考难点！厄尔尼诺与拉尼娜！这是解药【选必一 + 一轮复习】",
+          "duration": 1902,
+          "pubdate": 1697893200,
+          "cover": "https://i2.hdslb.com/bfs/archive/47c2e9d0725a87e094ff939387d30757e01b8675.jpg",
+          "views": 653390,
+          "danmaku": 4343,
+          "url": "https://www.bilibili.com/video/BV17C4y137Ht"
+        }
+      ]
+    },
+    {
+      "season_id": 655210,
+      "title": "高中地理必修一（人教版）",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/c941df5125361c0a1c52b53078e3cd2d0e398ac6.jpg",
+      "total": 33,
+      "fetched": 33,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1TfHSeAELK",
+          "title": "【必修一】2025版开更啦！宇宙中的地球超详细版本",
+          "duration": 2314,
+          "pubdate": 1725627600,
+          "cover": "https://i2.hdslb.com/bfs/archive/cafef8e4cc36eedfe6ca96e4bb87617b038bff31.jpg",
+          "views": 946522,
+          "danmaku": 7884,
+          "url": "https://www.bilibili.com/video/BV1TfHSeAELK"
+        },
+        {
+          "bvid": "BV1m8tA64ETu",
+          "title": "Ta来了！必修一2026版！地球的宇宙环境！考点题型篇！开更啦！手把手教你做题！",
+          "duration": 2159,
+          "pubdate": 1787922000,
+          "cover": "https://i1.hdslb.com/bfs/archive/85ab4841d773608b43f1dfb85e12b701e84ca8f0.jpg",
+          "views": 93892,
+          "danmaku": 618,
+          "url": "https://www.bilibili.com/video/BV1m8tA64ETu"
+        },
+        {
+          "bvid": "BV1dGtKeTEFR",
+          "title": "【必修一】《太阳对地球的影响》超详细版本",
+          "duration": 1744,
+          "pubdate": 1726316825,
+          "cover": "https://i0.hdslb.com/bfs/archive/bb0225616eb195c2a7e8b9f95d0ec991445f6d1d.jpg",
+          "views": 293468,
+          "danmaku": 4201,
+          "url": "https://www.bilibili.com/video/BV1dGtKeTEFR"
+        },
+        {
+          "bvid": "BV1hTtB6FEVy",
+          "title": "【必修一】太阳对地球的影响！考点题型篇！满分速通！",
+          "duration": 1908,
+          "pubdate": 1788526350,
+          "cover": "https://i2.hdslb.com/bfs/archive/35412b01000906feb6f079c058b69a6491059513.jpg",
+          "views": 87923,
+          "danmaku": 301,
+          "url": "https://www.bilibili.com/video/BV1hTtB6FEVy"
+        },
+        {
+          "bvid": "BV13p25Y7EFE",
+          "title": "【必修一】地质年代表难背会？一首歌让你记忆翻倍",
+          "duration": 2175,
+          "pubdate": 1728784800,
+          "cover": "https://i0.hdslb.com/bfs/archive/2c86a9fb15c24e5b523b00d3ff47b25747332783.jpg",
+          "views": 259392,
+          "danmaku": 3730,
+          "url": "https://www.bilibili.com/video/BV13p25Y7EFE"
+        },
+        {
+          "bvid": "BV1ijYL6pEey",
+          "title": "【必修一】地球的历史！考点题型篇！一次性讲透！",
+          "duration": 1965,
+          "pubdate": 1789131600,
+          "cover": "https://i2.hdslb.com/bfs/archive/59be191b301eceee7978d35d3bae0c1cb97f0c82.jpg",
+          "views": 80986,
+          "danmaku": 297,
+          "url": "https://www.bilibili.com/video/BV1ijYL6pEey"
+        },
+        {
+          "bvid": "BV1kDC1YmE79",
+          "title": "【必修一】地球圈层结构学不懂？一个视频搞定",
+          "duration": 1677,
+          "pubdate": 1729256400,
+          "cover": "https://i1.hdslb.com/bfs/archive/d179a141a091149b0faaa1f221a88be187634996.jpg",
+          "views": 239088,
+          "danmaku": 2710,
+          "url": "https://www.bilibili.com/video/BV1kDC1YmE79"
+        },
+        {
+          "bvid": "BV1ooey6rEAY",
+          "title": "【必修一】地球的圈层结构！考点题型篇！全是技巧！",
+          "duration": 1983,
+          "pubdate": 1789736400,
+          "cover": "https://i0.hdslb.com/bfs/archive/afb82affdc5127d1bfbb8f69fda5259faf34e22c.jpg",
+          "views": 82803,
+          "danmaku": 266,
+          "url": "https://www.bilibili.com/video/BV1ooey6rEAY"
+        },
+        {
+          "bvid": "BV1Jty2YjEcU",
+          "title": "必修一最难一章学不会？1小时保姆级讲解带你搞懂！",
+          "duration": 3182,
+          "pubdate": 1729861200,
+          "cover": "https://i1.hdslb.com/bfs/archive/78b96ea53a4fdbb6f9a7836ae824793073f2a1b7.jpg",
+          "views": 311302,
+          "danmaku": 3600,
+          "url": "https://www.bilibili.com/video/BV1Jty2YjEcU"
+        },
+        {
+          "bvid": "BV1G34y1G7VC",
+          "title": "【必修一】最难一章来袭！大气组成|考点篇！",
+          "duration": 733,
+          "pubdate": 1697202000,
+          "cover": "https://i1.hdslb.com/bfs/archive/787fef2a0b5409beec0c51c0f58878e2182a6e56.jpg",
+          "views": 350316,
+          "danmaku": 2113,
+          "url": "https://www.bilibili.com/video/BV1G34y1G7VC"
+        },
+        {
+          "bvid": "BV1jvSfYZEdK",
+          "title": "必修一最难一节！大气受热过程！80分钟超详细版！",
+          "duration": 4744,
+          "pubdate": 1730512800,
+          "cover": "https://i2.hdslb.com/bfs/archive/39c4ea386ca7dcc36ce2caa4b07946d9acdadbc3.jpg",
+          "views": 339486,
+          "danmaku": 4380,
+          "url": "https://www.bilibili.com/video/BV1jvSfYZEdK"
+        },
+        {
+          "bvid": "BV1284y1d7rq",
+          "title": "【必修一】大气受热过程！神奇解法，清晰到爆！",
+          "duration": 2016,
+          "pubdate": 1697806800,
+          "cover": "https://i1.hdslb.com/bfs/archive/197c8c0edd57168a5c2489459ae53b2498f29d7c.jpg",
+          "views": 393087,
+          "danmaku": 2842,
+          "url": "https://www.bilibili.com/video/BV1284y1d7rq"
+        },
+        {
+          "bvid": "BV1esmfYmEz4",
+          "title": "热力环流！史上最详细讲法！超值保姆级讲解！",
+          "duration": 4558,
+          "pubdate": 1731675900,
+          "cover": "https://i2.hdslb.com/bfs/archive/319581a982afeafdec91a48feb52131d12241cb3.jpg",
+          "views": 246004,
+          "danmaku": 3873,
+          "url": "https://www.bilibili.com/video/BV1esmfYmEz4"
+        },
+        {
+          "bvid": "BV1sB4y1d7jB",
+          "title": "【必修一】高一重难点突破！热力环流，学完必会！考点篇",
+          "duration": 2162,
+          "pubdate": 1698411600,
+          "cover": "https://i2.hdslb.com/bfs/archive/ea48068bd55384f2d47a38cc2171e3b3760f5055.jpg",
+          "views": 358304,
+          "danmaku": 2504,
+          "url": "https://www.bilibili.com/video/BV1sB4y1d7jB"
+        },
+        {
+          "bvid": "BV1tizzYFE1p",
+          "title": "必修一最难一节！等压线与风没学懂？来听总结！",
+          "duration": 2616,
+          "pubdate": 1732885200,
+          "cover": "https://i2.hdslb.com/bfs/archive/146fe555434fab36a4c7d097624cc5acfa5cbd10.jpg",
+          "views": 224675,
+          "danmaku": 2652,
+          "url": "https://www.bilibili.com/video/BV1tizzYFE1p"
+        },
+        {
+          "bvid": "BV1tg4y197tt",
+          "title": "【必修一】高一最难点！等压线判读！考点篇",
+          "duration": 1536,
+          "pubdate": 1699621200,
+          "cover": "https://i2.hdslb.com/bfs/archive/d634514052c42bf55e88d6a36a97c952d6fa66d8.jpg",
+          "views": 285382,
+          "danmaku": 4679,
+          "url": "https://www.bilibili.com/video/BV1tg4y197tt"
+        },
+        {
+          "bvid": "BV1nNizY6EAS",
+          "title": "【必修一】水篇开更啦！一个视频讲透水循环！",
+          "duration": 2927,
+          "pubdate": 1733490000,
+          "cover": "https://i0.hdslb.com/bfs/archive/c2c7b9f1efe7259a8b3e8c85a7430a1aff1ff2b2.jpg",
+          "views": 239622,
+          "danmaku": 3101,
+          "url": "https://www.bilibili.com/video/BV1nNizY6EAS"
+        },
+        {
+          "bvid": "BV1rj411E7Dn",
+          "title": "【必修一】水循环考点！30分钟让你考试满分！",
+          "duration": 1687,
+          "pubdate": 1700227841,
+          "cover": "https://i2.hdslb.com/bfs/archive/fc0fb5e2d9a2e6120e9e2a4314fb77c2d92a2dd7.jpg",
+          "views": 227103,
+          "danmaku": 1456,
+          "url": "https://www.bilibili.com/video/BV1rj411E7Dn"
+        },
+        {
+          "bvid": "BV14M411C7uy",
+          "title": "【必修一】海水性质！40分钟，从入门到精通",
+          "duration": 2757,
+          "pubdate": 1668778200,
+          "cover": "https://i1.hdslb.com/bfs/archive/31513ed0d11b11fca5d1478d9b2fee9f23cd38ff.jpg",
+          "views": 813599,
+          "danmaku": 11236,
+          "url": "https://www.bilibili.com/video/BV14M411C7uy"
+        },
+        {
+          "bvid": "BV1ZD4y1e7PT",
+          "title": "【必修一】海水的运动！方法、题型，框架梳理！",
+          "duration": 2566,
+          "pubdate": 1669377600,
+          "cover": "https://i1.hdslb.com/bfs/archive/3fed5b350f034d02d1d69e46986ea1a027b58442.jpg",
+          "views": 616360,
+          "danmaku": 9365,
+          "url": "https://www.bilibili.com/video/BV1ZD4y1e7PT"
+        },
+        {
+          "bvid": "BV1Je411N7w1",
+          "title": "【直播回放】喀斯特地貌！手把手开窍【必修一】",
+          "duration": 3842,
+          "pubdate": 1670126700,
+          "cover": "https://i2.hdslb.com/bfs/archive/594499ce781574bfa2051c4b2ef50385dac1d414.jpg",
+          "views": 722190,
+          "danmaku": 10846,
+          "url": "https://www.bilibili.com/video/BV1Je411N7w1"
+        },
+        {
+          "bvid": "BV1re411f7xt",
+          "title": "【必修一】最难一章！学“喀斯特”之前，请看这！",
+          "duration": 1700,
+          "pubdate": 1700913600,
+          "cover": "https://i0.hdslb.com/bfs/archive/39b6f0102630cc957ea12677b35e1210af634c9d.jpg",
+          "views": 269428,
+          "danmaku": 1740,
+          "url": "https://www.bilibili.com/video/BV1re411f7xt"
+        },
+        {
+          "bvid": "BV1eW4y1T7LU",
+          "title": "【必修一】河流地貌来袭！切个面包给你搞懂！",
+          "duration": 3076,
+          "pubdate": 1671283800,
+          "cover": "https://i0.hdslb.com/bfs/archive/eddbe9ba84730b9025a727582327d5a7e27de608.jpg",
+          "views": 683080,
+          "danmaku": 7854,
+          "url": "https://www.bilibili.com/video/BV1eW4y1T7LU"
+        },
+        {
+          "bvid": "BV1kH4y117FL",
+          "title": "【必修一】河流地貌！期末考试大题就考“它”",
+          "duration": 1653,
+          "pubdate": 1701522000,
+          "cover": "https://i1.hdslb.com/bfs/archive/a48f1eb2524572cdf13979e70d31eda44d32f47e.jpg",
+          "views": 278226,
+          "danmaku": 1393,
+          "url": "https://www.bilibili.com/video/BV1kH4y117FL"
+        },
+        {
+          "bvid": "BV1p24y1Q7TD",
+          "title": "【直播回放】风沙地貌！能考的全在这【必修一】",
+          "duration": 2297,
+          "pubdate": 1670677200,
+          "cover": "https://i1.hdslb.com/bfs/archive/4fce211acd76f9a9029e3294c91654dbb818a0b9.jpg",
+          "views": 377398,
+          "danmaku": 3910,
+          "url": "https://www.bilibili.com/video/BV1p24y1Q7TD"
+        },
+        {
+          "bvid": "BV1U44y1m75R",
+          "title": "【直播回放】海岸地貌！15分钟速通【必修一】",
+          "duration": 901,
+          "pubdate": 1670720400,
+          "cover": "https://i1.hdslb.com/bfs/archive/d988714702fb789dba613b86b410dcdec4c89427.jpg",
+          "views": 285119,
+          "danmaku": 1718,
+          "url": "https://www.bilibili.com/video/BV1U44y1m75R"
+        },
+        {
+          "bvid": "BV1R84y1t7dD",
+          "title": "【必修一】地貌的观察！从头开讲，一步到位！",
+          "duration": 2085,
+          "pubdate": 1671197400,
+          "cover": "https://i0.hdslb.com/bfs/archive/cb0b6486d328403e198e04aed69bf2394a547235.jpg",
+          "views": 318791,
+          "danmaku": 4846,
+          "url": "https://www.bilibili.com/video/BV1R84y1t7dD"
+        },
+        {
+          "bvid": "BV1eG4y177cS",
+          "title": "【必修一】植被学不会？来用一哥发型做个比喻！",
+          "duration": 2454,
+          "pubdate": 1671868800,
+          "cover": "https://i2.hdslb.com/bfs/archive/c8208f343d27ea4116f7665b6b84ce0c05fc82f6.jpg",
+          "views": 467849,
+          "danmaku": 5950,
+          "url": "https://www.bilibili.com/video/BV1eG4y177cS"
+        },
+        {
+          "bvid": "BV1ab4y1L7m9",
+          "title": "【必修一】植被！史上最详细版！看完期末满分！",
+          "duration": 1947,
+          "pubdate": 1702126800,
+          "cover": "https://i0.hdslb.com/bfs/archive/a5d5e393c6623be1caa0ed268b664e59f04c5970.jpg",
+          "views": 233412,
+          "danmaku": 1733,
+          "url": "https://www.bilibili.com/video/BV1ab4y1L7m9"
+        },
+        {
+          "bvid": "BV1V3411Q7xg",
+          "title": "【必修一】土壤内容太多太杂？口诀大法包会！【直播回放】",
+          "duration": 3510,
+          "pubdate": 1671931800,
+          "cover": "https://i2.hdslb.com/bfs/archive/9ff4b7fc25378174787bfbea516ed86465537f00.jpg",
+          "views": 543929,
+          "danmaku": 9534,
+          "url": "https://www.bilibili.com/video/BV1V3411Q7xg"
+        },
+        {
+          "bvid": "BV1pa4y1R7nT",
+          "title": "【必修一】土壤！必会技巧！一般人都不知道！",
+          "duration": 2345,
+          "pubdate": 1702731600,
+          "cover": "https://i0.hdslb.com/bfs/archive/16d1e6866f998d064784a952e340769e3768655d.jpg",
+          "views": 226225,
+          "danmaku": 1229,
+          "url": "https://www.bilibili.com/video/BV1pa4y1R7nT"
+        },
+        {
+          "bvid": "BV1E24y1e7ZN",
+          "title": "【必修一】完结篇！用火影忍者来讲自然灾害！",
+          "duration": 5161,
+          "pubdate": 1673139600,
+          "cover": "https://i2.hdslb.com/bfs/archive/6d337b11b3d37d4226c0b2827dbe67d601189398.jpg",
+          "views": 372194,
+          "danmaku": 7531,
+          "url": "https://www.bilibili.com/video/BV1E24y1e7ZN"
+        },
+        {
+          "bvid": "BV18a4y167GU",
+          "title": "【必修一】气象灾害公式法！30分钟清晰到爆",
+          "duration": 1973,
+          "pubdate": 1703336400,
+          "cover": "https://i2.hdslb.com/bfs/archive/d17e936d11776a5804f35045bd589a2220e1c5a0.jpg",
+          "views": 164707,
+          "danmaku": 938,
+          "url": "https://www.bilibili.com/video/BV18a4y167GU"
+        }
+      ]
+    },
+    {
+      "season_id": 1612896,
+      "title": "听歌学地理",
+      "intro": "地理类原创歌曲！魔性洗脑！",
+      "cover": "https://archive.biliimg.com/bfs/archive/a995185ab745cec4bb394ffaf08c893eeb99d3cb.jpg",
+      "total": 3,
+      "fetched": 3,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1uP411j7q3",
+          "title": "地图咋背？魔性洗脑！中国地理地图！【纯享版】",
+          "duration": 145,
+          "pubdate": 1660644026,
+          "cover": "https://i2.hdslb.com/bfs/archive/19f9f129dafda678ff59c90c2e8870c2592bd397.jpg",
+          "views": 1075657,
+          "danmaku": 1058,
+          "url": "https://www.bilibili.com/video/BV1uP411j7q3"
+        },
+        {
+          "bvid": "BV1SP4y1o7aD",
+          "title": "爱你！❤ 但是地理版，魔性洗脑【纯享版】",
+          "duration": 184,
+          "pubdate": 1662260107,
+          "cover": "https://i0.hdslb.com/bfs/archive/a53197a1b3378dc07a9ffcc0cf46f11487e0fd7f.jpg",
+          "views": 925914,
+          "danmaku": 1651,
+          "url": "https://www.bilibili.com/video/BV1SP4y1o7aD"
+        },
+        {
+          "bvid": "BV1fm421g7YN",
+          "title": "⚡土⚡妃⚡",
+          "duration": 220,
+          "pubdate": 1723294800,
+          "cover": "https://i0.hdslb.com/bfs/archive/5fe51dcd4cb18a79f8c5d9fb3acfb7c6a8173099.jpg",
+          "views": 177442,
+          "danmaku": 633,
+          "url": "https://www.bilibili.com/video/BV1fm421g7YN"
+        }
+      ]
+    },
+    {
+      "season_id": 2976259,
+      "title": "2024·最后七课",
+      "intro": "2024年高考最后7课合集，看这里！",
+      "cover": "https://archive.biliimg.com/bfs/archive/8eea68c0f311e2f9023ec98ac5de53c99d426f4e.jpg",
+      "total": 15,
+      "fetched": 15,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1S142167v3",
+          "title": "【最后7课】大气篇！2024高考冲刺！",
+          "duration": 2915,
+          "pubdate": 1714832012,
+          "cover": "https://i2.hdslb.com/bfs/archive/20ecbff809bf4a05ef0521379e3e8e076984d0a0.jpg",
+          "views": 630781,
+          "danmaku": 4684,
+          "url": "https://www.bilibili.com/video/BV1S142167v3"
+        },
+        {
+          "bvid": "BV1zw4m197GG",
+          "title": "【最后7课】气候天气篇（上）！2024高考冲刺！",
+          "duration": 2894,
+          "pubdate": 1715434750,
+          "cover": "https://i1.hdslb.com/bfs/archive/bd044ee5c4c3a7de891eb296ffab8e34e2c93e0d.jpg",
+          "views": 279852,
+          "danmaku": 2447,
+          "url": "https://www.bilibili.com/video/BV1zw4m197GG"
+        },
+        {
+          "bvid": "BV1DJ4m1A7d4",
+          "title": "【最后7课】气候天气篇（下）！2024高考冲刺！",
+          "duration": 3614,
+          "pubdate": 1715608800,
+          "cover": "https://i0.hdslb.com/bfs/archive/70df4f55d981f02d39764054d39f52636c00e969.jpg",
+          "views": 161556,
+          "danmaku": 1801,
+          "url": "https://www.bilibili.com/video/BV1DJ4m1A7d4"
+        },
+        {
+          "bvid": "BV1Ny411e7PP",
+          "title": "【最后7课】地貌篇（上）！2024高考冲刺！",
+          "duration": 2655,
+          "pubdate": 1716037200,
+          "cover": "https://i0.hdslb.com/bfs/archive/54a13478f63baf279554e729b00f173cbb01f1de.jpg",
+          "views": 241791,
+          "danmaku": 2338,
+          "url": "https://www.bilibili.com/video/BV1Ny411e7PP"
+        },
+        {
+          "bvid": "BV1kH4y1u7iy",
+          "title": "【最后7课】地貌篇（中）！喀斯特、风沙、冰川地貌！",
+          "duration": 1717,
+          "pubdate": 1716213600,
+          "cover": "https://i0.hdslb.com/bfs/archive/06316fda0c10e9030e42b0ffe5c87f7f8987e67a.jpg",
+          "views": 147449,
+          "danmaku": 1086,
+          "url": "https://www.bilibili.com/video/BV1kH4y1u7iy"
+        },
+        {
+          "bvid": "BV15w4m1D7j9",
+          "title": "【最后7课】地貌篇（下）！河流、海岸地貌！",
+          "duration": 2147,
+          "pubdate": 1716472800,
+          "cover": "https://i1.hdslb.com/bfs/archive/a4bf40d1e9e42e230b7160646dd386a839d1c2e0.jpg",
+          "views": 106286,
+          "danmaku": 841,
+          "url": "https://www.bilibili.com/video/BV15w4m1D7j9"
+        },
+        {
+          "bvid": "BV1nJ4m1375T",
+          "title": "【最后7课】水文篇（上）！水循环、河流！",
+          "duration": 2553,
+          "pubdate": 1716642000,
+          "cover": "https://i1.hdslb.com/bfs/archive/e42a64388a59e19f0515b3ba24bf6085d1141a69.jpg",
+          "views": 165564,
+          "danmaku": 1369,
+          "url": "https://www.bilibili.com/video/BV1nJ4m1375T"
+        },
+        {
+          "bvid": "BV1Tb421B7nW",
+          "title": "【最后7课】水文篇（下）！湖泊湿地、流域内协调发展！",
+          "duration": 2661,
+          "pubdate": 1716730200,
+          "cover": "https://i0.hdslb.com/bfs/archive/978810f1d2426e55c1b99c373d96fe7e95a31399.jpg",
+          "views": 121959,
+          "danmaku": 902,
+          "url": "https://www.bilibili.com/video/BV1Tb421B7nW"
+        },
+        {
+          "bvid": "BV1q7421o7Fi",
+          "title": "【最后7课】整体性差异性篇（上）！植被考点！",
+          "duration": 1134,
+          "pubdate": 1717160400,
+          "cover": "https://i2.hdslb.com/bfs/archive/3478ea5438fff7fefedc2ee36e952a75700f7d73.jpg",
+          "views": 229489,
+          "danmaku": 1115,
+          "url": "https://www.bilibili.com/video/BV1q7421o7Fi"
+        },
+        {
+          "bvid": "BV1wz421h7cx",
+          "title": "【最后7课】整体性差异性篇（中）！土壤考点！",
+          "duration": 1966,
+          "pubdate": 1717246800,
+          "cover": "https://i1.hdslb.com/bfs/archive/93e506a92bc4aeb4769be12bab315ec622832870.jpg",
+          "views": 131376,
+          "danmaku": 1140,
+          "url": "https://www.bilibili.com/video/BV1wz421h7cx"
+        },
+        {
+          "bvid": "BV1Qf421Q7gq",
+          "title": "【最后7课】整体性差异性篇（下）！",
+          "duration": 1345,
+          "pubdate": 1717293600,
+          "cover": "https://i2.hdslb.com/bfs/archive/12d7e3a152ab38eb3ff44dfeab325ee271b6482f.jpg",
+          "views": 110044,
+          "danmaku": 1061,
+          "url": "https://www.bilibili.com/video/BV1Qf421Q7gq"
+        },
+        {
+          "bvid": "BV1Bb421i7jZ",
+          "title": "【最后7课】国家安全篇（上）！",
+          "duration": 1808,
+          "pubdate": 1717419900,
+          "cover": "https://i1.hdslb.com/bfs/archive/30c7e49f088f6cf71c6ceeee7a6aa2e9f5505c4e.jpg",
+          "views": 145332,
+          "danmaku": 813,
+          "url": "https://www.bilibili.com/video/BV1Bb421i7jZ"
+        },
+        {
+          "bvid": "BV1kz421h74i",
+          "title": "【最后7课】国家安全篇（中）！",
+          "duration": 1266,
+          "pubdate": 1717506000,
+          "cover": "https://i2.hdslb.com/bfs/archive/9cd9592bc771342b230228a8c40795f64852a16f.jpg",
+          "views": 67395,
+          "danmaku": 340,
+          "url": "https://www.bilibili.com/video/BV1kz421h74i"
+        },
+        {
+          "bvid": "BV1Gb421e7PG",
+          "title": "【最后7课】国家安全篇（下）！",
+          "duration": 1807,
+          "pubdate": 1717510200,
+          "cover": "https://i2.hdslb.com/bfs/archive/b56aa06def7352a816c2e27d68e2221e6ed8fd6f.jpg",
+          "views": 80231,
+          "danmaku": 414,
+          "url": "https://www.bilibili.com/video/BV1Gb421e7PG"
+        },
+        {
+          "bvid": "BV1Ai421U7sd",
+          "title": "【最后1课】人文篇！送给烤地瓜最后的礼物！",
+          "duration": 7096,
+          "pubdate": 1717761600,
+          "cover": "https://i2.hdslb.com/bfs/archive/782aca2ed3341f294aa1b7d7e40f1c6f2e3460a2.jpg",
+          "views": 296283,
+          "danmaku": 3529,
+          "url": "https://www.bilibili.com/video/BV1Ai421U7sd"
+        }
+      ]
+    },
+    {
+      "season_id": 567518,
+      "title": "地理学习方法 | 长期更新",
+      "intro": "学习地理必看秘籍 ，一定要多看几遍，一般人我不告诉ta！！！",
+      "cover": "https://archive.biliimg.com/bfs/archive/57e5cb663fe0132794dbcf43db340dfa7b4ea203.jpg",
+      "total": 11,
+      "fetched": 11,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1YG411p7o1",
+          "title": "【地理方法】地理基础差？地理没上80+必看",
+          "duration": 995,
+          "pubdate": 1657882261,
+          "cover": "https://i1.hdslb.com/bfs/archive/38b613d7a1b634779fe4f62c1bdcff5d6acc7c0b.jpg",
+          "views": 1328280,
+          "danmaku": 6469,
+          "url": "https://www.bilibili.com/video/BV1YG411p7o1"
+        },
+        {
+          "bvid": "BV1TF411A7s3",
+          "title": "【干货】同样做错题本，为啥就你考不了高分？",
+          "duration": 1785,
+          "pubdate": 1659011422,
+          "cover": "https://i0.hdslb.com/bfs/archive/49f5b4dfe549f3a27cbbcf9466753e7959d342b1.jpg",
+          "views": 301114,
+          "danmaku": 3730,
+          "url": "https://www.bilibili.com/video/BV1TF411A7s3"
+        },
+        {
+          "bvid": "BV1XY4y1F7sW",
+          "title": "地图咋背？魔性洗脑！中国地理地图！【干货】",
+          "duration": 736,
+          "pubdate": 1660213791,
+          "cover": "https://i1.hdslb.com/bfs/archive/9c6f0902345285f91d7c04e8065f53683cb2eb2b.jpg",
+          "views": 463914,
+          "danmaku": 1450,
+          "url": "https://www.bilibili.com/video/BV1XY4y1F7sW"
+        },
+        {
+          "bvid": "BV1gy4y1d7tP",
+          "title": "你的地理，为啥学成了玄学？17min明悟地理学习法则",
+          "duration": 1049,
+          "pubdate": 1674464400,
+          "cover": "https://i0.hdslb.com/bfs/archive/e1e464ab7111aa4316711830b2ceb512be43f8cd.jpg",
+          "views": 449626,
+          "danmaku": 1874,
+          "url": "https://www.bilibili.com/video/BV1gy4y1d7tP"
+        },
+        {
+          "bvid": "BV1CG4y1Q7Hr",
+          "title": "干货!886!地理大题底层逻辑！手把手教你分析材料",
+          "duration": 2476,
+          "pubdate": 1674896400,
+          "cover": "https://i0.hdslb.com/bfs/archive/20b7e57cc367136e4da8fbe6bb0cef3fe7dd81a6.jpg",
+          "views": 3097337,
+          "danmaku": 21978,
+          "url": "https://www.bilibili.com/video/BV1CG4y1Q7Hr"
+        },
+        {
+          "bvid": "BV18T411h7pg",
+          "title": "题刷刷！手把手，带你做最新地理大题！",
+          "duration": 1488,
+          "pubdate": 1682911200,
+          "cover": "https://i1.hdslb.com/bfs/archive/8a9f8e3847cf3770cb54ee16685f192c58567a9c.jpg",
+          "views": 470431,
+          "danmaku": 1907,
+          "url": "https://www.bilibili.com/video/BV18T411h7pg"
+        },
+        {
+          "bvid": "BV1SL411v7No",
+          "title": "【最后叮嘱】高考心态崩了咋整?四个故事让你最牛心态取高分！",
+          "duration": 577,
+          "pubdate": 1685975382,
+          "cover": "https://i2.hdslb.com/bfs/archive/64175ab876fb4a96e639ef79b67c1bcced5a0910.jpg",
+          "views": 140846,
+          "danmaku": 333,
+          "url": "https://www.bilibili.com/video/BV1SL411v7No"
+        },
+        {
+          "bvid": "BV18F411X7tP",
+          "title": "地理暑假想弯道超车？冷冷老师手把手帮你规划！",
+          "duration": 942,
+          "pubdate": 1688907493,
+          "cover": "https://i1.hdslb.com/bfs/archive/f8dc4f1dd5bf31653e4353f838a0f9c90e35213e.jpg",
+          "views": 161573,
+          "danmaku": 789,
+          "url": "https://www.bilibili.com/video/BV18F411X7tP"
+        },
+        {
+          "bvid": "BV1Zh4y127JT",
+          "title": "高一地理开更啦！高中地理怎么学？新高一必看！",
+          "duration": 1370,
+          "pubdate": 1693569600,
+          "cover": "https://i0.hdslb.com/bfs/archive/e62e113e0efb94c27c476b5ce9200705baae8c98.jpg",
+          "views": 86736,
+          "danmaku": 324,
+          "url": "https://www.bilibili.com/video/BV1Zh4y127JT"
+        },
+        {
+          "bvid": "BV1UK4y1i7eC",
+          "title": "高考选科!你被忽悠了吗？选科底层逻辑真相！",
+          "duration": 1698,
+          "pubdate": 1706265000,
+          "cover": "https://i2.hdslb.com/bfs/archive/b09b145cf65dd498bb60242b91f9d0dd6e4d7168.jpg",
+          "views": 567325,
+          "danmaku": 4419,
+          "url": "https://www.bilibili.com/video/BV1UK4y1i7eC"
+        },
+        {
+          "bvid": "BV1TJ4m1H7Ay",
+          "title": "高考最后50天！地理快速提分秘籍！看完必会",
+          "duration": 2775,
+          "pubdate": 1713665577,
+          "cover": "https://i2.hdslb.com/bfs/archive/15504c16e603673e19ac545e37b7bc69166a67b4.jpg",
+          "views": 303204,
+          "danmaku": 3072,
+          "url": "https://www.bilibili.com/video/BV1TJ4m1H7Ay"
+        }
+      ]
+    },
+    {
+      "season_id": 614211,
+      "title": "区域地理（涵盖所有）|长期更新",
+      "intro": "一口气相声版世界地理 + 中国地理合集",
+      "cover": "https://archive.biliimg.com/bfs/archive/4af5f91c16a58f5fe849b35a575e014cd0b897da.jpg",
+      "total": 7,
+      "fetched": 7,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1qa411D7pS",
+          "title": "东亚和日本 |一口气相声版【高考世界地理】",
+          "duration": 623,
+          "pubdate": 1658487600,
+          "cover": "https://i0.hdslb.com/bfs/archive/039e93f9b570341acdf5a30ad84e722a3553bbd9.jpg",
+          "views": 510159,
+          "danmaku": 2327,
+          "url": "https://www.bilibili.com/video/BV1qa411D7pS"
+        },
+        {
+          "bvid": "BV1uN4y1L7Mt",
+          "title": "没去过！东南亚？高考常考！赶紧看【世界地理】",
+          "duration": 705,
+          "pubdate": 1659097800,
+          "cover": "https://i1.hdslb.com/bfs/archive/0b21e31f7903741463795029db0a938e57c742e9.jpg",
+          "views": 280335,
+          "danmaku": 1455,
+          "url": "https://www.bilibili.com/video/BV1uN4y1L7Mt"
+        },
+        {
+          "bvid": "BV1mB4y147pF",
+          "title": "人口多！厕所少！干净卫生?高考爱考【世界地理】",
+          "duration": 828,
+          "pubdate": 1659699000,
+          "cover": "https://i1.hdslb.com/bfs/archive/c06db04de709736bcb94c4b83a9abf06e90a9938.jpg",
+          "views": 164528,
+          "danmaku": 1447,
+          "url": "https://www.bilibili.com/video/BV1mB4y147pF"
+        },
+        {
+          "bvid": "BV1ud4y1N7pw",
+          "title": "一口气高考地理 | he平精英西亚【区域地理】",
+          "duration": 1088,
+          "pubdate": 1660905765,
+          "cover": "https://i0.hdslb.com/bfs/archive/0033e3627e67411d077a3bf6f3a5eb3234e3b882.jpg",
+          "views": 260180,
+          "danmaku": 3799,
+          "url": "https://www.bilibili.com/video/BV1ud4y1N7pw"
+        },
+        {
+          "bvid": "BV1194y1B7Ki",
+          "title": "地理基础开更啦！关于中国，必需要掌握啥？",
+          "duration": 1237,
+          "pubdate": 1689426000,
+          "cover": "https://i0.hdslb.com/bfs/archive/33f3a45f2f8016649f149fc5277850730d8bca47.jpg",
+          "views": 216236,
+          "danmaku": 1033,
+          "url": "https://www.bilibili.com/video/BV1194y1B7Ki"
+        },
+        {
+          "bvid": "BV1ZW4y1d7HE",
+          "title": "【基础课】一口气记牢！中国各省省会和简称",
+          "duration": 1839,
+          "pubdate": 1690290000,
+          "cover": "https://i1.hdslb.com/bfs/archive/9c8311e808b9ec4e0f4147666043bc78053d2d35.jpg",
+          "views": 231731,
+          "danmaku": 2832,
+          "url": "https://www.bilibili.com/video/BV1ZW4y1d7HE"
+        },
+        {
+          "bvid": "BV1fG411f7ZQ",
+          "title": "别怕！这一个视频，足够让你牢记中国地图！",
+          "duration": 1183,
+          "pubdate": 1692363600,
+          "cover": "https://i0.hdslb.com/bfs/archive/ffd22f6fd6c2d63c86a54138770861a5019af77b.jpg",
+          "views": 187623,
+          "danmaku": 3422,
+          "url": "https://www.bilibili.com/video/BV1fG411f7ZQ"
+        }
+      ]
+    },
+    {
+      "season_id": 1172699,
+      "title": "高中地理必修二（人教版）",
+      "intro": "",
+      "cover": "https://archive.biliimg.com/bfs/archive/6d2d97188a8769210781ffbb5ab8b012a6491de5.jpg",
+      "total": 14,
+      "fetched": 14,
+      "truncated": false,
+      "videos": [
+        {
+          "bvid": "BV1Wy4y1X7au",
+          "title": "高中地理必修二开更啦！人口分布，0基础救星！",
+          "duration": 2062,
+          "pubdate": 1675242000,
+          "cover": "https://i2.hdslb.com/bfs/archive/b0bcb0b3d36e0d1f153d81e147caca896163c0fa.jpg",
+          "views": 1649938,
+          "danmaku": 9824,
+          "url": "https://www.bilibili.com/video/BV1Wy4y1X7au"
+        },
+        {
+          "bvid": "BV1hs4y1e7t1",
+          "title": "人口迁移解题没思路？从头开讲，一步到位！",
+          "duration": 2716,
+          "pubdate": 1676106000,
+          "cover": "https://i2.hdslb.com/bfs/archive/d769ce1fb1609cec10e521a058d59fafacc0947a.jpg",
+          "views": 439217,
+          "danmaku": 7992,
+          "url": "https://www.bilibili.com/video/BV1hs4y1e7t1"
+        },
+        {
+          "bvid": "BV1584y1n71X",
+          "title": "快学！人口容量！用一哥家装人搞懂【必修二】",
+          "duration": 1222,
+          "pubdate": 1677246600,
+          "cover": "https://i1.hdslb.com/bfs/archive/69074f2b3c4c390e9b50eed2e48eb6c154e86d4a.jpg",
+          "views": 323908,
+          "danmaku": 3591,
+          "url": "https://www.bilibili.com/video/BV1584y1n71X"
+        },
+        {
+          "bvid": "BV1rY4y127tF",
+          "title": "题刷刷|人文地理题玄学？八字箴言来解决！",
+          "duration": 2574,
+          "pubdate": 1677328200,
+          "cover": "https://i0.hdslb.com/bfs/archive/44feafc629c04f7ad7d6ed4e364f8cfe8d83feea.jpg",
+          "views": 347316,
+          "danmaku": 4130,
+          "url": "https://www.bilibili.com/video/BV1rY4y127tF"
+        },
+        {
+          "bvid": "BV1Dj411g7uY",
+          "title": "城市功能区不会？选址太难！一个视频带你学完【必修二】",
+          "duration": 3075,
+          "pubdate": 1677846975,
+          "cover": "https://i2.hdslb.com/bfs/archive/0060532a8af06040f531fb1bdece8065c0e4c28c.jpg",
+          "views": 445609,
+          "danmaku": 5171,
+          "url": "https://www.bilibili.com/video/BV1Dj411g7uY"
+        },
+        {
+          "bvid": "BV1z24y137p2",
+          "title": "学好城镇化！考试出啥都不怕！半小时速通【必修二】",
+          "duration": 1993,
+          "pubdate": 1677929400,
+          "cover": "https://i2.hdslb.com/bfs/archive/2a12a894bbefcdcb8eb995c8c2c7008e6a6311a0.jpg",
+          "views": 434521,
+          "danmaku": 4319,
+          "url": "https://www.bilibili.com/video/BV1z24y137p2"
+        },
+        {
+          "bvid": "BV1Fg4y1b7rc",
+          "title": "农业区位因素！详细到爆！帮你理清所有知识点【必修二】",
+          "duration": 2870,
+          "pubdate": 1678455858,
+          "cover": "https://i2.hdslb.com/bfs/archive/d53578bcc779422a2f9094ffbe5a5b2344e35841.jpg",
+          "views": 612348,
+          "danmaku": 5631,
+          "url": "https://www.bilibili.com/video/BV1Fg4y1b7rc"
+        },
+        {
+          "bvid": "BV1Jk4y147Qv",
+          "title": "高考地理想提20分？农业考点是制胜法宝【必修二】",
+          "duration": 2556,
+          "pubdate": 1679799156,
+          "cover": "https://i1.hdslb.com/bfs/archive/ac3e77a1b4d0765bc7bf7849ea1f3e11eff9a3a6.jpg",
+          "views": 322070,
+          "danmaku": 2872,
+          "url": "https://www.bilibili.com/video/BV1Jk4y147Qv"
+        },
+        {
+          "bvid": "BV1cg4y1G7Mx",
+          "title": "工业区位！保姆级讲解！用一哥进厂给你讲懂【必修二】",
+          "duration": 3199,
+          "pubdate": 1680269400,
+          "cover": "https://i1.hdslb.com/bfs/archive/da789c40b2c0820bf6c6f71ff4276af1f765466b.jpg",
+          "views": 398722,
+          "danmaku": 5029,
+          "url": "https://www.bilibili.com/video/BV1cg4y1G7Mx"
+        },
+        {
+          "bvid": "BV1qT41187AD",
+          "title": "工业区位考点！全题型总结！一个视频带你满分",
+          "duration": 2426,
+          "pubdate": 1682845200,
+          "cover": "https://i2.hdslb.com/bfs/archive/f21f20194f9c4c8ba9c210a25685efb94a716c4f.jpg",
+          "views": 231606,
+          "danmaku": 2559,
+          "url": "https://www.bilibili.com/video/BV1qT41187AD"
+        },
+        {
+          "bvid": "BV1BM4y127FU",
+          "title": "服务业区位因素！20分钟刷完基础到考点【必修二】",
+          "duration": 1368,
+          "pubdate": 1680339600,
+          "cover": "https://i0.hdslb.com/bfs/archive/baa9e6f498f5685c03557ed7dab91a0c0c78ed98.jpg",
+          "views": 269632,
+          "danmaku": 2527,
+          "url": "https://www.bilibili.com/video/BV1BM4y127FU"
+        },
+        {
+          "bvid": "BV1FX4y1C7gc",
+          "title": "交通运输区位！用一哥见网友给你讲懂【必修二】",
+          "duration": 2112,
+          "pubdate": 1680874200,
+          "cover": "https://i2.hdslb.com/bfs/archive/2ab4e839619938269ef38850e08ff381a141114c.jpg",
+          "views": 308726,
+          "danmaku": 4107,
+          "url": "https://www.bilibili.com/video/BV1FX4y1C7gc"
+        },
+        {
+          "bvid": "BV1G24y1L7bi",
+          "title": "高考意义类大题没思路?一个视频带你涨10分【必修二】",
+          "duration": 1594,
+          "pubdate": 1680944400,
+          "cover": "https://i0.hdslb.com/bfs/archive/74ca7307b730c91ecd5cb1e85f1636283eea813a.jpg",
+          "views": 234103,
+          "danmaku": 1918,
+          "url": "https://www.bilibili.com/video/BV1G24y1L7bi"
+        },
+        {
+          "bvid": "BV1Ug4y1G75N",
+          "title": "完结篇！揭露地理核心素养！高考提高20分！",
+          "duration": 2095,
+          "pubdate": 1683982800,
+          "cover": "https://i2.hdslb.com/bfs/archive/53b9b5aa04abe2c282963d450406aaca08232a71.jpg",
+          "views": 226243,
+          "danmaku": 2344,
+          "url": "https://www.bilibili.com/video/BV1Ug4y1G75N"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "collections": 10,
+    "videos": 265,
+    "truncated_collections": []
+  }
+}

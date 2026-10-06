@@ -1,5 +1,5 @@
 <!-- 自动生成，请勿手改：源文件是 resource-lab/index.html，由 make_pages.py 改写相对路径后生成 -->
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN" data-theme="auto">
 <head>
 <meta charset="utf-8">
@@ -77,7 +77,7 @@
   select option{background:var(--bg);color:var(--fg)}
   [data-theme="dark"] select,[data-theme="dark"] select option{background:#000;color:#f0f0f0}
   @media (prefers-color-scheme: dark){
-    [data-theme="auto"] select,[data-theme="auto"] select option{background:#000;color:#f0f0f0}
+    [data-theme="auto"] select,[data-theme="auto"] select option{color:#f0f0f0}
   }
   .mono{font-family:MiSans,"PingFang SC","Microsoft YaHei",system-ui,sans-serif;font-variant-numeric:tabular-nums}
   /* 撑满整个浏览器宽度：PC 上不再是一个居中的窄栏 */
@@ -102,6 +102,83 @@
     background:var(--fill);padding:9px 11px;border-radius:var(--r-md)}
   .msg{display:none;margin-top:12px;font-size:var(--fs-sm);border-left:2px solid var(--fg);padding-left:9px}
   .msg.on{display:block}
+
+  /* ---------- 概览（思维导图式索引） ---------- */
+  .ov{position:fixed;inset:0;z-index:60;background:var(--bg);display:flex;flex-direction:column;
+    max-width:100vw;overflow-x:hidden}
+  .ov[hidden]{display:none}
+  .ov-box{display:flex;flex-direction:column;min-height:0;min-width:0;height:100%;width:100%}
+  .ov-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+    padding:16px 26px;border-bottom:1px solid var(--line);min-width:0}
+  @media (min-width:1760px){ .ov-head{padding:16px 44px} }
+  .ov-head h2{margin:0;font-size:19px;font-weight:var(--fw-bold);letter-spacing:-.2px}
+  .ov-sub{color:var(--muted);font-size:var(--fs-sm)}
+  .ov-tools{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+  .ov-body{flex:1;min-height:0;min-width:0;overflow:auto;padding:22px 26px 34px}
+  @media (min-width:1760px){ .ov-body{padding:22px 44px 34px} }
+  .ov-foot{padding:12px 26px;border-top:1px solid var(--line);color:var(--muted);font-size:var(--fs-xs)}
+  @media (min-width:1760px){ .ov-foot{padding:12px 44px} }
+
+  /* 导图：学科 → UP 主 → 课程合集 / 主题分类，用左侧竖线 + 缩进表达层级 */
+  .mm-root{display:flex;flex-direction:column;gap:10px;min-width:0}
+  .mm-node{border:1px solid var(--line);border-radius:var(--r-md);background:var(--bg)}
+  .mm-node > .mm-row{display:flex;align-items:center;gap:10px;padding:11px 14px;cursor:pointer;
+    border-radius:var(--r-md);min-width:0}
+  .mm-node > .mm-row:hover{background:var(--fill)}
+  .mm-node.open > .mm-row{border-bottom:1px solid var(--line);border-radius:var(--r-md) var(--r-md) 0 0}
+  .mm-caret{flex:none;width:15px;text-align:center;color:var(--muted);font-size:var(--fs-xs);
+    transition:transform .16s;transform-origin:center}
+  .mm-node.open > .mm-row .mm-caret{transform:rotate(90deg)}
+  .mm-node.leaf > .mm-row{cursor:default}
+  .mm-node.leaf > .mm-row .mm-caret{visibility:hidden}
+  /* 名字允许收缩并省略，否则窄屏下会把右侧计数挤出屏幕 */
+  .mm-name{font-weight:var(--fw-demi);font-size:15px;min-width:0;overflow:hidden;
+    text-overflow:ellipsis;white-space:nowrap}
+  .mm-node.lv1 > .mm-row .mm-name{font-size:17px;font-weight:var(--fw-bold);letter-spacing:-.2px}
+  .mm-node.lv2 > .mm-row .mm-name{font-size:14.5px}
+  .mm-node.lv3 > .mm-row .mm-name{font-size:14px}
+  .mm-node.at-subject > .mm-row{background:var(--sel-bg);box-shadow:inset 3px 0 0 var(--sel-line)}
+  /* 徽标是次要信息，空间不够时优先让它们换行 / 隐藏 */
+  .mm-badge{flex:none;border:1px solid var(--line);border-radius:var(--r-sm);padding:1px 6px;
+    font-size:var(--fs-xs);letter-spacing:.04em;color:var(--muted);white-space:nowrap}
+  .mm-badge.solid{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+  .mm-count{margin-left:auto;flex:none;color:var(--muted);font-size:var(--fs-xs);
+    font-variant-numeric:tabular-nums;white-space:nowrap;padding-left:6px}
+  .mm-kids{display:none;flex-direction:column;gap:8px;padding:11px 14px 13px 30px;position:relative;
+    min-width:0}
+  .mm-node.open > .mm-kids{display:flex}
+  /* 层级竖线：只画在子节点左侧，最后一节收口 */
+  .mm-kids::before{content:"";position:absolute;left:17px;top:0;bottom:14px;width:1px;background:var(--line)}
+  .mm-kids > .mm-node{position:relative;min-width:0}
+  .mm-kids > .mm-node::before{content:"";position:absolute;left:-13px;top:22px;width:12px;height:1px;
+    background:var(--line)}
+  .mm-sec{color:var(--muted);font-size:var(--fs-xs);letter-spacing:.06em;margin:6px 0 0}
+  .mm-leaf-list{display:flex;flex-wrap:wrap;gap:7px;padding:2px 0 0;min-width:0}
+  /* 叶子标签名称也可能很长，同样允许收缩省略 */
+  .mm-leaf{border:1px solid var(--line);border-radius:var(--r-sm);padding:3px 9px;font-size:var(--fs-xs);
+    cursor:pointer;display:inline-flex;align-items:center;gap:6px;color:var(--fg);max-width:100%;
+    min-width:0;overflow-wrap:anywhere;text-align:left}
+  .mm-leaf:hover{border-color:var(--line-strong);background:var(--fill)}
+  .mm-leaf .n{color:var(--muted);font-variant-numeric:tabular-nums;flex:none}
+  /* 窄屏：缩进收窄、徽标减少占位，避免横向溢出 */
+  @media (max-width:620px){
+    .mm-node > .mm-row{padding:10px 11px;gap:8px}
+    .mm-kids{padding:10px 11px 11px 20px}
+    .mm-kids::before{left:11px}
+    .mm-kids > .mm-node::before{left:-9px;width:8px}
+    .mm-node.lv1 > .mm-row .mm-name{font-size:16px}
+    .mm-badge{display:none}
+    .mm-badge.solid{display:inline-block}
+    .ov-head{padding:14px 14px}
+    .ov-body{padding:16px 14px 26px}
+    .ov-foot{padding:10px 14px}
+  }
+  /* 「打开该 UP 主索引」：单独一颗按钮，避免和展开/收起抢点击 */
+  .mm-go{flex:none;border:1px solid var(--line);border-radius:var(--r-sm);padding:3px 9px;
+    font-size:var(--fs-xs);cursor:pointer;white-space:nowrap}
+  .mm-go:hover{border-color:var(--line-strong);background:var(--fill)}
+  .mm-empty{color:var(--muted);font-size:var(--fs-sm)}
+  body.ov-lock{overflow:hidden}
 
   /* ---------- 顶栏 ---------- */
   header{border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:10}
@@ -296,6 +373,7 @@
       <button id="btnUnseen" class="toggle">只看未看</button>
       <button id="btnStar" class="toggle">只看收藏</button>
       <button id="btnView" class="toggle">列表</button>
+      <button id="btnOverview" class="toggle">概览</button>
       <button id="btnAdd" class="toggle">+ 添加 UP 主</button>
     </div>
   </div>
@@ -333,6 +411,23 @@
     <div id="footInfo">—</div>
     <div>仅供个人学习整理 · 视频版权归原作者所有 · 点击卡片跳转到 B 站观看</div>
   </footer>
+</div>
+
+<!-- 概览：思维导图式索引。点「概览」打开，可展开到每个 UP 主，再点节点跳到对应筛选。 -->
+<div class="ov" id="ov" hidden>
+  <div class="ov-box" role="dialog" aria-modal="true" aria-labelledby="ovTitle">
+    <div class="ov-head">
+      <h2 id="ovTitle">资源概览</h2>
+      <span class="ov-sub" id="ovSub"></span>
+      <div class="ov-tools">
+        <button id="ovExpand">全部展开</button>
+        <button id="ovCollapse">全部收起</button>
+        <button id="ovClose">关闭</button>
+      </div>
+    </div>
+    <div class="ov-body" id="ovBody"></div>
+    <div class="ov-foot" id="ovFoot"></div>
+  </div>
 </div>
 
 <script src="resource-lab/data/resources.js"></script>
@@ -488,7 +583,139 @@
       courses: agg.courses, videos: videos
     };
   }
+  /* ----------------------------------------------------------------------
+     buildOverview(data)：把当前数据整理成一棵「思维导图索引」树，只读 data，不改它。
+       总览 → 学科(data.subjects 的顺序，只留有视频的) → UP 主 → {课程 / 主题分类}
+     时长文案一律走 humanDuration，保证和站点其它地方一字不差。
+     ====================================================================== */
+  function buildOverview(data) {
+    data = data || {};
+    var videos = data.videos || [];
+    var sources = data.sources || [];
+    var courses = data.courses || [];
+    var subjectList = data.subjects || [];
+
+    var totalSec = 0;
+    videos.forEach(function (v) { totalSec += (Number(v.duration) || 0); });
+
+    // --- 来源索引 & 视频归属；找不到的来源进 orphans.videos，不丢数据 ---
+    var srcById = {};
+    sources.forEach(function (s) { if (s && s.id != null) srcById[s.id] = s; });
+    var orphansVideos = 0;
+    var bySource = {};
+    videos.forEach(function (v) {
+      if (!srcById[v.source_id]) { orphansVideos += 1; return; }
+      (bySource[v.source_id] = bySource[v.source_id] || []).push(v);
+    });
+
+    // --- 课程索引；视频只认 courses 里真实存在的课，其余（含 course_id 为空）归「无课程」 ---
+    var courseById = {};
+    courses.forEach(function (c) { if (c && c.id != null && c.id !== '') courseById[c.id] = c; });
+
+    // --- 学科桶：按 data.subjects 顺序；来源学科对不上清单时用 source.subject 兜底建桶 ---
+    var order = [], bucket = {};
+    subjectList.forEach(function (s) {
+      if (!s || s.id == null || bucket[s.id]) return;
+      bucket[s.id] = { id: s.id, name: s.name, sources: [] };
+      order.push(s.id);
+    });
+    sources.forEach(function (s) {
+      if (!s || s.id == null) return;
+      var sid = s.subject_id;
+      if (sid == null || sid === '') sid = '__nosubject';
+      var b = bucket[sid];
+      if (!b) {                                   // 清单里没有的学科（自定义 / 兜底）
+        b = bucket[sid] = { id: sid, name: s.subject || s.name || '(未分类学科)', sources: [] };
+        order.push(sid);
+      }
+      b.sources.push(s);
+    });
+
+    // --- 学科 → UP 主 → 课程 / 分类 ---
+    var groups = [];
+    order.forEach(function (sid) {
+      var b = bucket[sid];
+      var branches = [], all = [];
+      b.sources.forEach(function (s) {
+        var mine = bySource[s.id] || [];
+        all = all.concat(mine);
+        var sec = 0, bundles = 0;
+        var subjMap = {}, subjList = [], catMap = {}, courseMap = {}, courseList = [];
+        mine.forEach(function (v) {
+          sec += (Number(v.duration) || 0);
+          if (v.is_bundle) bundles += 1;
+          if (v.subject_id != null && !subjMap[v.subject_id]) {
+            subjMap[v.subject_id] = 1;
+            subjList.push({ id: v.subject_id, name: v.subject || v.subject_id });
+          }
+          var ck = String(v.category_id);
+          var cb = catMap[ck];
+          if (!cb) { cb = catMap[ck] = { id: v.category_id, name: v.category || v.category_id,
+                                         count: 0, duration_sec: 0 }; }
+          cb.count += 1;
+          cb.duration_sec += (Number(v.duration) || 0);
+          if (v.course_id) {                      // 空字符串 / 缺失 → 只进分类，不进课程
+            var cc = courseMap[v.course_id];
+            if (!cc) { cc = courseMap[v.course_id] = { count: 0 }; courseList.push(v.course_id); }
+            cc.count += 1;
+          }
+        });
+        var courseMeta = courseList.map(function (cid) {
+          var real = courseById[cid];
+          var mineRows = mine.filter(function (v) { return v.course_id === cid; });
+          return {
+            id: cid,
+            title: real ? real.title : ((mineRows[0] && mineRows[0].course_title) || cid),
+            count: (real && real.count != null) ? real.count : courseMap[cid].count,
+            duration_text: real ? real.duration_text
+                                : humanDuration(mineRows.reduce(function (a, v) {
+                                    return a + (Number(v.duration) || 0); }, 0)),
+            is_bundle_first: !!(mineRows[0] && mineRows[0].is_bundle)
+          };
+        });
+        var cats = Object.keys(catMap).map(function (k) { return catMap[k]; });
+        cats.sort(function (x, y) {                 // count 降序，同数按 name 升序
+          if (x.count !== y.count) return y.count - x.count;
+          if (x.name === y.name) return 0;
+          return x.name < y.name ? -1 : 1;
+        });
+        cats.forEach(function (c) { c.duration_text = humanDuration(c.duration_sec); });
+        branches.push({
+          id: s.id, name: s.name, mid: s.mid, space: s.space,
+          count: mine.length, duration_text: humanDuration(sec), hours: Math.round(sec / 3600),
+          bundles: bundles, subjects: subjList, courses: courseMeta, categories: cats
+        });
+      });
+      if (!branches.length) return;                 // 只保留 count > 0 的学科
+      var gSec = all.reduce(function (a, v) { return a + (Number(v.duration) || 0); }, 0);
+      groups.push({
+        id: b.id, name: b.name, count: all.length,
+        duration_text: humanDuration(gSec), branches: branches
+      });
+    });
+
+    // --- orphans：有视频但学科不在清单里的学科个数 ---
+    var known = {}, orphanSubjects = {};
+    subjectList.forEach(function (s) { if (s && s.id != null) known[s.id] = 1; });
+    videos.forEach(function (v) {
+      if (v.subject_id != null && !known[v.subject_id]) orphanSubjects[v.subject_id] = 1;
+    });
+
+    return {
+      total: videos.length,
+      hours: Math.round(totalSec / 3600),
+      duration_text: humanDuration(totalSec),
+      groups: groups,
+      orphans: { videos: orphansVideos, subjects: Object.keys(orphanSubjects).length }
+    };
+  }
   /* === CORE:END === */
+
+  if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { clock: clock, humanDuration: humanDuration, fmtNum: fmtNum,
+                       recomputeSubjects: recomputeSubjects, recomputeAggregates: recomputeAggregates,
+                       mergeSlice: mergeSlice, buildOverview: buildOverview };
+  }
 
   /* ---------- 数据加载：优先 window.RESOURCES（file:// 也能用），否则 fetch ---------- */
   var DATA = window.RESOURCES || null;
@@ -1161,6 +1388,177 @@
   el('addClose').addEventListener('click', function () { el('addPanel').classList.remove('open'); stopPoll(); });
   el('addGo').addEventListener('click', startCrawl);
   el('addQuery').addEventListener('keydown', function (e) { if (e.key === 'Enter') startCrawl(); });
+
+  /* ---------- 概览：思维导图式索引 ----------
+     三层：学科 → UP 主 → 课程合集 / 主题分类。
+     节点本身负责展开收起；要跳到筛选时点叶子，或在 UP 主行点「打开该 UP 主索引」。
+     展开状态记在 OV_OPEN（键 = 节点 key），所以重开概览还能看到上次展开的位置。 */
+  var OV = null, OV_OPEN = {}, OV_READY = false;
+
+  function ovKey(parts) { return parts.join('\u0001'); }
+  function ovIsOpen(k) { return !!OV_OPEN[k]; }
+
+  function ovNode(o) {
+    var open = ovIsOpen(o.key);
+    var cls = 'mm-node lv' + o.lv + (o.cls ? ' ' + o.cls : '') +
+      (o.leaf ? ' leaf' : '') + (!o.leaf && open ? ' open' : '');
+    return '<div class="' + cls + '"' + (o.leaf ? '' : ' data-ovnode="' + esc(o.key) + '"') + '>' +
+      '<div class="mm-row"' + (o.leaf ? '' : ' data-ovrow="' + esc(o.key) + '"') + '>' +
+      '<span class="mm-caret">▶</span>' +
+      '<span class="mm-name"' + (o.nameTitle ? ' title="' + esc(o.nameTitle) + '"' : '') + '>' +
+      esc(o.name) + '</span>' +
+      (o.tail ? o.tail.join('') : '') +
+      (o.count != null ? '<span class="mm-count">' + esc(o.count) + '</span>' : '') +
+      '</div>' +
+      (o.kids && o.kids.length ? '<div class="mm-kids">' + o.kids.join('') + '</div>' : '') +
+      '</div>';
+  }
+
+  function ovLeaf(label, count, attrs) {
+    return '<span class="mm-leaf"' + (attrs ? ' ' + attrs : '') + '>' + esc(label) +
+      (count != null ? ' <span class="n">' + esc(count) + '</span>' : '') + '</span>';
+  }
+
+  function ovRender() {
+    var box = el('ov'); if (!box) return;
+    if (!DATA) return;
+    if (!OV_READY) { OV = buildOverview(DATA); OV_READY = true; }
+    var o = OV;
+    el('ovSub').textContent = o.duration_text + ' · ' + o.total + ' 个视频';
+
+    var h = ['<div class="mm-root">'];
+    h.push(ovNode({
+      key: ovKey(['root']), lv: 0, name: '全部资源', leaf: true, count: o.total + ' 个',
+      tail: ['<span class="mm-badge solid">' + esc(o.duration_text) + '</span>']
+    }));
+    if (!o.groups.length) h.push('<div class="mm-empty">还没有任何视频数据</div>');
+    o.groups.forEach(function (g) {
+      var gk = ovKey(['g', g.id]);
+      var kids = [];
+      g.branches.forEach(function (b) {
+        var bk = ovKey(['b', g.id, b.id]);
+        var bkids = [];
+        if (b.courses && b.courses.length) {
+          bkids.push('<div class="mm-sec">课程合集 ' + b.courses.length + ' 个</div>' +
+            '<div class="mm-leaf-list">' + b.courses.map(function (c) {
+              return ovLeaf(c.title, c.count, 'data-ovcourse="' + esc(c.id) + '" title="只看「' +
+                esc(c.title) + '」· ' + esc(c.duration_text) + '"');
+            }).join('') + '</div>');
+        }
+        if (b.categories && b.categories.length) {
+          bkids.push('<div class="mm-sec">主题分类 ' + b.categories.length + ' 类</div>' +
+            '<div class="mm-leaf-list">' + b.categories.map(function (c) {
+              return ovLeaf(c.name, c.count, 'data-ovcat="' + esc(c.id) + '" data-ovcatsrc="' +
+                esc(b.id) + '" data-ovcatsubject="' + esc(g.id) + '" title="只看「' + esc(c.name) +
+                '」· ' + esc(c.duration_text) + '"');
+            }).join('') + '</div>');
+        }
+        if (!bkids.length) bkids.push('<div class="mm-empty">这个 UP 主还没有分类数据</div>');
+        bkids.push('<div class="mm-leaf-list" style="margin-top:10px">' +
+          ovLeaf('打开 @' + b.name + ' 的索引', null,
+            'data-ovopen="' + esc(b.id) + '" data-ovopensubject="' + esc(g.id) +
+            '" title="只看这个 UP 主的全部视频"') +
+          (b.space ? '<a class="mm-leaf" href="' + esc(b.space) + '" target="_blank" ' +
+            'rel="noopener noreferrer">B 站主页</a>' : '') + '</div>');
+        kids.push(ovNode({
+          key: bk, lv: 2, name: '@' + b.name, cls: (S.source === b.id ? 'at-subject' : ''),
+          kids: bkids,
+          tail: ['<span class="mm-badge">' + esc(g.name) + '</span>',
+                 b.bundles ? '<span class="mm-badge">' + b.bundles + ' 个课程包</span>' : '',
+                 '<span class="mm-badge">' + esc(b.duration_text) + '</span>'],
+          count: b.count + ' 个'
+        }));
+      });
+      h.push(ovNode({
+        key: gk, lv: 1, name: g.name, cls: (S.subject === g.id ? 'at-subject' : ''),
+        kids: kids,
+        tail: ['<span class="mm-badge">' + g.branches.length + ' 位 UP 主</span>',
+               '<span class="mm-badge">' + esc(g.duration_text) + '</span>'],
+        count: g.count + ' 个'
+      }));
+    });
+    h.push('</div>');
+    el('ovBody').innerHTML = h.join('');
+
+    var orph = [];
+    if (o.orphans && o.orphans.videos) orph.push(o.orphans.videos + ' 个视频的来源不在数据里');
+    if (o.orphans && o.orphans.subjects) orph.push(o.orphans.subjects + ' 个学科没有条目');
+    var nsrc = o.groups.reduce(function (a, g) { return a + g.branches.length; }, 0);
+    el('ovFoot').textContent = '共 ' + o.groups.length + ' 个学科 · ' + nsrc + ' 位 UP 主' +
+      (orph.length ? ' · ' + orph.join('；') : '') +
+      ' · 点学科 / UP 主展开，点分类或课程跳到筛选';
+  }
+
+  function ovOpenNodes(open) {
+    if (!OV) return;
+    OV.groups.forEach(function (g) {
+      OV_OPEN[ovKey(['g', g.id])] = open;
+      g.branches.forEach(function (b) { OV_OPEN[ovKey(['b', g.id, b.id])] = open; });
+    });
+    ovRender();
+  }
+
+  function ovShow(on) {
+    var box = el('ov'); if (!box) return;
+    if (on) {
+      if (!DATA) return;
+      OV_READY = false;                       /* 每次打开都重算：可能刚抓完新 UP 主 */
+      if (!Object.keys(OV_OPEN).length && S.subject !== 'all') {
+        OV_OPEN[ovKey(['g', S.subject])] = true;   /* 首次打开就展开当前学科 */
+      }
+      box.hidden = false;
+      document.body.classList.add('ov-lock');
+      ovRender();
+    } else {
+      box.hidden = true;
+      document.body.classList.remove('ov-lock');
+    }
+  }
+
+  el('btnOverview').addEventListener('click', function () { ovShow(el('ov').hidden); });
+  el('ovClose').addEventListener('click', function () { ovShow(false); });
+  el('ovExpand').addEventListener('click', function () { ovOpenNodes(true); });
+  el('ovCollapse').addEventListener('click', function () { ovOpenNodes(false); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && !el('ov').hidden) { ovShow(false); }
+  });
+  el('ovBody').addEventListener('click', function (e) {
+    /* 1) 「打开该 UP 主索引」：只筛这个 UP 主，概览保持打开，方便继续看别的分支 */
+    var go = e.target.closest('[data-ovopen]');
+    if (go) {
+      pickSubject(go.dataset.ovopensubject);
+      pickSource(go.dataset.ovopen);
+      refresh();
+      OV_OPEN[ovKey(['g', go.dataset.ovopensubject])] = true;
+      OV_OPEN[ovKey(['b', go.dataset.ovopensubject, go.dataset.ovopen])] = true;
+      ovRender();
+      return;
+    }
+    /* 2) 分类 / 课程叶子：跳到筛选并关掉概览 */
+    var leaf = e.target.closest('[data-ovcat],[data-ovcourse]');
+    if (leaf) {
+      if (leaf.dataset.ovcat) {
+        pickSubject(leaf.dataset.ovcatsubject || 'all');
+        pickSource(leaf.dataset.ovcatsrc || 'all');
+        pickCategory(leaf.dataset.ovcat);
+      } else {
+        var co = DATA.courses.filter(function (x) { return x.id === leaf.dataset.ovcourse; })[0];
+        if (co) { pickSubject(co.subject_id); pickSource(co.source_id); }
+        S.course = leaf.dataset.ovcourse; S.cat = 'all';
+      }
+      refresh();
+      ovShow(false);
+      return;
+    }
+    /* 3) 其他区域（B 站主页链接、空白）不处理 */
+    if (e.target.closest('a')) return;
+    /* 4) 行：展开 / 收起 */
+    var row = e.target.closest('[data-ovrow]');
+    if (!row) return;
+    var k = row.dataset.ovrow;
+    OV_OPEN[k] = !OV_OPEN[k];
+    ovRender();
+  });
 
   /* ---------- 启动 ---------- */
   function boot() {

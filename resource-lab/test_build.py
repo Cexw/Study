@@ -658,5 +658,58 @@ ok("图标生成脚本自带格式校验（make_icon.py --check）",
    and "--check" in (HERE / "make_icon.py").read_text(encoding="utf-8"))
 ok("源图备份存在（原 icon.ico 其实是 JPEG，不能丢）", (HERE / "icon-source.jpg").is_file())
 
+# ======================================================================
+print("\n[14] 概览（思维导图式索引）")
+# ======================================================================
+# 这一组防的是"按钮/浮层/导图某一块被删掉或被改坏"——功能正确性由 test_core.mjs
+# 的 buildOverview 断言 + 无头浏览器实测覆盖，这里只锚结构。
+ok("工具条里有「概览」按钮", 'id="btnOverview"' in html and "概览" in html)
+ok("概览按钮在工具条里（不是飘在别处）",
+   re.search(r'class="tools">.*?id="btnOverview"', html, re.S) is not None)
+ok("有概览浮层容器", 'id="ov"' in html and 'class="ov"' in html)
+ok("浮层默认隐藏（hidden，避免首屏闪一下）",
+   re.search(r'<div class="ov" id="ov" hidden>', html) is not None)
+ok("浮层是对话框语义（可访问性）",
+   'role="dialog"' in html and 'aria-modal="true"' in html and 'aria-labelledby="ovTitle"' in html)
+ok("浮层有标题 / 摘要 / 内容 / 页脚四个区",
+   all(x in html for x in ('id="ovSub"', 'id="ovBody"', 'id="ovFoot"', 'id="ovTitle"')))
+ok("概览有「全部展开 / 全部收起 / 关闭」",
+   all(x in html for x in ('id="ovExpand"', 'id="ovCollapse"', 'id="ovClose"')))
+ok("渲染走 CORE 的 buildOverview（不另写一套统计）",
+   "buildOverview(DATA)" in html and "buildOverview: buildOverview" in html)
+ok("导图三层：学科 → UP 主 → 课程/分类的类名都在",
+   all(c in html for c in ('.mm-root', '.mm-node', '.mm-kids', '.mm-leaf')))
+ok("层级用缩进 + 竖线表达（.mm-kids::before）",
+   ".mm-kids::before" in html and "left:17px" in html)
+ok("展开/收起有视觉反馈（caret 旋转 / .open 显示子层）",
+   ".mm-caret" in html and "rotate(90deg)" in html and ".mm-node.open > .mm-kids{display:flex}" in html)
+ok("展开状态记在 OV_OPEN（重开概览还认得上次的位置）",
+   "var OV = null, OV_OPEN = {}" in html and "OV_OPEN[k] = !OV_OPEN[k]" in html)
+ok("每次打开都重算（刚抓完的 UP 主能立刻出现）",
+   "OV_READY = false" in html)
+ok("点分类 / 课程会跳到筛选并关掉概览",
+   "data-ovcat" in html and "data-ovcourse" in html and "ovShow(false)" in html)
+ok("有「打开某个 UP 主的索引」入口", "data-ovopen" in html and "的索引" in html)
+ok("打开 UP 主索引时概览不关（方便接着看别的分支）",
+   re.search(r"pickSource\(go\.dataset\.ovopen\);[\s\S]{0,400}?ovRender\(\);\s*return;", html)
+   is not None)
+ok("分类 / 课程叶子跳筛选后关掉概览",
+   re.search(r"S\.course = leaf\.dataset\.ovcourse;[\s\S]{0,400}?ovShow\(false\);", html)
+   is not None)
+ok("支持 Esc 关闭", "e.key === 'Escape'" in html)
+ok("浮层打开时锁住页面滚动（body.ov-lock）",
+   "body.ov-lock{overflow:hidden}" in html and "classList.add('ov-lock')" in html)
+ok("叶子节点也能展开/收起（UP 主行有 data-ovrow，纯标签叶子没有）",
+   'data-ovrow="' in html and "leaf: true" in html)
+# CSS 一致性：新增的浮层/导图也必须遵守本轮的圆角与字号下限
+_ov_css = html[html.index("/* ---------- 概览"):html.index("/* ---------- 顶栏")]
+ok("概览样式用了统一圆角变量（没有新造直角）",
+   "--r-md)" in _ov_css and "--r-sm)" in _ov_css and "border-radius:0" not in _ov_css)
+_ov_sizes = [float(m) for m in re.findall(r"font-size:([\d.]+)px", _ov_css)]
+ok("概览样式没有小于 12.5px 的硬编码字号", not [s for s in _ov_sizes if s < 12.5],
+   str([s for s in _ov_sizes if s < 12.5]))
+ok("概览的时长/计数文案都走 CORE 的 humanDuration（不另写格式化）",
+   "humanDuration(sec)" in html and "duration_text: humanDuration(sec)" in html)
+
 print("\n===== 结果: %d 通过 / %d 失败 =====" % (PASS, FAIL))
 sys.exit(1 if FAIL else 0)

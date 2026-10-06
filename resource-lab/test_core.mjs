@@ -21,7 +21,15 @@ function ok(name, cond, extra = '') {
 const html = read('index.html');
 const m = html.match(/\/\* === CORE:START === \*\/([\s\S]*?)\/\* === CORE:END === \*\//);
 if (!m) { console.error('找不到 CORE 块（index.html 里的 /* === CORE:START === */ 标记）'); process.exit(1); }
-const core = new Function(m[1] + '\nreturn {clock, humanDuration, fmtNum, recomputeAggregates, mergeSlice};')();
+const core = new Function(m[1] + '\nreturn {clock, humanDuration, fmtNum, recomputeAggregates, mergeSlice, buildOverview};')();
+/** CORE 块外的 module.exports 导出块：拼回 CORE 文本后跑一遍，验证真的导出了 buildOverview */
+const exportAt = html.indexOf('if (typeof module');
+const exportBlock = (function () {
+  const tail = html.slice(exportAt);
+  const end = tail.search(/\r?\n\s*\}\r?\n/);
+  return end < 0 ? '' : tail.slice(0, end + tail.slice(end).search(/\}/) + 1);
+})();
+const exported = new Function('module', m[1] + '\n' + exportBlock + '\nreturn module.exports;')({ exports: {} });
 
 /** 键顺序无关的深比较（数组顺序仍然有意义） */
 function stable(v) {
@@ -191,6 +199,202 @@ if (data) {
      replaced.videos.filter((v) => v.source_id !== one.id).length
      === data.videos.filter((v) => v.source_id !== one.id).length);
   ok('来源数没变（是替换不是追加）', replaced.sources.length === data.sources.length);
+}
+
+console.log('\n[7] buildOverview：导出与空输入');
+ok('CORE 块导出了 buildOverview（node 里 new Function 能拿到）',
+   typeof core.buildOverview === 'function' && typeof exported.buildOverview === 'function');
+ok('空 data 不抛异常，返回空 groups',
+   (function () {
+     const o = core.buildOverview({});
+     return o.total === 0 && o.hours === 0 && o.duration_text === '0 秒'
+       && o.groups.length === 0 && o.orphans.videos === 0 && o.orphans.subjects === 0;
+   })());
+ok('videos 为 null 不抛异常', (function () {
+  return core.buildOverview({ videos: null, subjects: [] }).groups.length === 0;
+})());
+ok('完全没传参也不抛异常', core.buildOverview().groups.length === 0);
+ok('空 data 也带全 duration_text/total 等键',
+   ['total', 'hours', 'duration_text', 'groups', 'orphans'].every((k) => k in core.buildOverview({})));
+
+console.log('\n[8] buildOverview：构造数据边界');
+const mkVideo = (o) => Object.assign({
+  id: 'BVx', bvid: 'BVx', title: 't', url: '', cover: '', duration: 600, duration_text: '10:00',
+  duration_label: '10 分钟', is_bundle: false, views: 0, danmaku: 0, pubdate: 0, date_text: '',
+  source_id: 's1', author: 'a', subject_id: 'math', subject: '数学', course_id: '',
+  course_title: '', category_id: 'math:x', category: '函数', tags: [], order: 0
+}, o);
+const tiny = {
+  schema: 'resource-lab/resources/v3',
+  sources: [{ id: 's1', name: '甲', mid: 1, subject_id: 'math', subject: '数学', space: 'u/1',
+              count: 3, courses: 0, duration_sec: 0, duration_text: '0 秒', bundles: 0, lessons: 3 }],
+  subjects: [{ id: 'math', name: '数学', builtin: true, count: 3, sources: 1, courses: 0,
+               duration_sec: 0, duration_text: '0 秒' }],
+  courses: [],
+  videos: [
+    mkVideo({ id: 'a', course_id: '', duration: 600 }),
+    mkVideo({ id: 'b', course_id: '', duration: 300, category_id: 'math:y', category: '导数' }),
+    mkVideo({ id: 'c', course_id: '', duration: 100, category_id: 'math:y', category: '导数',
+              is_bundle: true })
+  ]
+};
+const t = core.buildOverview(tiny);
+ok('构造数据：groups/分支/计数正确',
+   t.groups.length === 1 && t.groups[0].count === 3 && t.groups[0].branches.length === 1
+   && t.groups[0].branches[0].count === 3, String(t.groups[0] && t.groups[0].count));
+ok('构造数据：course_id 为空字符串的视频不进 courses，但进 categories',
+   t.groups[0].branches[0].courses.length === 0
+   && t.groups[0].branches[0].categories.reduce((a, c) => a + c.count, 0) === 3);
+ok('构造数据：categories 按 count 降序',
+   t.groups[0].branches[0].categories.map((c) => c.count).join(',') === '2,1',
+   t.groups[0].branches[0].categories.map((c) => c.name + ':' + c.count).join(' '));
+ok('构造数据：hours / duration_text 与 humanDuration 同口径',
+   t.groups[0].branches[0].hours === Math.round(1000 / 3600)
+   && t.groups[0].duration_text === core.humanDuration(1000),
+   t.groups[0].duration_text + ' / total=' + t.duration_text);
+ok('构造数据：bundles 计数正确', t.groups[0].branches[0].bundles === 1);
+ok('构造数据：分支 subjects 来自视频', (function () {
+  const s = t.groups[0].branches[0].subjects;
+  return s.length === 1 && s[0].id === 'math' && s[0].name === '数学';
+})());
+
+const orphanSrc = {
+  sources: [{ id: 's9', name: '孤儿老师', mid: 9, subject_id: 'nosuch', subject: '信息技术',
+              space: '', count: 1, courses: 0, duration_sec: 0, duration_text: '0 秒', bundles: 0,
+              lessons: 1 }],
+  subjects: [{ id: 'math', name: '数学', builtin: true, count: 0, sources: 0, courses: 0,
+               duration_sec: 0, duration_text: '0 秒' }],
+  courses: [],
+  videos: [mkVideo({ id: 'z', source_id: 's9', subject_id: 'nosuch', subject: '信息技术',
+                     duration: 60 })]
+};
+const o1 = core.buildOverview(orphanSrc);
+ok('来源学科找不到时仍能显示（用 source.subject 兜底建分支）',
+   o1.groups.length === 1 && o1.groups[0].branches[0].name === '孤儿老师'
+   && o1.groups[0].branches[0].count === 1,
+   o1.groups.map((g) => g.id + ':' + g.count).join(' '));
+ok('找不到学科的学科名用 source.subject 兜底', o1.groups[0].name === '信息技术', o1.groups[0].name);
+ok('视频 subject_id 不在 subjects 里 → 计入 orphans.subjects', o1.orphans.subjects === 1,
+   JSON.stringify(o1.orphans));
+
+const unknownSrc = core.buildOverview({
+  sources: [], subjects: [], courses: [],
+  videos: [mkVideo({ id: 'q', source_id: 'ghost' }), mkVideo({ id: 'r', source_id: 'ghost' })]
+});
+ok('source_id 找不到来源 → 计入 orphans.videos 且不进 groups',
+   unknownSrc.orphans.videos === 2 && unknownSrc.groups.length === 0 && unknownSrc.total === 2,
+   JSON.stringify(unknownSrc.orphans) + ' groups=' + unknownSrc.groups.length);
+
+const noDur = core.buildOverview({
+  sources: [{ id: 's1', name: '甲', mid: 1, subject_id: 'math', subject: '数学', space: '' }],
+  subjects: [{ id: 'math', name: '数学' }], courses: [],
+  videos: [mkVideo({ id: 'n1', duration: undefined }), mkVideo({ id: 'n2', duration: null })]
+});
+ok('duration 缺失按 0 处理，不出现 NaN',
+   noDur.hours === 0 && noDur.duration_text === '0 秒'
+   && noDur.groups[0].duration_text === '0 秒', noDur.groups[0].duration_text);
+
+const fallbackCourse = core.buildOverview({
+  sources: [{ id: 's1', name: '甲', mid: 1, subject_id: 'math', subject: '数学', space: '' }],
+  subjects: [{ id: 'math', name: '数学' }], courses: [],          // courses 里找不到这门课
+  videos: [mkVideo({ id: 'f1', course_id: 's1:gone', course_title: '缺席的课', duration: 120 }),
+           mkVideo({ id: 'f2', course_id: 's1:gone', course_title: '缺席的课', duration: 60 })]
+});
+ok('课程不在 courses 里时，用视频数兜底 count（3 分钟）',
+   fallbackCourse.groups[0].branches[0].courses.length === 1
+   && fallbackCourse.groups[0].branches[0].courses[0].count === 2
+   && fallbackCourse.groups[0].branches[0].courses[0].title === '缺席的课',
+   JSON.stringify(fallbackCourse.groups[0].branches[0].courses));
+
+if (data) {
+  console.log('\n[9] buildOverview：真实数据验算');
+  const before = JSON.stringify(data);
+  const ov = core.buildOverview(data);
+  ok('不修改入参（调用前后 JSON.stringify 一致）', before === JSON.stringify(data));
+  ok('total === 2738', ov.total === data.videos.length && ov.total === 2738, String(ov.total));
+  ok('groups.length === 9（只留有视频的学科，other 被排除）', ov.groups.length === 9,
+     ov.groups.map((g) => g.id).join(','));
+  ok('groups 之和 === 2738', ov.groups.reduce((a, g) => a + g.count, 0) === 2738);
+  ok('学科顺序与 data.subjects 一致',
+     ov.groups.map((g) => g.id).join(',')
+     === data.subjects.filter((s) => s.count > 0).map((s) => s.id).join(','),
+     ov.groups.map((g) => g.id).join(','));
+  ok('groups 里没有 count === 0 的学科', ov.groups.every((g) => g.count > 0));
+  ok('orphans 全为 0', ov.orphans.videos === 0 && ov.orphans.subjects === 0,
+     JSON.stringify(ov.orphans));
+  ok('总时长文案 = humanDuration(所有视频时长之和)',
+     ov.duration_text === core.humanDuration(data.videos.reduce((a, v) => a + v.duration, 0))
+     && ov.hours === Math.round(data.videos.reduce((a, v) => a + v.duration, 0) / 3600),
+     ov.duration_text + ' / ' + ov.hours + ' 小时');
+
+  const math = ov.groups.filter((g) => g.id === 'math')[0];
+  ok('数学组有 @一数 这个分支',
+     !!math && math.branches.some((b) => b.id === 'yishu' && b.name === '一数'));
+  ok('数学组分支时长 = humanDuration(该分支视频时长和)',
+     math.branches.every((b) => b.duration_text
+       === core.humanDuration(data.videos.filter((v) => v.source_id === b.id)
+                                            .reduce((a, v) => a + v.duration, 0))));
+  ok('每个学科：分支 count 之和 === 学科 count',
+     ov.groups.every((g) => g.branches.reduce((a, b) => a + b.count, 0) === g.count),
+     ov.groups.map((g) => g.id + ':' + g.branches.reduce((a, b) => a + b.count, 0) + '/' + g.count)
+              .join(' '));
+  ok('每个学科：duration_text === humanDuration(分支时长之和)',
+     ov.groups.every((g) => g.duration_text
+       === core.humanDuration(g.branches.reduce((a, b) => a + b.count * 0, 0)
+                              + data.videos.filter((v) => g.branches.some((b) => b.id === v.source_id))
+                                           .reduce((a, v) => a + v.duration, 0))));
+
+  const phy = ov.groups.filter((g) => g.id === 'physics')[0];
+  ok('物理学科有 2 个分支（黄夫人 533 + 一物儿 111 = 644）',
+     !!phy && phy.branches.length === 2 && phy.count === 644
+     && phy.branches.filter((b) => b.id === 'huangfuren')[0].count === 533
+     && phy.branches.filter((b) => b.id === 'yiwuer')[0].count === 111,
+     phy ? phy.branches.map((b) => b.name + ':' + b.count).join(' + ') : 'no physics');
+
+  const everyBranch = ov.groups.reduce((a, g) => a.concat(g.branches), []);
+  ok('每个分支：courses 之和 + 无课程视频数 === 分支 count',
+     everyBranch.every((b) => {
+       const withCourse = data.videos.filter((v) => v.source_id === b.id && v.course_id).length;
+       return b.courses.reduce((a, c) => a + c.count, 0) + (b.count - withCourse) === b.count;
+     }));
+  ok('每个分支：categories 之和 === 分支 count',
+     everyBranch.every((b) => b.categories.reduce((a, c) => a + c.count, 0) === b.count));
+  ok('每个分支：categories 按 count 降序、同数按 name 升序',
+     everyBranch.every((b) => b.categories.every((c, i) => i === 0
+       || b.categories[i - 1].count > c.count
+       || (b.categories[i - 1].count === c.count && b.categories[i - 1].name <= c.name))));
+  ok('每个分支：count === 该来源在 data.videos 里的视频数',
+     everyBranch.every((b) => b.count
+       === data.videos.filter((v) => v.source_id === b.id).length));
+  ok('每个分支：bundles === 该来源 is_bundle 视频数',
+     everyBranch.every((b) => b.bundles
+       === data.videos.filter((v) => v.source_id === b.id && v.is_bundle).length));
+  ok('每个分支：courses 的 count/duration_text 取自 data.courses 真实值',
+     everyBranch.every((b) => b.courses.every((c) => {
+       const real = data.courses.filter((x) => x.id === c.id)[0];
+       return !real || (c.count === real.count && c.duration_text === real.duration_text
+                        && c.title === real.title);
+     })));
+  ok('每个分支：courses 之和 === 该分支真实课程视频数（视频都挂在已登记课程上）',
+     everyBranch.every((b) => {
+       const ids = new Set(data.videos.filter((v) => v.source_id === b.id && v.course_id)
+                                      .map((v) => v.course_id));
+       return ids.size === b.courses.length;
+     }));
+  ok('每个分支：subjects 是 [{id,name}]，且含该来源的 subject_id',
+     everyBranch.every((b) => Array.isArray(b.subjects) && b.subjects.length >= 1
+       && b.subjects.every((s) => s.id && s.name)
+       && b.subjects.some((s) => s.id
+            === data.sources.filter((x) => x.id === b.id)[0].subject_id)));
+  ok('每个分支：mid / space 透传自 data.sources', everyBranch.every((b) => {
+    const s = data.sources.filter((x) => x.id === b.id)[0];
+    return b.mid === s.mid && b.space === s.space;
+  }));
+  ok('每个分支：courses 覆盖该来源在 data.courses 里的所有课程',
+     everyBranch.every((b) => {
+       const want = data.courses.filter((c) => c.source_id === b.id).length;
+       return want <= b.courses.length;
+     }));
 }
 
 console.log('\n===== 结果: ' + PASS + ' 通过 / ' + FAIL + ' 失败 =====');
